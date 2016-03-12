@@ -7,14 +7,14 @@ class Types():
         self.immunity = im
 
 class Pokemon():
-    def __init__(self, ID, type1, type2, heldItem, encID, move, spriteID, baseStats, evolvesInto, evolvesFrom):
+    def __init__(self, ID, type1, type2, heldItem, encID, move, sprite, baseStats, evolvesInto, evolvesFrom):
         self.ID = ID
         self.pType1 = type1
         self.pType2 = type2
         self.heldItem = heldItem
         self.encounter = encID
         self.move = move
-        self.spriteID = spriteID
+        self.sprite = sprite
         self.baseStats = baseStats
         self.evolvesInto = evolvesInto
         self.evolvesFrom = evolvesFrom
