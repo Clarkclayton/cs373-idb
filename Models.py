@@ -4,7 +4,7 @@ from abc import ABCMeta, abstractmethod
 class Base(metaclass=ABCMeta):
     @abstractmethod
     def __init__(self, pd):
-        pass
+        print (pd['id'])
 
 
 class Types(Base):
@@ -21,8 +21,8 @@ class Pokemon(Base):
     def __init__(self, pd):
         super().__init__(pd)
         self.ID = pd['id']
-        self.pType1 = id_from_url(pd['types'][0]['url'])  # TODO: Do we want to completely normalize this?
-        self.pType2 = id_from_url(pd['types'][0]['url']) if len(pd['types']) > 1 else None
+        self.pType1 = id_from_url(pd['types'][0]['type']['url'])  # TODO: Do we want to completely normalize this?
+        self.pType2 = id_from_url(pd['types'][1]['type']['url']) if len(pd['types']) > 1 else None
         self.heldItem = []  # TODO: fix this
         self.encounter = []  # TODO: fix this
         self.move = [id_from_url(move['move']['url']) for move in pd['moves']]
@@ -37,7 +37,7 @@ class Location(Base):
         super().__init__(pd)
         self.ID = pd['id']
         self.name = find_english_version(pd['names'], 'name')
-        self.region = id_from_url(pd['region']['url'])
+        self.region = id_from_url(pd['region']['url']) if pd['region'] is not None else None
 
 
 class Moves(Base):
@@ -59,7 +59,7 @@ class Item(Base):
         self.name = pd['name']
         self.cost = pd['cost']
         self.sprite = pd['sprites']['default']
-        self.flavor_text = find_english_version('flavor_text_entries', 'text')
+        self.flavor_text = find_english_version(pd['flavor_text_entries'], 'text')
 
 
 def find_english_version(list_entries, key_attr):
