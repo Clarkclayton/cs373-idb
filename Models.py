@@ -1,48 +1,72 @@
-class Types:
-    def __init__(self, ID, name, res, strong, im):
-        self.ID = ID
-        self.name = name
-        self.resistance = res
-        self.strength = strong
-        self.immunity = im
+from abc import ABCMeta, abstractmethod
 
 
-class Pokemon:
-    def __init__(self, ID, type1, type2, heldItem, encID, move, sprite, baseStats, evolvesInto, evolvesFrom):
-        self.ID = ID
-        self.pType1 = type1
-        self.pType2 = type2
-        self.heldItem = heldItem
-        self.encounter = encID
-        self.move = move
-        self.sprite = sprite
-        self.baseStats = baseStats
-        self.evolvesInto = evolvesInto
-        self.evolvesFrom = evolvesFrom
+class Base(metaclass=ABCMeta):
+    @abstractmethod
+    def __init__(self, pd):
+        pass
 
 
-class Location:
-    def __init__(self, ID, name, region):
-        self.ID = ID
-        self.name = name
-        self.region = region
+class Types(Base):
+    def __init__(self, pd):
+        super().__init__(pd)
+        self.ID = pd['id']
+        self.name = pd['name']
+        self.resistance = None  # TODO: Which ones are these?
+        self.strength = None  # TODO: Which ones are these?
+        self.immunity = None  # TODO: Which ones are these?
 
 
-class Moves:
-    def __init__(self, ID, acc, pp, prio, pwr, isSpecial, t):
-        self.ID = ID
-        self.accuracy = acc
-        self.pp = pp
-        self.priority = prio
-        self.power = pwr
-        self.isSpecial = isSpecial
-        self.mType = t
+class Pokemon(Base):
+    def __init__(self, pd):
+        super().__init__(pd)
+        self.ID = pd['id']
+        self.pType1 = id_from_url(pd['types'][0]['url'])  # TODO: Do we want to completely normalize this?
+        self.pType2 = id_from_url(pd['types'][0]['url']) if len(pd['types']) > 1 else None
+        self.heldItem = []  # TODO: fix this
+        self.encounter = []  # TODO: fix this
+        self.move = [id_from_url(move['move']['url']) for move in pd['moves']]
+        self.sprite = pd['sprites']['front_default']
+        self.baseStats = None  # TODO: fix this
+        self.evolvesInto = None  # TODO: fix this
+        self.evolvesFrom = None  # TODO: fix this
 
 
-class Item:
-    def __init__(self, ID, name, cost, sprite, flavTxt):
-        self.ID = ID
-        self.name = name
-        self.cost = cost
-        self.sprite = sprite
-        self.flavorText = flavTxt
+class Location(Base):
+    def __init__(self, pd):
+        super().__init__(pd)
+        self.ID = pd['id']
+        self.name = find_english_version(pd['names'], 'name')
+        self.region = id_from_url(pd['region']['url'])
+
+
+class Moves(Base):
+    def __init__(self, pd):
+        super().__init__(pd)
+        self.ID = pd['id']
+        self.accuracy = pd['accuracy']
+        self.pp = pd['accuracy']
+        self.priority = pd['priority']
+        self.power = pd['power']
+        self.is_special = False  # TODO: Where is this listed?
+        self.m_type = id_from_url(pd['type']['url'])
+
+
+class Item(Base):
+    def __init__(self, pd):
+        super().__init__(pd)
+        self.ID = pd['id']
+        self.name = pd['name']
+        self.cost = pd['cost']
+        self.sprite = pd['sprites']['default']
+        self.flavor_text = find_english_version('flavor_text_entries', 'text')
+
+
+def find_english_version(list_entries, key_attr):
+    for item in list_entries:
+        if item['language']['name'] == 'en':
+            return item[key_attr]
+
+
+def id_from_url(full_url):
+    return full_url.split('/')[-2]
