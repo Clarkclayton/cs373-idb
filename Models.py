@@ -22,6 +22,7 @@ class Pokemon(Base):
     def __init__(self, pd):
         super().__init__(pd)
         self.ID = pd['id']
+        self.name = pd['name']
         self.pType1 = id_from_url(pd['types'][0]['type']['url'])  # TODO: Do we want to completely normalize this?
         self.pType2 = id_from_url(pd['types'][1]['type']['url']) if len(pd['types']) > 1 else None
         self.heldItem = []  # TODO: fix this
