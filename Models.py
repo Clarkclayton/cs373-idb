@@ -15,6 +15,7 @@ class Types(Base):
         self.resistance = None  # TODO: Which ones are these?
         self.strength = None  # TODO: Which ones are these?
         self.immunity = None  # TODO: Which ones are these?
+        self.generation = id_from_url(pd['generation']['url'])
 
 
 class Pokemon(Base):
