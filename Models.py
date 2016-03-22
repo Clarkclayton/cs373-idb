@@ -23,8 +23,11 @@ class Pokemon(Base):
         super().__init__(pd)
         self.ID = pd['id']
         self.name = pd['name']
-        self.pType1 = id_from_url(pd['types'][0]['type']['url'])  # TODO: Do we want to completely normalize this?
-        self.pType2 = id_from_url(pd['types'][1]['type']['url']) if len(pd['types']) > 1 else None
+        #self.pType1 = id_from_url(pd['types'][0]['type']['url'])  # TODO: Do we want to completely normalize this?
+        #self.pType2 = id_from_url(pd['types'][1]['type']['url']) if len(pd['types']) > 1 else None
+        #for static page
+        self.pType1 = pd['types'][0]['type']['name']  # TODO: Do we want to completely normalize this?
+        self.pType2 = pd['types'][1]['type']['name'] if len(pd['types']) > 1 else None
         self.heldItem = []  # TODO: fix this
         self.encounter = []  # TODO: fix this
         self.move = [id_from_url(move['move']['url']) for move in pd['moves']]

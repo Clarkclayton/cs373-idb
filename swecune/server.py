@@ -11,12 +11,16 @@ app = Flask(__name__)
 
 with open("static/pokemon/1.json") as fi:
   bulba_data = json.load(fi)
+with open("static/pokemon/4.json") as fi:
+  char_data = json.load(fi)
+with open("static/pokemon/7.json") as fi:
+  squirt_data = json.load(fi)
 
 bulbasaur = Models.Pokemon(bulba_data)
-bulbasaur.pType1 = "grass"
-bulbasaur.pType2 = "poison"
+charmander = Models.Pokemon(char_data)
+squirtle = Models.Pokemon(squirt_data)
 
-pokemon_dict = {"1": bulbasaur}
+pokemon_dict = {"1": bulbasaur, "4": charmander, "7": squirtle}
 
 def get_move(id):
   move_dict = OrderedDict([
@@ -40,6 +44,12 @@ def get_type(id):
     ("numMoves", 123)
   ])
   return type_dict
+
+@app.route('/')
+@app.route('/index')
+def index():
+  return render_template('index.html')
+
 @app.route('/pokemon/<pokemon_number>')
 def pokemon(pokemon_number):
   pk = pokemon_dict[pokemon_number]
@@ -49,11 +59,6 @@ def pokemon(pokemon_number):
                           p_type1=pk.pType1,
                           p_type2=pk.pType2,
                           stats=pk.baseStats)
-
-@app.route('/')
-@app.route('/index')
-def index():
-  return render_template('index.html')
 
 @app.route('/move/<move_id>')
 def move(move_id):
