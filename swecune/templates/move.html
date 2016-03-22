@@ -7,10 +7,40 @@
     	<img src="{{ type_img }}">
     </div>
     <div id="move_metadata">
-    	 <div class="panel panel-default">
-			 <div class="panel-heading">Panel Heading</div>
-			 <div class="panel-body">Panel Content</div>
-		</div>
+	 	<div class="panel panel-default">
+    		{% for attr_name, attr_value in move.items() %}
+			<div class="panel-heading">{{ attr_name }}</div>
+			<div class="panel-body">{{ attr_value }}</div>
+    		{% endfor %}
+    	</div>
+    </div>
+
+    <div id="pokemon">
+    	<script src="/static/js/sortable.min.js"></script>
+		<link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+
+		<table class="sortable-theme-bootstrap" data-sortable>
+		    <thead>
+			    <tr>
+			    	<th>Sprite</th>
+			        <th data-sortable="true">ID</th>
+			        <th data-sortable="true">Name</th>
+			        <th data-sortable="true">Primary Type</th>
+			        <th data-sortable="true">Secondary Type</th>
+			    </tr>
+		    </thead>
+		    <tbody>
+			    {% for pk in pokemon_list %}
+			    <tr>
+			    	<td><img src="{{ pokemon_url }}"></td>
+			        <td>{{ pk.ID }}</td>
+			        <td data-value="0">{{ pk.name }}</td>
+			        <td data-value="-1">{{ pk.pType1 }}</td>
+			        <td data-value="1">{{ pk.pType2 }}</td>
+			    </tr>
+			    {% endfor %}
+		    </tbody>
+		</table>
     </div>
 </div>
 
