@@ -81,7 +81,8 @@ def pokemon(pokemon_number):
             name=pk.name,
             p_type1=pk.pType1,
             p_type2=pk.pType2,
-            stats=pk.baseStats)
+            stats=pk.baseStats,
+            moves=moves_dict.values())
 
 @app.route('/move/<move_id>')
 def move(move_id):
