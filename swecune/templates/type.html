@@ -1,36 +1,17 @@
 {% extends "base.html" %}
 
-<div class="image">
-    <img src="" id="img">
-    <script type="text/javascript">
-        document.getElementbyId("img").src = getTypeImage();
-    </script>
+{% block content %}
+
+<div>
+    <div id="type_img">
+        <img src="{{ type_img }}">
+    </div>
+    <div id="type_metadata">
+        <div class="panel panel-default">
+            {% for attr_name in attr_value in type.items() %}
+            <div class="panel-heading"> {{ attr_name }} </div>
+            <div class="panel-body">  {{ attr_value }} </div>
+            {% endfor %}
 </div>
 
-<div class="name">
-
-</div>
-
-<div class="data">
-
-</div>
-
-<div class="strength">
-
-</div>
-
-<div class="weak">
-
-</div>
-
-<div class="immunities">
-
-</div>
-
-<div class="moves">
-
-</div>
-
-<div class="pokemon">
-
-</div>
+{% endblock %}
