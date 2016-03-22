@@ -86,6 +86,7 @@ def pokemon(pokemon_number):
 @app.route('/move/<move_id>')
 def move(move_id):
     move = moves_dict[move_id]
+    pk_learn_list = can_learn_move_dict[move_id]
 
     return render_template('move.html',
             move_name=move.name,
@@ -94,7 +95,8 @@ def move(move_id):
             move_priority=move.priority,
             move_power=move.power,
             move_class=move.dmg_class,
-            move_type=move.m_type)
+            move_type=move.m_type,
+            pk_learn_list=pk_learn_list)
 
 @app.route('/type/<type_id>')
 def type(type_id):
