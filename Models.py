@@ -53,7 +53,7 @@ class Moves(Base):
         self.pp = pd['accuracy']
         self.priority = pd['priority']
         self.power = pd['power']
-        self.is_special = False  # TODO: Where is this listed?
+        self.dmg_class = pd['damage_class']
         self.m_type = id_from_url(pd['type']['url'])
 
 

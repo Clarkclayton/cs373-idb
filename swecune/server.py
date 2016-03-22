@@ -42,18 +42,19 @@ fireType.immunity = [grassType]
 type_dict = { "10" : fireType, "11" : waterType, "12" : grassType}
 
 
-def get_move(id):
-    move_dict = OrderedDict([
-        ("ID", 1),
-        ("Name", "Tackle"),
-        ("Accuracy", 100),
-        ("PP", 35),
-        ("Priority", 0),
-        ("Power", 50),
-        ("Is Special", False),
-        ("Type", 0)
-        ])
-    return move_dict
+with open("static/moves/1.json") as file:
+    pound_data = json.load(file)
+    pound_data["img"] = "static/img/fire_type.png"
+
+with open("static/moves/2.json") as file:
+    karatechop_data = json.load(file)
+    karatechop_data["img"] = "static/img/fire_type.png"
+
+with open("static/moves/3.json") as file:
+    doubleslap_data = json.load(file)
+    karatechop_data["img"] = "static/img/fire_type.png"
+
+moves_dict = {"1": pound_data, "2": karatechop_data, "3": doubleslap_data}
 
 def get_type(id):
     type_dict = OrderedDict([
@@ -74,22 +75,24 @@ def index():
 def pokemon(pokemon_number):
     pk = pokemon_dict[pokemon_number]
     return render_template('pokemon.html',
-          p_id=pk.ID,
-          name=pk.name,
-          p_type1=pk.pType1,
-          p_type2=pk.pType2,
-          stats=pk.baseStats)
+            p_id=pk.ID,
+            name=pk.name,
+            p_type1=pk.pType1,
+            p_type2=pk.pType2,
+            stats=pk.baseStats)
 
-  @app.route('/move/<move_id>')
+@app.route('/move/<move_id>')
 def move(move_id):
-    move = get_move(move_id)
-    pk_list = [pokemon_dict["1"]]
+    move = moves_dict[move_id]
 
     return render_template('move.html',
-            move=move,
-            type_img='/static/img/fire_type.png',
-            pokemon_list=pk_list,
-            pokemon_url='/static/img/pokemon1.png')
+            move_id=move.ID,
+            move_accuracy=move.accuracy,
+            move_pp=move.pp,
+            move_priority=move.priority,
+            move_power=move.power,
+            move_class=move.dmg_class,
+            move_type=move.m_type)
 
 @app.route('/type/<type_id>')
 def type(type_id):
