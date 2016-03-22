@@ -13,11 +13,11 @@
             <table class="table">
                 <tr>
                 	<th class="moves_metadata_header">Type:</th>
-                	<th><img id="move_type_img" src="/static/img/moves/{{ move_type }}_text.png"></th>
+                	<th><img class="move_type_text_img" src="/static/img/moves/{{ move_type }}_text.png"></th>
                 </tr>
                 <tr>
                 	<th class="moves_metadata_header">Class:</th>
-                	<th><img id="move_class_img" src="/static/img/moves/{{ move_class }}.png"></th>
+                	<th><img class="move_class_img" src="/static/img/moves/{{ move_class }}.png"></th>
                 </tr>
                 <tr>
                 	<th class="moves_metadata_header">Power:</th>
@@ -47,22 +47,26 @@
 		    <thead>
 			    <tr>
 			    	<th>Sprite</th>
-			        <th data-sortable="true">ID</th>
-			        <th data-sortable="true">Name</th>
-			        <th data-sortable="true">Primary Type</th>
-			        <th data-sortable="true">Secondary Type</th>
+			        <th data-sortable="false">ID</th>
+			        <th data-sortable="false">Name</th>
+			        <th data-sortable="false">Primary Type</th>
+			        <th data-sortable="false">Secondary Type</th>
 			    </tr>
 		    </thead>
 		    <tbody>
-			    <!-- {% for pk in pokemon_list %}
+			    {% for pk in pk_learn_list %}
 			    <tr>
-			    	<td><img src="{{ pokemon_url }}"></td>
+			    	<td><a href="/pokemon/{{ pk.ID }}"><img src="/static/img/pokemon{{ pk.ID }}.png"></a></td>
 			        <td>{{ pk.ID }}</td>
-			        <td data-value="0">{{ pk.name }}</td>
-			        <td data-value="-1">{{ pk.pType1 }}</td>
-			        <td data-value="1">{{ pk.pType2 }}</td>
+			        <td>{{ pk.name.title() }}</td>
+			        <td><img class="move_type_text_img" src="/static/img/moves/{{ pk.pType1 }}_text.png"></td>
+			        {% if pk.pType2 %}
+			        <td><img class="move_type_text_img" src="/static/img/moves/{{ pk.pType2 }}_text.png"></td>
+			        {% else %}
+			        <td>N/A</td>
+			        {% endif %}
 			    </tr>
-			    {% endfor %} -->
+			    {% endfor %}
 		    </tbody>
 		</table>
     </div>
