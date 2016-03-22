@@ -1,11 +1,35 @@
 {% extends "base.html" %}
 {% block content %}
+<link href="/static/css/pokemon.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 #base-content{
-    background: url(/static/img/pokemon1.png) no-repeat bottom center scroll;
+    background: url(/static/img/intro-bg.jpg) no-repeat bottom center scroll;
 }
 </style>
+<div class="poke-container">
+    <div class="poke-header">
+        <img id="pokemon-thumb" class="thumbnail" src="/static/img/pokemon{{ p_id }}.png">
+        <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading"><b>#{{ p_id }}: {{ name.title() }}</b></div>
+            <!-- List group -->
+            <table class="table">
+                <tr><th>Primary Type:</th><th>{{ p_type1.title() }}</th></tr>
+                {% if p_type2 %}
+                <tr><th>Secondary Type:</th><th>{{ p_type2.title() }}</tr>
+                {% endif %}
+                <tr><th>Porta ac consectetur ac</th><th></th></tr>
+                <tr><th>Vestibulum at eros</th><th></th></tr>
+            </table>
+        </div>
+    </div>
 
-<!-- Intro Header -->
-{{ name }}
+    <div class="poke-body">
+        Moves go here.
+    </div>
+    <!-- Intro Header -->
+    {{ name }}
+</div>
+
+
 {% endblock %}
