@@ -1,46 +1,73 @@
 {% extends "base.html" %}
 
 {% block content %}
-
+<link href="/static/css/type.css" rel="stylesheet" type="text/css">
 <div>
     <div id="type_img">
         <img src="{{ type_img }}">
     </div>
     <div id="type_metadata">
         <div class="panel panel-default">
-            {% for attr_name, attr_value in ty.items() %}
-            <div class="panel-heading"> {{ attr_name }} </div>
-            <div class="panel-body">  {{ attr_value }} </div>
-            {% endfor %}
+            <div class="panel-heading"><img id="img_type_text" src="/static/img/move/{{ ty.name + "_text.png" }}"></div>
+            <table class="table">
+                <tr><th># Primary:</th><th> {{ numPrimary }} </th>
+                <tr><th># Secondary:</th><th> {{ numSecondary }} </th></tr>
+                <tr><th># Moves:</th><th> {{ numMoves }}</th></tr>
+                <tr><th>Generation Introduced:</th><th> {{ ty.generation }} </th></tr>
+            </table>
+        </div>
     </div>
+                
     <div id="superEffective">
-        <script src="/static/js/sortable.min.js"></script>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Strengths</th>
+                            <th>Weaknesses</th>
+                            <th>Immunities</th>
+                        <tr>
+                    </thead>
+                    <tbody>
+                    {% for str, res, imm in superEffective %} 
+                        <tr>
+                        <td><img id="img_type_text" src="/static/img/move/{{ str.name + "_text.png" }}"></td>
+                        <td><img id="img_type_text"  src="/static/img/move/{{ res.name + "_text.png" }}"></td>
+                            <td><img id="img_type_text" src="/static/img/move/{{ imm.name + "_text.png" }}"></td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>   
+
+    <div id="pokemon">
+    	<script src="/static/js/sortable.min.js"></script>
 		<link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
-        <table class="sortable-theme-bootstrap" data-sortable>
+		<table class="sortable-theme-bootstrap" data-sortable>
 		    <thead>
 			    <tr>
-			        <th data-sortable="false">Strengths</th>
-                    <th data-sortable="false">Resistances</th>
-                    <th data-sortable="false">Immunities</th>
+			    	<th>Sprite</th>
+			        <th data-sortable="true">ID</th>
+			        <th data-sortable="true">Name</th>
+			        <th data-sortable="true">Primary Type</th>
+			        <th data-sortable="true">Secondary Type</th>
 			    </tr>
 		    </thead>
-            <tbody>
-                <tr>
-                {% for t in type_list %}
-                    {% for str in t.strength %}
-                        <td data-value="0">{{ str.name }}</td>
-                    {% endfor %}
-                    {% for wk in t.resistance %}
-                        <td data-value="-1">{{ wk.name }}</td>
-                    {% endfor %}
-                    {% for imm in t.immunity %}
-                        <td data-value="1"> {{ imm.name }}</td>
-                    {% endfor %}
-                {% endfor %}
-                </tr>
-           </tbody>
-        </table>
+		    <tbody>
+			    {% for pk in pokemon_list %}
+			    <tr>
+			    	<td><img src="{{ pokemon_url }}"></td>
+			        <td>{{ pk.ID }}</td>
+			        <td>{{ pk.name.title() }}</td>
+                    <td><img id="img_type_text" src="static/img/moves/{{ pk.pType1 + "_text.png" }}"></td>
+			        <td><img id="img_type_text" src="static/img/moves/{{ pk.pType2 + "_text.png" }}"</td>
+			    </tr>
+			    {% endfor %}
+		    </tbody>
+		</table>
     </div>
-</div>
+ </div>
 
 {% endblock %}

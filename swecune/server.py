@@ -38,9 +38,17 @@ waterType = Models.Types(water_data)
 fireType.resistance = [grassType]
 fireType.strength = [grassType]
 fireType.immunity = [grassType]
+fireType.resistance = [grassType]
+
+waterType.resistance = [fireType]
+waterType.strength = [fireType]
+waterType.immunity = [waterType]
+
+grassType.resistance = [grassType]
+grassType.strength = [waterType]
+grassType.immunity = [grassType]
 
 type_dict = { "10" : fireType, "11" : waterType, "12" : grassType}
-
 
 def get_move(id):
     move_dict = OrderedDict([
@@ -93,9 +101,17 @@ def move(move_id):
 
 @app.route('/type/<type_id>')
 def type(type_id):
-    t = get_type(type_id)
-    type_list = [type_dict["10"]]
-    return render_template('type.html', ty=t, type_img='/static/img/fire_type.png', type_list=type_list)
+    t = type_dict[type_id]
+    pk_list = [pokemon_dict['1']]
+    return render_template('type.html',
+            ty=t,
+            superEffective=zip(t.strength, t.resistance, t.immunity),
+            numPrimary="134",
+            numSecondary="56",
+            numMoves="42",
+            type_img='/static/img/fire_type.png',
+            pokemon_list=pk_list,
+            pokemon_url='/static/img/pokemon1.png')
 
 if __name__ == '__main__':
     app.run(debug=True)
