@@ -50,18 +50,21 @@ grassType.immunity = [grassType]
 
 type_dict = { "10" : fireType, "11" : waterType, "12" : grassType}
 
-def get_move(id):
-    move_dict = OrderedDict([
-        ("ID", 1),
-        ("Name", "Tackle"),
-        ("Accuracy", 100),
-        ("PP", 35),
-        ("Priority", 0),
-        ("Power", 50),
-        ("Is Special", False),
-        ("Type", 0)
-        ])
-    return move_dict
+with open("static/moves/33.json") as file:
+    tackle_data = json.load(file)
+
+with open("static/moves/43.json") as file:
+    leer_data = json.load(file)
+
+with open("static/moves/52.json") as file:
+    ember_data = json.load(file)
+
+tackleMove = Models.Moves(tackle_data)
+leerMove = Models.Moves(leer_data)
+emberMove = Models.Moves(ember_data)
+
+moves_dict = {"33": tackleMove, "43": leerMove, "52": emberMove}
+can_learn_move_dict = {"33": [squirtle, bulbasaur], "43": [charmander], "52": [charmander]}
 
 def get_type(id):
     type_dict = OrderedDict([
@@ -82,22 +85,26 @@ def index():
 def pokemon(pokemon_number):
     pk = pokemon_dict[pokemon_number]
     return render_template('pokemon.html',
-          p_id=pk.ID,
-          name=pk.name,
-          p_type1=pk.pType1,
-          p_type2=pk.pType2,
-          stats=pk.baseStats)
+            p_id=pk.ID,
+            name=pk.name,
+            p_type1=pk.pType1,
+            p_type2=pk.pType2,
+            stats=pk.baseStats)
 
 @app.route('/move/<move_id>')
 def move(move_id):
-    move = get_move(move_id)
-    pk_list = [pokemon_dict["1"]]
+    move = moves_dict[move_id]
+    pk_learn_list = can_learn_move_dict[move_id]
 
     return render_template('move.html',
-            move=move,
-            type_img='/static/img/fire_type.png',
-            pokemon_list=pk_list,
-            pokemon_url='/static/img/pokemon1.png')
+            move_name=move.name,
+            move_accuracy=move.accuracy,
+            move_pp=move.pp,
+            move_priority=move.priority,
+            move_power=move.power,
+            move_class=move.dmg_class,
+            move_type=move.m_type,
+            pk_learn_list=pk_learn_list)
 
 @app.route('/type/<type_id>')
 def type(type_id):

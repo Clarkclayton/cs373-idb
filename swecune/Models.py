@@ -32,7 +32,7 @@ class Pokemon(Base):
         self.encounter = []  # TODO: fix this
         self.move = [id_from_url(move['move']['url']) for move in pd['moves']]
         self.sprite = pd['sprites']['front_default']
-        self.baseStats = None  # TODO: fix this
+        self.baseStats = {st['stat']['name']: st['base_stat'] for st in pd['stats']}
         self.evolvesInto = None  # TODO: fix this
         self.evolvesFrom = None  # TODO: fix this
 
@@ -49,12 +49,13 @@ class Moves(Base):
     def __init__(self, pd):
         super().__init__(pd)
         self.ID = pd['id']
+        self.name = pd['name']
         self.accuracy = pd['accuracy']
         self.pp = pd['accuracy']
         self.priority = pd['priority']
         self.power = pd['power']
-        self.is_special = False  # TODO: Where is this listed?
-        self.m_type = id_from_url(pd['type']['url'])
+        self.dmg_class = pd['damage_class']['name']
+        self.m_type = pd['type']['name']
 
 
 class Item(Base):

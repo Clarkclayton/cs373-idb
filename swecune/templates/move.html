@@ -1,18 +1,42 @@
 {% extends "base.html" %}
 
 {% block content %}
+<link href="/static/css/moves.css" rel="stylesheet" type="text/css">
 
 <div>
     <div id="move_type">
-    	<img src="{{ type_img }}">
+    	<img src="/static/img/moves/{{ move_type }}_type.png">
     </div>
     <div id="move_metadata">
 	 	<div class="panel panel-default">
-    		{% for attr_name, attr_value in move.items() %}
-			<div class="panel-heading">{{ attr_name }}</div>
-			<div class="panel-body">{{ attr_value }}</div>
-    		{% endfor %}
-    	</div>
+            <div class="panel-heading"><b>Move: {{ move_name.title() }}</b></div>
+            <table class="table">
+                <tr>
+                	<th class="moves_metadata_header">Type:</th>
+                	<th><img class="move_type_text_img" src="/static/img/moves/{{ move_type }}_text.png"></th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">Class:</th>
+                	<th><img class="move_class_img" src="/static/img/moves/{{ move_class }}.png"></th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">Power:</th>
+                	<th class="moves_metadata_content">{{ move_power }}</th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">PP:</th>
+                	<th class="moves_metadata_content">{{ move_pp }}</th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">Accuracy:</th>
+                	<th class="moves_metadata_content">{{ move_accuracy }}</th>
+                </tr>
+                <tr>
+	                <th class="moves_metadata_header">Priority:</th>
+	                <th class="moves_metadata_content">{{ move_priority }}</th>
+                </tr>
+            </table>
+        </div>
     </div>
 
     <div id="pokemon">
@@ -23,20 +47,24 @@
 		    <thead>
 			    <tr>
 			    	<th>Sprite</th>
-			        <th data-sortable="true">ID</th>
-			        <th data-sortable="true">Name</th>
-			        <th data-sortable="true">Primary Type</th>
-			        <th data-sortable="true">Secondary Type</th>
+			        <th data-sortable="false">ID</th>
+			        <th data-sortable="false">Name</th>
+			        <th data-sortable="false">Primary Type</th>
+			        <th data-sortable="false">Secondary Type</th>
 			    </tr>
 		    </thead>
 		    <tbody>
-			    {% for pk in pokemon_list %}
+			    {% for pk in pk_learn_list %}
 			    <tr>
-			    	<td><img src="{{ pokemon_url }}"></td>
+			    	<td><a href="/pokemon/{{ pk.ID }}"><img src="/static/img/pokemon{{ pk.ID }}.png"></a></td>
 			        <td>{{ pk.ID }}</td>
-			        <td data-value="0">{{ pk.name }}</td>
-			        <td data-value="-1">{{ pk.pType1 }}</td>
-			        <td data-value="1">{{ pk.pType2 }}</td>
+			        <td>{{ pk.name.title() }}</td>
+			        <td><img class="move_type_text_img" src="/static/img/moves/{{ pk.pType1 }}_text.png"></td>
+			        {% if pk.pType2 %}
+			        <td><img class="move_type_text_img" src="/static/img/moves/{{ pk.pType2 }}_text.png"></td>
+			        {% else %}
+			        <td>N/A</td>
+			        {% endif %}
 			    </tr>
 			    {% endfor %}
 		    </tbody>

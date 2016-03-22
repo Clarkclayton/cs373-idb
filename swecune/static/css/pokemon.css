@@ -1,9 +1,33 @@
-#pokemon-thumb {
-    background: transparent;
+#poke-thumbnail {
+    border-radius: 5px;
+    border-width: 15px;
+    border-color: #4f4f4f;
+    float: left;
+    width: 230px;
+    height: 230px;
+    margin-left: 20%;
+}
+
+#poke-info {
+    /*background: transparent;*/
+    float: right;
+    width: auto;
+    width: 40%;
+    background-color: gray;
+    margin-right: 20%;
 }
 
 table {
     color: black;
+}
+
+th:nth-of-type(2) {
+    font-weight: normal;
+}
+
+.poke-header {
+    display: inline-block;
+    width: 100%;
 }
 
 .poke-container {
