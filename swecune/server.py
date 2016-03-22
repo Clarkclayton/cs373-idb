@@ -11,7 +11,11 @@ app = Flask(__name__)
 with open("static/pokemon/1.json") as fi:
   bulba_data = json.load(fi)
 
-pokemon_dict = {"1": Models.Pokemon(bulba_data)}
+bulbasaur = Models.Pokemon(bulba_data)
+bulbasaur.pType1 = "grass"
+bulbasaur.pType2 = "poison"
+
+pokemon_dict = {"1": bulbasaur}
 
 def get_move(id):
   return {
