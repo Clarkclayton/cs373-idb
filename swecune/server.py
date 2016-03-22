@@ -80,7 +80,7 @@ def pokemon(pokemon_number):
           p_type2=pk.pType2,
           stats=pk.baseStats)
 
-  @app.route('/move/<move_id>')
+@app.route('/move/<move_id>')
 def move(move_id):
     move = get_move(move_id)
     pk_list = [pokemon_dict["1"]]
