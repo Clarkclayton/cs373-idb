@@ -8,18 +8,22 @@
 </style>
 <div class="poke-container">
     <div class="poke-header">
-        <img id="pokemon-thumb" class="thumbnail" src="/static/img/pokemon{{ p_id }}.png">
-        <div class="panel panel-default">
+        <img id="poke-thumbnail" class="thumbnail" src="/static/img/pokemon{{ p_id }}.png">
+        <div id="poke-info" class="panel panel-default">
             <!-- Default panel contents -->
             <div class="panel-heading"><b>#{{ p_id }}: {{ name.title() }}</b></div>
             <!-- List group -->
             <table class="table">
-                <tr><th>Primary Type:</th><th>{{ p_type1.title() }}</th></tr>
+                <tr><th>Primary Type</th><th>{{ p_type1.title() }}</th></tr>
                 {% if p_type2 %}
-                <tr><th>Secondary Type:</th><th>{{ p_type2.title() }}</tr>
+                <tr><th>Secondary Type</th><th>{{ p_type2.title() }}</tr>
                 {% endif %}
-                <tr><th>Porta ac consectetur ac</th><th></th></tr>
-                <tr><th>Vestibulum at eros</th><th></th></tr>
+                <tr><th>HP</th><th>{{ stats["hp"] }}</th></tr>
+                <tr><th>Atk</th><th>{{ stats["attack"] }}</th></tr>
+                <tr><th>Def</th><th>{{ stats["defense"] }}</th></tr>
+                <tr><th>Sp.Atk</th><th>{{ stats["special-attack"] }}</th></tr>
+                <tr><th>Sp.Def</th><th>{{ stats["special-defense"] }}</th></tr>
+                <tr><th>Speed</th><th>{{ stats["speed"] }}</th></tr>
             </table>
         </div>
     </div>
