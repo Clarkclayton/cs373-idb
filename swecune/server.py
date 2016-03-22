@@ -22,6 +22,26 @@ squirtle = Models.Pokemon(squirt_data)
 
 pokemon_dict = {"1": bulbasaur, "4": charmander, "7": squirtle}
 
+with open("static/type/10.json") as fi:
+    fire_data = json.load(fi)
+
+with open("static/type/11.json") as fi:
+    water_data = json.load(fi)
+
+with open("static/type/12.json") as fi:
+    grass_data = json.load(fi)
+
+fireType = Models.Types(fire_data)
+grassType = Models.Types(grass_data)
+waterType = Models.Types(water_data)
+
+fireType.resistance = [grassType]
+fireType.strength = [grassType]
+fireType.immunity = [grassType]
+
+type_dict = { "10" : fireType, "11" : waterType, "12" : grassType}
+
+
 def get_move(id):
   move_dict = OrderedDict([
     ("ID", 1),
@@ -70,7 +90,8 @@ def move(move_id):
 @app.route('/type/<type_id>')
 def type(type_id):
   t = get_type(type_id)
-  return render_template('type.html', ty=t, type_img='/static/img/fire_type.png')
+  type_list = [type_dict["10"]]
+  return render_template('type.html', ty=t, type_img='/static/img/fire_type.png', type_list=type_list)
 
 if __name__ == '__main__':
   app.run(debug=True)
