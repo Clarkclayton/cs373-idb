@@ -36,7 +36,8 @@ def get_type(id):
     ("name", "Fire"),
     ("numPrimary", 5),
     ("numSecondary", 2),
-    ("Generation", 1)
+    ("Generation", 1),
+    ("numMoves", 123)
   ])
   return type_dict
 @app.route('/pokemon/<pokemon_number>')

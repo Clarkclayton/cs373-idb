@@ -8,10 +8,37 @@
     </div>
     <div id="type_metadata">
         <div class="panel panel-default">
-            {% for attr_name in attr_value in type.items() %}
+            {% for attr_name, attr_value in ty.items() %}
             <div class="panel-heading"> {{ attr_name }} </div>
             <div class="panel-body">  {{ attr_value }} </div>
             {% endfor %}
+    </div>
+    <div id="superEffective">
+        <script src="/static/js/sortable.min.js"></script>
+		<link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+        <table class="sortable-theme-bootstrap" data-sortable>
+		    <thead>
+			    <tr>
+			        <th data-sortable="false">Strengths</th>
+                    <th data-sortable="false">Resistances</th>
+                    <th data-sortable="false">Immunities</th>
+			    </tr>
+		    </thead>
+            <tbody>
+                <tr>
+			    {% for str in ty.strengths %}
+			        <td data-value="0">{{ str }}</td>
+			    {% endfor %}
+                {% for wk in ty.resistances %}
+                    <td data-value="-1">{{ wk }}</td>
+                {% endfor %}
+                {% for imm in ty.immunities %}
+                    <td data-value="1"> {{ imm }}</td>
+                {% endfor %}
+                </tr>
+           </tbody>
+        </table>
+    </div>
 </div>
 
 {% endblock %}
