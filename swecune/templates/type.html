@@ -26,14 +26,16 @@
 		    </thead>
             <tbody>
                 <tr>
-			    {% for str in ty.strengths %}
-			        <td data-value="0">{{ str }}</td>
-			    {% endfor %}
-                {% for wk in ty.resistances %}
-                    <td data-value="-1">{{ wk }}</td>
-                {% endfor %}
-                {% for imm in ty.immunities %}
-                    <td data-value="1"> {{ imm }}</td>
+                {% for t in type_list %}
+                    {% for str in t.strength %}
+                        <td data-value="0">{{ str.name }}</td>
+                    {% endfor %}
+                    {% for wk in t.resistance %}
+                        <td data-value="-1">{{ wk.name }}</td>
+                    {% endfor %}
+                    {% for imm in t.immunity %}
+                        <td data-value="1"> {{ imm.name }}</td>
+                    {% endfor %}
                 {% endfor %}
                 </tr>
            </tbody>
