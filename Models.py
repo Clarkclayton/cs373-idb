@@ -32,7 +32,7 @@ class Pokemon(Base):
         self.encounter = []  # TODO: fix this
         self.move = [id_from_url(move['move']['url']) for move in pd['moves']]
         self.sprite = pd['sprites']['front_default']
-        self.baseStats = None  # TODO: fix this
+        self.baseStats = {st['stat']['name']: st['base_stat'] for st in pd['stats']}
         self.evolvesInto = None  # TODO: fix this
         self.evolvesFrom = None  # TODO: fix this
 
