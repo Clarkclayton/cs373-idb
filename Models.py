@@ -49,12 +49,13 @@ class Moves(Base):
     def __init__(self, pd):
         super().__init__(pd)
         self.ID = pd['id']
+        self.name = pd['name']
         self.accuracy = pd['accuracy']
         self.pp = pd['accuracy']
         self.priority = pd['priority']
         self.power = pd['power']
-        self.dmg_class = pd['damage_class']
-        self.m_type = id_from_url(pd['type']['url'])
+        self.dmg_class = pd['damage_class']['name']
+        self.m_type = pd['type']['name']
 
 
 class Item(Base):

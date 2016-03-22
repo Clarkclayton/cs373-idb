@@ -42,19 +42,21 @@ fireType.immunity = [grassType]
 type_dict = { "10" : fireType, "11" : waterType, "12" : grassType}
 
 
-with open("static/moves/1.json") as file:
-    pound_data = json.load(file)
-    pound_data["img"] = "static/img/fire_type.png"
+with open("static/moves/33.json") as file:
+    tackle_data = json.load(file)
 
-with open("static/moves/2.json") as file:
-    karatechop_data = json.load(file)
-    karatechop_data["img"] = "static/img/fire_type.png"
+with open("static/moves/43.json") as file:
+    leer_data = json.load(file)
 
-with open("static/moves/3.json") as file:
-    doubleslap_data = json.load(file)
-    karatechop_data["img"] = "static/img/fire_type.png"
+with open("static/moves/52.json") as file:
+    ember_data = json.load(file)
 
-moves_dict = {"1": pound_data, "2": karatechop_data, "3": doubleslap_data}
+tackleMove = Models.Moves(tackle_data)
+leerMove = Models.Moves(leer_data)
+emberMove = Models.Moves(ember_data)
+
+moves_dict = {"33": tackleMove, "43": leerMove, "52": emberMove}
+can_learn_move_dict = {"33": [squirtle, bulbasaur], "43": [charmander], "52": [charmander]}
 
 def get_type(id):
     type_dict = OrderedDict([
@@ -86,7 +88,7 @@ def move(move_id):
     move = moves_dict[move_id]
 
     return render_template('move.html',
-            move_id=move.ID,
+            move_name=move.name,
             move_accuracy=move.accuracy,
             move_pp=move.pp,
             move_priority=move.priority,

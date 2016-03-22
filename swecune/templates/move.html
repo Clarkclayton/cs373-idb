@@ -1,18 +1,42 @@
 {% extends "base.html" %}
 
 {% block content %}
+<link href="/static/css/moves.css" rel="stylesheet" type="text/css">
 
 <div>
     <div id="move_type">
-    	<img src="{{ type_img }}">
+    	<img src="/static/img/moves/{{ move_type }}_type.png">
     </div>
     <div id="move_metadata">
 	 	<div class="panel panel-default">
-    		{% for attr_name, attr_value in move.items() %}
-			<div class="panel-heading">{{ attr_name }}</div>
-			<div class="panel-body">{{ attr_value }}</div>
-    		{% endfor %}
-    	</div>
+            <div class="panel-heading"><b>Move: {{ move_name.title() }}</b></div>
+            <table class="table">
+                <tr>
+                	<th class="moves_metadata_header">Type:</th>
+                	<th><img id="move_type_img" src="/static/img/moves/{{ move_type }}_text.png"></th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">Class:</th>
+                	<th><img id="move_class_img" src="/static/img/moves/{{ move_class }}.png"></th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">Power:</th>
+                	<th class="moves_metadata_content">{{ move_power }}</th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">PP:</th>
+                	<th class="moves_metadata_content">{{ move_pp }}</th>
+                </tr>
+                <tr>
+                	<th class="moves_metadata_header">Accuracy:</th>
+                	<th class="moves_metadata_content">{{ move_accuracy }}</th>
+                </tr>
+                <tr>
+	                <th class="moves_metadata_header">Priority:</th>
+	                <th class="moves_metadata_content">{{ move_priority }}</th>
+                </tr>
+            </table>
+        </div>
     </div>
 
     <div id="pokemon">
@@ -30,7 +54,7 @@
 			    </tr>
 		    </thead>
 		    <tbody>
-			    {% for pk in pokemon_list %}
+			    <!-- {% for pk in pokemon_list %}
 			    <tr>
 			    	<td><img src="{{ pokemon_url }}"></td>
 			        <td>{{ pk.ID }}</td>
@@ -38,7 +62,7 @@
 			        <td data-value="-1">{{ pk.pType1 }}</td>
 			        <td data-value="1">{{ pk.pType2 }}</td>
 			    </tr>
-			    {% endfor %}
+			    {% endfor %} -->
 		    </tbody>
 		</table>
     </div>
