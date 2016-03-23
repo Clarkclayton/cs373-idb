@@ -10,7 +10,7 @@ td, th {
 }
 
 .type-sprite {
-    height: 100px;
+    width: 80px !important;
 }
 
 #move_type_text_img {
