@@ -8,18 +8,18 @@
             <thead>
             <tr>
                 <th>Sprite</th>
-                <th>Name</th>
+                <th data-sorted="true" data-sorted-direction="descending">Name</th>
                 <th># Primary Pokemon</th>
                 <th># Secondary Pokemon</th>
-                <th># Moves </th>
+                <th># Moves</th>
                 <th>Generation</th>
             </tr>
             </thead>
             <tbody>
             {% for ty in type_list %}
-                           numPrimary="134",
-                           numSecondary="56",
-                           numMoves="42",
+                numPrimary="134",
+                numSecondary="56",
+                numMoves="42",
                 <tr>
                     <td><img class="type-sprite" src="/static/img/fire_type.png"></td>
                     <td><a href="/type/{{ ty.ID }}">{{ ty.name.title() }}</a></td>

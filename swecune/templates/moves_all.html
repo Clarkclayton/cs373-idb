@@ -8,8 +8,8 @@
             <table id="moves-table" class="sortable-theme-bootstrap" data-sortable>
                 <thead>
                 <tr>
-                    <th>Name</th>
-                    <th data-sortable="true">Type</th>
+                    <th data-sorted="true" data-sorted-direction="descending">Name</th>
+                    <th>Type</th>
                     <th>Power</th>
                     <th>Accuracy</th>
                     <th>PP</th>
@@ -19,7 +19,8 @@
                 {% for mv in moves %}
                     <tr>
                         <td><a href="/move/{{ mv.ID }}">{{ mv.name.title() }}</a></td>
-                        <td data-value="{{ mv.m_type }}"><img src="/static/img/moves/{{ mv.m_type + "_text.png" }}"></td>
+                        <td data-value="{{ mv.m_type }}"><img src="/static/img/moves/{{ mv.m_type + "_text.png" }}">
+                        </td>
                         <td>{{ mv.power }}</td>
                         <td>{{ mv.accuracy }}</td>
                         <td>{{ mv.pp }}</td>

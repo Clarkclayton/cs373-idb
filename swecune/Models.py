@@ -4,7 +4,7 @@ from abc import ABCMeta, abstractmethod
 class Base(metaclass=ABCMeta):
     @abstractmethod
     def __init__(self, pd):
-        print (pd['id'])
+        print(pd['id'])
 
 
 class Types(Base):
@@ -23,9 +23,9 @@ class Pokemon(Base):
         super().__init__(pd)
         self.ID = pd['id']
         self.name = pd['name']
-        #self.pType1 = id_from_url(pd['types'][0]['type']['url'])  # TODO: Do we want to completely normalize this?
-        #self.pType2 = id_from_url(pd['types'][1]['type']['url']) if len(pd['types']) > 1 else None
-        #for static page
+        # self.pType1 = id_from_url(pd['types'][0]['type']['url'])  # TODO: Do we want to completely normalize this?
+        # self.pType2 = id_from_url(pd['types'][1]['type']['url']) if len(pd['types']) > 1 else None
+        # for static page
         self.pType1 = pd['types'][0]['type']['name']  # TODO: Do we want to completely normalize this?
         self.pType2 = pd['types'][1]['type']['name'] if len(pd['types']) > 1 else None
         self.heldItem = []  # TODO: fix this

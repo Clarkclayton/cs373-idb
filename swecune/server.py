@@ -144,5 +144,6 @@ def type_all():
 def move_all():
     return render_template('moves_all.html', moves=moves_dict.values())
 
+
 if __name__ == '__main__':
     app.run(debug=True)
