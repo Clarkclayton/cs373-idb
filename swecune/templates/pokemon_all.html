@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block content %}
+    <div id="pokemon" class="container">
+        <script src="/static/js/sortable.min.js"></script>
+        <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+        <link rel="stylesheet" href="/static/css/pokemon-all.css"/>
+        <table class="sortable-theme-bootstrap" data-sortable>
+            <thead>
+            <tr>
+                <th>Sprite</th>
+                <th data-sorted="true" data-sorted-direction="descending">ID</th>
+                <th>Name</th>
+                <th>Primary Type</th>
+                <th>Secondary Type</th>
+                <th>Average Stats</th>
+
+            </tr>
+            </thead>
+            <tbody>
+            {% for pk in pokemon_list %}
+                <tr>
+                    <td><img src="{{ pk.sprite }}"></td>
+                    <td>{{ pk.ID }}</td>
+                    <td><a href="/pokemon/{{ pk.ID }}">{{ pk.name.title() }}</a></td>
+                    <td data-value="{{ pk.pType1 }}"><img id="img_type_text"
+                                                          src="/static/img/moves/{{ pk.pType1 + "_text.png" }}"></td>
+                    {% if pk.pType2 %}
+                        <td data-value="{{ pk.pType2 }}"><img id="img_type_text"
+                                                              src="/static/img/moves/{{ pk.pType2 + "_text.png" }}">
+                        </td>
+                    {% else %}
+                        <td data-value="{{ "" }}"></td>
+                    {% endif %}
+                    <td>{{ pk.averageStats }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}

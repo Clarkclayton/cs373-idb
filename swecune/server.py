@@ -1,7 +1,9 @@
-from flask import Flask, render_template
-import Models
 import json
 from collections import OrderedDict
+
+from flask import Flask, render_template
+
+import Models
 
 app = Flask(__name__)
 
@@ -126,6 +128,11 @@ def type(type_id):
 @app.route('/table')
 def table():
     return render_template('table.html')
+
+
+@app.route('/pokemon')
+def pokemon_all():
+    return render_template('pokemon_all.html', pokemon_list=pokemon_dict.values())
 
 
 if __name__ == '__main__':

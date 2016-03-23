@@ -33,6 +33,7 @@ class Pokemon(Base):
         self.moves = [id_from_url(move['move']['url']) for move in pd['moves']]
         self.sprite = pd['sprites']['front_default']
         self.baseStats = {st['stat']['name']: st['base_stat'] for st in pd['stats']}
+        self.averageStats = round(sum(int(x) for x in self.baseStats.values()) / len(self.baseStats.keys()))
         self.evolvesInto = None  # TODO: fix this
         self.evolvesFrom = None  # TODO: fix this
 
