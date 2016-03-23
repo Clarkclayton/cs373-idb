@@ -148,5 +148,10 @@ def move_all():
     return render_template('moves_all.html', moves=moves_dict.values())
 
 
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
+
 if __name__ == '__main__':
     app.run(debug=True)
