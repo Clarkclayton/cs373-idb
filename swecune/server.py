@@ -1,6 +1,8 @@
 import json
 from collections import OrderedDict
 
+import logging
+
 from flask import Flask, render_template
 
 import Models
@@ -84,6 +86,8 @@ def index():
 
 @app.route('/pokemon/<pokemon_number>')
 def pokemon(pokemon_number):
+    if pokemon_number not in pokemon_dict:
+        return render_template('404.html')
     pk = pokemon_dict[pokemon_number]
     return render_template('pokemon.html',
                            p_id=pk.ID,
@@ -98,6 +102,8 @@ def pokemon(pokemon_number):
 
 @app.route('/move/<move_id>')
 def move(move_id):
+    if move_id not in moves_dict:
+        return render_template('404.html')
     move = moves_dict[move_id]
     pk_learn_list = can_learn_move_dict[move_id]
 
@@ -114,6 +120,8 @@ def move(move_id):
 
 @app.route('/type/<type_id>')
 def type(type_id):
+    if type_id not in type_dict:
+        return render_template('404.html')
     t = type_dict[type_id]
     return render_template('type.html',
                            mv_list=moves_dict.values(),
@@ -125,11 +133,6 @@ def type(type_id):
                            type_img='/static/img/fire_type.png',
                            pokemon_list=pokemon_dict.values(),
                            pokemon_url='/static/img/pokemon1.png')
-
-
-@app.route('/table')
-def table():
-    return render_template('table.html')
 
 
 @app.route('/pokemon')
@@ -145,6 +148,11 @@ def type_all():
 @app.route('/move')
 def move_all():
     return render_template('moves_all.html', moves=moves_dict.values())
+
+@app.errorhandler(404)
+def page_not_found(error):
+    app.logger.error('Page Not Found: %s', (request.path))
+    return render_template('404.html'), 404
 
 
 if __name__ == '__main__':
