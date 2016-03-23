@@ -1,3 +1,11 @@
-td {
+table{
+    width: 100%;
+}
+
+td, th {
     text-align: center !important;
+}
+
+.type-sprite {
+    height: 100px;
 }

@@ -135,5 +135,9 @@ def pokemon_all():
     return render_template('pokemon_all.html', pokemon_list=pokemon_dict.values())
 
 
+@app.route('/type')
+def type_all():
+    return render_template('type_all.html', type_list=type_dict.values())
+
 if __name__ == '__main__':
     app.run(debug=True)
