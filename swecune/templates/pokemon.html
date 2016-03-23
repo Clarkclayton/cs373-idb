@@ -1,11 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
 <link href="/static/css/pokemon.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#base-content{
-    background: url(/static/img/intro-bg.jpg) no-repeat bottom center scroll;
-}
-</style>
 <div class="poke-container">
     <div class="poke-header">
         <img id="poke-thumbnail" class="thumbnail" src="/static/img/pokemon{{ p_id }}.png">
@@ -28,29 +23,33 @@
         </div>
     </div>
 
-    <div class="poke-body">
-        <script src="/static/js/sortable.min.js"></script>
-        <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
-
-        <table id="poke-moves" class="sortable-theme-bootstrap" data-sortable>
-            <thead>
+    <div id=moves>
+        <div id="pokemon">
+            <script src="/static/js/sortable.min.js"></script>
+            <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+            <table id="moves-table" class="sortable-theme-bootstrap" data-sortable>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th data-sortable="true">Type</th>
+                        <th>Power</th>
+                        <th>Accuracy</th>
+                        <th>PP</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for mv in moves %}
                 <tr>
-                    <th>Sprite</th>
-                    <th data-sortable="true">Name</th>
-                    <th data-sortable="true">Type</th>
+                    <td>{{ mv.name.title() }}</td>
+                    <td data-value="{{ mv.m_type }}"><img src="/static/img/moves/{{ mv.m_type + "_text.png" }}"></td>
+                    <td>{{ mv.power }}</td>
+                    <td>{{ mv.accuracy }}</td>
+                    <td>{{ mv.pp }}</td>
                 </tr>
-            </thead>
-            <tbody>
-            {% for mv in moves %}
-            <tr>
-                <td><img src="/static/img/moves/normal_text.png"></td>
-                <td data-value="0">{{ mv.name.title() }}</td>
-                <td data-value="-1">{{ mv.m_type.title() }}</td>
             </tr>
             {% endfor %}
             </tbody>
-        </table>
-    </div>
+        </div>
     <!-- Intro Header -->
     {{ name }}
 </div>

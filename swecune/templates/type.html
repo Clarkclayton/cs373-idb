@@ -89,7 +89,7 @@
                 <tbody>
                     {% for mv in mv_list  %}
                         <tr>
-                            <td>{{ mv.name }}</td>
+                            <td>{{ mv.name.title() }}</td>
                             <td data-value="{{ mv.m_type }}"><img src="/static/img/moves/{{ mv.m_type + "_text.png" }}"></td>
                             <td>{{ mv.power }}</td>
                             <td>{{ mv.accuracy }}</td>
