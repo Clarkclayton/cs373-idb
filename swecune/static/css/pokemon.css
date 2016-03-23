@@ -17,6 +17,16 @@
     margin-right: 20%;
 }
 
+#poke-moves {
+    width: 100%;
+}
+
+tr {
+   line-height: 10px;
+   min-height: 10px;
+   height: 10px;
+}
+
 table {
     color: black;
 }

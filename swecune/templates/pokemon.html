@@ -29,7 +29,27 @@
     </div>
 
     <div class="poke-body">
-        Moves go here.
+        <script src="/static/js/sortable.min.js"></script>
+        <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+
+        <table id="poke-moves" class="sortable-theme-bootstrap" data-sortable>
+            <thead>
+                <tr>
+                    <th>Sprite</th>
+                    <th data-sortable="true">Name</th>
+                    <th data-sortable="true">Type</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for mv in moves %}
+            <tr>
+                <td><img src="/static/img/moves/normal_text.png"></td>
+                <td data-value="0">{{ mv.name.title() }}</td>
+                <td data-value="-1">{{ mv.m_type.title() }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
     </div>
     <!-- Intro Header -->
     {{ name }}

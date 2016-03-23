@@ -30,7 +30,7 @@ class Pokemon(Base):
         self.pType2 = pd['types'][1]['type']['name'] if len(pd['types']) > 1 else None
         self.heldItem = []  # TODO: fix this
         self.encounter = []  # TODO: fix this
-        self.move = [id_from_url(move['move']['url']) for move in pd['moves']]
+        self.moves = [id_from_url(move['move']['url']) for move in pd['moves']]
         self.sprite = pd['sprites']['front_default']
         self.baseStats = {st['stat']['name']: st['base_stat'] for st in pd['stats']}
         self.evolvesInto = None  # TODO: fix this
