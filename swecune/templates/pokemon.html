@@ -3,55 +3,68 @@
     <link href="/static/css/pokemon.css" rel="stylesheet" type="text/css">
     <div class="poke-container container">
         <div class="poke-header">
-            <img id="poke-thumbnail" class="thumbnail" src="/static/img/pokemon{{ p_id }}.png">
-            <div id="poke-info" class="panel panel-default">
-                <!-- Default panel contents -->
-                <div class="panel-heading"><b>#{{ p_id }}: {{ name.title() }}</b></div>
-                <!-- List group -->
-                <table class="table">
-                    <tr>
-                        <th>Primary Type</th>
-                        <th><a href="/type/{{ p_type_id1 }}">{{ p_type1.title() }}</a></th>
-                    </tr>
-                    {% if p_type2 %}
-                        <tr>
-                            <th>Secondary Type</th>
-                            <th><a href="/type/{{ p_type_id2 }}">{{ p_type2.title() }}</a></th>
-                        </tr>
-                    {% endif %}
-                    <tr>
-                        <th>HP</th>
-                        <th>{{ stats["hp"] }}</th>
-                    </tr>
-                    <tr>
-                        <th>Atk</th>
-                        <th>{{ stats["attack"] }}</th>
-                    </tr>
-                    <tr>
-                        <th>Def</th>
-                        <th>{{ stats["defense"] }}</th>
-                    </tr>
-                    <tr>
-                        <th>Sp.Atk</th>
-                        <th>{{ stats["special-attack"] }}</th>
-                    </tr>
-                    <tr>
-                        <th>Sp.Def</th>
-                        <th>{{ stats["special-defense"] }}</th>
-                    </tr>
-                    <tr>
-                        <th>Speed</th>
-                        <th>{{ stats["speed"] }}</th>
-                    </tr>
-                </table>
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-3" id="move_type">
+                    <img id="poke-thumbnail" class="thumbnail" src="/static/img/pokemon{{ p_id }}.png">
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-4" id="move_metadata">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><b>#{{ p_id }}: {{ name.title() }}</b></div>
+                        <table class="table">
+                            <tr>
+                                <th>Primary Type</th>
+                                <th>
+                                <a href="/type/{{ p_type_id1 }}">
+                                <img class="move-sprite" src="/static/img/moves/{{ p_type1 }}_text.png"></a></th>
+                                </a>
+                            </tr>
+                            {% if p_type2 %}
+                            <tr>
+                                <th>Secondary Type</th>
+                                <th>
+                                <a href="/type/{{ p_type_id2 }}">
+                                <img class="move-sprite" src="/static/img/moves/{{ p_type2 }}_text.png"></a></th>
+                                </a>
+                            </tr>
+                            {% endif %}
+                            <tr>
+                                <th>HP</th>
+                                <th>{{ stats["hp"] }}</th>
+                            </tr>
+                            <tr>
+                                <th>Atk</th>
+                                <th>{{ stats["attack"] }}</th>
+                            </tr>
+                            <tr>
+                                <th>Def</th>
+                                <th>{{ stats["defense"] }}</th>
+                            </tr>
+                            <tr>
+                                <th>Sp.Atk</th>
+                                <th>{{ stats["special-attack"] }}</th>
+                            </tr>
+                            <tr>
+                                <th>Sp.Def</th>
+                                <th>{{ stats["special-defense"] }}</th>
+                            </tr>
+                            <tr>
+                                <th>Speed</th>
+                                <th>{{ stats["speed"] }}</th>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
             </div>
-        </div>
 
         <div id="moves">
             <div id="pokemon">
                 <script src="/static/js/sortable.min.js"></script>
                 <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
                 <table id="moves-table" class="sortable-theme-bootstrap" data-sortable>
+                    <caption>Moves</caption>
                     <thead>
                     <tr>
                         <th>Name</th>
