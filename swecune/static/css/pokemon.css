@@ -1,7 +1,6 @@
 #poke-thumbnail {
     border-radius: 5px;
     border-width: 15px;
-    border-color: #4f4f4f;
     float: left;
     width: 230px;
     height: 230px;
@@ -13,8 +12,21 @@
     float: right;
     width: auto;
     width: 40%;
-    background-color: gray;
     margin-right: 20%;
+}
+
+#poke-moves {
+    width: 100%;
+}
+
+#moves-table {
+    width: 100%;
+}
+
+tr {
+   line-height: 10px;
+   min-height: 10px;
+   height: 10px;
 }
 
 table {
@@ -32,4 +44,8 @@ th:nth-of-type(2) {
 
 .poke-container {
     padding: 3%;
+}
+
+.move-sprite {
+    height: 80px;
 }

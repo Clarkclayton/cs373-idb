@@ -1,46 +1,118 @@
 {% extends "base.html" %}
 
 {% block content %}
-
-<div>
+    <link href="/static/css/type.css" rel="stylesheet" type="text/css">
+    <div>
     <div id="type_img">
         <img src="{{ type_img }}">
     </div>
     <div id="type_metadata">
         <div class="panel panel-default">
-            {% for attr_name, attr_value in ty.items() %}
-            <div class="panel-heading"> {{ attr_name }} </div>
-            <div class="panel-body">  {{ attr_value }} </div>
-            {% endfor %}
-    </div>
-    <div id="superEffective">
-        <script src="/static/js/sortable.min.js"></script>
-		<link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
-        <table class="sortable-theme-bootstrap" data-sortable>
-		    <thead>
-			    <tr>
-			        <th data-sortable="false">Strengths</th>
-                    <th data-sortable="false">Resistances</th>
-                    <th data-sortable="false">Immunities</th>
-			    </tr>
-		    </thead>
-            <tbody>
+            <div class="panel-heading"><img id="img_type_text" src="/static/img/moves/{{ ty.name + "_text.png" }}">
+            </div>
+            <table class="table">
                 <tr>
-                {% for t in type_list %}
-                    {% for str in t.strength %}
-                        <td data-value="0">{{ str.name }}</td>
-                    {% endfor %}
-                    {% for wk in t.resistance %}
-                        <td data-value="-1">{{ wk.name }}</td>
-                    {% endfor %}
-                    {% for imm in t.immunity %}
-                        <td data-value="1"> {{ imm.name }}</td>
-                    {% endfor %}
-                {% endfor %}
+                    <th># Primary:</th>
+                    <th> {{ numPrimary }} </th>
+                <tr>
+                    <th># Secondary:</th>
+                    <th> {{ numSecondary }} </th>
                 </tr>
-           </tbody>
+                <tr>
+                    <th># Moves:</th>
+                    <th> {{ numMoves }}</th>
+                </tr>
+                <tr>
+                    <th>Generation Introduced:</th>
+                    <th> {{ ty.generation }} </th>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div id="superEffective">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Strengths</th>
+                        <th>Resistances</th>
+                        <th>Immunities</th>
+                    <tr>
+                    </thead>
+                    <tbody>
+                    {% for str, res, imm in superEffective %}
+                        <tr>
+                            <td><img id="img_type_text" src="/static/img/moves/{{ str.name + "_text.png" }}"></td>
+                            <td><img id="img_type_text" src="/static/img/moves/{{ res.name + "_text.png" }}"></td>
+                            <td><img id="img_type_text" src="/static/img/moves/{{ imm.name + "_text.png" }}"></td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div id="pokemon">
+        <script src="/static/js/sortable.min.js"></script>
+        <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+        <table class="sortable-theme-bootstrap" data-sortable>
+            <thead>
+            <tr>
+                <th>Sprite</th>
+                <th>ID</th>
+                <th>Name</th>
+                <th data-sortable="true">Primary Type</th>
+                <th data-sortable="true">Secondary Type</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for pk in pokemon_list %}
+                <tr>
+                    <td><img src="{{ pk.sprite }}"></td>
+                    <td>{{ pk.ID }}</td>
+                    <td>{{ pk.name.title() }}</td>
+                    <td data-value="{{ pk.pType1 }}"><img id="img_type_text"
+                                                          src="/static/img/moves/{{ pk.pType1 + "_text.png" }}"></td>
+                    {% if pk.pType2 %}
+                        <td data-value="{{ pk.pType2 }}"><img id="img_type_text"
+                                                              src="/static/img/moves/{{ pk.pType2 + "_text.png" }}"</td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+            </tbody>
         </table>
     </div>
-</div>
+
+    <div id=moves>
+        <div id="pokemon">
+            <script src="/static/js/sortable.min.js"></script>
+            <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+            <table class="sortable-theme-bootstrap" data-sortable>
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th data-sortable="true">Type</th>
+                    <th>Power</th>
+                    <th>Accuracy</th>
+                    <th>PP</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for mv in mv_list %}
+                    <tr>
+                        <td>{{ mv.name.title() }}</td>
+                        <td data-value="{{ mv.m_type }}"><img src="/static/img/moves/{{ mv.m_type + "_text.png" }}">
+                        </td>
+                        <td>{{ mv.power }}</td>
+                        <td>{{ mv.accuracy }}</td>
+                        <td>{{ mv.pp }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
 
 {% endblock %}

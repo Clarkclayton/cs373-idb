@@ -22,3 +22,6 @@ script:
     - date
     - ls -al
     - make check
+
+notifications:
+    slack: swecune:jcrmbRqt3VdqJrIcSuLUjYvN

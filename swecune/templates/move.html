@@ -1,5 +1,4 @@
 {% extends "base.html" %}
-
 {% block content %}
 <link href="/static/css/moves.css" rel="stylesheet" type="text/css">
 
@@ -7,7 +6,7 @@
     <div class="row">
     	<div class="col-md-2"></div>
 	    <div class="col-md-3" id="move_type">
-	    	<img id="move_type_img" src="/static/img/moves/{{ move_type }}_type.png">
+	    	<a href="/type/{{ move_type_id }}"><img id="move_type_img" src="/static/img/moves/{{ move_type }}_type.png"></a>
 	    </div>
 	    <div class="col-md-1"></div>
 	    <div class="col-md-4" id="move_metadata">
@@ -75,5 +74,4 @@
 		</table>
     </div>
 </div>
-
 {% endblock %}
