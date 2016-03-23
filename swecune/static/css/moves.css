@@ -21,6 +21,7 @@ table {
 }
 
 #pokemon_table {
+	width: 100%;
 	margin-right: auto;
 	margin-left: auto;
 	border-style: solid;
