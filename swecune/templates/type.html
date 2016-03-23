@@ -8,7 +8,7 @@
     </div>
     <div id="type_metadata">
         <div class="panel panel-default">
-            <div class="panel-heading"><img id="img_type_text" src="/static/img/move/{{ ty.name + "_text.png" }}"></div>
+            <div class="panel-heading"><img id="img_type_text" src="/static/img/moves/{{ ty.name + "_text.png" }}"></div>
             <table class="table">
                 <tr><th># Primary:</th><th> {{ numPrimary }} </th>
                 <tr><th># Secondary:</th><th> {{ numSecondary }} </th></tr>
@@ -17,7 +17,7 @@
             </table>
         </div>
     </div>
-                
+
     <div id="superEffective">
         <div class="panel panel-default">
             <div class="panel-heading">
@@ -25,16 +25,16 @@
                     <thead>
                         <tr>
                             <th>Strengths</th>
-                            <th>Weaknesses</th>
+                            <th>Resistances</th>
                             <th>Immunities</th>
                         <tr>
                     </thead>
                     <tbody>
                     {% for str, res, imm in superEffective %} 
                         <tr>
-                        <td><img id="img_type_text" src="/static/img/move/{{ str.name + "_text.png" }}"></td>
-                        <td><img id="img_type_text"  src="/static/img/move/{{ res.name + "_text.png" }}"></td>
-                            <td><img id="img_type_text" src="/static/img/move/{{ imm.name + "_text.png" }}"></td>
+                        <td><img id="img_type_text" src="/static/img/moves/{{ str.name + "_text.png" }}"></td>
+                        <td><img id="img_type_text"  src="/static/img/moves/{{ res.name + "_text.png" }}"></td>
+                            <td><img id="img_type_text" src="/static/img/moves/{{ imm.name + "_text.png" }}"></td>
                         </tr>
                     {% endfor %}
                 </table>
@@ -49,8 +49,8 @@
 		    <thead>
 			    <tr>
 			    	<th>Sprite</th>
-			        <th data-sortable="true">ID</th>
-			        <th data-sortable="true">Name</th>
+			        <th>ID</th>
+			        <th>Name</th>
 			        <th data-sortable="true">Primary Type</th>
 			        <th data-sortable="true">Secondary Type</th>
 			    </tr>
@@ -58,16 +58,48 @@
 		    <tbody>
 			    {% for pk in pokemon_list %}
 			    <tr>
-			    	<td><img src="{{ pokemon_url }}"></td>
+			    	<td><img src="{{ pk.sprite }}"></td>
 			        <td>{{ pk.ID }}</td>
 			        <td>{{ pk.name.title() }}</td>
-                    <td><img id="img_type_text" src="static/img/moves/{{ pk.pType1 + "_text.png" }}"></td>
-			        <td><img id="img_type_text" src="static/img/moves/{{ pk.pType2 + "_text.png" }}"</td>
+                    <td data-value="{{ pk.pType1 }}"><img id="img_type_text" src="/static/img/moves/{{ pk.pType1 + "_text.png" }}"></td>
+                    {% if pk.pType2 %}
+                    <td data-value="{{ pk.pType2 }}"><img id="img_type_text" src="/static/img/moves/{{ pk.pType2 + "_text.png" }}"</td>
+                    {% endif %}
+                    </tr>
 			    </tr>
 			    {% endfor %}
 		    </tbody>
 		</table>
     </div>
- </div>
+    
+    <div id=moves>
+        <div id="pokemon">
+            <script src="/static/js/sortable.min.js"></script>
+            <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+            <table class="sortable-theme-bootstrap" data-sortable>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th data-sortable="true">Type</th>
+                        <th>Power</th>
+                        <th>Accuracy</th>
+                        <th>PP</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for mv in mv_list  %}
+                        <tr>
+                            <td>{{ mv.name }}</td>
+                            <td data-value="{{ mv.m_type }}"><img src="/static/img/moves/{{ mv.m_type + "_text.png" }}"></td>
+                            <td>{{ mv.power }}</td>
+                            <td>{{ mv.accuracy }}</td>
+                            <td>{{ mv.pp }}</td>
+                        </tr>
+                    </tr>
+                    {% endfor %}
+               </tbody>
+            
+    </div>
+</div>
 
 {% endblock %}

@@ -109,8 +109,10 @@ def move(move_id):
 @app.route('/type/<type_id>')
 def type(type_id):
     t = type_dict[type_id]
-    pk_list = [pokemon_dict['1']]
+    pk_list = [pokemon_dict['1'], pokemon_dict['4'], pokemon_dict['7']]
+    mv_list = [moves_dict['33'], moves_dict['43'], moves_dict['52']]
     return render_template('type.html',
+            mv_list=mv_list,
             ty=t,
             superEffective=zip(t.strength, t.resistance, t.immunity),
             numPrimary="134",
@@ -120,5 +122,8 @@ def type(type_id):
             pokemon_list=pk_list,
             pokemon_url='/static/img/pokemon1.png')
 
+@app.route('/table')
+def table():
+    return render_template('table.html')
 if __name__ == '__main__':
     app.run(debug=True)
