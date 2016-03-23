@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="container">
-        <script src="/static/js/sortable.min.js"></script>
-        <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
-        <link rel="stylesheet" href="/static/css/pokemon-all.css"/>
-        <table class="sortable-theme-bootstrap" data-sortable>
-            <thead>
+<div class="container">
+    <script src="/static/js/sortable.min.js"></script>
+    <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+    <link rel="stylesheet" href="/static/css/pokemon-all.css"/>
+    <table class="sortable-theme-bootstrap" data-sortable>
+        <thead>
             <tr>
                 <th>Sprite</th>
                 <th data-sorted="true" data-sorted-direction="descending">Name</th>
@@ -14,23 +14,20 @@
                 <th># Moves</th>
                 <th>Generation</th>
             </tr>
-            </thead>
-            <tbody>
-            {% for ty in type_list %}
-                numPrimary="134",
-                numSecondary="56",
-                numMoves="42",
-                <tr>
-                    <td><img class="type-sprite" src="/static/img/fire_type.png"></td>
-                    <td><a href="/type/{{ ty.ID }}">{{ ty.name.title() }}</a></td>
-                    <td>{{ ty.ID + 134 }}</td>
-                    <td>{{ ty.ID + 56 }}</td>
-                    <td>{{ ty.ID +  42 }}</td>
-                    <td>{{ ty.generation.title() }}</td>
-                </tr>
-            {% endfor %}
-            </tbody>
-        </table>
-    </div>
+        </thead>
+        <tbody>
+        {% for ty in type_list %}
+        <tr>
+            <td><img class="type-sprite" src="/static/img/fire_type.png"></td>
+            <td><a href="/type/{{ ty.ID }}">{{ ty.name.title() }}</a></td>
+            <td>{{ ty.ID + 134 }}</td>
+            <td>{{ ty.ID + 56 }}</td>
+            <td>{{ ty.ID +  42 }}</td>
+            <td>{{ ty.generation.title() }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
 
 {% endblock %}
