@@ -152,7 +152,7 @@ def move_all():
 
 @app.errorhandler(404)
 def page_not_found(error):
-    app.logger.error('Page Not Found: %s', (request.path))
+    #app.logger.error('Page Not Found: %s', (request.path))
     return render_template('404.html'), 404
 
 
