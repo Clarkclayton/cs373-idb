@@ -115,6 +115,7 @@ def move(move_id):
                            move_power=move.power,
                            move_class=move.dmg_class,
                            move_type=move.m_type,
+                           move_type_id=move.m_type_id,
                            pk_learn_list=pk_learn_list)
 
 

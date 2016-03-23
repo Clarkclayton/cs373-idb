@@ -1,3 +1,16 @@
 table {
     color: black;
-} 
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#img_type_text {
+    width: 80px;
+    height: auto;
+}

@@ -6,39 +6,34 @@ table {
 	margin-top: 5%;
 }
 
-#move_type {
-	margin-left: 17.5%;
-	float: left;
-}
-
-#move_type_img {
-	width: 75%;
-}
-
-#move_metadata {
-	width: 40%;
-    margin-right: 17.5%;
-	float: right;
-}
-
 .moves_metadata_content {
 	font-weight:normal
 }
 
 #move_type_text_img {
     width: 80px;
-    height: auto;
-
 }
 
 #move_class_img {
 	border-radius: 5px;
     width: 60px;
-    height: auto;
+    margin-left: 4px;
 }
 
-#pokemon {
-	padding-top: 350px;
-	margin: auto;
-	float: bottom;
+#pokemon_table {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.jumbotron {
+	background-color: transparent;
+}
+
+#move_type_img {
+	width: 100%;
+	max-width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 5%;
+	display: block;
 }

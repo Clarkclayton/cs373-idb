@@ -1,5 +1,8 @@
-table{
+table {
+    color: black;
     width: 100%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 td, th {
@@ -7,5 +10,15 @@ td, th {
 }
 
 .type-sprite {
-    height: 100px;
+    width: 80px !important;
+}
+
+#move_type_text_img {
+    width: 80px;
+    height: auto;
+}
+
+#img_type_text {
+    width: 80px;
+    height: auto;
 }
