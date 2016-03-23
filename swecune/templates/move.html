@@ -3,9 +3,9 @@
 {% block content %}
 <link href="/static/css/moves.css" rel="stylesheet" type="text/css">
 
-<div>
+<div id="moves">
     <div id="move_type">
-    	<img src="/static/img/moves/{{ move_type }}_type.png">
+    	<img id="move_type_img" src="/static/img/moves/{{ move_type }}_type.png">
     </div>
     <div id="move_metadata">
 	 	<div class="panel panel-default">
@@ -13,11 +13,11 @@
             <table class="table">
                 <tr>
                 	<th class="moves_metadata_header">Type:</th>
-                	<th><img class="move_type_text_img" src="/static/img/moves/{{ move_type }}_text.png"></th>
+                	<th><img id="move_type_text_img" src="/static/img/moves/{{ move_type }}_text.png"></th>
                 </tr>
                 <tr>
                 	<th class="moves_metadata_header">Class:</th>
-                	<th><img class="move_class_img" src="/static/img/moves/{{ move_class }}.png"></th>
+                	<th><img id="move_class_img" src="/static/img/moves/{{ move_class }}.png"></th>
                 </tr>
                 <tr>
                 	<th class="moves_metadata_header">Power:</th>
@@ -46,11 +46,11 @@
 		<table class="sortable-theme-bootstrap" data-sortable>
 		    <thead>
 			    <tr>
-			    	<th>Sprite</th>
-			        <th data-sortable="false">ID</th>
-			        <th data-sortable="false">Name</th>
-			        <th data-sortable="false">Primary Type</th>
-			        <th data-sortable="false">Secondary Type</th>
+			    	<th data-sortable="false">Sprite</th>
+			        <th>ID</th>
+			        <th>Name</th>
+			        <th>Primary Type</th>
+			        <th>Secondary Type</th>
 			    </tr>
 		    </thead>
 		    <tbody>
@@ -59,9 +59,9 @@
 			    	<td><a href="/pokemon/{{ pk.ID }}"><img src="/static/img/pokemon{{ pk.ID }}.png"></a></td>
 			        <td>{{ pk.ID }}</td>
 			        <td>{{ pk.name.title() }}</td>
-			        <td><img class="move_type_text_img" src="/static/img/moves/{{ pk.pType1 }}_text.png"></td>
+			        <td><img id="move_type_text_img" src="/static/img/moves/{{ pk.pType1 }}_text.png"></td>
 			        {% if pk.pType2 %}
-			        <td><img class="move_type_text_img" src="/static/img/moves/{{ pk.pType2 }}_text.png"></td>
+			        <td><img id="move_type_text_img" src="/static/img/moves/{{ pk.pType2 }}_text.png"></td>
 			        {% else %}
 			        <td>N/A</td>
 			        {% endif %}
