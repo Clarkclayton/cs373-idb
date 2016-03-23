@@ -1,3 +1,14 @@
 table {
     color: black;
-} 
+    width: 100%;
+}
+
+.row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#img_type_text {
+    width: 80px;
+    height: auto;
+}
