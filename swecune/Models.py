@@ -44,42 +44,18 @@ class Pokemon(Base):
             self.pTypeId1, self.pTypeId2 = self.pTypeId2, self.pTypeId1
 
 
-class Location(Base):
-    def __init__(self, pd):
-        super().__init__(pd)
-        self.ID = pd['id']
-        self.name = find_english_version(pd['names'], 'name')
-        self.region = id_from_url(pd['region']['url']) if pd['region'] is not None else None
-
-
 class Moves(Base):
     def __init__(self, pd):
         super().__init__(pd)
         self.ID = pd['id']
         self.name = pd['name']
         self.accuracy = pd['accuracy']
-        self.pp = pd['accuracy']
+        self.pp = pd['pp']
         self.priority = pd['priority']
         self.power = pd['power']
         self.dmg_class = pd['damage_class']['name']
         self.m_type = pd['type']['name']
         self.m_type_id = int(pd['type']['url'].split('/')[-2])
-
-
-class Item(Base):
-    def __init__(self, pd):
-        super().__init__(pd)
-        self.ID = pd['id']
-        self.name = pd['name']
-        self.cost = pd['cost']
-        self.sprite = pd['sprites']['default']
-        self.flavor_text = find_english_version(pd['flavor_text_entries'], 'text')
-
-
-def find_english_version(list_entries, key_attr):
-    for item in list_entries:
-        if item['language']['name'] == 'en':
-            return item[key_attr]
 
 
 def id_from_url(full_url):
