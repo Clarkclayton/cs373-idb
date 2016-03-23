@@ -22,10 +22,10 @@
                     <td><img src="{{ pk.sprite }}"></td>
                     <td>{{ pk.ID }}</td>
                     <td><a href="/pokemon/{{ pk.ID }}">{{ pk.name.title() }}</a></td>
-                    <td data-value="{{ pk.pType1 }}"><img id="img_type_text"
+                    <td data-value="{{ pk.pType1 }}"><img class = "type-sprite" id="img_type_text"
                                                           src="/static/img/moves/{{ pk.pType1 + "_text.png" }}"></td>
                     {% if pk.pType2 %}
-                        <td data-value="{{ pk.pType2 }}"><img id="img_type_text"
+                        <td data-value="{{ pk.pType2 }}"><img class = "type-sprite" id="img_type_text"
                                                               src="/static/img/moves/{{ pk.pType2 + "_text.png" }}">
                         </td>
                     {% else %}

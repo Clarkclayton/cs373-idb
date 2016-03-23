@@ -7,5 +7,5 @@ td, th {
 }
 
 .type-sprite {
-    height: 100px;
+    width: 80px !important;
 }
