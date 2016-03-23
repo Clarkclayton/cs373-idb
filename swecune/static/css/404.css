@@ -1,0 +1,16 @@
+#l404-gif {
+    display: block;
+    padding-top: 10%;
+    width: 400px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 40pt;
+    font-family: sans-serif;
+}
