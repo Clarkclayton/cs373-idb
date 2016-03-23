@@ -28,9 +28,6 @@ class Pokemon(Base):
         # for static page
         self.pType1 = pd['types'][0]['type']['name']  # TODO: Do we want to completely normalize this?
         self.pType2 = pd['types'][1]['type']['name'] if len(pd['types']) > 1 else None
-        if pd['types'][0]['slot'] != 1:
-            self.pType1, self.pType2 = self.pType2, self.pType1
-
         self.heldItem = []  # TODO: fix this
         self.encounter = []  # TODO: fix this
         self.moves = [id_from_url(move['move']['url']) for move in pd['moves']]
@@ -39,6 +36,12 @@ class Pokemon(Base):
         self.averageStats = round(sum(int(x) for x in self.baseStats.values()) / len(self.baseStats.keys()))
         self.evolvesInto = None  # TODO: fix this
         self.evolvesFrom = None  # TODO: fix this
+        self.pTypeId1 = int(pd['types'][0]['type']['url'].split('/')[-2])
+        self.pTypeId2 = int(pd['types'][1]['type']['url'].split('/')[-2]) if len(pd['types']) > 1 else None
+
+        if pd['types'][0]['slot'] != 1:
+            self.pType1, self.pType2 = self.pType2, self.pType1
+            self.pTypeId1, self.pTypeId2 = self.pTypeId2, self.pTypeId1
 
 
 class Location(Base):
@@ -60,6 +63,7 @@ class Moves(Base):
         self.power = pd['power']
         self.dmg_class = pd['damage_class']['name']
         self.m_type = pd['type']['name']
+        self.m_type_id = int(pd['type']['url'].split('/')[-2])
 
 
 class Item(Base):

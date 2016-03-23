@@ -90,6 +90,8 @@ def pokemon(pokemon_number):
                            name=pk.name,
                            p_type1=pk.pType1,
                            p_type2=pk.pType2,
+                           p_type_id1=pk.pTypeId1,
+                           p_type_id2=pk.pTypeId2,
                            stats=pk.baseStats,
                            moves=moves_dict.values())
 

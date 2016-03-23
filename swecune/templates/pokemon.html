@@ -11,13 +11,13 @@
                 <table class="table">
                     <tr>
                         <th>Primary Type</th>
-                        <th>{{ p_type1.title() }}</th>
+                        <th><a href="/type/{{ p_type_id1 }}">{{ p_type1.title() }}</a></th>
                     </tr>
                     {% if p_type2 %}
                         <tr>
                             <th>Secondary Type</th>
-                            <th>
-                            {{ p_type2.title() }}</tr>
+                            <th><a href="/type/{{ p_type_id2 }}">{{ p_type2.title() }}</a></th>
+                        </tr>
                     {% endif %}
                     <tr>
                         <th>HP</th>
@@ -66,7 +66,7 @@
                         <tr>
                             <td><a href="/move/{{ mv.ID }}">{{ mv.name.title() }}</a></td>
                             <td data-value="{{ mv.m_type }}">
-                                <a href="/type/{{ 12 }}">
+                                <a href="/type/{{ mv.m_type_id }}">
                                 <img class="move-sprite" src="/static/img/moves/{{ mv.m_type + "_text.png" }}">
                             </a>
                             </td>
