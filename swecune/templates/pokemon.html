@@ -47,7 +47,7 @@
             </div>
         </div>
 
-        <div id=moves>
+        <div id="moves">
             <div id="pokemon">
                 <script src="/static/js/sortable.min.js"></script>
                 <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
@@ -64,8 +64,11 @@
                     <tbody>
                     {% for mv in moves %}
                         <tr>
-                            <td>{{ mv.name.title() }}</td>
-                            <td data-value="{{ mv.m_type }}"><img src="/static/img/moves/{{ mv.m_type + "_text.png" }}">
+                            <td><a href="/move/{{ mv.ID }}">{{ mv.name.title() }}</a></td>
+                            <td data-value="{{ mv.m_type }}">
+                                <a href="/type/{{ 12 }}">
+                                <img class="move-sprite" src="/static/img/moves/{{ mv.m_type + "_text.png" }}">
+                            </a>
                             </td>
                             <td>{{ mv.power }}</td>
                             <td>{{ mv.accuracy }}</td>

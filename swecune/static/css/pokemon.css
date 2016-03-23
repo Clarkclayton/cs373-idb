@@ -45,3 +45,7 @@ th:nth-of-type(2) {
 .poke-container {
     padding: 3%;
 }
+
+.move-sprite {
+    height: 80px;
+}
