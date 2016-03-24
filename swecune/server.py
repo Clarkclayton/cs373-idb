@@ -1,8 +1,6 @@
 import json
 from collections import OrderedDict
 
-import logging
-
 from flask import Flask, render_template
 
 import Models
@@ -150,9 +148,10 @@ def type_all():
 def move_all():
     return render_template('moves_all.html', moves=moves_dict.values())
 
+
 @app.errorhandler(404)
 def page_not_found(error):
-    #app.logger.error('Page Not Found: %s', (request.path))
+    # app.logger.error('Page Not Found: %s', (request.path))
     return render_template('404.html'), 404
 
 
