@@ -1,3 +1,6 @@
+import os, sys
+sys.path.append(os.path.join(os.path.dirname(__file__), "swecune/"))
+
 from swecune.server import db
 
 pokemon_move = db.Table('pokemon_move',
@@ -24,7 +27,12 @@ type_3 = db.Table('type_3',
                   db.Column('type_2', db.Integer, db.ForeignKey('type2.id'))
                   )
 
-
+"""
+Model for Pokemon.
+This represents the metadata relating to a given Pokemon.
+There exists a many to 1..2 relationship from Pokemon to Type.
+There exists a many to many relationship from Pokemon to Move.
+"""
 class Pokemon(db.Model):
     __tablename__ = 'pokemon'
 
@@ -57,7 +65,12 @@ class Pokemon(db.Model):
         self.secondary_type = secondary
         self.moves = moves
 
-
+"""
+Model for Move.
+This represents the metadata relating to a given Move that pokemon can have.
+There exists a 1 to many relationship from Type to Move.
+There exists a many to many relationship from Move to Pokemon.
+"""
 class Move(db.Model):
     __tablename__ = 'move'
 
@@ -81,6 +94,13 @@ class Move(db.Model):
         self.move_type = move_type
 
 
+"""
+Model for Type.
+This represents the metadata relating to a given Type that a Pokemon and Move can have.
+There exists a many to many relationship from Type to Type.
+There exists a 1..2 to many relationship from Type to Pokemon.
+There exists a 1 to many relationship from Type to Move.
+"""
 class Type(db.Model):
     __tablename__ = 'type'
 
