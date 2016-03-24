@@ -19,6 +19,12 @@ p {
 .jumbotron {
     color: black;
     font-size: 1em;
+    height: 100%;
+    width: 100%;
+}
+
+.jumbotron p {
+    font-size: 1em;
 }
 
 #space {
@@ -26,7 +32,9 @@ p {
 }
 
 .profilePic {
+    width: 200px;
     height: 200px;
-    width: auto;
+    object-fit: cover;
+    margin-bottom: 20px;
 }
 
