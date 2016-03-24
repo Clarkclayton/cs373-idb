@@ -43,7 +43,7 @@ class Pokemon(db.Model):
 
     moves = db.relationship('Move', secondary=pokemon_move, backref=db.backref('pokemon', lazy='dynamic'))
 
-    def __init__(self, id, name, hp, attack, defense, special_attack, special_defense, speed, average_stats):
+    def __init__(self, id, name, hp, attack, defense, special_attack, special_defense, speed, average_stats, primary_type, secondary_type, moves):
         self.id = id
         self.name = name
         self.hp = hp
@@ -53,6 +53,9 @@ class Pokemon(db.Model):
         self.special_defense = special_defense
         self.speed = speed
         self.average_stats = average_stats
+        self.primary_type = primary_type
+        self.secondary_type = secondary
+        self.moves = moves
 
 
 class Move(db.Model):
@@ -65,9 +68,9 @@ class Move(db.Model):
     priority = db.Column(db.Integer)
     power = db.Column(db.Integer)
     damage_class = db.Column(db.String(80), nullable=False)
-    type = db.Column(db.Integer, db.ForeignKey('type.id'))
+    move_type = db.Column(db.Integer, db.ForeignKey('type.id'))
 
-    def __init__(self, id, name, accuracy, pp, priority, power, damage_class):
+    def __init__(self, id, name, accuracy, pp, priority, power, damage_class, move_type):
         self.id = id
         self.name = name
         self.accuracy = accuracy
@@ -75,6 +78,7 @@ class Move(db.Model):
         self.priority = priority
         self.power = power
         self.damage_class = damage_class
+        self.move_type = move_type
 
 
 class Type(db.Model):
@@ -91,7 +95,10 @@ class Type(db.Model):
     strengths = db.relationship('Type', secondary=type_1, backref=db.backref('type2', lazy='dynamic'))
     weaknesses = db.relationship('Type', secondary=type_1, backref=db.backref('type2', lazy='dynamic'))
 
-    def __init__(self, id, name, generation):
+    def __init__(self, id, name, generation, immunities, strengths, weaknesses):
         self.id = id
         self.name = name
         self.generation = generation
+        self.immunities = immunities
+        self.strengths = strengths
+        self.weaknesses = weaknesses
