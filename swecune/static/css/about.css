@@ -6,6 +6,10 @@ h3 {
     color: black;
 }
 
+h5 {
+    color: black;
+}
+
 p {
     color: black;
     font-size: 1em;
@@ -15,6 +19,10 @@ p {
 .jumbotron {
     color: black;
     font-size: 1em;
+}
+
+#space {
+    padding-top: 50px;
 }
 
 .profilePic {

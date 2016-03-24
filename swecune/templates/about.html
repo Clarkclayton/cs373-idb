@@ -1,23 +1,17 @@
 {% extends "base.html" %}
 {% block content %}
-
 <link href="/static/css/type.css" rel="stylesheet" type="text/css">
 <link href="/static/css/about.css" rel="stylesheet" type="text/css">
     <div class="container">
         <div class="row"></div>
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-1"></div>
-            <div class="col-md-1"></div>
-            <div class="col-md-1"></div>
-            <div class="col-md-7">
+        <div class="row panel-body text-center">
+            <div class="col-md-12 center-block">
                 <h3>About the Trainers</h3>
             </div>
         </div>
-        <div class="row robert">
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <img class="profilePic" src="/static/img/pokemon1.png">
+        <div class="row robert panel-body text-center">
+            <div class="col-md-4 center-block">
+                <img class="profilePic img-circle" src="/static/img/pokemon1.png">
                 <h4>Robert Faulk</h4>
                 <p><b>Role: </b>Pokemon Master</p> 
                 <p><b>Git Commits: </b>33</p>
@@ -29,10 +23,9 @@
                 </div>
             </div>
         </div>
-        <div class="row dankmaster">
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <img class="profilePic" src="/static/img/pokemon4.png">
+        <div class="row dankmaster panel-body text-center">
+            <div class="col-md-4 center-block">
+                <img class="profilePic img-circle" src="/static/img/pokemon4.png">
                 <h4>Andrew Dang-Tran</h4>
                 <p><b>Role: </b>Dank Master</p>
                 <p><b>Git Commits: </b>33</p>
@@ -44,10 +37,9 @@
                 </div>
             </div>
         </div>
-        <div class="row shubham">
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <img class="profilePic" src="/static/img/fire_type.png">
+        <div class="row shubham panel-body text-center">
+            <div class="col-md-4 center-block">
+                <img class="profilePic img-circle" src="/static/img/fire_type.png">
                 <h4>Shubham Thakkar</h4>
                 <p><b>Role: </b>Food Master</p>
                 <p><b>Git Commits: </b>33</p>
@@ -59,10 +51,9 @@
                 </div>
             </div>
         </div>
-        <div class="row andrew">
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <img class="profilePic" src="/static/img/pokemon7.png">
+        <div class="row andrew panel-body text-center">
+            <div class="col-md-4 center-block">
+                <img class="profilePic img-circle" src="/static/img/pokemon7.png">
                 <h4>Andrew Chun</h4>
                 <p><b>Role: </b>PAD Master</p>
                 <p><b>Git Commits: </b>33</p>
@@ -74,10 +65,9 @@
                 </div>
             </div>
         </div>
-        <div class="row vohl">
-            <div class="col-md-1"></div>
-            <div class="col-md-3">
-                <img class="profilePic" src="/static/img/grass_type.png">
+        <div class="row vohl panel-body text-center">
+            <div class="col-md-4 center-block">
+                <img class="profilePic img-circle" src="/static/img/grass_type.png">
                 <h4>Andrew Vohl</h4>
                 <p><b>Role: </b>Cardio Master</p>
                 <p><b>Git Commits: </b>33</p>
@@ -89,17 +79,46 @@
                 </div>
             </div>
         </div>
-         <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-1"></div>
-            <div class="col-md-1"></div>
-            <div class="col-md-1"></div>
-            <div class="col-md-7">
-                <h3>Data Source</h3>
+        <div class="row panel-body text-center">
+            <div class="col-md-12 center-block">
+                <h5>Data Source</h5>
                 <a href="http://pokeapi.co">
-                    <img id="apiImage" src="/static/img class="profilePic"/favicon.ico">
+                    <p>Pokeapi.co</p>
+                    <img id="apiImage" src="/static/img/favicon.ico">
                 </a>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <div class="jumbotron">
+                    <p>Description of Scraper<p>
+                </div>
+            </div>
+        </div>
+        <div id="space" class="row panel-body text-center">
+            <div class="col-md-6 center-block">
+                <h5>Tools Used</h5>
+                <p>Bootstrap</p>
+                <p>Flask</p>
+                <p>Git</p>
+                <p>Travis-CI</p>
+            </div>
+            <div class="col-md-6 center-block">
+                <h5>Links</h5>
+                <a href="">
+                   <p>Apiary API</p>
+                </a>
+                <a href="">
+                    <p>Github Issue Tracker</p>
+                </a>
+                <a href="https://github.com/SThakkar14/cs373-idb">
+                    <p>Github Repo</p>
+                </a>
+                <a href="">
+                    <p>Github Wiki</p>
+                </a>
+            </div>
+        </div>
     </div>
-
 {% endblock %}
