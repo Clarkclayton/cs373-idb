@@ -1,15 +1,7 @@
 from unittest import main, TestCase
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker 
 
-from flask import *
-from flask import request
-from sqlalchemy import Column, ForeignKey, Integer, String, Text, Float, LargeBinary, Boolean
-
-import threading
-from flask import Flask, render_template, url_for, g, request, session, redirect, abort, flash
-
-from models import Pokemon, Types, Moves
+from models import Pokemon, Type, Move
+from swecune.server import db
 
 class tests(TestCase):
     normal_type = Type(id=1, name="normal", generation=1, immunities=[], strengths=[], weaknesses=[])
