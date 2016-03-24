@@ -1,3 +1,5 @@
+import os, sys
+
 import json
 from collections import OrderedDict
 
@@ -9,11 +11,11 @@ import Models
 app = Flask(__name__)
 db = SQLAlchemy(app)
 
-with open("static/pokemon/1.json") as fi:
+with open(os.path.join(os.path.dirname(__file__), "static/pokemon/1.json")) as fi:
     bulba_data = json.load(fi)
-with open("static/pokemon/4.json") as fi:
+with open(os.path.join(os.path.dirname(__file__), "static/pokemon/4.json")) as fi:
     char_data = json.load(fi)
-with open("static/pokemon/7.json") as fi:
+with open(os.path.join(os.path.dirname(__file__), "static/pokemon/7.json")) as fi:
     squirt_data = json.load(fi)
 
 bulbasaur = Models.Pokemon(bulba_data)
@@ -22,13 +24,13 @@ squirtle = Models.Pokemon(squirt_data)
 
 pokemon_dict = {"1": bulbasaur, "4": charmander, "7": squirtle}
 
-with open("static/type/10.json", 'r', encoding='cp866') as fi:
+with open(os.path.join(os.path.dirname(__file__), "static/type/10.json"), 'r', encoding='cp866') as fi:
     fire_data = json.load(fi)
 
-with open("static/type/11.json", 'r', encoding='cp866') as fi:
+with open(os.path.join(os.path.dirname(__file__), "static/type/11.json"), 'r', encoding='cp866') as fi:
     water_data = json.load(fi)
 
-with open("static/type/12.json", 'r', encoding='cp866') as fi:
+with open(os.path.join(os.path.dirname(__file__), "static/type/12.json"), 'r', encoding='cp866') as fi:
     grass_data = json.load(fi)
 
 fireType = Models.Types(fire_data)
@@ -50,13 +52,13 @@ grassType.immunity = [grassType]
 
 type_dict = {"10": fireType, "11": waterType, "12": grassType}
 
-with open("static/moves/33.json", 'r', encoding='cp866') as file:
+with open(os.path.join(os.path.dirname(__file__), "static/moves/33.json"), 'r', encoding='cp866') as file:
     tackle_data = json.load(file)
 
-with open("static/moves/43.json", 'r', encoding='cp866') as file:
+with open(os.path.join(os.path.dirname(__file__), "static/moves/43.json"), 'r', encoding='cp866') as file:
     leer_data = json.load(file)
 
-with open("static/moves/52.json", 'r', encoding='cp866') as file:
+with open(os.path.join(os.path.dirname(__file__), "static/moves/52.json"), 'r', encoding='cp866') as file:
     ember_data = json.load(file)
 
 tackleMove = Models.Moves(tackle_data)
