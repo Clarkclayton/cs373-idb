@@ -3,14 +3,14 @@
 {% block content %}
     <link href="/static/css/type.css" rel="stylesheet" type="text/css">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div id="type_img">
-                    <img src="/static/img/{{ ty.name + "_type.png" }}">
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-3" id="move_type">
+                    <!-- -->
+                    <img id="type-img" src="/static/img/{{ ty.name + "_type.png" }}">
                 </div>
-            </div>
-            <div class="col-md-6">
-                <div id="type_metadata">
+                <div class="col-md-1"></div>
+                <div class="col-md-4" id="move_metadata">
                     <div class="panel panel-default">
                         <div class="panel-heading"><img id="img_type_text"
                                                         src="/static/img/moves/{{ ty.name + "_text.png" }}">
@@ -34,8 +34,8 @@
                         </table>
                     </div>
                 </div>
+                <div class="col-md-2"></div>
             </div>
-        </div>
 
         <div class="row">
             <div class=".col-md-12">
