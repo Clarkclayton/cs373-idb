@@ -9,7 +9,7 @@ FILES :=                            \
 	tests.py 						\
 	UML.pdf
 
-models.html: Models.py
+models.html: models.py
 	pydoc3 -w models
 
 IDB1.log:
