@@ -1,80 +1,285 @@
 FORMAT: 1A
-HOST: http://polls.apiblueprint.org/
+HOST: http://swecune.com
 
-# SWEcune
+#SWEcune
 
-SWEcune provides a consumable API to view detailed information about Pokemon and pokemon related information
+SWEcune provides a consumable API to view detailed information about Pokemon and related information such as moves and types.
 
-## Questions Collection [/questions]
+##Pokemon [/pokemon]
 
-### List All Questions [GET]
+## List all Pokemon [GET]
 
-+ Response 200 (application/json)
++ Response 200 (appolication/json)
 
         [
             {
-                "question": "Favourite programming language?",
-                "published_at": "2015-08-05T08:40:51.620Z",
-                "choices": [
+                "id": 1,
+                "name": "bulbasaur",
+                "stats": [
                     {
-                        "choice": "Swift",
-                        "votes": 2048
-                    }, {
-                        "choice": "Python",
-                        "votes": 1024
-                    }, {
-                        "choice": "Objective-C",
-                        "votes": 512
-                    }, {
-                        "choice": "Ruby",
-                        "votes": 256
+                        "base_stat": 45,
+                        "name": "speed"
+                    },
+                    {
+                        "base_stat": 65,
+                        "name": "special-defense"
+                    },
+                    {
+                        "base_stat": 65,
+                        "name": "special-attack"
+                    },
+                    {
+                        "base_stat": 49,
+                        "name": "defense"
+                    },
+                    {
+                        "base_stat": 49,
+                        "name": "attack"
+                    },
+                    {
+                        "base_stat": 45,
+                        "name": "hp"
+                    }
+                ],
+                "primary_types": 12,
+                "secondary_types": 4,
+                "average_stats": 3,
+                "move": [
+                    {
+                        "name": "vine-whip",
+                        "id": 22
+                    },
+                    {
+                        "name": "headbutt",
+                        "id": 29
+                    },
+                ]
+            },
+            {
+                "id": 2,
+                "name": "ivysaur",
+                "stats": [
+                    {
+                        "base_stat": 60,
+                        "name": "speed"
+                    },
+                    {
+                        "base_stat": 80,
+                        "name": "special-defense"
+                    },
+                    {
+                        "base_stat": 80,
+                        "name": "special-attack"
+                    },
+                    {
+                        "base_stat": 63,
+                        "name": "defense"
+                    },
+                    {
+                        "base_stat": 62,
+                        "name": "attack"
+                    },
+                    {
+                        "base_stat": 60,
+                        "name": "hp"
+                    }
+                ],
+                "primary_types": 12,
+                "secondary_types": 4,
+                "average_stats": 2,
+                "move": [
+                    {
+                        "name": "swords-dance",
+                        "id": 14
+                    },
+                    {
+                        "name": "cut",
+                        "id": 15
                     }
                 ]
             }
         ]
 
-### Create a New Question [POST]
+## One Pokemon [/pokemon/{pokemon_id}]
 
-You may create your own question using this action. It takes a JSON
-object containing a question and a collection of answers in the
-form of choices.
++ Parameters
+    + pokemon_id (number) - ID of the Pokemon in the form of an integer
 
-+ Request (application/json)
+### Information on one Pokemon [GET]
+
++ Response 200 (application/json)
 
         {
-            "question": "Favourite programming language?",
-            "choices": [
-                "Swift",
-                "Python",
-                "Objective-C",
-                "Ruby"
+            "id": 1,
+            "name": "bulbasaur",
+            "stats": [
+                {
+                    "base_stat": 45,
+                    "name": "speed"
+                },
+                {
+                    "base_stat": 65,
+                    "name": "special-defense"
+                },
+                {
+                    "base_stat": 65,
+                    "name": "special-attack"
+                },
+                {
+                    "base_stat": 49,
+                    "name": "defense"
+                },
+                {
+                    "base_stat": 49,
+                    "name": "attack"
+                },
+                {
+                    "base_stat": 45,
+                    "name": "hp"
+                }
+            ],
+            "primary_types": 12,
+            "secondary_types": 4,
+            "average_stats": 3,
+            "move": [
+                {
+                    "name": "vine-whip",
+                    "id": 22
+                },
+                {
+                    "name": "headbutt",
+                    "id": 29
+                }
             ]
         }
 
-+ Response 201 (application/json)
+## Move [/move]
 
-    + Headers
+### List all Moves [GET]
 
-            Location: /questions/2
++ Response 200 (application/json)
 
-    + Body
-
+        [
             {
-                "question": "Favourite programming language?",
-                "published_at": "2015-08-05T08:40:51.620Z",
-                "choices": [
+                "id": 1,
+                "name": "pound",
+                "accuracy": 100,
+                "pp": 35,
+                "priority": 0,
+                "power": 40,
+                "damage_class": "physical",
+                "move_type": "normal"
+            },
+            {
+                "id": 2,
+                "name": "karate-chop",
+                "accuracy": 100,
+                "pp": 25,
+                "priority": 0,
+                "power": 50,
+                "damage_class": "physical",
+                "move_type": "fighting"
+            }
+        ]
+
+
+## One Move [/move/{move_id}]
+
++ Parameters
+    + move_id (number) - ID of the move in the form of an integer
+
+### Information on one Pokemon [GET]
+
++ Response 200 (application/json)
+
+
+        {
+            "id": 1,
+            "name": "pound",
+            "accuracy": 100,
+            "pp": 35,
+            "priority": 0,
+            "power": 40,
+            "damage_class": "physical",
+            "move_type": "normal"
+        }
+
+
+## Type [/type]
+
+### List all types [GET]
+
++ Response 200(application/json)
+
+        [
+            {
+                "id": 1,
+                "name": "normal",
+                "resistance": [
                     {
-                        "choice": "Swift",
-                        "votes": 0
-                    }, {
-                        "choice": "Python",
-                        "votes": 0
-                    }, {
-                        "choice": "Objective-C",
-                        "votes": 0
-                    }, {
-                        "choice": "Ruby",
-                        "votes": 0
+                        "id": 8
+                    }
+                ],
+                "strength": [
+                    {
+                        "id": 6
+                    },
+                    {
+                        "id": 9
+                    }
+                ],
+                "immunity": []
+                "generation": 1
+            },
+            {
+                "id": 2,
+                "name": "fighting",
+                "resistance": [
+                    {
+                        "id": 8
+                    }
+                ],
+                "strength": [
+                    {
+                        "id": 3
+                    }
+                ],
+                "immunity": [
+                    {
+                        "id": 4
                     }
                 ]
+                "generation": 1
             }
+        ]
+
+
+## One type [/type/{type_id}]
+
++ Parameters
+    + type_id (number) - ID of the type in the form of an integer
+
+### Information on one type [GET]
+
++ Response 200(application/json)
+
+
+        {
+            "id": 1,
+            "name": "normal",
+            "resistance": [
+                {
+                    "id": 8
+                }
+            ],
+            "strength": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 9
+                }
+            ],
+            "immunity": []
+            "generation": 1
+        }
