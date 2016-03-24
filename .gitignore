@@ -2,3 +2,9 @@ __pycache__
 .idea
 .coverage
 *.tmp
+*.swp
+.DS_Store
+swecluster
+.DS_Store
+flask
+install.sh

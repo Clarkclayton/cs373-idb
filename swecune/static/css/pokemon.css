@@ -1,0 +1,43 @@
+#poke-thumbnail {
+    border-radius: 5px;
+    border-width: 8px;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#poke-moves {
+    width: 100%;
+}
+
+#moves-table {
+    width: 100%;
+}
+
+tr {
+   line-height: 10px;
+   min-height: 10px;
+   height: 10px;
+}
+
+table {
+    color: black;
+}
+
+th:nth-of-type(2) {
+    font-weight: normal;
+}
+
+.poke-header {
+    display: inline-block;
+    width: 100%;
+}
+
+.poke-container {
+    padding: 3%;
+}
+
+.move-sprite {
+    width: 80px;
+}

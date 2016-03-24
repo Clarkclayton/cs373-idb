@@ -1,0 +1,25 @@
+table {
+    color: black;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+}
+
+td, th {
+    text-align: center !important;
+}
+
+.type-sprite {
+    width: 80px !important;
+}
+
+#move_type_text_img {
+    width: 80px;
+    height: auto;
+}
+
+#img_type_text {
+    width: 80px;
+    height: auto;
+}
