@@ -169,6 +169,10 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
                 "power": 40,
                 "damage_class": "physical",
                 "move_type": "normal"
+                "pokemon" : [
+                    1,
+                    2
+                ]
             },
             {
                 "id": 2,
@@ -179,6 +183,10 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
                 "power": 50,
                 "damage_class": "physical",
                 "move_type": "fighting"
+                "pokemon" : [
+                    1,
+                    2
+                ]
             }
         ]
 
@@ -188,7 +196,7 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
 + Parameters
     + move_id (number) - ID of the move in the form of an integer
 
-### Information on one Pokemon [GET]
+### Information on one Move [GET]
 
 + Response 200 (application/json)
 
@@ -202,6 +210,10 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
             "power": 40,
             "damage_class": "physical",
             "move_type": "normal"
+            "pokemon" : [
+                    1,
+                    2
+            ]
         }
 
 
@@ -216,40 +228,36 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
                 "id": 1,
                 "name": "normal",
                 "resistance": [
-                    {
-                        "id": 8
-                    }
+                    8
                 ],
                 "strength": [
-                    {
-                        "id": 6
-                    },
-                    {
-                        "id": 9
-                    }
+                    6,
+                    9
                 ],
                 "immunity": []
                 "generation": 1
+                "pokemon" : [
+                    1,
+                    2
+                ]
             },
             {
                 "id": 2,
                 "name": "fighting",
                 "resistance": [
-                    {
-                        "id": 8
-                    }
+                    8
                 ],
                 "strength": [
-                    {
-                        "id": 3
-                    }
+                    3
                 ],
                 "immunity": [
-                    {
-                        "id": 4
-                    }
+                    4
                 ]
                 "generation": 1
+                "pokemon" : [
+                    1,
+                    2
+                ]
             }
         ]
 
@@ -268,18 +276,16 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
             "id": 1,
             "name": "normal",
             "resistance": [
-                {
-                    "id": 8
-                }
+                8
             ],
             "strength": [
-                {
-                    "id": 6
-                },
-                {
-                    "id": 9
-                }
+                6,
+                9
             ],
             "immunity": []
             "generation": 1
+            "pokemon" : [
+                1,
+                2
+            ]
         }
