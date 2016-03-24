@@ -1,78 +1,97 @@
-from abc import ABCMeta, abstractmethod
+from swecune.server import db
+
+pokemon_move = db.Table('pokemon_move',
+                        db.Column('id', db.Integer, primary_key=True),
+                        db.Column('pokemon_id', db.Integer, db.ForeignKey('pokemon.id')),
+                        db.Column('move_id', db.Integer, db.ForeignKey('move.id'))
+                        )
+
+type_1 = db.Table('type_1',
+                  db.Column('id', db.Integer, primary_key=True),
+                  db.Column('type_1', db.Integer, db.ForeignKey('type.id')),
+                  db.Column('type_2', db.Integer, db.ForeignKey('type2.id'))
+                  )
+
+type_2 = db.Table('type_2',
+                  db.Column('id', db.Integer, primary_key=True),
+                  db.Column('type_1', db.Integer, db.ForeignKey('type.id')),
+                  db.Column('type_2', db.Integer, db.ForeignKey('type2.id'))
+                  )
+
+type_3 = db.Table('type_3',
+                  db.Column('id', db.Integer, primary_key=True),
+                  db.Column('type_1', db.Integer, db.ForeignKey('type.id')),
+                  db.Column('type_2', db.Integer, db.ForeignKey('type2.id'))
+                  )
 
 
-class Base(metaclass=ABCMeta):
-    @abstractmethod
-    def __init__(self, pd):
-        print (pd['id'])
+class Pokemon(db.Model):
+    __tablename__ = 'pokemon'
+
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(80), unique=True, nullable=False)
+    hp = db.Column(db.Integer)
+    attack = db.Column(db.Integer)
+    defense = db.Column(db.Integer)
+    special_attack = db.Column(db.Integer)
+    special_defense = db.Column(db.Integer)
+    speed = db.Column(db.Integer)
+    average_stats = db.Column(db.Integer)
+
+    primary_type = db.Column(db.Integer, db.ForeignKey('type.id'))
+    secondary_type = db.Column(db.Integer, db.ForeignKey('type.id'))
+
+    moves = db.relationship('Move', secondary=pokemon_move, backref=db.backref('pokemon', lazy='dynamic'))
+
+    def __init__(self, id, name, hp, attack, defense, special_attack, special_defense, speed, average_stats):
+        self.id = id
+        self.name = name
+        self.hp = hp
+        self.attack = attack
+        self.defense = defense
+        self.special_attack = special_attack
+        self.special_defense = special_defense
+        self.speed = speed
+        self.average_stats = average_stats
 
 
-class Types(Base):
-    def __init__(self, pd):
-        super().__init__(pd)
-        self.ID = pd['id']
-        self.name = pd['name']
-        self.resistance = None  # TODO: Which ones are these?
-        self.strength = None  # TODO: Which ones are these?
-        self.immunity = None  # TODO: Which ones are these?
-        self.generation = id_from_url(pd['generation']['url'])
+class Move(db.Model):
+    __tablename__ = 'move'
+
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(80), unique=True, nullable=False)
+    accuracy = db.Column(db.Integer)
+    pp = db.Column(db.Integer)
+    priority = db.Column(db.Integer)
+    power = db.Column(db.Integer)
+    damage_class = db.Column(db.String(80), nullable=False)
+    type = db.Column(db.Integer, db.ForeignKey('type.id'))
+
+    def __init__(self, id, name, accuracy, pp, priority, power, damage_class):
+        self.id = id
+        self.name = name
+        self.accuracy = accuracy
+        self.pp = pp
+        self.priority = priority
+        self.power = power
+        self.damage_class = damage_class
 
 
-class Pokemon(Base):
-    def __init__(self, pd):
-        super().__init__(pd)
-        self.ID = pd['id']
-        self.name = pd['name']
-        #self.pType1 = id_from_url(pd['types'][0]['type']['url'])  # TODO: Do we want to completely normalize this?
-        #self.pType2 = id_from_url(pd['types'][1]['type']['url']) if len(pd['types']) > 1 else None
-        #for static page
-        self.pType1 = pd['types'][0]['type']['name']  # TODO: Do we want to completely normalize this?
-        self.pType2 = pd['types'][1]['type']['name'] if len(pd['types']) > 1 else None
-        self.heldItem = []  # TODO: fix this
-        self.encounter = []  # TODO: fix this
-        self.move = [id_from_url(move['move']['url']) for move in pd['moves']]
-        self.sprite = pd['sprites']['front_default']
-        self.baseStats = {st['stat']['name']: st['base_stat'] for st in pd['stats']}
-        self.evolvesInto = None  # TODO: fix this
-        self.evolvesFrom = None  # TODO: fix this
+class Type(db.Model):
+    __tablename__ = 'type'
 
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(80), unique=True, nullable=False)
+    generation = db.Column(db.Integer)
 
-class Location(Base):
-    def __init__(self, pd):
-        super().__init__(pd)
-        self.ID = pd['id']
-        self.name = find_english_version(pd['names'], 'name')
-        self.region = id_from_url(pd['region']['url']) if pd['region'] is not None else None
+    moves = db.relationship('Move', backref='type', lazy='dynamic')
+    pokemon = db.relationship('Pokemon', backref='type', lazy='dynamic')
 
+    immunities = db.relationship('Type', secondary=type_1, backref=db.backref('type2', lazy='dynamic'))
+    strengths = db.relationship('Type', secondary=type_1, backref=db.backref('type2', lazy='dynamic'))
+    weaknesses = db.relationship('Type', secondary=type_1, backref=db.backref('type2', lazy='dynamic'))
 
-class Moves(Base):
-    def __init__(self, pd):
-        super().__init__(pd)
-        self.ID = pd['id']
-        self.name = pd['name']
-        self.accuracy = pd['accuracy']
-        self.pp = pd['accuracy']
-        self.priority = pd['priority']
-        self.power = pd['power']
-        self.dmg_class = pd['damage_class']['name']
-        self.m_type = pd['type']['name']
-
-
-class Item(Base):
-    def __init__(self, pd):
-        super().__init__(pd)
-        self.ID = pd['id']
-        self.name = pd['name']
-        self.cost = pd['cost']
-        self.sprite = pd['sprites']['default']
-        self.flavor_text = find_english_version(pd['flavor_text_entries'], 'text')
-
-
-def find_english_version(list_entries, key_attr):
-    for item in list_entries:
-        if item['language']['name'] == 'en':
-            return item[key_attr]
-
-
-def id_from_url(full_url):
-    return full_url.split('/')[-2]
+    def __init__(self, id, name, generation):
+        self.id = id
+        self.name = name
+        self.generation = generation

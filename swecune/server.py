@@ -2,10 +2,12 @@ import json
 from collections import OrderedDict
 
 from flask import Flask, render_template
+from flask_sqlalchemy import SQLAlchemy
 
 import Models
 
 app = Flask(__name__)
+db = SQLAlchemy(app)
 
 with open("static/pokemon/1.json") as fi:
     bulba_data = json.load(fi)
