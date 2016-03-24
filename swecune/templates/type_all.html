@@ -18,7 +18,7 @@
         <tbody>
         {% for ty in type_list %}
         <tr>
-            <td><img class="type-sprite" src="/static/img/fire_type.png"></td>
+            <td><img class="type-sprite" src="/static/img/{{ ty.name+ "_type.png" }}"></td>
             <td><a href="/type/{{ ty.ID }}">{{ ty.name.title() }}</a></td>
             <td>{{ ty.ID + 134 }}</td>
             <td>{{ ty.ID + 56 }}</td>
