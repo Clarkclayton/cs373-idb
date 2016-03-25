@@ -7,7 +7,7 @@ services:
     extends:
       file: docker-compose-common.yml
       service: lb
-    image: etoews/pythonwebapp_lb
+    image: sthakkar14/swecune
     environment:
       # Always deploy to n1 so the lb always has the same IP address. This is
       # just for convenience and isn't strictly necessary.
@@ -16,12 +16,12 @@ services:
   app:
     extends:
       file: docker-compose-common.yml
-      service: swecune
-    image: etoews/pythonwebapp_app
+      service: app
+    image: sthakkar/swecune
     expose:
       # Expose port 8000 so it's only visibile on the container, not the host
       - "8000"
-    env_file: pythonwebapp-mysql-prod.env
+    env_file: swecluster/docker.env
     command: gunicorn server:app --bind 0.0.0.0:8000
       # Run Gunicorn to serve app requests
 
