@@ -1,4 +1,6 @@
-import os, sys
+import os
+import sys
+
 sys.path.append(os.path.join(os.path.dirname(__file__), "swecune/"))
 
 from swecune.server import db
@@ -33,6 +35,8 @@ This represents the metadata relating to a given Pokemon.
 There exists a many to 1..2 relationship from Pokemon to Type.
 There exists a many to many relationship from Pokemon to Move.
 """
+
+
 class Pokemon(db.Model):
     __tablename__ = 'pokemon'
 
@@ -51,7 +55,8 @@ class Pokemon(db.Model):
 
     moves = db.relationship('Move', secondary=pokemon_move, backref=db.backref('pokemon', lazy='dynamic'))
 
-    def __init__(self, id, name, hp, attack, defense, special_attack, special_defense, speed, average_stats, primary_type, secondary_type, moves):
+    def __init__(self, id, name, hp, attack, defense, special_attack, special_defense, speed, average_stats,
+                 primary_type, secondary_type, moves):
         self.id = id
         self.name = name
         self.hp = hp
@@ -62,8 +67,9 @@ class Pokemon(db.Model):
         self.speed = speed
         self.average_stats = average_stats
         self.primary_type = primary_type
-        self.secondary_type = secondary
+        self.secondary_type = secondary_type
         self.moves = moves
+
 
 """
 Model for Move.
@@ -71,6 +77,8 @@ This represents the metadata relating to a given Move that pokemon can have.
 There exists a 1 to many relationship from Type to Move.
 There exists a many to many relationship from Move to Pokemon.
 """
+
+
 class Move(db.Model):
     __tablename__ = 'move'
 
@@ -101,6 +109,8 @@ There exists a many to many relationship from Type to Type.
 There exists a 1..2 to many relationship from Type to Pokemon.
 There exists a 1 to many relationship from Type to Move.
 """
+
+
 class Type(db.Model):
     __tablename__ = 'type'
 
