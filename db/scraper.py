@@ -1,6 +1,5 @@
-import requests
-
 import Models
+import requests
 
 endpoints = {'type': 'Types', 'pokemon': 'Pokemon', 'location': 'Location', 'move': 'Moves', 'item': 'Item'}
 
@@ -25,7 +24,8 @@ def main():
         print(class_name)
 
     for key, value in all_data.items():
-        print (str(key) + ': ' + str(len(value)))
+        print(str(key) + ': ' + str(len(value)))
+
 
 if __name__ == '__main__':
     main()
