@@ -3,7 +3,7 @@ import sys
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "swecune/"))
 
-from swecune.server import db
+from app.app import db
 
 pokemon_move = db.Table('pokemon_move',
                         db.Column('id', db.Integer, primary_key=True),
