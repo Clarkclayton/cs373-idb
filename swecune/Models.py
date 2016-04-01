@@ -43,7 +43,6 @@ class Pokemon(Base):
             self.pType1, self.pType2 = self.pType2, self.pType1
             self.pTypeId1, self.pTypeId2 = self.pTypeId2, self.pTypeId1
 
-
 class Moves(Base):
     def __init__(self, pd):
         super().__init__(pd)

@@ -7,6 +7,11 @@ from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 
 import Models
+import ourModels
+
+sys.path.append(os.path.join(os.path.dirname(__file__), "../."))
+
+import models
 
 app = Flask(__name__)
 db = SQLAlchemy(app)
@@ -158,6 +163,47 @@ def page_not_found(error):
     # app.logger.error('Page Not Found: %s', (request.path))
     return render_template('404.html'), 404
 
+
+"""
+Andrew's API code here
+"""
+
+def convert_to_dict(model):
+    return OrderedDict({key: value for key, value in model.__dict__.items()})
+
+@app.route('/api/pokemon', methods=['GET'])
+def all_pokemon():
+    return 'all_pokemon'
+
+
+@app.route('/api/pokemon/<pokemon_id>', methods=['GET'])
+def one_pokemon(pokemon_id):
+    pokemon = ourModels.Pokemon.get_pokemon(pokemon_id)
+
+    return str(json.dumps(convert_to_dict(pokemon)))
+
+
+@app.route('/api/move', methods=['GET'])
+def all_move():
+    return 'all_move'
+
+
+@app.route('/api/move/<move_id>', methods=['GET'])
+def one_move(move_id):
+    move = ourModels.Move.get_move(move_id)
+
+    return str(json.dumps(convert_to_dict(move)))
+
+@app.route('/api/type', methods=['GET'])
+def all_type():
+    return 'all_type'
+
+
+@app.route('/api/type/<type_id>', methods=['GET'])
+def one_type(type_id):
+    my_type = ourModels.Type.get_type(type_id)
+
+    return str(json.dumps(convert_to_dict(my_type)))
 
 @app.route('/about')
 def about():

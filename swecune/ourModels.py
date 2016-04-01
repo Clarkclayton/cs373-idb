@@ -22,6 +22,10 @@ class Pokemon():
         self.secondary_type = secondary_type
         self.moves = moves
 
+    @staticmethod
+    def get_pokemon(id):
+        return Pokemon(id=1, name="Foo", hp=1, attack=1, defense=1, special_attack=1, special_defense=1, speed=1, average_stats=1, primary_type=None, secondary_type=None, moves=[2])
+
 
 """
 Model for Move.
@@ -42,6 +46,10 @@ class Move():
         self.damage_class = damage_class
         self.move_type = move_type
 
+    @staticmethod
+    def get_move(id):
+        return Move(id=1, name="bitch slap", accuracy=100, pp=50, priority=0, power=50, damage_class="special", move_type=1)
+
 
 """
 Model for Type.
@@ -60,3 +68,7 @@ class Type():
         self.immunities = immunities
         self.strengths = strengths
         self.weaknesses = weaknesses
+
+    @staticmethod
+    def get_type(id):
+        return Type(id=1, name="Fire", generation=1, immunities=[1, 2], strengths=[3, 4], weaknesses=[5, 6])

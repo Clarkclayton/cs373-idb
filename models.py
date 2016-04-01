@@ -70,6 +70,23 @@ class Pokemon(db.Model):
         self.secondary_type = secondary_type
         self.moves = moves
 
+    @staticmethod
+    def get_pokemon(id):
+        return {
+            "id": 1,
+            "name" : "bulbasaur",
+            "hp" : 1,
+            "attack" : 1,
+            "defense" : 1,
+            "special_attack" : 1,
+            "special_defense": 1,
+            "speed" : 1,
+            "average_stats" : 1,
+            "primary_type" : 1,
+            "secondary_type" : 2,
+            "moves" : [1, 4, 2]
+        }
+
 
 """
 Model for Move.
