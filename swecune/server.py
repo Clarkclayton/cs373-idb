@@ -11,6 +11,7 @@ import Models
 app = Flask(__name__)
 db = SQLAlchemy(app)
 
+
 with open(os.path.join(os.path.dirname(__file__), "static/pokemon/1.json")) as fi:
     bulba_data = json.load(fi)
 with open(os.path.join(os.path.dirname(__file__), "static/pokemon/4.json")) as fi:
