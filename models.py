@@ -231,4 +231,6 @@ class Type(Base):
             s = select([Type, table]).where(and_(self.id == table.c.origin, self.id == Type.id))
             dictified[name] = [type.opposing for type in engine.execute(s)]
 
+        dictified['moves'] = [move.id for move in self.move_type]
+
         return dictified
