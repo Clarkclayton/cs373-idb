@@ -1,10 +1,11 @@
+import json
+
 from flask import Flask
+from flask import render_template
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 from models import *
-import json
-
 
 app = Flask(__name__)
 dialect = 'mysql+pymysql'
@@ -20,11 +21,19 @@ Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine, autocommit=True)
 session = Session()
 
+
 @app.route('/test')
 def test():
     x = session.query(Pokemon).filter(Pokemon.name == 'bulbasaur').all()
-    print (x)
+    print(x)
     return json.dumps([{'name': y.name, 'id': y.id,} for y in x])
+
+
+@app.route('/test/1')
+def test2():
+    x = session.query(Pokemon).filter(Pokemon.id == 1).one()
+    print(x)
+    return json.dumps({'name': x.name, 'id': x.id})
 
 
 # with open(os.path.join(os.path.dirname(__file__), "static/pokemon/1.json")) as fi:
@@ -96,10 +105,12 @@ def test():
 #     return type_dict
 #
 #
-# @app.route('/')
-# @app.route('/index')
-# def index():
-#     return render_template('index.html')
+@app.route('/')
+@app.route('/index')
+def index():
+    return render_template('index.html')
+
+
 #
 #
 # @app.route('/pokemon/<pokemon_number>')
@@ -169,15 +180,15 @@ def test():
 #     return render_template('moves_all.html', moves=moves_dict.values())
 #
 #
-# @app.errorhandler(404)
-# def page_not_found(error):
-#     # app.logger.error('Page Not Found: %s', (request.path))
-#     return render_template('404.html'), 404
-#
-#
-# @app.route('/about')
-# def about():
-#     return render_template('about.html')
+@app.errorhandler(404)
+def page_not_found(error):
+    # app.logger.error('Page Not Found: %s', (request.path))
+    return render_template('404.html'), 404
+
+
+@app.route('/about')
+def about():
+    return render_template('about.html')
 
 
 if __name__ == '__main__':
