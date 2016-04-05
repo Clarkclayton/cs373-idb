@@ -56,7 +56,10 @@ def api_pokemon(pokemon_id):
 
 @app.route('/api/move')
 def api_moves():
-    moves_dictified = [move.dictify() for move in session.query(Move).all()]
+    offset = request.args.get('offset') if request.args.get('offset') != None else 0
+    moves_per_page = request.args.get('moves_per_page') if request.args.get('moves_per_page') else 10
+
+    moves_dictified = [move.dictify() for move in session.query(Move).limit(moves_per_page).offset(offset).all()]
     return json.dumps(moves_dictified)
 
 @app.route('/api/move/<move_id>')
