@@ -1,6 +1,17 @@
-from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint
+from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint, create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
+from sqlalchemy.sql import select, and_
+
+from collections import OrderedDict
+
+dialect = 'mysql+pymysql'
+username = 'guestbook-user'
+password = 'guestbook-user-password'
+host = '104.130.22.72'
+port = '3306'
+database = 'guestbook'
+engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
 
 Base = declarative_base()
 
@@ -85,6 +96,38 @@ class Pokemon(Base):
         self.speed = speed
         self.average_stats = average_stats
 
+    def dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name
+        dictified['stats'] = [
+            {
+                'base_stat': self.speed,
+                'name': 'speed'
+            }, {
+                'base_stat': self.special_defense,
+                'name': 'special_defense'
+            }, {
+                'base_stat': self.special_attack,
+                'name': 'special_attack'
+            }, {
+                'base_stat': self.defense,
+                'name': 'defense'
+            }, {
+                'base_stat': self.attack,
+                'name': 'attack'
+            }, {
+                'base_stat': self.hp,
+                'name': 'hp'
+            }
+        ]
+        dictified['primary_type'] = self.primary_type.id
+        dictified['secondary_type'] = None if self.secondary_type == None else self.secondary_type.id
+        dictified['average_stats'] = self.average_stats
+        dictified['moves'] = [move.id for move in self.moves]
+
+        return dictified
+
 
 class Move(Base):
     __tablename__ = 'move'
@@ -109,6 +152,21 @@ class Move(Base):
         self.priority = priority,
         self.power = power,
         self.damage_class = damage_class
+
+    def dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name
+        dictified['accuracy'] = self.accuracy
+        dictified['pp'] = self.pp
+        dictified['priority'] = self.priority
+        dictified['power'] = self.power
+        dictified['damage_class'] = self.damage_class
+        dictified['move_type'] = self.type_id
+        dictified['pokemon'] = [pk.id for pk in self.pokemon]
+
+        return dictified
+
 
 
 class Type(Base):
@@ -159,3 +217,18 @@ class Type(Base):
         self.id = id,
         self.name = name,
         self.generation = generation
+
+    def dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name
+        dictified['generation'] = self.generation
+
+        tables = [double_damage_to, double_damage_from, half_damage_to, half_damage_from, no_damage_to, no_damage_from]
+        table_names = ['double_damage_to', 'double_damage_from', 'half_damage_to', 'half_damage_from', 'no_damage_to', 'no_damage_from']
+
+        for table, name in zip(tables, table_names):
+            s = select([Type, table]).where(and_(self.id == table.c.origin, self.id == Type.id))
+            dictified[name] = [type.opposing for type in engine.execute(s)]
+
+        return dictified

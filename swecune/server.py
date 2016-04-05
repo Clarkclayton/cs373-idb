@@ -1,9 +1,12 @@
 import json
+import sys
 
 from flask import Flask
 from flask import render_template
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+
+sys.path.append("../.")
 
 from models import *
 
@@ -34,6 +37,40 @@ def test2():
     x = session.query(Pokemon).filter(Pokemon.id == 1).one()
     print(x)
     return json.dumps({'name': x.name, 'id': x.id})
+
+"""
+Andrew's API Stuff here
+"""
+
+@app.route('/api/pokemon')
+def api_pokemons():
+    pokemons_dictified = [pokemon.dictify() for pokemon in session.query(Pokemon).all()]
+    return json.dumps(pokemons_dictified)
+
+@app.route('/api/pokemon/<pokemon_id>')
+def api_pokemon(pokemon_id):
+    pokemon_dictified = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first().dictify()
+    return json.dumps(pokemon_dictified)
+
+@app.route('/api/move')
+def api_moves():
+    moves_dictified = [move.dictify() for move in session.query(Move).all()]
+    return json.dumps(moves_dictified)
+
+@app.route('/api/move/<move_id>')
+def api_move(move_id):
+    move_dictified = session.query(Move).filter(Move.id == move_id).first().dictify()
+    return json.dumps(move_dictified)
+
+@app.route('/api/type')
+def api_types():
+    types_dictified = [type.dictify() for type in session.query(Type).all()]
+    return json.dumps(types_dictified)
+
+@app.route('/api/type/<type_id>')
+def api_type(type_id):
+    type_dictified = session.query(Type).filter(Type.id == type_id).first().dictify()
+    return json.dumps(type_dictified)
 
 
 # with open(os.path.join(os.path.dirname(__file__), "static/pokemon/1.json")) as fi:

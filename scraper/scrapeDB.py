@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 from db.Factory import Factory, pokemon, types, moves
-from models import Base
+from db.models import Base
 
 # dialect = 'mysql+pymysql'
 # username = 'root'
