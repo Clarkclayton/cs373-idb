@@ -99,7 +99,7 @@ class Pokemon(Base):
     def dictify(self):
         dictified = OrderedDict()
         dictified['id'] = self.id
-        dictified['name'] = self.name
+        dictified['name'] = self.name.title()
         dictified['stats'] = [
             {
                 'base_stat': self.speed,
@@ -156,7 +156,7 @@ class Move(Base):
     def dictify(self):
         dictified = OrderedDict()
         dictified['id'] = self.id
-        dictified['name'] = self.name
+        dictified['name'] = self.name.title()
         dictified['accuracy'] = self.accuracy
         dictified['pp'] = self.pp
         dictified['priority'] = self.priority
@@ -221,7 +221,7 @@ class Type(Base):
     def dictify(self):
         dictified = OrderedDict()
         dictified['id'] = self.id
-        dictified['name'] = self.name
+        dictified['name'] = self.name.title()
         dictified['generation'] = self.generation
 
         tables = [double_damage_to, double_damage_from, half_damage_to, half_damage_from, no_damage_to, no_damage_from]
