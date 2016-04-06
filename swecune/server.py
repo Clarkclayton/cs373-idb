@@ -21,11 +21,11 @@ engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password,
 
 Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine, autocommit=True)
-session = Session()
 
 
 @app.route('/test')
 def test():
+    session = Session()
     x = session.query(Pokemon).filter(Pokemon.name == 'bulbasaur').all()
     print(x)
     return json.dumps([{'name': y.name, 'id': y.id,} for y in x])
@@ -33,6 +33,7 @@ def test():
 
 @app.route('/test/1')
 def test2():
+    session = Session()
     x = session.query(Pokemon).filter(Pokemon.id == 1).one()
     print(x)
     return json.dumps({'name': x.name, 'id': x.id})
@@ -43,6 +44,7 @@ Andrew's API Stuff here
 
 @app.route('/api/pokemon')
 def api_pokemons():
+    session = Session()
     offset = request.args.get('offset') if request.args.get('offset') != None else 0
     pokemon_per_page = request.args.get('limit') if request.args.get('limit') else 10
 
@@ -51,11 +53,13 @@ def api_pokemons():
 
 @app.route('/api/pokemon/<pokemon_id>')
 def api_pokemon(pokemon_id):
+    session = Session()
     pokemon_dictified = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first().dictify()
     return json.dumps(pokemon_dictified)
 
 @app.route('/api/move')
 def api_moves():
+    session = Session()
     offset = request.args.get('offset') if request.args.get('offset') != None else 0
     moves_per_page = request.args.get('limit') if request.args.get('limit') else 10
 
@@ -69,6 +73,7 @@ def api_move(move_id):
 
 @app.route('/api/type')
 def api_types():
+    session = Session()
     types_dictified = [type.dictify() for type in session.query(Type).all()]
     return json.dumps(types_dictified)
 
@@ -78,64 +83,6 @@ def api_type(type_id):
     return json.dumps(type_dictified)
 
 
-# with open(os.path.join(os.path.dirname(__file__), "static/pokemon/1.json")) as fi:
-#     bulba_data = json.load(fi)
-# with open(os.path.join(os.path.dirname(__file__), "static/pokemon/4.json")) as fi:
-#     char_data = json.load(fi)
-# with open(os.path.join(os.path.dirname(__file__), "static/pokemon/7.json")) as fi:
-#     squirt_data = json.load(fi)
-#
-# bulbasaur = Models.Pokemon(bulba_data)
-# charmander = Models.Pokemon(char_data)
-# squirtle = Models.Pokemon(squirt_data)
-#
-# pokemon_dict = {"1": bulbasaur, "4": charmander, "7": squirtle}
-#
-# with open(os.path.join(os.path.dirname(__file__), "static/type/10.json"), 'r', encoding='cp866') as fi:
-#     fire_data = json.load(fi)
-#
-# with open(os.path.join(os.path.dirname(__file__), "static/type/11.json"), 'r', encoding='cp866') as fi:
-#     water_data = json.load(fi)
-#
-# with open(os.path.join(os.path.dirname(__file__), "static/type/12.json"), 'r', encoding='cp866') as fi:
-#     grass_data = json.load(fi)
-#
-# fireType = Models.Types(fire_data)
-# grassType = Models.Types(grass_data)
-# waterType = Models.Types(water_data)
-#
-# fireType.resistance = [grassType]
-# fireType.strength = [grassType]
-# fireType.immunity = [grassType]
-# fireType.resistance = [grassType]
-#
-# waterType.resistance = [fireType]
-# waterType.strength = [fireType]
-# waterType.immunity = [waterType]
-#
-# grassType.resistance = [grassType]
-# grassType.strength = [waterType]
-# grassType.immunity = [grassType]
-#
-# type_dict = {"10": fireType, "11": waterType, "12": grassType}
-#
-# with open(os.path.join(os.path.dirname(__file__), "static/moves/33.json"), 'r', encoding='cp866') as file:
-#     tackle_data = json.load(file)
-#
-# with open(os.path.join(os.path.dirname(__file__), "static/moves/43.json"), 'r', encoding='cp866') as file:
-#     leer_data = json.load(file)
-#
-# with open(os.path.join(os.path.dirname(__file__), "static/moves/52.json"), 'r', encoding='cp866') as file:
-#     ember_data = json.load(file)
-#
-# tackleMove = Models.Moves(tackle_data)
-# leerMove = Models.Moves(leer_data)
-# emberMove = Models.Moves(ember_data)
-#
-# moves_dict = {"33": tackleMove, "43": leerMove, "52": emberMove}
-# can_learn_move_dict = {"33": [squirtle, bulbasaur], "43": [charmander], "52": [charmander]}
-#
-#
 # def get_type(id):
 #     type_dict = OrderedDict([
 #         ("name", "Fire"),
@@ -153,24 +100,13 @@ def index():
     return render_template('index.html')
 
 
-#
-#
-# @app.route('/pokemon/<pokemon_number>')
-# def pokemon(pokemon_number):
-#     if pokemon_number not in pokemon_dict:
-#         return render_template('404.html')
-#     pk = pokemon_dict[pokemon_number]
-#     return render_template('pokemon.html',
-#                            p_id=pk.ID,
-#                            name=pk.name,
-#                            p_type1=pk.pType1,
-#                            p_type2=pk.pType2,
-#                            p_type_id1=pk.pTypeId1,
-#                            p_type_id2=pk.pTypeId2,
-#                            stats=pk.baseStats,
-#                            moves=moves_dict.values())
-#
-#
+@app.route('/pokemon/<pokemon_id>')
+def pokemon(pokemon_id):
+    session = Session()
+    pk = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
+    return render_template('pokemon.html',pk=pk)
+
+
 # @app.route('/move/<move_id>')
 # def move(move_id):
 #     if move_id not in moves_dict:
