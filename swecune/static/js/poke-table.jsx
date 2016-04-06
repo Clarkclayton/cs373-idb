@@ -14,13 +14,13 @@ var PokeRow = React.createClass({
                 </td>
                 <td data-value="{pk.id}">{pk.id}</td>
                 <td><a href={"/pokemon/" + pk.id}>{capitalize(pk.name)}</a></td>
-                <td><a href={"/type/" + pk.type_id_1}>
-                    <img id="move_type_text_img" src={"/static/img/moves/" + pk.type_name_1 + "_text.png"}/>
+                <td data-value="{pk.primary_type}"><a href={"/type/" + pk.primary_type}>
+                    <img id="move_type_text_img" src={"/static/img/type_text_" + pk.primary_type + ".png"}/>
                 </a></td>
-                <td>
-                { pk.type_id_2 ?
-                <a href={"/type/" + pk.type_id_2}>
-                    <img id="move_type_text_img" src={"/static/img/moves/" + pk.type_name_2 + "_text.png"}/>
+                <td data-value="{pk.secondary_type}">
+                { pk.secondary_type ?
+                <a href={"/type/" + pk.secondary_type}>
+                    <img id="move_type_text_img" src={"/static/img/type_text_" + pk.secondary_type + ".png"}/>
                 </a>
                 : ""}
                 </td>
