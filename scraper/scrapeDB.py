@@ -13,9 +13,9 @@ from models import Base
 # database = 'SWECUNEDB'
 
 dialect = 'mysql+pymysql'
-username = 'guestbook-user'
-password = 'guestbook-user-password'
-host = '104.130.22.72'
+username = 'sthakkar14'
+password = 'sthakkar14'
+host = 'localhost'
 port = '3306'
 database = 'guestbook'
 

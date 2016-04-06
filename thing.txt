@@ -1,0 +1,395 @@
+Attaching to pythonwebapp_db_data, pythonwebapp_lb, cs373idb_app_1
+[36mpythonwebapp_db_data | [0mTimestamp: 2016-04-05 10:17:02.889650754 +0000 UTC
+[36mpythonwebapp_db_data | [0mCode: System error
+[36mpythonwebapp_db_data | [0m
+[36mpythonwebapp_db_data | [0mMessage: permission denied
+[36mpythonwebapp_db_data | [0m
+[36mpythonwebapp_db_data | [0mFrames:
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m0: setupRootfs
+[36mpythonwebapp_db_data | [0mPackage: github.com/opencontainers/runc/libcontainer
+[36mpythonwebapp_db_data | [0mFile: rootfs_linux.go@40
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m1: Init
+[36mpythonwebapp_db_data | [0mPackage: github.com/opencontainers/runc/libcontainer.(*linuxStandardInit)
+[36mpythonwebapp_db_data | [0mFile: standard_init_linux.go@57
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m2: StartInitialization
+[36mpythonwebapp_db_data | [0mPackage: github.com/opencontainers/runc/libcontainer.(*LinuxFactory)
+[36mpythonwebapp_db_data | [0mFile: factory_linux.go@240
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m3: initializer
+[36mpythonwebapp_db_data | [0mPackage: github.com/docker/docker/daemon/execdriver/native
+[36mpythonwebapp_db_data | [0mFile: init.go@35
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m4: Init
+[36mpythonwebapp_db_data | [0mPackage: github.com/docker/docker/pkg/reexec
+[36mpythonwebapp_db_data | [0mFile: reexec.go@26
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m5: main
+[36mpythonwebapp_db_data | [0mPackage: main
+[36mpythonwebapp_db_data | [0mFile: docker.go@18
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m6: main
+[36mpythonwebapp_db_data | [0mPackage: runtime
+[36mpythonwebapp_db_data | [0mFile: proc.go@111
+[36mpythonwebapp_db_data | [0m---
+[36mpythonwebapp_db_data | [0m7: goexit
+[36mpythonwebapp_db_data | [0mPackage: runtime
+[36mpythonwebapp_db_data | [0mFile: asm_amd64.s@1721
+[32mapp_1                | [0m[2016-04-05 10:17:00 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:00 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:00 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:00 +0000] [18] [INFO] Booting worker with pid: 18
+[32mapp_1                | [0m[2016-04-05 10:17:01 +0000] [18] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:01 +0000] [18] [INFO] Worker exiting (pid: 18)
+[32mapp_1                | [0m[2016-04-05 10:17:01 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:01 +0000] [1] [INFO] Reason: Worker failed to boot.
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [16] [INFO] Booting worker with pid: 16
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [16] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [16] [INFO] Worker exiting (pid: 16)
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:02 +0000] [1] [INFO] Reason: Worker failed to boot.
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [18] [INFO] Booting worker with pid: 18
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [18] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [18] [INFO] Worker exiting (pid: 18)
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:03 +0000] [1] [INFO] Reason: Worker failed to boot.
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [18] [INFO] Booting worker with pid: 18
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [18] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [18] [INFO] Worker exiting (pid: 18)
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:05 +0000] [1] [INFO] Reason: Worker failed to boot.
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [18] [INFO] Booting worker with pid: 18
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [18] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [18] [INFO] Worker exiting (pid: 18)
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:07 +0000] [1] [INFO] Reason: Worker failed to boot.
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [18] [INFO] Booting worker with pid: 18
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [18] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [18] [INFO] Worker exiting (pid: 18)
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:11 +0000] [1] [INFO] Reason: Worker failed to boot.
+[32mapp_1                | [0m[2016-04-05 10:17:18 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:18 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:18 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:18 +0000] [18] [INFO] Booting worker with pid: 18
+[32mapp_1                | [0m[2016-04-05 10:17:18 +0000] [18] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:18 +0000] [18] [INFO] Worker exiting (pid: 18)
+[32mapp_1                | [0m[2016-04-05 10:17:19 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:19 +0000] [1] [INFO] Reason: Worker failed to boot.
+[33mpythonwebapp_lb      | [0m2016/04/05 10:17:32 [error] 14#14: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 64.16.209.152, server: , request: "GET /phpmyadmin/scripts/setup.php HTTP/1.0", upstream: "http://10.0.1.2:8000/phpmyadmin/scripts/setup.php"
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [1] [INFO] Starting gunicorn 19.4.5
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [1] [INFO] Listening at: http://0.0.0.0:8000 (1)
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [1] [INFO] Using worker: sync
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [18] [INFO] Booting worker with pid: 18
+[33mpythonwebapp_lb      | [0m64.16.209.152 - - [05/Apr/2016:10:17:32 +0000] "GET /phpmyadmin/scripts/setup.php HTTP/1.0" 502 173 "-" "-"
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [18] [ERROR] Exception in worker process:
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0mTraceback (most recent call last):
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/arbiter.py", line 515, in spawn_worker
+[32mapp_1                | [0m    worker.init_process()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 122, in init_process
+[32mapp_1                | [0m    self.load_wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/workers/base.py", line 130, in load_wsgi
+[32mapp_1                | [0m    self.wsgi = self.app.wsgi()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/base.py", line 67, in wsgi
+[32mapp_1                | [0m    self.callable = self.load()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+[32mapp_1                | [0m    return self.load_wsgiapp()
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+[32mapp_1                | [0m    return util.import_app(self.app_uri)
+[32mapp_1                | [0m  File "/usr/local/lib/python3.4/site-packages/gunicorn/util.py", line 357, in import_app
+[32mapp_1                | [0m    __import__(module)
+[32mapp_1                | [0m  File "/src/server.py", line 12, in <module>
+[32mapp_1                | [0m    from models import *
+[32mapp_1                | [0mImportError: No module named 'models'
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [18] [INFO] Worker exiting (pid: 18)
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [1] [INFO] Shutting down: Master
+[32mapp_1                | [0m[2016-04-05 10:17:32 +0000] [1] [INFO] Reason: Worker failed to boot.
+[32mcs373idb_app_1 exited with code 0
+[0m

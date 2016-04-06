@@ -30,6 +30,7 @@ services:
     command: gunicorn --reload server:app --bind 0.0.0.0:8000
       # Run Gunicorn to serve app requests and reload on change so we can see our
       # changes to the app code
+
   db:
     extends:
       file: docker-compose-common.yml

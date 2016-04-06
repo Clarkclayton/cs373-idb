@@ -1,37 +1,35 @@
 import json
+import os
 
 from flask import Flask
 from flask import render_template
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from models import *
+import models
 
 app = Flask(__name__)
-dialect = 'mysql+pymysql'
-username = 'guestbook-user'
-password = 'guestbook-user-password'
-host = '104.130.22.72'
-port = '3306'
-database = 'guestbook'
 
-engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
+URI = '{engine}://{username}:{password}@{hostname}/{database}'.format(
+    engine='mysql+pymysql',
+    username=os.getenv('MYSQL_USER'),
+    password=os.getenv('MYSQL_PASSWORD'),
+    hostname=os.getenv('MYSQL_HOST'),
+    database='MYSQL_DATABASE')
 
-Base.metadata.create_all(engine)
-Session = sessionmaker(bind=engine, autocommit=True)
-session = Session()
+session = None
 
 
 @app.route('/test')
 def test():
-    x = session.query(Pokemon).filter(Pokemon.name == 'bulbasaur').all()
+    x = session.query(models.Pokemon).filter(models.Pokemon.name == 'bulbasaur').all()
     print(x)
     return json.dumps([{'name': y.name, 'id': y.id,} for y in x])
 
 
 @app.route('/test/1')
 def test2():
-    x = session.query(Pokemon).filter(Pokemon.id == 1).one()
+    x = session.query(models.Pokemon).filter(models.Pokemon.id == 1).one()
     print(x)
     return json.dumps({'name': x.name, 'id': x.id})
 
@@ -78,7 +76,7 @@ def test2():
 # type_dict = {"10": fireType, "11": waterType, "12": grassType}
 #
 # with open(os.path.join(os.path.dirname(__file__), "static/moves/33.json"), 'r', encoding='cp866') as file:
-#     tackle_data = json.load(file)
+#     tackle_data = json.load(file)s
 #
 # with open(os.path.join(os.path.dirname(__file__), "static/moves/43.json"), 'r', encoding='cp866') as file:
 #     leer_data = json.load(file)
@@ -189,6 +187,15 @@ def page_not_found(error):
 @app.route('/about')
 def about():
     return render_template('about.html')
+
+
+def do_the_thing():
+    engine = create_engine(URI)
+
+    models.Base.metadata.create_all(engine)
+    Session = sessionmaker(bind=engine, autocommit=True)
+    global session
+    session = Session()
 
 
 if __name__ == '__main__':
