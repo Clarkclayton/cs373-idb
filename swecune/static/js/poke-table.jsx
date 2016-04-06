@@ -12,7 +12,7 @@ var PokeRow = React.createClass({
                 <td><a href={"/pokemon/" + pk.id}>
                     <img src={"/static/img/pokemon/pokemon_" + pk.id + ".png"}/></a>
                 </td>
-                <td>{pk.id}</td>
+                <td data-value="{pk.id}">{pk.id}</td>
                 <td><a href={"/pokemon/" + pk.id}>{capitalize(pk.name)}</a></td>
                 <td><a href={"/type/" + pk.type_id_1}>
                     <img id="move_type_text_img" src={"/static/img/moves/" + pk.type_name_1 + "_text.png"}/>
