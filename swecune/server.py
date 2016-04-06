@@ -44,11 +44,13 @@ Andrew's API Stuff here
 
 @app.route('/api/min_pokemon')
 def api_min_pokemons():
+    session = Session()
     pokemons_min_dictified = [pokemon.min_dictify() for pokemon in session.query(Pokemon).all()]
     return json.dumps(pokemons_min_dictified)
 
 @app.route('/api/min_pokemon/<pokemon_id>')
 def api_min_pokemon(pokemon_id):
+    session = Session()
     pokemon_min_dictified = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first().min_dictify()
     return json.dumps(pokemon_min_dictified)
 
