@@ -44,7 +44,7 @@ Andrew's API Stuff here
 @app.route('/api/pokemon')
 def api_pokemons():
     offset = request.args.get('offset') if request.args.get('offset') != None else 0
-    pokemon_per_page = request.args.get('pokemon_per_page') if request.args.get('pokemon_per_page') else 10
+    pokemon_per_page = request.args.get('limit') if request.args.get('limit') else 10
 
     pokemons_dictified = [pokemon.dictify() for pokemon in session.query(Pokemon).limit(pokemon_per_page).offset(offset).all()]
     return json.dumps(pokemons_dictified)
@@ -57,7 +57,7 @@ def api_pokemon(pokemon_id):
 @app.route('/api/move')
 def api_moves():
     offset = request.args.get('offset') if request.args.get('offset') != None else 0
-    moves_per_page = request.args.get('moves_per_page') if request.args.get('moves_per_page') else 10
+    moves_per_page = request.args.get('limit') if request.args.get('limit') else 10
 
     moves_dictified = [move.dictify() for move in session.query(Move).limit(moves_per_page).offset(offset).all()]
     return json.dumps(moves_dictified)
@@ -207,10 +207,11 @@ def index():
 #                            pokemon_url='/static/img/pokemon1.png')
 #
 #
-# @app.route('/pokemon')
-# def pokemon_all():
-#     return render_template('pokemon_all.html', pokemon_list=pokemon_dict.values())
-#
+
+@app.route('/pokemon')
+def pokemon_all():
+    return render_template('pokemon_all.html')
+
 #
 # @app.route('/type')
 # def type_all():
