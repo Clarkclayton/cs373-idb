@@ -128,6 +128,16 @@ class Pokemon(Base):
 
         return dictified
 
+    def min_dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name.title()
+        dictified['primary_type'] = self.primary_type.id
+        dictified['secondary_type'] = None if self.secondary_type == None else self.secondary_type.id
+        dictified['average_stats'] = self.average_stats
+
+        return dictified
+
 
 class Move(Base):
     __tablename__ = 'move'
