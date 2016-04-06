@@ -1,8 +1,7 @@
 import json
 import sys
 
-from flask import Flask
-from flask import render_template
+from flask import Flask, render_template, request
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
@@ -44,7 +43,10 @@ Andrew's API Stuff here
 
 @app.route('/api/pokemon')
 def api_pokemons():
-    pokemons_dictified = [pokemon.dictify() for pokemon in session.query(Pokemon).all()]
+    offset = request.args.get('offset') if request.args.get('offset') != None else 0
+    pokemon_per_page = request.args.get('pokemon_per_page') if request.args.get('pokemon_per_page') else 10
+
+    pokemons_dictified = [pokemon.dictify() for pokemon in session.query(Pokemon).limit(pokemon_per_page).offset(offset).all()]
     return json.dumps(pokemons_dictified)
 
 @app.route('/api/pokemon/<pokemon_id>')
@@ -54,7 +56,10 @@ def api_pokemon(pokemon_id):
 
 @app.route('/api/move')
 def api_moves():
-    moves_dictified = [move.dictify() for move in session.query(Move).all()]
+    offset = request.args.get('offset') if request.args.get('offset') != None else 0
+    moves_per_page = request.args.get('moves_per_page') if request.args.get('moves_per_page') else 10
+
+    moves_dictified = [move.dictify() for move in session.query(Move).limit(moves_per_page).offset(offset).all()]
     return json.dumps(moves_dictified)
 
 @app.route('/api/move/<move_id>')
