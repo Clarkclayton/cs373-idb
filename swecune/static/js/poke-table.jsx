@@ -17,13 +17,13 @@ var PokeRow = React.createClass({
                 <td data-value="{pk.primary_type}"><a href={"/type/" + pk.primary_type}>
                     <img id="move_type_text_img" src={"/static/img/type_text_" + pk.primary_type + ".png"}/>
                 </a></td>
-                <td data-value="{pk.secondary_type}">
                 { pk.secondary_type ?
+                <td data-value="{pk.secondary_type}">
                 <a href={"/type/" + pk.secondary_type}>
                     <img id="move_type_text_img" src={"/static/img/type_text_" + pk.secondary_type + ".png"}/>
                 </a>
-                : ""}
                 </td>
+                :<td data-value="-1">""</td>}
                 <td> {pk.average_stats} </td>
             </tr>
         )
