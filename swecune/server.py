@@ -133,25 +133,15 @@ def pokemon(pokemon_id):
     return render_template('pokemon.html', pk=pk)
 
 
-# @app.route('/move/<move_id>')
-# def move(move_id):
-#     if move_id not in moves_dict:
-#         return render_template('404.html')
-#     move = moves_dict[move_id]
-#     pk_learn_list = can_learn_move_dict[move_id]
-#
-#     return render_template('move.html',
-#                            move_name=move.name,
-#                            move_accuracy=move.accuracy,
-#                            move_pp=move.pp,
-#                            move_priority=move.priority,
-#                            move_power=move.power,
-#                            move_class=move.dmg_class,
-#                            move_type=move.m_type,
-#                            move_type_id=move.m_type_id,
-#                            pk_learn_list=pk_learn_list)
-#
-#
+@app.route('/move/<move_id>')
+def move(move_id):
+    session = Session()
+    mv = session.query(Move).filter(Move.id == move_id).first()
+    if mv is None:
+        return render_template('404.html')
+    return render_template('move.html', mv=mv)
+
+
 @app.route('/type/<type_id>')
 def type(type_id):
     session = Session()
@@ -160,8 +150,8 @@ def type(type_id):
         return render_template('404.html')
     print(ty.double_damage_to)
 
-    relations_to=list(itertools.zip_longest(ty.double_damage_to, ty.half_damage_to, ty.no_damage_to))
-    relations_from=list(itertools.zip_longest(ty.double_damage_from, ty.half_damage_from, ty.no_damage_from))
+    relations_to = list(itertools.zip_longest(ty.double_damage_to, ty.half_damage_to, ty.no_damage_to))
+    relations_from = list(itertools.zip_longest(ty.double_damage_from, ty.half_damage_from, ty.no_damage_from))
     return render_template('type.html', ty=ty, relations_to=relations_to, relations_from=relations_from)
 
 
