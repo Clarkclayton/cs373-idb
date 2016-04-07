@@ -27,16 +27,6 @@ services:
       - MYSQL_DATABASE=guestbook
       - MYSQL_HOST=swecune_db
 
-  db:
-    # The database container. Built from the db/Dockerfile.
-    container_name: swecune_db
-    build: db
-    restart: unless-stopped
-    networks:
-      - backend
-    environment:
-      # Environment variables to configure MySQL on startup.
-      - MYSQL_DATABASE=pokemon
 
   data:
     container_name: swecune_db_data

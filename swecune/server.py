@@ -35,26 +35,24 @@ class complicated_fucking_decorator(object):
     def __call__(self, func):
         @wraps(func)
         def func_wrapper(*args, **kwargs):
-            try:
-                session = Session()
-                ret = func(session, *args, **kwargs)
+            while True:
+                try:
+                    session = Session()
+                    ret = func(session, *args, **kwargs)
 
-                if self.calling_type:
-                    resp = Response(json.dumps(ret), mimetype='application/json', status=200)
-                else:
-                    if ret is None:
-                        resp = render_template('404.html'), 404
+                    if self.calling_type:
+                        resp = Response(json.dumps(ret), mimetype='application/json', status=200)
                     else:
-                        resp = render_template(self.extra_args[0], **ret), 200
-                session.close()
-                return resp
-            except exc.OperationalError as ex:
-                if ex.args[0] in (2006, 2013, 2055):
+                        if ret is None:
+                            resp = render_template('404.html'), 404
+                        else:
+                            resp = render_template(*self.extra_args, **ret), 200
+                    session.close()
+                    return resp
+                except:
                     # It will reestablish the connection. So if the page is reloaded, the function the connection is new again
                     # TODO: How to resume?
                     raise exc.DisconnectionError()
-                else:
-                    raise
 
         return func_wrapper
 
