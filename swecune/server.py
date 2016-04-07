@@ -1,9 +1,12 @@
 import itertools
 import json
 import sys
+from functools import wraps
 
 from flask import Flask, render_template, request
+from sqlalchemy import exc
 from sqlalchemy.orm import sessionmaker
+from werkzeug.wrappers import Response
 
 sys.path.append("../.")
 
@@ -17,142 +20,125 @@ host = '104.130.22.72'
 port = '3306'
 database = 'guestbook'
 
-engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
+engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
+                       pool_recycle=3600).connect()
 
 Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine, autocommit=True)
 
 
-@app.route('/test')
-def test():
-    session = Session()
-    x = session.query(Pokemon).filter(Pokemon.name == 'bulbasaur').all()
-    print(x)
-    return json.dumps([{'name': y.name, 'id': y.id,} for y in x])
+class complicated_fucking_decorator(object):
+    def __init__(self, calling_type, *extra_args):
+        self.calling_type = calling_type
+        self.extra_args = extra_args
 
+    def __call__(self, func):
+        @wraps(func)
+        def func_wrapper(*args, **kwargs):
+            try:
+                session = Session()
+                ret = func(session, *args, **kwargs)
 
-@app.route('/test/1')
-def test2():
-    session = Session()
-    x = session.query(Pokemon).filter(Pokemon.id == 1).one()
-    print(x)
-    return json.dumps({'name': x.name, 'id': x.id})
+                if self.calling_type:
+                    resp = Response(json.dumps(ret), mimetype='application/json', status=200)
+                else:
+                    if ret is None:
+                        resp = render_template('404.html'), 404
+                    else:
+                        resp = render_template(self.extra_args[0], **ret), 200
+                session.close()
+                return resp
+            except exc.OperationalError as ex:
+                if ex.args[0] in (2006, 2013, 2055):
+                    # It will reestablish the connection. So if the page is reloaded, the function the connection is new again
+                    # TODO: How to resume?
+                    raise exc.DisconnectionError()
+                else:
+                    raise
 
-
-"""
-Andrew's API Stuff here
-"""
+        return func_wrapper
 
 
 @app.route('/api/min_pokemon')
-def api_min_pokemons():
-    session = Session()
-    pokemons_min_dictified = [pokemon.min_dictify() for pokemon in session.query(Pokemon).all()]
-    return json.dumps(pokemons_min_dictified)
+@complicated_fucking_decorator(True)
+def api_min_pokemons(session):
+    return [pokemon.min_dictify() for pokemon in session.query(Pokemon).all()]
 
 
 @app.route('/api/min_pokemon/<pokemon_id>')
-def api_min_pokemon(pokemon_id):
-    session = Session()
-    pokemon_min_dictified = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first().min_dictify()
-    return json.dumps(pokemon_min_dictified)
+@complicated_fucking_decorator(True)
+def api_min_pokemon(session, pokemon_id):
+    resp = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
+    return resp.min_dictify() if resp else {}
 
 
 @app.route('/api/pokemon')
-def api_pokemons():
-    session = Session()
-    offset = request.args.get('offset') if request.args.get('offset') != None else 0
+@complicated_fucking_decorator(True)
+def api_pokemons(session):
+    offset = request.args.get('offset') if request.args.get('offset') is not None else 0
     pokemon_per_page = request.args.get('limit') if request.args.get('limit') else 10
-
-    pokemons_dictified = [pokemon.dictify() for pokemon in
-                          session.query(Pokemon).limit(pokemon_per_page).offset(offset).all()]
-    return json.dumps(pokemons_dictified)
+    return [pokemon.dictify() for pokemon in session.query(Pokemon).limit(pokemon_per_page).offset(offset).all()]
 
 
 @app.route('/api/pokemon/<pokemon_id>')
-def api_pokemon(pokemon_id):
-    session = Session()
-    pokemon_dictified = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first().dictify()
-    return json.dumps(pokemon_dictified)
+@complicated_fucking_decorator(True)
+def api_pokemon(session, pokemon_id):
+    resp = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
+    return resp.min_dictify() if resp else {}
 
 
 @app.route('/api/move')
-def api_moves():
-    session = Session()
-    offset = request.args.get('offset') if request.args.get('offset') != None else 0
+@complicated_fucking_decorator(True)
+def api_moves(session):
+    offset = request.args.get('offset') if request.args.get('offset') is not None else 0
     moves_per_page = request.args.get('limit') if request.args.get('limit') else 10
-
-    moves_dictified = [move.dictify() for move in session.query(Move).limit(moves_per_page).offset(offset).all()]
-    return json.dumps(moves_dictified)
+    return [move.dictify() for move in session.query(Move).limit(moves_per_page).offset(offset).all()]
 
 
 @app.route('/api/move/<move_id>')
-def api_move(move_id):
-    session = Session()
-    move_dictified = session.query(Move).filter(Move.id == move_id).first().dictify()
-    return json.dumps(move_dictified)
+@complicated_fucking_decorator(True)
+def api_move(session, move_id):
+    resp = session.query(Move).filter(Move.id == move_id).first()
+    return resp.dictify() if resp else {}
 
 
 @app.route('/api/type')
-def api_types():
-    session = Session()
-    types_dictified = [type.dictify() for type in session.query(Type).all()]
-    return json.dumps(types_dictified)
+@complicated_fucking_decorator(True)
+def api_types(session):
+    return [type.dictify() for type in session.query(Type).all()]
 
 
 @app.route('/api/type/<type_id>')
-def api_type(type_id):
-    session = Session()
-    type_dictified = session.query(Type).filter(Type.id == type_id).first().dictify()
-    return json.dumps(type_dictified)
-
-
-# def get_type(id):
-#     type_dict = OrderedDict([
-#         ("name", "Fire"),
-#         ("numPrimary", 5),
-#         ("numSecondary", 2),
-#         ("Generation", 1),
-#         ("numMoves", 123)
-#     ])
-#     return type_dict
-#
-#
-@app.route('/')
-@app.route('/index')
-def index():
-    return render_template('index.html')
+@complicated_fucking_decorator(True)
+def api_type(session, type_id):
+    resp = session.query(Type).filter(Type.id == type_id).first()
+    return resp.dictify() if resp else {}
 
 
 @app.route('/pokemon/<pokemon_id>')
-def pokemon(pokemon_id):
-    session = Session()
-    pk = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
-    if pk is None:
-        return render_template('404.html')
-    return render_template('pokemon.html', pk=pk)
+@complicated_fucking_decorator(False, 'pokemon.html')
+def pokemon(session, pokemon_id):
+    resp = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
+    return {'pk': resp} if resp else None
 
 
 @app.route('/move/<move_id>')
-def move(move_id):
-    session = Session()
-    mv = session.query(Move).filter(Move.id == move_id).first()
-    if mv is None:
-        return render_template('404.html')
-    return render_template('move.html', mv=mv)
+@complicated_fucking_decorator(False, 'move.html')
+def move(session, move_id):
+    resp = session.query(Move).filter(Move.id == move_id).first()
+    return {'mv': resp} if resp else None
 
 
 @app.route('/type/<type_id>')
-def type(type_id):
-    session = Session()
-    ty = session.query(Type).filter(Type.id == type_id).first()
-    if ty is None:
-        return render_template('404.html')
-    print(ty.double_damage_to)
-
-    relations_to = list(itertools.zip_longest(ty.double_damage_to, ty.half_damage_to, ty.no_damage_to))
-    relations_from = list(itertools.zip_longest(ty.double_damage_from, ty.half_damage_from, ty.no_damage_from))
-    return render_template('type.html', ty=ty, relations_to=relations_to, relations_from=relations_from)
+@complicated_fucking_decorator(False, 'type.html')
+def type(session, type_id):
+    resp = session.query(Type).filter(Type.id == type_id).first()
+    ret = {'ty': resp}
+    if resp is not None:
+        ret['relations_to'] = list(itertools.zip_longest(resp.double_damage_to, resp.half_damage_to, resp.no_damage_to))
+        ret['relations_from'] = list(
+            itertools.zip_longest(resp.double_damage_from, resp.half_damage_from, resp.no_damage_from))
+    return ret if resp else None
 
 
 @app.route('/pokemon')
@@ -160,7 +146,6 @@ def pokemon_all():
     return render_template('pokemon_all.html')
 
 
-#
 # @app.route('/type')
 # def type_all():
 #     return render_template('type_all.html', type_list=type_dict.values())
@@ -169,17 +154,21 @@ def pokemon_all():
 # @app.route('/move')
 # def move_all():
 #     return render_template('moves_all.html', moves=moves_dict.values())
-#
-#
-@app.errorhandler(404)
-def page_not_found(error):
-    # app.logger.error('Page Not Found: %s', (request.path))
-    return render_template('404.html'), 404
+
+@app.route('/')
+@app.route('/index')
+def index():
+    return render_template('index.html')
 
 
 @app.route('/about')
 def about():
     return render_template('about.html')
+
+
+@app.errorhandler(404)
+def page_not_found(error):
+    return render_template('404.html'), 404
 
 
 if __name__ == '__main__':
