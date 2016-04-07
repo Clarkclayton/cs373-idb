@@ -11,8 +11,7 @@
         <div class="col-md-1"></div>
         <div class="col-md-4" id="move_metadata">
             <div class="panel panel-default">
-                <div class="panel-heading"><img id="img_type_text"
-                                                src="/static/img/moves/{{ ty.name }}_text.png">
+                <div class="panel-heading"><img id="img_type_text" src="/static/img/moves/{{ ty.name }}_text.png">
                 </div>
                 <table class="table">
                     <tr>
@@ -159,27 +158,35 @@
                         <th>Primary Type</th>
                         <th>Secondary Type</th>
                         <th>Average Stats</th>
-
                     </tr>
                     </thead>
                     <tbody>
-                    {% for pk in pokemon_list %}
+                    {% for pk in ty.pokemon_primary_type|list + ty.pokemon_secondary_type|list %}
                     <tr>
-                        <td><img src="{{ pk.sprite }}"></td>
-                        <td>{{ pk.ID }}</td>
-                        <td><a href="/pokemon/{{ pk.ID }}">{{ pk.name.title() }}</a></td>
-                        <td data-value="{{ pk.pType1 }}"><img id="img_type_text"
-                                                              src="/static/img/moves/{{ pk.pType1 + " _text.png" }}">
+                        <td>
+                            <a href="/pokemon/{{ pk.id }}">
+                                <img src="/static/img/pokemon/pokemon_{{ pk.id }}.png">
+                            </a>
                         </td>
-                        {% if pk.pType2 %}
-                        <td data-value="{{ pk.pType2 }}"><img id="img_type_text"
-                                                              src="/static/img/moves/{{ pk.pType2 + " _text.png" }}">
+                        <td>{{ pk.id }}</td>
+                        <td>
+                            <a href="/pokemon/{{ pk.id }}">{{ pk.name|title}}</a>
+                        </td>
+                        <td data-value="{{ pk.primary_type_id }}">
+                            <a href="/type/{{ pk.primary_type_id }}">
+                                <img id="img_type_text" src="/static/img/moves/{{ pk.primary_type.name }}_text.png">
+                            </a>
+                        </td>
+                        {% if pk.secondary_type %}
+                        <td data-value="{{ pk.secondary_type_id }}">
+                            <a href="/type/{{ pk.secondary_type_id }}">
+                                <img id="img_type_text" src="/static/img/moves/{{ pk.secondary_type.name }}_text.png">
+                            </a>
                         </td>
                         {% else %}
-                        <td data-value="{{ "
-                        " }}"></td>
+                        <td data-value=""></td>
                         {% endif %}
-                        <td>{{ pk.averageStats }}</td>
+                        <td>{{ pk.average_stats }}</td>
                     </tr>
                     {% endfor %}
                     </tbody>
@@ -208,7 +215,7 @@
                         <tbody>
                         {% for mv in ty.move_type %}
                         <tr>
-                            <td><a href="/move/{{ mv.id }}">{{ mv.name }}</a></td>
+                            <td><a href="/move/{{ mv.id }}">{{ mv.name|title }}</a></td>
                             <td data-value="{{ mv.m_type }}">
                                 <a href="/type/{{ mv.type_id }}">
                                     <img class="move-sprite" id="img_type_text"
