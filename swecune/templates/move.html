@@ -1,90 +1,92 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="container">
-        <link href="/static/css/moves.css" rel="stylesheet" type="text/css">
+<div class="container">
+    <link href="/static/css/moves.css" rel="stylesheet" type="text/css">
 
-        <div id="moves">
-            <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-3" id="move_type">
-                    <a href="/type/{{ move_type_id }}"><img id="move_type_img"
-                                                            src="/static/img/moves/{{ move_type }}_type.png"></a>
-                </div>
-                <div class="col-md-1"></div>
-                <div class="col-md-4" id="move_metadata">
-                    <div class="panel panel-default">
-                        <div class="panel-heading"><b>Move: {{ move_name.title() }}</b></div>
-                        <table class="table">
-                            <tr>
-                                <th class="moves_metadata_header">Type:</th>
-                                <th><a href="/type/{{ move_type_id }}">
-                                    <img id="move_type_text_img" src="/static/img/moves/{{ move_type }}_text.png">
-                                </a></th>
-                            </tr>
-                            <tr>
-                                <th class="moves_metadata_header">Class:</th>
-                                <th><img id="move_class_img" src="/static/img/moves/{{ move_class }}.png"></th>
-                            </tr>
-                            <tr>
-                                <th class="moves_metadata_header">Power:</th>
-                                <th class="moves_metadata_content">{{ move_power }}</th>
-                            </tr>
-                            <tr>
-                                <th class="moves_metadata_header">PP:</th>
-                                <th class="moves_metadata_content">{{ move_pp }}</th>
-                            </tr>
-                            <tr>
-                                <th class="moves_metadata_header">Accuracy:</th>
-                                <th class="moves_metadata_content">{{ move_accuracy }}</th>
-                            </tr>
-                            <tr>
-                                <th class="moves_metadata_header">Priority:</th>
-                                <th class="moves_metadata_content">{{ move_priority }}</th>
-                            </tr>
-                        </table>
-                    </div>
-                </div>
-                <div class="col-md-2"></div>
+    <div id="moves">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-3" id="move_type">
+                <a href="/type/{{ mv.id }}"><img id="move_type_img"
+                                                        src="/static/img/moves/{{ mv.type.name }}_type.png"></a>
             </div>
-
-            <div class="jumbotron table-responsive">
-                <script src="/static/js/sortable.min.js"></script>
-                <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
-                <table id="pokemon_table" class="sortable-theme-bootstrap" data-sortable>
-                    <caption> Pokemon</caption>
-                    <thead>
-                    <tr>
-                        <th data-sortable="false">Sprite</th>
-                        <th>ID</th>
-                        <th>Name</th>
-                        <th>Primary Type</th>
-                        <th>Secondary Type</th>
-                        <th>Average Stats</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    {% for pk in pk_learn_list %}
+            <div class="col-md-1"></div>
+            <div class="col-md-4" id="move_metadata">
+                <div class="panel panel-default">
+                    <div class="panel-heading"><b>Move: {{ mv.name }}</b></div>
+                    <table class="table">
                         <tr>
-                            <td><a href="/pokemon/{{ pk.ID }}"><img src="/static/img/pokemon{{ pk.ID }}.png"></a>
-                            </td>
-                            <td>{{ pk.ID }}</td>
-                            <td><a href="/pokemon/{{ pk.ID }}">{{ pk.name.title() }}</a></td>
-                            <td><a href="/type/{{ pk.pTypeId1 }}">
-                                <img id="move_type_text_img" src="/static/img/moves/{{ pk.pType1 }}_text.png">
-                            </a></td>
-                            {% if pk.pType2 %}
-                                <td><a href="/type/{{ pk.pTypeId2 }}">
-                                    <img id="move_type_text_img" src="/static/img/moves/{{ pk.pType2 }}_text.png">
-                                </a></td>
-                            {% else %}
-                                <td></td>
-                            {% endif %}
-                            <td>{{ pk.averageStats }}</td>
+                            <th class="moves_metadata_header">Type:</th>
+                            <th><a href="/type/{{ mv.id }}">
+                                <img id="move_type_text_img" src="/static/img/moves/{{ mv.type.name }}_text.png">
+                            </a></th>
                         </tr>
-                    {% endfor %}
-                    </tbody>
-                </table>
+                        <tr>
+                            <th class="moves_metadata_header">Class:</th>
+                            <th><img id="move_class_img" src="/static/img/moves/{{ mv.damage_class }}.png"></th>
+                        </tr>
+                        <tr>
+                            <th class="moves_metadata_header">Power:</th>
+                            <th class="moves_metadata_content">{{ mv.power }}</th>
+                        </tr>
+                        <tr>
+                            <th class="moves_metadata_header">PP:</th>
+                            <th class="moves_metadata_content">{{ mv.pp }}</th>
+                        </tr>
+                        <tr>
+                            <th class="moves_metadata_header">Accuracy:</th>
+                            <th class="moves_metadata_content">{{ mv.accuracy }}</th>
+                        </tr>
+                        <tr>
+                            <th class="moves_metadata_header">Priority:</th>
+                            <th class="moves_metadata_content">{{ mv.priority }}</th>
+                        </tr>
+                    </table>
+                </div>
             </div>
+            <div class="col-md-2"></div>
         </div>
+
+        <div class="jumbotron table-responsive">
+            <script src="/static/js/sortable.min.js"></script>
+            <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+            <table id="pokemon_table" class="sortable-theme-bootstrap" data-sortable>
+                <caption> Pokemon</caption>
+                <thead>
+                <tr>
+                    <th data-sortable="false">Sprite</th>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Primary Type</th>
+                    <th>Secondary Type</th>
+                    <th>Average Stats</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for pk in pk_learn_list %}
+                <tr>
+                    <td><a href="/pokemon/{{ pk.ID }}"><img src="/static/img/pokemon{{ pk.ID }}.png"></a>
+                    </td>
+                    <td>{{ pk.ID }}</td>
+                    <td><a href="/pokemon/{{ pk.ID }}">{{ pk.name.title() }}</a></td>
+                    <td><a href="/type/{{ pk.pTypeId1 }}">
+                        <img id="move_type_text_img" src="/static/img/moves/{{ pk.pType1 }}_text.png">
+                    </a></td>
+                    {% if pk.pType2 %}
+                    <td><a href="/type/{{ pk.pTypeId2 }}">
+                        <img id="move_type_text_img" src="/static/img/moves/{{ pk.pType2 }}_text.png">
+                    </a></td>
+                    {% else %}
+                    <td></td>
+                    {% endif %}
+                    <td>{{ pk.averageStats }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+
     </div>
+</div>
 {% endblock %}
