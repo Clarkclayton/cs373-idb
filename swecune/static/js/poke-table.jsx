@@ -44,10 +44,9 @@ var TableRows = React.createClass({
 });
 
 var PokeTable = React.createClass({
-    requestData: function(offset, limit){
+    requestData: function(){
         $.ajax({
-            url: "/api/pokemon",
-            data: {offset: offset, limit: limit},
+            url: "/api/min_pokemon",
             dataType: "json",
             cache: false,
             success: function(data) {
@@ -62,7 +61,7 @@ var PokeTable = React.createClass({
 
     componentDidMount: function(){
         console.log("component did mount");
-        this.requestData(0, SLICE_WIDTH);
+        this.requestData();
     },
 
     getInitialState: function(){
@@ -76,18 +75,38 @@ var PokeTable = React.createClass({
         this.requestData((p - 1) * SLICE_WIDTH, SLICE_WIDTH);
     },
 
+    sortByColumn: function(n, ascending){
+        n = parseInt(n);
+        var cols = [0, "id", "name", "primary_type", "secondary_type", "average_stats"];
+        var k = cols[n];
+        var data = this.state.data;
+        data.sort(function(a, b){
+            if(a[k] < b[k]){
+                return -1;
+            }
+            else if(a[k] > b[k]){
+                return 1;
+            }
+            return 0;
+        });
+        if(!ascending){
+            data.reverse();
+        }
+        this.setState({data: data});
+    },
+
     render: function(){
         return(
             <div>
-            <table className="poke-table sortable-theme-bootstrap" data-sortable>
+            <table className="poke-table">
                 <thead>
                     <tr>
-                        <th data-sortable="false">Sprite</th>
-                        <th>ID</th>
-                        <th>Name</th>
-                        <th>Primary Type</th>
-                        <th>Secondary Type</th>
-                        <th>Average Stats</th>
+                        <th>Sprite</th>
+                        <TableHead p={this} col="1" name="ID"/>
+                        <TableHead p={this} col="2" name="Name"/>
+                        <TableHead p={this} col="3" name="Primary Type"/>
+                        <TableHead p={this} col="4" name="Secondary Type"/>
+                        <TableHead p={this} col="5" name="Average Stats"/>
                     </tr>
                 </thead>
                 <TableRows data={this.state.data}/>
@@ -95,6 +114,19 @@ var PokeTable = React.createClass({
             <Paginator p={this}/>
             </div>
         )
+    }
+});
+
+var TableHead = React.createClass({
+    getInitialState: function(){
+        return {ascending: false};
+    },
+    sort: function(){
+        this.props.p.sortByColumn(this.props.col, this.state.ascending);
+        this.setState({ascending: !this.state.ascending});
+    },
+    render: function(){
+        return(<th onClick={this.sort}>{this.props.name}</th>)
     }
 });
 
