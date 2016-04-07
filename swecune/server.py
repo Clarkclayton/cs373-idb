@@ -1,8 +1,8 @@
+import itertools
 import json
 import sys
 
 from flask import Flask, render_template, request
-from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 sys.path.append("../.")
@@ -38,9 +38,11 @@ def test2():
     print(x)
     return json.dumps({'name': x.name, 'id': x.id})
 
+
 """
 Andrew's API Stuff here
 """
+
 
 @app.route('/api/min_pokemon')
 def api_min_pokemons():
@@ -48,11 +50,13 @@ def api_min_pokemons():
     pokemons_min_dictified = [pokemon.min_dictify() for pokemon in session.query(Pokemon).all()]
     return json.dumps(pokemons_min_dictified)
 
+
 @app.route('/api/min_pokemon/<pokemon_id>')
 def api_min_pokemon(pokemon_id):
     session = Session()
     pokemon_min_dictified = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first().min_dictify()
     return json.dumps(pokemon_min_dictified)
+
 
 @app.route('/api/pokemon')
 def api_pokemons():
@@ -60,14 +64,17 @@ def api_pokemons():
     offset = request.args.get('offset') if request.args.get('offset') != None else 0
     pokemon_per_page = request.args.get('limit') if request.args.get('limit') else 10
 
-    pokemons_dictified = [pokemon.dictify() for pokemon in session.query(Pokemon).limit(pokemon_per_page).offset(offset).all()]
+    pokemons_dictified = [pokemon.dictify() for pokemon in
+                          session.query(Pokemon).limit(pokemon_per_page).offset(offset).all()]
     return json.dumps(pokemons_dictified)
+
 
 @app.route('/api/pokemon/<pokemon_id>')
 def api_pokemon(pokemon_id):
     session = Session()
     pokemon_dictified = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first().dictify()
     return json.dumps(pokemon_dictified)
+
 
 @app.route('/api/move')
 def api_moves():
@@ -78,10 +85,13 @@ def api_moves():
     moves_dictified = [move.dictify() for move in session.query(Move).limit(moves_per_page).offset(offset).all()]
     return json.dumps(moves_dictified)
 
+
 @app.route('/api/move/<move_id>')
 def api_move(move_id):
+    session = Session()
     move_dictified = session.query(Move).filter(Move.id == move_id).first().dictify()
     return json.dumps(move_dictified)
+
 
 @app.route('/api/type')
 def api_types():
@@ -89,8 +99,10 @@ def api_types():
     types_dictified = [type.dictify() for type in session.query(Type).all()]
     return json.dumps(types_dictified)
 
+
 @app.route('/api/type/<type_id>')
 def api_type(type_id):
+    session = Session()
     type_dictified = session.query(Type).filter(Type.id == type_id).first().dictify()
     return json.dumps(type_dictified)
 
@@ -116,7 +128,9 @@ def index():
 def pokemon(pokemon_id):
     session = Session()
     pk = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
-    return render_template('pokemon.html',pk=pk)
+    if pk is None:
+        return render_template('404.html')
+    return render_template('pokemon.html', pk=pk)
 
 
 # @app.route('/move/<move_id>')
@@ -138,27 +152,23 @@ def pokemon(pokemon_id):
 #                            pk_learn_list=pk_learn_list)
 #
 #
-# @app.route('/type/<type_id>')
-# def type(type_id):
-#     if type_id not in type_dict:
-#         return render_template('404.html')
-#     t = type_dict[type_id]
-#     return render_template('type.html',
-#                            mv_list=moves_dict.values(),
-#                            ty=t,
-#                            superEffective=zip(t.strength, t.resistance, t.immunity),
-#                            numPrimary="134",
-#                            numSecondary="56",
-#                            numMoves="42",
-#                            type_img='/static/img/fire_type.png',
-#                            pokemon_list=pokemon_dict.values(),
-#                            pokemon_url='/static/img/pokemon1.png')
-#
-#
+@app.route('/type/<type_id>')
+def type(type_id):
+    session = Session()
+    ty = session.query(Type).filter(Type.id == type_id).first()
+    if ty is None:
+        return render_template('404.html')
+    print(ty.double_damage_to)
+
+    relations_to=list(itertools.zip_longest(ty.double_damage_to, ty.half_damage_to, ty.no_damage_to))
+    relations_from=list(itertools.zip_longest(ty.double_damage_from, ty.half_damage_from, ty.no_damage_from))
+    return render_template('type.html', ty=ty, relations_to=relations_to, relations_from=relations_from)
+
 
 @app.route('/pokemon')
 def pokemon_all():
     return render_template('pokemon_all.html')
+
 
 #
 # @app.route('/type')
