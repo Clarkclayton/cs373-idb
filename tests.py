@@ -1,4 +1,4 @@
-from unittest import main, TestCase
+from unittest import TestCase
 
 from models import Pokemon, Type, Move
 from swecune.server import db
