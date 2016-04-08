@@ -4,7 +4,6 @@ import sys
 from functools import wraps
 
 from flask import Flask, render_template, request
-from sqlalchemy import exc
 from sqlalchemy.orm import sessionmaker
 from werkzeug.wrappers import Response
 
@@ -36,6 +35,7 @@ class complicated_fucking_decorator(object):
         @wraps(func)
         def func_wrapper(*args, **kwargs):
             while True:
+                global engine, Session
                 try:
                     session = Session()
                     ret = func(session, *args, **kwargs)
@@ -50,9 +50,12 @@ class complicated_fucking_decorator(object):
                     session.close()
                     return resp
                 except:
-                    # It will reestablish the connection. So if the page is reloaded, the function the connection is new again
-                    # TODO: How to resume?
-                    raise exc.DisconnectionError()
+                    # raise exc.DisconnectionError()
+                    engine = create_engine(
+                        '{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
+                        pool_recycle=3600).connect()
+                    Base.metadata.create_all(engine)
+                    Session = sessionmaker(bind=engine, autocommit=True)
 
         return func_wrapper
 

@@ -1,8 +1,9 @@
 var SLICE_WIDTH = 10;
 
+
 var capitalize = function(s){
     return s[0].toUpperCase() + s.slice(1);
-}
+};
 
 var PokeRow = React.createClass({
     render: function(){
@@ -45,7 +46,8 @@ var TableRows = React.createClass({
 
 var PokeTable = React.createClass({
     requestData: function(){
-        $.ajax({
+        this.setState({data: db_pokemon});
+        /* $.ajax({
             url: "/api/min_pokemon",
             dataType: "json",
             cache: false,
@@ -56,7 +58,7 @@ var PokeTable = React.createClass({
             error: function(xhr, status, err){
                 console.error("/api/pokemon", status, err.toString());
             }.bind(this)
-        });
+        });*/
     },
 
     componentDidMount: function(){
@@ -67,12 +69,13 @@ var PokeTable = React.createClass({
     getInitialState: function(){
         return ({
             data: [],
+            page: 1
         })
     },
 
     changePage: function(p){
         console.log("page: " + p);
-        this.requestData((p - 1) * SLICE_WIDTH, SLICE_WIDTH);
+        this.setState({page: p});
     },
 
     sortByColumn: function(n, ascending){
@@ -98,6 +101,7 @@ var PokeTable = React.createClass({
     render: function(){
         return(
             <div>
+            <Paginator p={this} swidth="5"/>
             <table className="poke-table">
                 <thead>
                     <tr>
@@ -109,9 +113,8 @@ var PokeTable = React.createClass({
                         <TableHead p={this} col="5" name="Average Stats"/>
                     </tr>
                 </thead>
-                <TableRows data={this.state.data}/>
+                <TableRows data={this.state.data.slice((this.state.page - 1) * SLICE_WIDTH, this.state.page * SLICE_WIDTH)}/>
             </table>
-            <Paginator p={this}/>
             </div>
         )
     }
@@ -130,28 +133,87 @@ var TableHead = React.createClass({
     }
 });
 
+/*
 var handleClick = function(table, page){
     console.log(table);
     table.changePage(page);
+};
+*/
+
+var doNothing = function(){
+    return false;
 }
 
+var gk = 1;
+
 var Paginator = React.createClass({
+    getInitialState: function(){
+        var width = parseInt(this.props.swidth);
+        console.log("the width is: " + width);
+        var buttons = Array(width);
+        for(var i = 0; i < width; i++){
+            var p_num = i + 1;
+            var boundClick = this.handleClick.bind(this, p_num);
+            var ln;
+            if(p_num == 1){
+                ln = <a onClick={doNothing} className="current-page">{p_num}</a>
+            }
+            else{
+                ln = <a href="#" onClick={boundClick}>{p_num}</a>
+            }
+            gk++;
+            buttons[i] = (<li key={gk}>
+                            {ln}
+                        </li>);
+        }
+        return {width: width, current: 1, buttons: buttons}
+    },
+
+    handleClick: function(page){
+        var buttons = Array(this.state.width);
+
+        var margin = Math.floor(this.state.width / 2);
+        var start = Math.max(1, page - margin);
+        var end = Math.ceil(this.props.p.state.data.length / SLICE_WIDTH);
+        var a = Math.ceil(this.props.p.state.data.length / SLICE_WIDTH);
+        console.log("a is: " + a);
+
+        for(var i = 0; i < this.state.width; i++){
+            var p_num = start + i;
+            var boundClick = this.handleClick.bind(this, p_num);
+            var ln;
+            if(p_num == page){
+                ln = <a onClick={doNothing} className="current-page">{p_num}</a>
+            }
+            else{
+                ln = <a href="#" onClick={boundClick}>{p_num}</a>
+            }
+            if(p_num > end){
+                ln = <a onClick={doNothing} className="current-page">.</a>
+            }
+            gk++;
+            buttons[i] = (<li key={gk}>
+                            {ln}
+                        </li>);
+        }
+        this.props.p.changePage(page);
+        this.setState({buttons: buttons, current: page});
+    },
+
     render: function(){
+        var prevButton = this.handleClick.bind(this, Math.max(1, this.state.current - 1));
+        var nextButton = this.handleClick.bind(this, Math.min(Math.ceil(this.props.p.state.data.length / SLICE_WIDTH), this.state.current + 1));
         return(
             <nav>
                <ul className="pagination">
                    <li>
-                       <a href="#" aria-label="Previous">
+                       <a href="#" aria-label="Previous" onClick={prevButton}>
                        <span aria-hidden="true">&laquo;</span>
                        </a>
                    </li>
-                   <li><a href="#" onClick={handleClick.bind(this, this.props.p, 1)}>1</a></li>
-                   <li><a href="#" onClick={handleClick.bind(this, this.props.p, 2)}>2</a></li>
-                   <li><a href="#" onClick={handleClick.bind(this, this.props.p, 3)}>3</a></li>
-                   <li><a href="#" onClick={handleClick.bind(this, this.props.p, 4)}>4</a></li>
-                   <li><a href="#" onClick={handleClick.bind(this, this.props.p, 5)}>5</a></li>
+                   {this.state.buttons}
                    <li>
-                       <a href="#" aria-label="Next">
+                       <a href="#" aria-label="Next" onClick={nextButton}>
                        <span aria-hidden="true">&raquo;</span>
                        </a>
                    </li>
