@@ -15,7 +15,7 @@ app = Flask(__name__)
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'
 password = 'guestbook-user-password'
-host = '104.130.22.72'
+host = '172.99.70.65'
 port = '3306'
 database = 'guestbook'
 
@@ -34,12 +34,11 @@ class complicated_fucking_decorator(object):
     def __call__(self, func):
         @wraps(func)
         def func_wrapper(*args, **kwargs):
+            global Session, engine
             while True:
-                global engine, Session
                 try:
                     session = Session()
                     ret = func(session, *args, **kwargs)
-
                     if self.calling_type:
                         resp = Response(json.dumps(ret), mimetype='application/json', status=200)
                     else:
@@ -127,7 +126,8 @@ def pokemon(session, pokemon_id):
 @complicated_fucking_decorator(False, 'move.html')
 def move(session, move_id):
     resp = session.query(Move).filter(Move.id == move_id).first()
-    return {'mv': resp} if resp else None
+    test = {'mv': resp}
+    return test if resp else None
 
 
 @app.route('/type/<type_id>')
