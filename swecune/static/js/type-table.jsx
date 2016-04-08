@@ -6,9 +6,9 @@ var TypeRow = React.createClass({
             <tr>
                 <td className="center"><img className="type-sprite" src={"/static/img/type_" + ty.id + ".png"}/></td>
                 <td className="center"><a href={"/type/" + ty.id}>{ty.name}</a></td>
-                <td className="center">{ty.id + 134}</td>
-                <td className="center">{ty.id + 56}</td>
-                <td className="center">{ty.id +  42}</td>
+                <td className="center">{ty.num_primary}</td>
+                <td className="center">{ty.num_secondary}</td>
+                <td className="center">{ty.num_moves}</td>
                 <td className="center">{ty.generation}</td>
             </tr>
         );
@@ -37,6 +37,7 @@ var TypeTable = React.createClass({
             success: function(data) {
                 console.log("MOUNTED");
                 this.setState({data: data, loaded: "true"});
+                spinner.stop();
             }.bind(this),
             error: function(xhr, status, err){
                 console.error("/api/type", status, err.toString());
@@ -88,7 +89,7 @@ var TypeTable = React.createClass({
             <table className="poke-table table">
                 <thead>
                     <tr>
-                        <TableHead p={this} col="0" name="Sprite"/>
+                        <th>Sprite</th>
                         <TableHead p={this} col="1" name="Name"/>
                         <TableHead p={this} col="2" name="# Primary Pokemon"/>
                         <TableHead p={this} col="3" name="# Secondary Pokemon"/>

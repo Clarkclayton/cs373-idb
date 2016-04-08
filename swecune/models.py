@@ -254,7 +254,6 @@ class Type(Base):
 
         dictified['moves'] = [move.id for move in self.move_type]
 
-        num_primary_query = select([Pokemon]).where(Pokemon.primary_type_id == self.id)
         dictified['num_primary_type'] = len(self.pokemon_primary_type)
         dictified['num_secondary_type'] = len(self.pokemon_secondary_type)
 
@@ -266,8 +265,8 @@ class Type(Base):
         dictified['name'] = self.name.title()
         dictified['generation'] = self.generation
 
-        num_primary_query = select([Pokemon]).where(Pokemon.primary_type_id == self.id)
-        dictified['num_primary_type'] = len(self.pokemon_primary_type)
-        dictified['num_secondary_type'] = len(self.pokemon_secondary_type)
+        dictified['num_primary'] = len(self.pokemon_primary_type)
+        dictified['num_secondary'] = len(self.pokemon_secondary_type)
+        dictified['num_moves'] = len(self.move_type)
 
         return dictified
