@@ -4,12 +4,12 @@ var TypeRow = React.createClass({
 
         return(
             <tr>
-                <td><img className="type-sprite" src={"/static/img/type_" + ty.id + ".png"}/></td>
-                <td><a href={"/type/" + ty.id}>{ty.name}</a></td>
-                <td>{ty.id + 134}</td>
-                <td>{ty.id + 56}</td>
-                <td>{ty.id +  42}</td>
-                <td>{ty.generation}</td>
+                <td className="center"><img className="type-sprite" src={"/static/img/type_" + ty.id + ".png"}/></td>
+                <td className="center"><a href={"/type/" + ty.id}>{ty.name}</a></td>
+                <td className="center">{ty.id + 134}</td>
+                <td className="center">{ty.id + 56}</td>
+                <td className="center">{ty.id +  42}</td>
+                <td className="center">{ty.generation}</td>
             </tr>
         );
     }
@@ -36,7 +36,7 @@ var TypeTable = React.createClass({
             cache: false,
             success: function(data) {
                 console.log("MOUNTED");
-                this.setState({data: data});
+                this.setState({data: data, loaded: "true"});
             }.bind(this),
             error: function(xhr, status, err){
                 console.error("/api/type", status, err.toString());
@@ -52,7 +52,8 @@ var TypeTable = React.createClass({
     getInitialState: function(){
         return ({
             data: [],
-            page: 1
+            page: 1,
+            loaded: "false"
         })
     },
 
@@ -84,8 +85,7 @@ var TypeTable = React.createClass({
     render: function(){
         return(
             <div>
-            <Paginator p={this} swidth="2"/>
-            <table className="poke-table">
+            <table className="poke-table table">
                 <thead>
                     <tr>
                         <TableHead p={this} col="0" name="Sprite"/>
@@ -98,6 +98,7 @@ var TypeTable = React.createClass({
                 </thead>
                 <TableRows data={this.state.data.slice((this.state.page - 1) * 10, this.state.page * 10)}/>
             </table>
+            <Paginator p={this} swidth="2" doRender={this.state.loaded}/>
             </div>
         )
     }
@@ -183,23 +184,26 @@ var Paginator = React.createClass({
     render: function(){
         var prevButton = this.handleClick.bind(this, Math.max(1, this.state.current - 1));
         var nextButton = this.handleClick.bind(this, Math.min(Math.ceil(this.props.p.state.data.length / 10), this.state.current + 1));
-        return(
-            <nav>
-               <ul className="pagination">
-                   <li>
-                       <a href="#" aria-label="Previous" onClick={prevButton}>
-                       <span aria-hidden="true">&laquo;</span>
-                       </a>
-                   </li>
-                   {this.state.buttons}
-                   <li>
-                       <a href="#" aria-label="Next" onClick={nextButton}>
-                       <span aria-hidden="true">&raquo;</span>
-                       </a>
-                   </li>
-               </ul>
-           </nav>
-        )
+        var rend = null;
+        if(this.props.doRender == "true"){
+            rend = (
+            <nav className="text-center">
+                <ul className="pagination">
+                    <li>
+                        <a href="#" aria-label="Previous" onClick={prevButton}>
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    </li>
+                    {this.state.buttons}
+                    <li>
+                        <a href="#" aria-label="Next" onClick={nextButton}>
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>)
+        }
+        return rend;
     }
 });
 

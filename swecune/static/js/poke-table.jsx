@@ -48,7 +48,7 @@ var PokeTable = React.createClass({
             cache: false,
             success: function(data) {
                 console.log("MOUNTED");
-                this.setState({data: data});
+                this.setState({data: data, loaded: "true"});
             }.bind(this),
             error: function(xhr, status, err){
                 console.error("/api/pokemon", status, err.toString());
@@ -64,7 +64,8 @@ var PokeTable = React.createClass({
     getInitialState: function(){
         return ({
             data: [],
-            page: 1
+            page: 1,
+            loaded: "false"
         })
     },
 
@@ -96,8 +97,7 @@ var PokeTable = React.createClass({
     render: function(){
         return(
             <div>
-            <Paginator p={this} swidth="9"/>
-            <table className="poke-table">
+            <table className="poke-table table">
                 <thead>
                     <tr>
                         <th>Sprite</th>
@@ -110,6 +110,7 @@ var PokeTable = React.createClass({
                 </thead>
                 <TableRows data={this.state.data.slice((this.state.page - 1) * SLICE_WIDTH, this.state.page * SLICE_WIDTH)}/>
             </table>
+            <Paginator p={this} swidth="9" doRender={this.state.loaded}/>
             </div>
         )
     }
@@ -192,23 +193,26 @@ var Paginator = React.createClass({
     render: function(){
         var prevButton = this.handleClick.bind(this, Math.max(1, this.state.current - 1));
         var nextButton = this.handleClick.bind(this, Math.min(Math.ceil(this.props.p.state.data.length / SLICE_WIDTH), this.state.current + 1));
-        return(
-            <nav>
-               <ul className="pagination">
-                   <li>
-                       <a href="#" aria-label="Previous" onClick={prevButton}>
-                       <span aria-hidden="true">&laquo;</span>
-                       </a>
-                   </li>
-                   {this.state.buttons}
-                   <li>
-                       <a href="#" aria-label="Next" onClick={nextButton}>
-                       <span aria-hidden="true">&raquo;</span>
-                       </a>
-                   </li>
-               </ul>
-           </nav>
-        )
+        var rend = null;
+        if(this.props.doRender == "true"){
+            rend = (
+            <nav className="text-center">
+                <ul className="pagination">
+                    <li>
+                        <a href="#" aria-label="Previous" onClick={prevButton}>
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    </li>
+                    {this.state.buttons}
+                    <li>
+                        <a href="#" aria-label="Next" onClick={nextButton}>
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>)
+        }
+        return rend;
     }
 });
 
