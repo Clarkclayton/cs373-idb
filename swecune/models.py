@@ -8,7 +8,7 @@ from collections import OrderedDict
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'
 password = 'guestbook-user-password'
-host = '104.130.22.72'
+host = '172.99.70.65'
 port = '3306'
 database = 'guestbook'
 engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
@@ -242,5 +242,9 @@ class Type(Base):
             dictified[name] = [type.opposing for type in engine.execute(s)]
 
         dictified['moves'] = [move.id for move in self.move_type]
+
+        num_primary_query = select([Pokemon]).where(Pokemon.primary_type_id == self.id)
+        dictified['num_primary_type'] = len(self.pokemon_primary_type)
+        dictified['num_secondary_type'] = len(self.pokemon_secondary_type)
 
         return dictified
