@@ -4,7 +4,7 @@ var TypeRow = React.createClass({
 
         return(
             <tr>
-                <td className="center"><img className="type-sprite" src={"/static/img/type_" + ty.id + ".png"}/></td>
+                <td className="center"><a href={"/type/" + ty.id}><img className="type-sprite" src={"/static/img/type_" + ty.id + ".png"}/></a></td>
                 <td className="center"><a href={"/type/" + ty.id}>{ty.name}</a></td>
                 <td className="center">{ty.num_primary}</td>
                 <td className="center">{ty.num_secondary}</td>
