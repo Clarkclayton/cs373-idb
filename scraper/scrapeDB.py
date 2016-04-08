@@ -3,23 +3,21 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 from db.Factory import Factory, pokemon, types, moves
-from db.models import Base
-
-# dialect = 'mysql+pymysql'
-# username = 'root'
-# password = '77corvette'
-# host = '127.0.0.1'
-# port = '3306'
-# database = 'SWECUNEDB'
+from models import Base
 
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'
 password = 'guestbook-user-password'
-host = '104.130.22.72'
+host = '172.99.70.65'
 port = '3306'
 database = 'guestbook'
 
 engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
+
+print('connection created')
+resp = engine.execute('show tables;')
+for row in resp:
+    print(row)
 
 engine.execute('DROP TABLE IF EXISTS pokemon_move;')
 
@@ -35,11 +33,14 @@ engine.execute('DROP TABLE IF EXISTS pokemon;')
 engine.execute('DROP TABLE IF EXISTS move;')
 engine.execute('DROP TABLE IF EXISTS type;')
 
+print('here')
+
 Base.metadata.create_all(engine)
 
 Session = sessionmaker(bind=engine, autocommit=True)
 session = Session()
 
+print('here3')
 endpoints = ['type', 'pokemon', 'move']
 # endpoints = ['type']
 base_url = "http://pokeapi.co/api/v2/"
@@ -59,6 +60,13 @@ for url_end in endpoints:
         x(requests.get(url).json())
 
 Factory.add_relationships()
+session.close()
+engine.close()
+
+engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
+Base.metadata.create_all(engine)
+Session = sessionmaker(bind=engine, autocommit=True)
+session = Session()
 
 print('Add_all started')
 session.add_all(value for value in types.values())
@@ -127,4 +135,5 @@ result = engine.execute('SELECT * FROM pokemon')
 for row in result:
     print(row)
 
+session.close()
 engine.close()
