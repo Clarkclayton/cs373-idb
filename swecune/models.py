@@ -124,7 +124,7 @@ class Pokemon(Base):
         dictified['primary_type'] = self.primary_type.id
         dictified['secondary_type'] = None if self.secondary_type == None else self.secondary_type.id
         dictified['average_stats'] = self.average_stats
-        dictified['moves'] = [move.id for move in self.moves]
+        dictified['moves'] = [move.id for move in self.moves if move.type_id < 20]
 
         return dictified
 
@@ -252,7 +252,7 @@ class Type(Base):
             s = select([Type, table]).where(and_(self.id == table.c.origin, self.id == Type.id))
             dictified[name] = [type.opposing for type in engine.execute(s)]
 
-        dictified['moves'] = [move.id for move in self.move_type]
+        dictified['moves'] = [move.id for move in self.move_type if move.type_id < 20]
 
         num_primary_query = select([Pokemon]).where(Pokemon.primary_type_id == self.id)
         dictified['num_primary_type'] = len(self.pokemon_primary_type)
