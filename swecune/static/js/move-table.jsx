@@ -4,7 +4,7 @@ var MoveRow = React.createClass({
 
         return(
             <tr>
-                <td><a href={"/move/" + mv.ID }>{mv.name}</a></td>
+                <td><a href={"/move/" + mv.id }>{mv.name}</a></td>
                 <td data-value={ mv.move_type }>
                     <a href={"/type/" + mv.m_type_id}>
                         <img className="move-sprite" id="img_type_text" src={"/static/img/type_text_" + mv.move_type + ".png"}/>
