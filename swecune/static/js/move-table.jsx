@@ -193,7 +193,7 @@ var Paginator = React.createClass({
         var rend = null;
         if(this.props.doRender == "true"){
             rend = (
-            <table className="poke-table table">
+            <nav className="poke-table table">
                 <ul className="pagination">
                     <li>
                         <a href="#" aria-label="Previous" onClick={prevButton}>
