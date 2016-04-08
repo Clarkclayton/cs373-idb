@@ -19,7 +19,7 @@ var PokeRow = React.createClass({
                     <img id="move_type_text_img" src={"/static/img/type_text_" + pk.secondary_type + ".png"}/>
                 </a>
                 </td>
-                :<td data-value="-1">""</td>}
+                :<td data-value="-1"></td>}
                 <td> {pk.average_stats} </td>
             </tr>
         )
