@@ -1,7 +1,9 @@
 import itertools
 import json
 import sys
-from functools import wraps
+import subprocess
+
+from functools import wraps 
 
 from flask import Flask, render_template, request
 from sqlalchemy.orm import sessionmaker
@@ -9,13 +11,15 @@ from werkzeug.wrappers import Response
 
 sys.path.append("../.")
 
+import tests
+import unittest
 from models import *
 
 app = Flask(__name__)
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'
 password = 'guestbook-user-password'
-host = '104.130.22.72'
+host = '172.99.70.65'
 port = '3306'
 database = 'guestbook'
 
@@ -59,6 +63,17 @@ class complicated_fucking_decorator(object):
 
         return func_wrapper
 
+@app.route('/api/run_tests')
+def api_run_tests():
+    try:
+        p = subprocess.Popen(["python3", "../tests.py"],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            stdin=subprocess.PIPE)
+        out, err = p.communicate()
+        return "Output: " + str(out) + "\nError: " + str(err) + "\n"
+    except:
+        pass
 
 @app.route('/api/min_pokemon')
 @complicated_fucking_decorator(True)
