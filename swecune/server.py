@@ -106,7 +106,7 @@ def api_pokemon(session, pokemon_id):
 @app.route('/api/min_move')
 @complicated_fucking_decorator(True)
 def api_min_moves(session):
-    return [move.min_dictify() for move in session.query(Move).all()]
+    return [move.min_dictify() for move in session.query(Move).filter(Move.type_id < 20).all()]
 
 
 @app.route('/api/move')
@@ -114,7 +114,7 @@ def api_min_moves(session):
 def api_moves(session):
     offset = request.args.get('offset') if request.args.get('offset') is not None else 0
     moves_per_page = request.args.get('limit') if request.args.get('limit') else 10
-    return [move.dictify() for move in session.query(Move).limit(moves_per_page).offset(offset).all()]
+    return [move.dictify() for move in session.query(Move).filter(Move.type_id < 20).limit(moves_per_page).offset(offset).all()]
 
 
 @app.route('/api/move/<move_id>')
@@ -127,13 +127,13 @@ def api_move(session, move_id):
 @app.route('/api/min_type')
 @complicated_fucking_decorator(True)
 def api_min_types(session):
-    return [type.min_dictify() for type in session.query(Type).all()]
+    return [type.min_dictify() for type in session.query(Type).filter(Type.id < 20).all()]
 
 
 @app.route('/api/type')
 @complicated_fucking_decorator(True)
 def api_types(session):
-    return [type.dictify() for type in session.query(Type).all()]
+    return [type.dictify() for type in session.query(Type).filter(Type.id < 20).all()]
 
 
 @app.route('/api/type/<type_id>')

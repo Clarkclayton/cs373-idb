@@ -1,8 +1,3 @@
-
-var capitalize = function(s){
-    return s[0].toUpperCase() + s.slice(1);
-};
-
 var MoveRow = React.createClass({
     render: function(){
         var mv = this.props.move;
@@ -45,7 +40,7 @@ var MoveTable = React.createClass({
             cache: false,
             success: function(data) {
                 console.log("MOUNTED");
-                this.setState({data: data});
+                this.setState({data: data, loaded: "true"});
             }.bind(this),
             error: function(xhr, status, err){
                 console.error("/api/min_move", status, err.toString());
@@ -61,7 +56,8 @@ var MoveTable = React.createClass({
     getInitialState: function(){
         return ({
             data: [],
-            page: 1
+            page: 1,
+            loaded: "false"
         })
     },
 
@@ -93,7 +89,6 @@ var MoveTable = React.createClass({
     render: function(){
         return(
             <div>
-            <Paginator p={this} swidth="5"/>
             <table className="poke-table">
                 <thead>
                     <tr>
@@ -106,6 +101,7 @@ var MoveTable = React.createClass({
                 </thead>
                 <TableRows data={this.state.data.slice((this.state.page - 1) * 10, this.state.page * 10)}/>
             </table>
+            <Paginator p={this} doRender={this.state.loaded} swidth="9"/>
             </div>
         )
     }
@@ -157,7 +153,7 @@ var Paginator = React.createClass({
                             {ln}
                         </li>);
         }
-        return {width: width, current: 1, buttons: buttons}
+        return {width: width, current: 1, buttons: buttons, doRender: false}
     },
 
     handleClick: function(page){
@@ -194,23 +190,26 @@ var Paginator = React.createClass({
     render: function(){
         var prevButton = this.handleClick.bind(this, Math.max(1, this.state.current - 1));
         var nextButton = this.handleClick.bind(this, Math.min(Math.ceil(this.props.p.state.data.length / 10), this.state.current + 1));
-        return(
-            <nav>
-               <ul className="pagination">
-                   <li>
-                       <a href="#" aria-label="Previous" onClick={prevButton}>
-                       <span aria-hidden="true">&laquo;</span>
-                       </a>
-                   </li>
-                   {this.state.buttons}
-                   <li>
-                       <a href="#" aria-label="Next" onClick={nextButton}>
-                       <span aria-hidden="true">&raquo;</span>
-                       </a>
-                   </li>
-               </ul>
-           </nav>
-        )
+        var rend = null;
+        if(this.props.doRender == "true"){
+            rend = (
+            <table className="poke-table table">
+                <ul className="pagination">
+                    <li>
+                        <a href="#" aria-label="Previous" onClick={prevButton}>
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    </li>
+                    {this.state.buttons}
+                    <li>
+                        <a href="#" aria-label="Next" onClick={nextButton}>
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>)
+        }
+        return rend;
     }
 });
 
