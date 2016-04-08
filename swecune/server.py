@@ -147,11 +147,11 @@ def pokemon_all():
     return render_template('pokemon_all.html')
 
 
-# @app.route('/type')
-# def type_all():
-#     return render_template('type_all.html', type_list=type_dict.values())
-#
-#
+@app.route('/type')
+def type_all():
+    return render_template('type_all.html')
+
+
 @app.route('/move')
 def move_all():
     return render_template('moves_all.html')
