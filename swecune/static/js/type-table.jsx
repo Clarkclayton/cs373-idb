@@ -98,6 +98,7 @@ var TypeTable = React.createClass({
                         <TableHead p={this} col="2" name="# Primary Pokemon"/>
                         <TableHead p={this} col="3" name="# Secondary Pokemon"/>
                         <TableHead p={this} col="4" name="# Moves"/>
+                        <TableHead p={this} col="5" name="Generation"/>
                     </tr>
                 </thead>
                 <TableRows data={this.state.data.slice((this.state.page - 1) * 10, this.state.page * 10)}/>
