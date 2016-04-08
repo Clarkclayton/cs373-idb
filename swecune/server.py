@@ -99,6 +99,10 @@ def api_pokemon(session, pokemon_id):
     resp = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
     return resp.min_dictify() if resp else {}
 
+@app.route('/api/min_move')
+@complicated_fucking_decorator(True)
+def api_min_moves(session):
+    return [move.min_dictify() for move in session.query(Move).all()]
 
 @app.route('/api/move')
 @complicated_fucking_decorator(True)
