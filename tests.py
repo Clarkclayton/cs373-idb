@@ -1,132 +1,134 @@
-from unittest import TestCase
+import sys
+from flask import Flask, render_template, request
+from sqlalchemy import exc
+from sqlalchemy.orm import sessionmaker
+from werkzeug.wrappers import Response
 
-from models import Pokemon, Type, Move
-from swecune.server import db
+sys.path.append("../.")
+
+from models import *
+from unittest import main, TestCase
 
 class tests(TestCase):
-    normal_type = Type(id=1, name="normal", generation=1, immunities=[], strengths=[], weaknesses=[])
-    grass_type = Type(id=12, name="grass", generation=1, immunities=[], strengths=[], weaknesses=[])
-    poison_type = Type(id=4, name="poison", generation=1, immunities=[], strengths=[], weaknesses=[])
-    tackle_move = Move(id=33, name="tackle", accuracy=100, pp=35, priority=0, power=50, damage_class="physical", move_type=normal_type)
-    pokemon = Pokemon(id=1, name="bulbasaur", hp=45, attack=49, defense=49, special_attack=65, special_defense=65, speed=45, average_stats=53, primary_type=grass_type, secondary_type=poison_type, moves=[tackle_move])
 
-	#Tests that Pokemon Table is writable
-	def test_pokemon_writable(self):
-        numPokeBeforeWrite = len(Pokemon.query.all())
+    def test_pokemon_1_readable(self):
+        test_pk = session.query(Pokemon).get(1)
 
-        db.session.add(pokemon)
-        db.session.commit()
+        self.assertEqual(test_pk.id, 1)
+        self.assertEqual(test_pk.name, "bulbasaur")
+        self.assertEqual(test_pk.hp, 45)
+        self.assertEqual(test_pk.attack, 49)
+        self.assertEqual(test_pk.defense, 49)
+        self.assertEqual(test_pk.special_attack, 65)
+        self.assertEqual(test_pk.special_defense, 65)
+        self.assertEqual(test_pk.speed, 45)
+        self.assertEqual(test_pk.average_stats, 53)
 
-        numPokeAfterWrite = len(Pokemon.query.all())
+    def test_pokemon_2_readable(self):
+        test_pk = session.query(Pokemon).get(2)
 
-        self.assertEqual(numPokeBeforeWrite + 1, numPokeAfterWrite)
+        self.assertEqual(test_pk.id, 2)
+        self.assertEqual(test_pk.name, "ivysaur")
+        self.assertEqual(test_pk.hp, 60)
+        self.assertEqual(test_pk.attack, 62)
+        self.assertEqual(test_pk.defense, 63)
+        self.assertEqual(test_pk.special_attack, 80)
+        self.assertEqual(test_pk.special_defense, 80)
+        self.assertEqual(test_pk.speed, 60)
+        self.assertEqual(test_pk.average_stats, 67)
 
-    #Tests that Pokemon Table is readable
-    def test_pokemon_readable(self):
-        db.session.add(pokemon)
-        db.session.commit()
+    def test_pokemon_3_readable(self):
+        test_pk = session.query(Pokemon).get(4)
 
-        bulbasaur = Pokemon.query.get(1)
+        self.assertEqual(test_pk.id, 4)
+        self.assertEqual(test_pk.name, "charmander")
+        self.assertEqual(test_pk.hp, 39)
+        self.assertEqual(test_pk.attack, 52)
+        self.assertEqual(test_pk.defense, 43)
+        self.assertEqual(test_pk.special_attack, 60)
+        self.assertEqual(test_pk.special_defense, 50)
+        self.assertEqual(test_pk.speed, 65)
+        self.assertEqual(test_pk.average_stats, 51)
 
-        self.assertEqual(bulbasaur.id, 1)
-        self.assertEqual(bulbasaur.name, "bulbasaur")
-        self.assertEqual(bulbasaur.hp, 45)
-        self.assertEqual(bulbasaur.attack, 49)
-        self.assertEqual(bulbasaur.defense, 49)
-        self.assertEqual(bulbasaur.special_attack, 65)
-        self.assertEqual(bulbasaur.special_defense, 65)
-        self.assertEqual(bulbasaur.speed, 45)
-        self.assertEqual(bulbasaur.average_stats, 53)
+    def test_pokemon_4_readable(self):
+        test_pk = session.query(Pokemon).get(25)
 
-    #Tests that Pokemon Table is deletable
-    def test_pokemon_deletable(self):
-        db.session.add(pokemon)
-        db.session.commit()
+        self.assertEqual(test_pk.id, 25)
+        self.assertEqual(test_pk.name, "pikachu")
+        self.assertEqual(test_pk.hp, 35)
+        self.assertEqual(test_pk.attack, 55)
+        self.assertEqual(test_pk.defense, 40)
+        self.assertEqual(test_pk.special_attack, 50)
+        self.assertEqual(test_pk.special_defense, 50)
+        self.assertEqual(test_pk.speed, 90)
+        self.assertEqual(test_pk.average_stats, 53)
 
-        numPokeAfterWrite = len(Pokemon.query.all())
+    def test_move_physical_readable(self):
+        test_move = session.query(Move).get(1)
 
-        db.session.delete(pokemon)
-        db.session.commit()
+        self.assertEqual(test_move.id, 1)
+        self.assertEqual(test_move.name, "pound")
+        self.assertEqual(test_move.accuracy, 100)
+        self.assertEqual(test_move.pp, 35)
+        self.assertEqual(test_move.priority, 0)
+        self.assertEqual(test_move.power, 40)
+        self.assertEqual(test_move.damage_class, "physical")
 
-        numPokeAfterDelete = len(Pokemon.query.all())
+    def test_move_special_readable(self):
+        test_move = session.query(Move).get(59)
 
-        self.assertEqual(numPokeAfterWrite - 1, numPokeAfterDelete)
+        self.assertEqual(test_move.id, 59)
+        self.assertEqual(test_move.name, "blizzard")
+        self.assertEqual(test_move.accuracy, 70)
+        self.assertEqual(test_move.pp, 5)
+        self.assertEqual(test_move.priority, 0)
+        self.assertEqual(test_move.power, 110)
+        self.assertEqual(test_move.damage_class, "special")
 
-    #Tests that Type Table is writeable
-    def test_type_writeable(self):
-        numTypesBeforeWrite = len(Type.query.all())
+    def test_move_sword_attack_readable(self):
+        test_move = session.query(Move).get(14)
 
-        db.session.add(grass_type)
-        db.session.commit()
+        self.assertEqual(test_move.id, 14)
+        self.assertEqual(test_move.name, "swords-dance")
+        self.assertEqual(test_move.accuracy, None)
+        self.assertEqual(test_move.pp, 20)
+        self.assertEqual(test_move.priority, 0)
+        self.assertEqual(test_move.power, None)
+        self.assertEqual(test_move.damage_class, "status")
 
-        numTypesAfterWrite = len(Type.query.all())
+    def test_type_first_generation_readable(self):
+        test_type = session.query(Type).get(10)
 
-        self.assertEqual(numTypesBeforeWrite + 1, numTypesAfterWrite)
+        self.assertEqual(test_type.id, 10)
+        self.assertEqual(test_type.name, "fire")
+        self.assertEqual(test_type.generation, 1)
 
-    #Tests that Type Table is readable
-    def test_type_readable(self):
-        db.session.add(pokemon)
-        db.session.commit()
+    def test_type_second_generation_readable(self):
+        test_type = session.query(Type).get(9)
 
-        grass_t = Type.query.get(12)
+        self.assertEqual(test_type.id, 9)
+        self.assertEqual(test_type.name, "steel")
+        self.assertEqual(test_type.generation, 2)
 
-        self.assertEqual(grass_t.id, 12)
-        self.assertEqual(grass_t.name, "grass")
-        self.assertEqual(grass_t.generation, 1)
-        self.assertEqual(grass_t.immunities, [])
-        self.assertEqual(grass_t.strengths, [])
-        self.assertEqual(grass_t.weaknesses, [])
+    def test_type_sixth_generation_readable(self):
+        test_type = session.query(Type).get(18)
 
-    #Tests that Type Table is deleteable
-    def test_type_deletable(self):
-        db.session.add(grass_type)
-        db.session.commit()
+        self.assertEqual(test_type.id, 18)
+        self.assertEqual(test_type.name, "fairy")
+        self.assertEqual(test_type.generation, 6)
 
-        numTypesAfterWrite = len(Type.query.all())
+if __name__ == "__main__":
+    dialect = 'mysql+pymysql'
+    username = 'guestbook-user'
+    password = 'guestbook-user-password'
+    host = '104.130.22.72'
+    port = '3306'
+    database = 'guestbook'
 
-        db.session.delete(grass_type)
-        db.session.commit()
+    engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
+                           pool_recycle=3600).connect()
 
-        numTypesAfterDelete = len(Type.query.all())
-
-        self.assertEqual(numTypesAfterWrite - 1, numTypesAfterDelete)
-
-    #Tests that Move Table is writeable
-    def test_move_writable(self):
-        numMovesBeforeWrite = len(Move.query.all())
-
-        db.session.add(tackle_move)
-        db.session.commit()
-
-        numMovesAfterWrite = len(Move.query.all())
-
-        self.assertEqual(numMovesBeforeWrite + 1, numMovesAfterWrite)
-
-    #Tests that Move Table is readable
-    def test_move_readable(self):
-        db.session.add(tackle_move)
-        db.session.commit()
-
-        tackle_m = Move.query.get(33)
-
-        self.assertEqual(tackle_m.id, 33)
-        self.assertEqual(tackle_m.name, "tackle")
-        self.assertEqual(tackle_m.accuracy, 100)
-        self.assertEqual(tackle_m.pp, 35)
-        self.assertEqual(tackle_m.priority, 0)
-        self.assertEqual(tackle_m.power, 50)
-        self.assertEqual(tackle_m.damage_class, "physical")
-
-    #Tests that Move Table is deleteable
-    def test_move_deleteable(self):
-        db.session.add(tackle_move)
-        db.session.commit()
-
-        numMovesAfterWrite = len(Move.query.all())
-
-        db.session.delete(tackle_move)
-        db.session.commit()
-
-        numMovesAfterDelete = len(Move.query.all())
-
-        self.assertEqual(numMovesAfterWrite - 1, numMovesAfterDelete)
+    Base.metadata.create_all(engine)
+    Session = sessionmaker(bind=engine, autocommit=True)
+    session = Session()
+    main()
