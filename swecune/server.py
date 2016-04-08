@@ -99,6 +99,10 @@ def api_pokemon(session, pokemon_id):
     resp = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
     return resp.min_dictify() if resp else {}
 
+@app.route('/api/min_move')
+@complicated_fucking_decorator(True)
+def api_min_moves(session):
+    return [move.min_dictify() for move in session.query(Move).all()]
 
 @app.route('/api/move')
 @complicated_fucking_decorator(True)
@@ -114,6 +118,10 @@ def api_move(session, move_id):
     resp = session.query(Move).filter(Move.id == move_id).first()
     return resp.dictify() if resp else {}
 
+@app.route('/api/min_type')
+@complicated_fucking_decorator(True)
+def api_min_types(session):
+    return [type.min_dictify() for type in session.query(Type).all()]
 
 @app.route('/api/type')
 @complicated_fucking_decorator(True)
@@ -160,11 +168,11 @@ def pokemon_all():
     return render_template('pokemon_all.html')
 
 
-# @app.route('/type')
-# def type_all():
-#     return render_template('type_all.html', type_list=type_dict.values())
-#
-#
+@app.route('/type')
+def type_all():
+    return render_template('type_all.html')
+
+
 @app.route('/move')
 def move_all():
     return render_template('moves_all.html')

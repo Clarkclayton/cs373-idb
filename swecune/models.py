@@ -177,6 +177,17 @@ class Move(Base):
 
         return dictified
 
+    def min_dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name.title()
+        dictified['accuracy'] = self.accuracy
+        dictified['pp'] = self.pp
+        dictified['power'] = self.power
+        dictified['move_type'] = self.type_id
+
+        return dictified
+
 
 
 class Type(Base):
@@ -243,6 +254,17 @@ class Type(Base):
 
         dictified['moves'] = [move.id for move in self.move_type]
 
+        num_primary_query = select([Pokemon]).where(Pokemon.primary_type_id == self.id)
+        dictified['num_primary_type'] = len(self.pokemon_primary_type)
+        dictified['num_secondary_type'] = len(self.pokemon_secondary_type)
+
+        return dictified
+
+    def min_dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name.title()
+        dictified['generation'] = self.generation
         num_primary_query = select([Pokemon]).where(Pokemon.primary_type_id == self.id)
         dictified['num_primary_type'] = len(self.pokemon_primary_type)
         dictified['num_secondary_type'] = len(self.pokemon_secondary_type)

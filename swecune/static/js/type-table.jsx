@@ -1,40 +1,29 @@
-var SLICE_WIDTH = 10;
-
 
 var capitalize = function(s){
     return s[0].toUpperCase() + s.slice(1);
-}
+};
 
-var PokeRow = React.createClass({
+var TypeRow = React.createClass({
     render: function(){
-        var pk = this.props.pokemon;
+        var ty = this.props.type;
+
         return(
             <tr>
-                <td><a href={"/pokemon/" + pk.id}>
-                    <img src={"/static/img/pokemon/pokemon_" + pk.id + ".png"}/></a>
-                </td>
-                <td data-value="{pk.id}">{pk.id}</td>
-                <td><a href={"/pokemon/" + pk.id}>{capitalize(pk.name)}</a></td>
-                <td data-value="{pk.primary_type}"><a href={"/type/" + pk.primary_type}>
-                    <img id="move_type_text_img" src={"/static/img/type_text_" + pk.primary_type + ".png"}/>
-                </a></td>
-                { pk.secondary_type ?
-                <td data-value="{pk.secondary_type}">
-                <a href={"/type/" + pk.secondary_type}>
-                    <img id="move_type_text_img" src={"/static/img/type_text_" + pk.secondary_type + ".png"}/>
-                </a>
-                </td>
-                :<td data-value="-1">""</td>}
-                <td> {pk.average_stats} </td>
+                <td><img className="type-sprite" src={"/static/img/type_" + ty.id + ".png"}/></td>
+                <td><a href={"/type/" + ty.id}>{ty.name}</a></td>
+                <td>{ty.id + 134}</td>
+                <td>{ty.id + 56}</td>
+                <td>{ty.id +  42}</td>
+                <td>{ty.generation}</td>
             </tr>
-        )
+        );
     }
 });
 
 var TableRows = React.createClass({
     render: function(){
-        var rows = this.props.data.map(function(pk){
-            return (<PokeRow pokemon={pk} key={pk.id}/>)
+        var rows = this.props.data.map(function(ty){
+            return (<TypeRow type={ty} key={ty.id}/>)
         });
         return(
             <tbody>
@@ -44,11 +33,10 @@ var TableRows = React.createClass({
     }
 });
 
-var PokeTable = React.createClass({
+var TypeTable = React.createClass({
     requestData: function(){
-//this.setState({data: db_pokemon});
         $.ajax({
-            url: "/api/min_pokemon",
+            url: "/api/min_type",
             dataType: "json",
             cache: false,
             success: function(data) {
@@ -56,7 +44,7 @@ var PokeTable = React.createClass({
                 this.setState({data: data});
             }.bind(this),
             error: function(xhr, status, err){
-                console.error("/api/pokemon", status, err.toString());
+                console.error("/api/type", status, err.toString());
             }.bind(this)
         });
     },
@@ -80,7 +68,7 @@ var PokeTable = React.createClass({
 
     sortByColumn: function(n, ascending){
         n = parseInt(n);
-        var cols = [0, "id", "name", "primary_type", "secondary_type", "average_stats"];
+        var cols = [0, "name", "num_primary", "num_secondary", "num_moves", "generation"];
         var k = cols[n];
         var data = this.state.data;
         data.sort(function(a, b){
@@ -105,15 +93,14 @@ var PokeTable = React.createClass({
             <table className="poke-table">
                 <thead>
                     <tr>
-                        <th>Sprite</th>
-                        <TableHead p={this} col="1" name="ID"/>
-                        <TableHead p={this} col="2" name="Name"/>
-                        <TableHead p={this} col="3" name="Primary Type"/>
-                        <TableHead p={this} col="4" name="Secondary Type"/>
-                        <TableHead p={this} col="5" name="Average Stats"/>
+                        <TableHead p={this} col="0" name="Sprite"/>
+                        <TableHead p={this} col="1" name="Name"/>
+                        <TableHead p={this} col="2" name="# Primary Pokemon"/>
+                        <TableHead p={this} col="3" name="# Secondary Pokemon"/>
+                        <TableHead p={this} col="4" name="# Moves"/>
                     </tr>
                 </thead>
-                <TableRows data={this.state.data.slice((this.state.page - 1) * SLICE_WIDTH, this.state.page * SLICE_WIDTH)}/>
+                <TableRows data={this.state.data.slice((this.state.page - 1) * 10, this.state.page * 10)}/>
             </table>
             </div>
         )
@@ -132,7 +119,6 @@ var TableHead = React.createClass({
         return(<th onClick={this.sort}>{this.props.name}</th>)
     }
 });
-
 
 var doNothing = function(){
     return false;
@@ -168,8 +154,8 @@ var Paginator = React.createClass({
 
         var margin = Math.floor(this.state.width / 2);
         var start = Math.max(1, page - margin);
-        var end = Math.ceil(this.props.p.state.data.length / SLICE_WIDTH);
-        var a = Math.ceil(this.props.p.state.data.length / SLICE_WIDTH);
+        var end = Math.ceil(this.props.p.state.data.length / 10);
+        var a = Math.ceil(this.props.p.state.data.length / 10);
         console.log("a is: " + a);
 
         for(var i = 0; i < this.state.width; i++){
@@ -196,7 +182,7 @@ var Paginator = React.createClass({
 
     render: function(){
         var prevButton = this.handleClick.bind(this, Math.max(1, this.state.current - 1));
-        var nextButton = this.handleClick.bind(this, Math.min(Math.ceil(this.props.p.state.data.length / SLICE_WIDTH), this.state.current + 1));
+        var nextButton = this.handleClick.bind(this, Math.min(Math.ceil(this.props.p.state.data.length / 10), this.state.current + 1));
         return(
             <nav>
                <ul className="pagination">
@@ -218,6 +204,6 @@ var Paginator = React.createClass({
 });
 
 ReactDOM.render(
-    <PokeTable/>,
-    document.getElementById('pokediv')
+    <TypeTable/>,
+    document.getElementById('typediv')
 );
