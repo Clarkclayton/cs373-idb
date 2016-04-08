@@ -41,6 +41,7 @@ var MoveTable = React.createClass({
             success: function(data) {
                 console.log("MOUNTED");
                 this.setState({data: data, loaded: "true"});
+                spinner.stop();
             }.bind(this),
             error: function(xhr, status, err){
                 console.error("/api/min_move", status, err.toString());
@@ -89,7 +90,7 @@ var MoveTable = React.createClass({
     render: function(){
         return(
             <div>
-            <table className="poke-table">
+            <table className="poke-table table">
                 <thead>
                     <tr>
                         <TableHead p={this} col="0" name="Name"/>
@@ -193,7 +194,7 @@ var Paginator = React.createClass({
         var rend = null;
         if(this.props.doRender == "true"){
             rend = (
-            <nav className="poke-table table">
+            <nav className="poke-table">
                 <ul className="pagination">
                     <li>
                         <a href="#" aria-label="Previous" onClick={prevButton}>

@@ -37,6 +37,7 @@ var TypeTable = React.createClass({
             success: function(data) {
                 console.log("MOUNTED");
                 this.setState({data: data, loaded: "true"});
+                spinner.stop();
             }.bind(this),
             error: function(xhr, status, err){
                 console.error("/api/type", status, err.toString());
