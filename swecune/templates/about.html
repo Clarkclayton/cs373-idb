@@ -130,6 +130,20 @@
                 <p><b># Commits: </b>132</p>
                 <p><b># Issues: </b>15</p>
                 <p><b># Unit Tests: </b>9</p>
+                <button id="test-button"><p>Run Tests</p></button>
+                <script>
+                    document.getElementById("test-button").onclick = function () {
+                        var req = new XMLHttpRequest();
+                        var url = "api/run_tests";
+                        req.onreadystatechange = function() {
+                                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                                    alert(req.responseText);
+                                }
+                        };
+                        req.open("GET", url, true);
+                        req.send();
+                    };
+                </script>
             </div>
             <div class="col-md-4 center-block">
                 <h5>Links</h5>

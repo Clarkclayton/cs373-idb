@@ -6,6 +6,7 @@ import subprocess
 from functools import wraps 
 
 from flask import Flask, render_template, request
+from sqlalchemy import exc
 from sqlalchemy.orm import sessionmaker
 from werkzeug.wrappers import Response
 
@@ -38,12 +39,11 @@ class complicated_fucking_decorator(object):
     def __call__(self, func):
         @wraps(func)
         def func_wrapper(*args, **kwargs):
+            global Session, engine
             while True:
-                global engine, Session
                 try:
                     session = Session()
                     ret = func(session, *args, **kwargs)
-
                     if self.calling_type:
                         resp = Response(json.dumps(ret), mimetype='application/json', status=200)
                     else:
@@ -54,12 +54,9 @@ class complicated_fucking_decorator(object):
                     session.close()
                     return resp
                 except:
-                    # raise exc.DisconnectionError()
-                    engine = create_engine(
-                        '{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
-                        pool_recycle=3600).connect()
-                    Base.metadata.create_all(engine)
-                    Session = sessionmaker(bind=engine, autocommit=True)
+                    # It will reestablish the connection. So if the page is reloaded, the function the connection is new again
+                    # TODO: How to resume?
+                    raise exc.DisconnectionError()
 
         return func_wrapper
 
@@ -142,7 +139,8 @@ def pokemon(session, pokemon_id):
 @complicated_fucking_decorator(False, 'move.html')
 def move(session, move_id):
     resp = session.query(Move).filter(Move.id == move_id).first()
-    return {'mv': resp} if resp else None
+    test = {'mv': resp}
+    return test if resp else None
 
 
 @app.route('/type/<type_id>')
@@ -167,9 +165,9 @@ def pokemon_all():
 #     return render_template('type_all.html', type_list=type_dict.values())
 #
 #
-# @app.route('/move')
-# def move_all():
-#     return render_template('moves_all.html', moves=moves_dict.values())
+@app.route('/move')
+def move_all():
+    return render_template('moves_all.html')
 
 @app.route('/')
 @app.route('/index')
