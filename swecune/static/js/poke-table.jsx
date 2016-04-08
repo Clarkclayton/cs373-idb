@@ -1,10 +1,5 @@
 var SLICE_WIDTH = 10;
 
-
-var capitalize = function(s){
-    return s[0].toUpperCase() + s.slice(1);
-}
-
 var PokeRow = React.createClass({
     render: function(){
         var pk = this.props.pokemon;
@@ -14,7 +9,7 @@ var PokeRow = React.createClass({
                     <img src={"/static/img/pokemon/pokemon_" + pk.id + ".png"}/></a>
                 </td>
                 <td data-value="{pk.id}">{pk.id}</td>
-                <td><a href={"/pokemon/" + pk.id}>{capitalize(pk.name)}</a></td>
+                <td><a href={"/pokemon/" + pk.id}>{pk.name}</a></td>
                 <td data-value="{pk.primary_type}"><a href={"/type/" + pk.primary_type}>
                     <img id="move_type_text_img" src={"/static/img/type_text_" + pk.primary_type + ".png"}/>
                 </a></td>
@@ -101,7 +96,7 @@ var PokeTable = React.createClass({
     render: function(){
         return(
             <div>
-            <Paginator p={this} swidth="5"/>
+            <Paginator p={this} swidth="9"/>
             <table className="poke-table">
                 <thead>
                     <tr>

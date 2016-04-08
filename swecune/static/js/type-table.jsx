@@ -1,8 +1,3 @@
-
-var capitalize = function(s){
-    return s[0].toUpperCase() + s.slice(1);
-};
-
 var TypeRow = React.createClass({
     render: function(){
         var ty = this.props.type;
@@ -89,7 +84,7 @@ var TypeTable = React.createClass({
     render: function(){
         return(
             <div>
-            <Paginator p={this} swidth="5"/>
+            <Paginator p={this} swidth="2"/>
             <table className="poke-table">
                 <thead>
                     <tr>
