@@ -129,6 +129,7 @@ var gk = 1;
 var Paginator = React.createClass({
     getInitialState: function(){
         var width = parseInt(this.props.swidth);
+        var end = Math.ceil(2);
         console.log("the width is: " + width);
         var buttons = Array(width);
         for(var i = 0; i < width; i++){
@@ -140,6 +141,9 @@ var Paginator = React.createClass({
             }
             else{
                 ln = <a href="#" onClick={boundClick}>{p_num}</a>
+            }
+            if(p_num > end){
+                ln = <a onClick={doNothing} className="current-page">.</a>
             }
             gk++;
             buttons[i] = (<li key={gk}>
