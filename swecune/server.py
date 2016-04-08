@@ -152,9 +152,9 @@ def pokemon_all():
 #     return render_template('type_all.html', type_list=type_dict.values())
 #
 #
-# @app.route('/move')
-# def move_all():
-#     return render_template('moves_all.html', moves=moves_dict.values())
+@app.route('/move')
+def move_all():
+    return render_template('moves_all.html')
 
 @app.route('/')
 @app.route('/index')

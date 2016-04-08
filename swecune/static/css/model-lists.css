@@ -14,6 +14,13 @@ td, th {
     width: 80px !important;
 }
 
+.current-page {
+    text-decoration: none !important;
+    font-weight: bold !important;
+    color: black !important;
+    pointer-events: none;
+}
+
 #move_type_text_img {
     width: 80px;
     height: auto;

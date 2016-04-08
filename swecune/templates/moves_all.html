@@ -1,39 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
-    <div id=moves class="container table-responsive">
-        <div id="pokemon">
-            <script src="/static/js/sortable.min.js"></script>
-            <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
-            <link rel="stylesheet" href="/static/css/model-lists.css"/>
-            <table id="moves-table" class="sortable-theme-bootstrap" data-sortable>
-                <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Type</th>
-                    <th>Power</th>
-                    <th>Accuracy</th>
-                    <th>PP</th>
-                </tr>
-                </thead>
-                <tbody>
-                {% for mv in moves %}
-                    <tr>
-                        <td><a href="/move/{{ mv.ID }}">{{ mv.name.title() }}</a></td>
-                        <td data-value="{{ mv.m_type }}">
-                            <a href="/type/{{ mv.m_type_id }}">
-                                <img class="move-sprite" id="img_type_text"
-                                     src="/static/img/moves/{{ mv.m_type + "_text.png" }}">
-                            </a>
-                        </td>
-                        <td>{{ mv.power }}</td>
-                        <td>{{ mv.accuracy }}</td>
-                        <td>{{ mv.pp }}</td>
-                    </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-        </div>
-    </div>
+<script src="/static/js/sortable.min.js"></script>
+<link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+<link rel="stylesheet" href="/static/css/model-lists.css"/>
 
-
+<div id="movediv" class="container table-responsive"></div>
+<script src="/static/js/database.js"></script>
+<script id="move-table-script" src="/static/js/move-table.jsx" type="text/babel"></script>
 {% endblock %}
