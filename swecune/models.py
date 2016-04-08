@@ -259,3 +259,14 @@ class Type(Base):
         dictified['num_secondary_type'] = len(self.pokemon_secondary_type)
 
         return dictified
+
+    def min_dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name.title()
+        dictified['generation'] = self.generation
+        num_primary_query = select([Pokemon]).where(Pokemon.primary_type_id == self.id)
+        dictified['num_primary_type'] = len(self.pokemon_primary_type)
+        dictified['num_secondary_type'] = len(self.pokemon_secondary_type)
+
+        return dictified

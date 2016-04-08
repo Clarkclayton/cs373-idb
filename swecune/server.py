@@ -118,6 +118,10 @@ def api_move(session, move_id):
     resp = session.query(Move).filter(Move.id == move_id).first()
     return resp.dictify() if resp else {}
 
+@app.route('/api/min_type')
+@complicated_fucking_decorator(True)
+def api_min_types(session):
+    return [type.min_dictify() for type in session.query(Type).all()]
 
 @app.route('/api/type')
 @complicated_fucking_decorator(True)
