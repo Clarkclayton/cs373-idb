@@ -39,7 +39,7 @@ var TableRows = React.createClass({
 var MoveTable = React.createClass({
     requestData: function(){
         $.ajax({
-            url: "/api/move",
+            url: "/api/min_move",
             data: {offset: 0, limit: 9999},
             dataType: "json",
             cache: false,
@@ -48,7 +48,7 @@ var MoveTable = React.createClass({
                 this.setState({data: data});
             }.bind(this),
             error: function(xhr, status, err){
-                console.error("/api/move", status, err.toString());
+                console.error("/api/min_move", status, err.toString());
             }.bind(this)
         });
     },

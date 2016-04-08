@@ -36,7 +36,7 @@ var TableRows = React.createClass({
 var TypeTable = React.createClass({
     requestData: function(){
         $.ajax({
-            url: "/api/type",
+            url: "/api/min_type",
             dataType: "json",
             cache: false,
             success: function(data) {
