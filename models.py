@@ -8,7 +8,7 @@ from collections import OrderedDict
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'
 password = 'guestbook-user-password'
-host = '104.130.22.72'
+host = '172.99.70.65'
 port = '3306'
 database = 'guestbook'
 engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()

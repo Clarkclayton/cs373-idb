@@ -1,14 +1,19 @@
 import itertools
 import json
 import sys
-from functools import wraps
+import subprocess
+
+from functools import wraps 
 
 from flask import Flask, render_template, request
+from sqlalchemy import exc
 from sqlalchemy.orm import sessionmaker
 from werkzeug.wrappers import Response
 
 sys.path.append("../.")
 
+import tests
+import unittest
 from models import *
 
 app = Flask(__name__)
@@ -49,15 +54,23 @@ class complicated_fucking_decorator(object):
                     session.close()
                     return resp
                 except:
-                    # raise exc.DisconnectionError()
-                    engine = create_engine(
-                        '{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
-                        pool_recycle=3600).connect()
-                    Base.metadata.create_all(engine)
-                    Session = sessionmaker(bind=engine, autocommit=True)
+                    # It will reestablish the connection. So if the page is reloaded, the function the connection is new again
+                    # TODO: How to resume?
+                    raise exc.DisconnectionError()
 
         return func_wrapper
 
+@app.route('/api/run_tests')
+def api_run_tests():
+    try:
+        p = subprocess.Popen(["python3", "../tests.py"],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            stdin=subprocess.PIPE)
+        out, err = p.communicate()
+        return "Output: " + str(out) + "\nError: " + str(err) + "\n"
+    except:
+        pass
 
 @app.route('/api/min_pokemon')
 @complicated_fucking_decorator(True)

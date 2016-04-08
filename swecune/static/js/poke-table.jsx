@@ -3,7 +3,7 @@ var SLICE_WIDTH = 10;
 
 var capitalize = function(s){
     return s[0].toUpperCase() + s.slice(1);
-};
+}
 
 var PokeRow = React.createClass({
     render: function(){
@@ -133,12 +133,6 @@ var TableHead = React.createClass({
     }
 });
 
-/*
-var handleClick = function(table, page){
-    console.log(table);
-    table.changePage(page);
-};
-*/
 
 var doNothing = function(){
     return false;
