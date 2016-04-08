@@ -177,6 +177,17 @@ class Move(Base):
 
         return dictified
 
+    def min_dictify(self):
+        dictified = OrderedDict()
+        dictified['id'] = self.id
+        dictified['name'] = self.name.title()
+        dictified['accuracy'] = self.accuracy
+        dictified['pp'] = self.pp
+        dictified['power'] = self.power
+        dictified['move_type'] = self.type_id
+
+        return dictified
+
 
 
 class Type(Base):
