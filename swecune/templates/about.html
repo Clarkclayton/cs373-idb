@@ -136,7 +136,7 @@
                         var req = new XMLHttpRequest();
                         var url = "api/run_tests";
                         req.onreadystatechange = function() {
-                                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                                if (req.readyState == 4 && req.status == 200) {
                                     alert(req.responseText);
                                 }
                         };

@@ -1,19 +1,15 @@
 import itertools
 import json
-import sys
 import subprocess
-
-from functools import wraps 
+import sys
+from functools import wraps
 
 from flask import Flask, render_template, request
-from sqlalchemy import exc
 from sqlalchemy.orm import sessionmaker
 from werkzeug.wrappers import Response
 
 sys.path.append("../.")
 
-import tests
-import unittest
 from models import *
 
 app = Flask(__name__)
@@ -42,6 +38,7 @@ class complicated_fucking_decorator(object):
             global Session, engine
             while True:
                 try:
+                    global server, Session
                     session = Session()
                     ret = func(session, *args, **kwargs)
                     if self.calling_type:
@@ -56,21 +53,27 @@ class complicated_fucking_decorator(object):
                 except:
                     # It will reestablish the connection. So if the page is reloaded, the function the connection is new again
                     # TODO: How to resume?
-                    raise exc.DisconnectionError()
+                    engine = create_engine(
+                        '{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
+                        pool_recycle=3600).connect()
+                    Base.metadata.create_all(engine)
+                    Session = sessionmaker(bind=engine, autocommit=True)
 
         return func_wrapper
+
 
 @app.route('/api/run_tests')
 def api_run_tests():
     try:
         p = subprocess.Popen(["python3", "../tests.py"],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            stdin=subprocess.PIPE)
+                             stdout=subprocess.PIPE,
+                             stderr=subprocess.PIPE,
+                             stdin=subprocess.PIPE)
         out, err = p.communicate()
         return "Output: " + str(out) + "\nError: " + str(err) + "\n"
     except:
-        pass
+        return 'Done'
+
 
 @app.route('/api/min_pokemon')
 @complicated_fucking_decorator(True)
@@ -99,10 +102,12 @@ def api_pokemon(session, pokemon_id):
     resp = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
     return resp.min_dictify() if resp else {}
 
+
 @app.route('/api/min_move')
 @complicated_fucking_decorator(True)
 def api_min_moves(session):
     return [move.min_dictify() for move in session.query(Move).all()]
+
 
 @app.route('/api/move')
 @complicated_fucking_decorator(True)
@@ -118,10 +123,12 @@ def api_move(session, move_id):
     resp = session.query(Move).filter(Move.id == move_id).first()
     return resp.dictify() if resp else {}
 
+
 @app.route('/api/min_type')
 @complicated_fucking_decorator(True)
 def api_min_types(session):
     return [type.min_dictify() for type in session.query(Type).all()]
+
 
 @app.route('/api/type')
 @complicated_fucking_decorator(True)
@@ -176,6 +183,7 @@ def type_all():
 @app.route('/move')
 def move_all():
     return render_template('moves_all.html')
+
 
 @app.route('/')
 @app.route('/index')
