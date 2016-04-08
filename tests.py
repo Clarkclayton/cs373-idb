@@ -118,17 +118,20 @@ class tests(TestCase):
         self.assertEqual(test_type.generation, 6)
 
 if __name__ == "__main__":
-    dialect = 'mysql+pymysql'
-    username = 'guestbook-user'
-    password = 'guestbook-user-password'
-    host = '104.130.22.72'
-    port = '3306'
-    database = 'guestbook'
+    try:
+        dialect = 'mysql+pymysql'
+        username = 'guestbook-user'
+        password = 'guestbook-user-password'
+        host = '104.130.22.72'
+        port = '3306'
+        database = 'guestbook'
 
-    engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
-                           pool_recycle=3600).connect()
+        engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
+                               pool_recycle=3600).connect()
 
-    Base.metadata.create_all(engine)
-    Session = sessionmaker(bind=engine, autocommit=True)
-    session = Session()
-    main()
+        Base.metadata.create_all(engine)
+        Session = sessionmaker(bind=engine, autocommit=True)
+        session = Session()
+        main()
+    except:
+        pass
