@@ -2,8 +2,8 @@ import requests
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from db.Factory import Factory, pokemon, types, moves
 from models import Base
+from scraper.Factory import Factory, pokemon, types, moves
 
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'

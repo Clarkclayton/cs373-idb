@@ -71,8 +71,8 @@ def api_run_tests():
                              stdin=subprocess.PIPE)
         out, err = p.communicate()
         return "Output: " + str(out) + "\nError: " + str(err) + "\n"
-    except:
-        return 'Done'
+    except Exception as e:
+        return str(e)
 
 
 @app.route('/api/min_pokemon')
@@ -114,7 +114,8 @@ def api_min_moves(session):
 def api_moves(session):
     offset = request.args.get('offset') if request.args.get('offset') is not None else 0
     moves_per_page = request.args.get('limit') if request.args.get('limit') else 10
-    return [move.dictify() for move in session.query(Move).filter(Move.type_id < 20).limit(moves_per_page).offset(offset).all()]
+    return [move.dictify() for move in
+            session.query(Move).filter(Move.type_id < 20).limit(moves_per_page).offset(offset).all()]
 
 
 @app.route('/api/move/<move_id>')
