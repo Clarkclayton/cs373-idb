@@ -2,8 +2,8 @@ from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstra
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import select, and_
-
 from collections import OrderedDict
+import flask.ext.whooshalchemy
 
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'
@@ -64,9 +64,13 @@ no_damage_from = Table('no_damage_from', Base.metadata,
                        UniqueConstraint('origin', 'opposing', name='no_from_relation')
                        )
 
+# set the location for the whoosh index
+app.config['WHOOSH_BASE'] = '/usr/local/lib/python3.4/dist-packages/whoosh'
 
 class Pokemon(Base):
     __tablename__ = 'pokemon'
+    __searchable__ = ['id', 'name']  # these fields will be indexed by whoosh
+    __analyzer__ = SimpleAnalyzer()
     id = Column(Integer, primary_key=True)
     name = Column(String(80), unique=True, nullable=False)
     hp = Column(Integer)
@@ -141,6 +145,8 @@ class Pokemon(Base):
 
 class Move(Base):
     __tablename__ = 'move'
+    __searchable__ = ['name']  # these fields will be indexed by whoosh
+    __analyzer__ = SimpleAnalyzer()
     id = Column(Integer, primary_key=True)
     name = Column(String(80), unique=True, nullable=False)
     accuracy = Column(Integer)
@@ -181,6 +187,8 @@ class Move(Base):
 
 class Type(Base):
     __tablename__ = 'type'
+    __searchable__ = ['name']  # these fields will be indexed by whoosh
+    __analyzer__ = SimpleAnalyzer()
     id = Column(Integer, primary_key=True)
     name = Column(String(80), unique=True, nullable=False)
     generation = Column(Integer)
