@@ -1,3 +1,11 @@
+#textInput {
+    width: 200px;
+}
+
+.search {
+    padding-top: 8px;
+}
+
 #pokemon-navbar {
   	background-color: #EF5350 !important;
 }

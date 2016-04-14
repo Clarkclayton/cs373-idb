@@ -55,11 +55,6 @@
                 <li class="hidden">
                     <a href="#page-top"></a>
                 </li>
-                <li id="search">
-                <span class="input-group-btn">
-                    <button id="searchButton" class="btn btn-default" type="button" onclick="location.href='/search?q=' + document.getElementById('textInput').value;">Search</button>
-                    <input id="textInput" type="text" class="form-control" placeholder="Search for...">
-                </span>
                 <li>
                     <a href="/pokemon">Pokemon</a>
                 </li>
@@ -71,6 +66,12 @@
                 </li>
                 <li>
                     <a href="/about">About</a>
+                </li>
+                <li class="search">
+                    <input id="textInput" type="text" class="form-control" placeholder="Search for...">
+                </li>
+                <li class="search">
+                    <button id="searchButton" class="btn btn-default" type="button" onclick="location.href='/search?q=' + document.getElementById('textInput').value;">Search</button>
                 </li>
             </ul>
         </div>
