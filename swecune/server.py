@@ -175,12 +175,33 @@ def type(session, type_id):
 @complicated_fucking_decorator(False, 'search_results.html')
 def search(session):
     # TODO:Multi-word search must show clearly marked and results followed by or results.
-    query = request.args.get('q', '')
+    query = str(request.args.get('q', '')).split(' ')
+    refined = [x for x in query if x != '']
+    single_query = ' '.join(refined)
 
-    return {'moves': session.query(Move).filter(Move.name.like('%' + str('%'.join(c for c in query)) + '%')).all(),
-            'pokemon': session.query(Pokemon).filter(
-                Pokemon.name.like('%' + str('%'.join(c for c in query)) + '%')).all(),
-            'type': session.query(Type).filter(Type.name.like('%' + str('%'.join(c for c in query)) + '%')).all()}
+    return {
+        'moves_all': session.query(Move).filter(
+            Move.name.like('%' + str('%'.join(c for c in single_query)) + '%')).all(),
+        'pokemon_all': session.query(Pokemon).filter(
+            Pokemon.name.like('%' + str('%'.join(c for c in single_query)) + '%')).all(),
+        'type_all': session.query(Type).filter(
+            Type.name.like('%' + str('%'.join(c for c in single_query)) + '%')).all(),
+
+        'pokemon': sum(
+            [session.query(Pokemon).filter(Pokemon.name.like('%' + str('%'.join(c for c in q)) + '%')).all() for q in
+             refined], []) if len(refined) > 1 else [],
+        'moves': sum(
+            [session.query(Move).filter(Move.name.like('%' + str('%'.join(c for c in q)) + '%')).all() for q in
+             refined], []) if len(refined) > 1 else [],
+        'type': sum(
+            [session.query(Type).filter(Type.name.like('%' + str('%'.join(c for c in q)) + '%')).all() for q in
+             refined], []) if len(refined) > 1 else [],
+        'search_terms': str(refined)
+    }
+
+
+def thing(input):
+    return '%' + str('%'.join(c for c in input)) + '%'
 
 
 @app.route('/pokemon')
