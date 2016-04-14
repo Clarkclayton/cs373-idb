@@ -65,12 +65,8 @@ class complicated_fucking_decorator(object):
 @app.route('/api/run_tests')
 def api_run_tests():
     try:
-        p = subprocess.Popen(["python3", "../tests.py"],
-                             stdout=subprocess.PIPE,
-                             stderr=subprocess.PIPE,
-                             stdin=subprocess.PIPE)
-        out, err = p.communicate()
-        return "Output: " + str(out) + "\nError: " + str(err) + "\n"
+        test_results = subprocess.getoutput("python3 tests.py")
+        return test_results
     except Exception as e:
         return str(e)
 

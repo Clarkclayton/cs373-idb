@@ -7,7 +7,7 @@ services:
     extends:
       file: docker-compose-common.yml
       service: lb
-    image: sthakkar14/swecune_lb
+    image: rfaulk/swecune_lb
     environment:
       # Always deploy to n1 so the lb always has the same IP address. This is
       # just for convenience and isn't strictly necessary.
@@ -17,7 +17,7 @@ services:
     extends:
       file: docker-compose-common.yml
       service: app
-    image: sthakkar14/swecune_app
+    image: rfaulk/swecune_app
     expose:
       # Expose port 8000 so it's only visibile on the container, not the host
       - "8000"
