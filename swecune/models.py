@@ -5,14 +5,6 @@ from sqlalchemy.sql import select, and_
 
 from collections import OrderedDict
 
-dialect = 'mysql+pymysql'
-username = 'guestbook-user'
-password = 'guestbook-user-password'
-host = '172.99.70.65'
-port = '3306'
-database = 'guestbook'
-engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
-
 Base = declarative_base()
 
 pokemon_move = Table('pokemon_move', Base.metadata,

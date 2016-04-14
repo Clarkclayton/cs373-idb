@@ -16,7 +16,7 @@ app = Flask(__name__)
 dialect = 'mysql+pymysql'
 username = 'guestbook-user'
 password = 'guestbook-user-password'
-host = '172.99.70.65'
+host = '172.99.79.105'
 port = '3306'
 database = 'guestbook'
 
@@ -38,7 +38,6 @@ class complicated_fucking_decorator(object):
             global Session, engine
             while True:
                 try:
-                    global server, Session
                     session = Session()
                     ret = func(session, *args, **kwargs)
                     if self.calling_type:
@@ -50,7 +49,8 @@ class complicated_fucking_decorator(object):
                             resp = render_template(*self.extra_args, **ret), 200
                     session.close()
                     return resp
-                except:
+                except Exception as e:
+                    print(e)
                     # It will reestablish the connection. So if the page is reloaded, the function the connection is new again
                     # TODO: How to resume?
                     engine = create_engine(
@@ -169,6 +169,18 @@ def type(session, type_id):
         ret['relations_from'] = list(
             itertools.zip_longest(resp.double_damage_from, resp.half_damage_from, resp.no_damage_from))
     return ret if resp else None
+
+
+@app.route('/search')
+@complicated_fucking_decorator(False, 'search_results.html')
+def search(session):
+    # TODO:Multi-word search must show clearly marked and results followed by or results.
+    query = request.args.get('q', '')
+
+    return {'moves': session.query(Move).filter(Move.name.like('%' + str('%'.join(c for c in query)) + '%')).all(),
+            'pokemon': session.query(Pokemon).filter(
+                Pokemon.name.like('%' + str('%'.join(c for c in query)) + '%')).all(),
+            'type': session.query(Type).filter(Type.name.like('%' + str('%'.join(c for c in query)) + '%')).all()}
 
 
 @app.route('/pokemon')
