@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block content %}
+
+<script src="/static/js/tabs.js"></script>
+<div class="container">
+    <div class="tabs">
+        <ul class="tab-links">
+            <li><a href="pokemon-tab">Pokemon</a></li>
+            <li><a href="move-tab">Moves</a></li>
+            <li><a href="type-tab">Types</a></li>
+        </ul>
+
+        <div class="tab-content">
+            <div id="pokemon-tab" class="tab active">
+                <script src="/static/js/sortable.min.js"></script>
+                <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+                <table id="pokemon_table" class="sortable-theme-bootstrap" data-sortable>
+                    <thead>
+                    <tr>
+                        <th>Sprite</th>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Primary Type</th>
+                        <th>Secondary Type</th>
+                        <th>Average Stats</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for pk in pokemon %}
+                    <tr>
+                        <td>
+                            <a href="/pokemon/{{ pk.id }}">
+                                <img src="/static/img/pokemon/pokemon_{{ pk.id }}.png">
+                            </a>
+                        </td>
+                        <td>{{ pk.id }}</td>
+                        <td>
+                            <a href="/pokemon/{{ pk.id }}">{{ pk.name|title}}</a>
+                        </td>
+                        <td data-value="{{ pk.primary_type_id }}">
+                            <a href="/type/{{ pk.primary_type_id }}">
+                                <img id="move_type_text_img" src="/static/img/moves/{{ pk.primary_type.name }}_text.png">
+                            </a>
+                        </td>
+                        {% if pk.secondary_type %}
+                        <td data-value="{{ pk.secondary_type_id }}">
+                            <a href="/type/{{ pk.secondary_type_id }}">
+                                <img id="move_type_text_img" src="/static/img/moves/{{ pk.secondary_type.name }}_text.png">
+                            </a>
+                        </td>
+                        {% else %}
+                        <td data-value=""></td>
+                        {% endif %}
+                        <td>{{ pk.average_stats }}</td>
+                    </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div id="move-tab" class="tab">
+                blah blah blah test move tab
+                {% for mv in moves %}
+                {% endfor %}
+            </div>
+            <div id="type-tab" class="tab">
+                blah blah blah test type tab
+                {% for ty in types %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
