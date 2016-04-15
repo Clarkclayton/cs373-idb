@@ -23,7 +23,8 @@
 
     <!-- Custom Fonts -->
     <link href="/static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
+          type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="/static/css/base.css" rel="stylesheet" type="text/css">
 
@@ -32,68 +33,85 @@
     <script src="/static/js/react-dom.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
 
+
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 <div id="base-content">
-<!-- Navigation -->
-<nav id="pokemon-navbar" class="navbar navbar-custom navbar-static-top" role="navigation">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                <i class="fa fa-bars"></i>
-            </button>
-            <a class="navbar-brand page-scroll" href="/">
-                <span class="light">SWE</span>cune
-            </a>
+    <!-- Navigation -->
+    <nav id="pokemon-navbar" class="navbar navbar-custom navbar-static-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="/">
+                    <span class="light">SWE</span>cune
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a href="/pokemon">Pokemon</a>
+                    </li>
+                    <li>
+                        <a href="/move">Moves</a>
+                    </li>
+                    <li>
+                        <a href="/type">Types</a>
+                    </li>
+                    <li>
+                        <a href="/about">About</a>
+                    </li>
+                    <li class="search">
+                        <input id="textInput" type="text" class="form-control" placeholder="Search for...">
+                    </li>
+                    <li class="search">
+                        <button id="searchButton" class="btn btn-default" type="button"
+                                onclick="location.href='/search?q=' + document.getElementById('textInput').value;">
+                            Search
+                        </button>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
         </div>
+        <!-- /.container -->
+    </nav>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
-            <ul class="nav navbar-nav">
-                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                <li class="hidden">
-                    <a href="#page-top"></a>
-                </li>
-                <li>
-                    <a href="/pokemon">Pokemon</a>
-                </li>
-                <li>
-                    <a href="/move">Moves</a>
-                </li>
-                <li>
-                    <a href="/type">Types</a>
-                </li>
-                <li>
-                    <a href="/about">About</a>
-                </li>
-                <li class="search">
-                    <input id="textInput" type="text" class="form-control" placeholder="Search for...">
-                </li>
-                <li class="search">
-                    <button id="searchButton" class="btn btn-default" type="button" onclick="location.href='/search?q=' + document.getElementById('textInput').value;">Search</button>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
+    {% block content %}{% endblock %}
 
-{% block content %}{% endblock %}
+    <!-- jQuery -->
+    <script src="/static/js/jquery.js"></script>
 
-<!-- jQuery -->
-<script src="/static/js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/js/bootstrap.min.js"></script>
 
-<!-- Bootstrap Core JavaScript -->
-<script src="/static/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="/static/js/jquery.easing.min.js"></script>
 
-<!-- Plugin JavaScript -->
-<script src="/static/js/jquery.easing.min.js"></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="/static/js/grayscale.js"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="/static/js/grayscale.js"></script>
 </div>
 </body>
+
+<script>
+    $(document).ready(function ($) {
+        $(function () {
+            $("#textInput").keyup(function (e) {
+                if (e.keyCode === 13) {
+                    window.location.href = "/search?q=" + $('#textInput').val();
+                }
+            });
+
+        });
+    });
+</script>
 
 </html>
