@@ -1,16 +1,12 @@
-import sys
-from flask import Flask, render_template, request
-from sqlalchemy import exc
-from sqlalchemy.orm import sessionmaker
-from werkzeug.wrappers import Response
-
-sys.path.append("../.")
-
-from models import *
 from unittest import main, TestCase
 
-class tests(TestCase):
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
 
+from models import Base, Pokemon, Move, Type
+
+
+class tests(TestCase):
     def test_pokemon_1_readable(self):
         test_pk = session.query(Pokemon).get(1)
 
@@ -117,12 +113,13 @@ class tests(TestCase):
         self.assertEqual(test_type.name, "fairy")
         self.assertEqual(test_type.generation, 6)
 
+
 if __name__ == "__main__":
     try:
         dialect = 'mysql+pymysql'
         username = 'guestbook-user'
         password = 'guestbook-user-password'
-        host = '172.99.70.65'
+        host = '172.99.79.105'
         port = '3306'
         database = 'guestbook'
 

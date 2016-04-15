@@ -1,9 +1,9 @@
-from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint, create_engine
+from collections import OrderedDict
+
+from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint, engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import select, and_
-
-from collections import OrderedDict
 
 Base = declarative_base()
 
@@ -114,7 +114,7 @@ class Pokemon(Base):
             }
         ]
         dictified['primary_type'] = self.primary_type.id
-        dictified['secondary_type'] = None if self.secondary_type == None else self.secondary_type.id
+        dictified['secondary_type'] = None if self.secondary_type is None else self.secondary_type.id
         dictified['average_stats'] = self.average_stats
         dictified['moves'] = [move.id for move in self.moves]
 
@@ -181,7 +181,6 @@ class Move(Base):
         return dictified
 
 
-
 class Type(Base):
     __tablename__ = 'type'
     id = Column(Integer, primary_key=True)
@@ -238,7 +237,8 @@ class Type(Base):
         dictified['generation'] = self.generation
 
         tables = [double_damage_to, double_damage_from, half_damage_to, half_damage_from, no_damage_to, no_damage_from]
-        table_names = ['double_damage_to', 'double_damage_from', 'half_damage_to', 'half_damage_from', 'no_damage_to', 'no_damage_from']
+        table_names = ['double_damage_to', 'double_damage_from', 'half_damage_to', 'half_damage_from', 'no_damage_to',
+                       'no_damage_from']
 
         for table, name in zip(tables, table_names):
             s = select([Type, table]).where(and_(self.id == table.c.origin, self.id == Type.id))
