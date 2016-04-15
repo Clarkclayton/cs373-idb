@@ -3,17 +3,17 @@ FILES :=                            \
 	.travis.yml						\
 	makefile						\
 	apiary.apib						\
-	IDB1.log						\
+	IDB3.log						\
 	models.html						\
-	models.py 						\
-	tests.py 						\
+	swecune/models.py 				\
+	swecune/tests.py 			    \
 	UML.pdf
 
 models.html: models.py
 	pydoc3 -w models
 
-IDB1.log:
-	git log > IDB1.log
+IDB3.log:
+	git log > IDB3.log
 
 check:
 	@not_found=0;                                 \
