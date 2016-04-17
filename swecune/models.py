@@ -1,17 +1,8 @@
 from collections import OrderedDict
 
-from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint, create_engine
+from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
-from sqlalchemy.sql import select, and_
-
-dialect = 'mysql+pymysql'
-username = 'guestbook-user'
-password = 'guestbook-user-password'
-host = '172.99.79.105'
-port = '3306'
-database = 'guestbook'
-engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
 
 Base = declarative_base()
 
@@ -133,7 +124,7 @@ class Pokemon(Base):
         dictified['id'] = self.id
         dictified['name'] = self.name.title()
         dictified['primary_type'] = self.primary_type.id
-        dictified['secondary_type'] = None if self.secondary_type == None else self.secondary_type.id
+        dictified['secondary_type'] = None if self.secondary_type is None else self.secondary_type.id
         dictified['average_stats'] = self.average_stats
 
         return dictified
@@ -166,7 +157,7 @@ class Move(Base):
     def dictify(self):
         dictified = OrderedDict()
         dictified['id'] = self.id
-        dictified['name'] = self.name.title()
+        dictified['name'] = str(self.name).title()
         dictified['accuracy'] = self.accuracy
         dictified['pp'] = self.pp
         dictified['priority'] = self.priority
@@ -180,7 +171,7 @@ class Move(Base):
     def min_dictify(self):
         dictified = OrderedDict()
         dictified['id'] = self.id
-        dictified['name'] = self.name.title()
+        dictified['name'] = str(self.name).title()
         dictified['accuracy'] = self.accuracy
         dictified['pp'] = self.pp
         dictified['power'] = self.power
@@ -241,19 +232,18 @@ class Type(Base):
     def dictify(self):
         dictified = OrderedDict()
         dictified['id'] = self.id
-        dictified['name'] = self.name.title()
+        dictified['name'] = str(self.name).title()
         dictified['generation'] = self.generation
 
-        tables = [double_damage_to, double_damage_from, half_damage_to, half_damage_from, no_damage_to, no_damage_from]
+        tables = [self.double_damage_to, self.double_damage_from, self.half_damage_to, self.half_damage_from,
+                  self.no_damage_to, self.no_damage_from]
         table_names = ['double_damage_to', 'double_damage_from', 'half_damage_to', 'half_damage_from', 'no_damage_to',
                        'no_damage_from']
 
         for table, name in zip(tables, table_names):
-            s = select([Type, table]).where(and_(self.id == table.c.origin, self.id == Type.id))
-            dictified[name] = [type.opposing for type in engine.execute(s)]
+            dictified[name] = [t.id for t in table]
 
         dictified['moves'] = [move.id for move in self.move_type]
-
         dictified['num_primary_type'] = len(self.pokemon_primary_type)
         dictified['num_secondary_type'] = len(self.pokemon_secondary_type)
 
@@ -262,7 +252,7 @@ class Type(Base):
     def min_dictify(self):
         dictified = OrderedDict()
         dictified['id'] = self.id
-        dictified['name'] = self.name.title()
+        dictified['name'] = str(self.name).title()
         dictified['generation'] = self.generation
 
         dictified['num_primary'] = len(self.pokemon_primary_type)
