@@ -1,9 +1,17 @@
 from collections import OrderedDict
 
-from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint, engine
+from sqlalchemy import Column, Integer, ForeignKey, String, Table, UniqueConstraint, create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import select, and_
+
+dialect = 'mysql+pymysql'
+username = 'guestbook-user'
+password = 'guestbook-user-password'
+host = '172.99.79.105'
+port = '3306'
+database = 'guestbook'
+engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database)).connect()
 
 Base = declarative_base()
 
