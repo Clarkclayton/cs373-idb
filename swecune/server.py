@@ -92,7 +92,7 @@ def api_pokemons(session):
 @ComplicatedFuckingDecorator(True)
 def api_pokemon(session, pokemon_id):
     resp = session.query(Pokemon).filter(Pokemon.id == pokemon_id).first()
-    return resp.min_dictify() if resp else {}
+    return resp.dictify() if resp else {}
 
 
 @app.route('/api/min_move')
@@ -190,6 +190,7 @@ def search(session):
              refined], []) if len(refined) > 1 else [],
         'search_terms': str(refined)
     }
+
 
 @app.route('/pokemon')
 def pokemon_all():
