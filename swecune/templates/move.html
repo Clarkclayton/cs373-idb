@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 {% block content %}
 <div class="container">
-    <link href="/static/css/moves.css" rel="stylesheet" type="text/css">
+    <link href="https://b1c01bf8eafe786b36c877247c911d2fb8db34b3-www.googledrive.com/host/0Bwhv4pFNwLa8WVhmUmsxN1ExOVU/static/css/moves.css" rel="stylesheet" type="text/css">
 
     <div id="moves">
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-3" id="move_type">
                 <a href="/type/{{ mv.type_id }}"><img id="move_type_img"
-                                                        src="/static/img/moves/{{ mv.type.name }}_type.png"></a>
+                                                        src="https://b1c01bf8eafe786b36c877247c911d2fb8db34b3-www.googledrive.com/host/0Bwhv4pFNwLa8WVhmUmsxN1ExOVU/static/img/moves/{{ mv.type.name }}_type.png"></a>
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-4" id="move_metadata">
@@ -18,12 +18,12 @@
                         <tr>
                             <th class="moves_metadata_header">Type:</th>
                             <th><a href="/type/{{ mv.type_id }}">
-                                <img id="move_type_text_img" src="/static/img/moves/{{ mv.type.name }}_text.png">
+                                <img id="move_type_text_img" src="https://b1c01bf8eafe786b36c877247c911d2fb8db34b3-www.googledrive.com/host/0Bwhv4pFNwLa8WVhmUmsxN1ExOVU/static/img/moves/{{ mv.type.name }}_text.png">
                             </a></th>
                         </tr>
                         <tr>
                             <th class="moves_metadata_header">Class:</th>
-                            <th><img id="move_class_img" src="/static/img/moves/{{ mv.damage_class }}.png"></th>
+                            <th><img id="move_class_img" src="https://b1c01bf8eafe786b36c877247c911d2fb8db34b3-www.googledrive.com/host/0Bwhv4pFNwLa8WVhmUmsxN1ExOVU/static/img/moves/{{ mv.damage_class }}.png"></th>
                         </tr>
                         <tr>
                             <th class="moves_metadata_header">Power:</th>
@@ -48,8 +48,7 @@
         </div>
 
         <div class="jumbotron table-responsive">
-            <script src="/static/js/sortable.min.js"></script>
-            <link rel="stylesheet" href="/static/css/sortable-theme-bootstrap.css"/>
+
             <table id="pokemon_table" class="sortable-theme-bootstrap" data-sortable>
                 <caption>Pokemon</caption>
                 <thead>
@@ -67,7 +66,7 @@
                 <tr>
                     <td>
                         <a href="/pokemon/{{ pk.id }}">
-                            <img src="/static/img/pokemon/pokemon_{{ pk.id }}.png">
+                            <img src="https://b1c01bf8eafe786b36c877247c911d2fb8db34b3-www.googledrive.com/host/0Bwhv4pFNwLa8WVhmUmsxN1ExOVU/static/img/pokemon/pokemon_{{ pk.id }}.png">
                         </a>
                     </td>
                     <td>{{ pk.id }}</td>
@@ -76,13 +75,13 @@
                     </td>
                     <td data-value="{{ pk.primary_type_id }}">
                         <a href="/type/{{ pk.primary_type_id }}">
-                            <img id="move_type_text_img" src="/static/img/moves/{{ pk.primary_type.name }}_text.png">
+                            <img id="move_type_text_img" src="https://b1c01bf8eafe786b36c877247c911d2fb8db34b3-www.googledrive.com/host/0Bwhv4pFNwLa8WVhmUmsxN1ExOVU/static/img/moves/{{ pk.primary_type.name }}_text.png">
                         </a>
                     </td>
                     {% if pk.secondary_type %}
                     <td data-value="{{ pk.secondary_type_id }}">
                         <a href="/type/{{ pk.secondary_type_id }}">
-                            <img id="move_type_text_img" src="/static/img/moves/{{ pk.secondary_type.name }}_text.png">
+                            <img id="move_type_text_img" src="https://b1c01bf8eafe786b36c877247c911d2fb8db34b3-www.googledrive.com/host/0Bwhv4pFNwLa8WVhmUmsxN1ExOVU/static/img/moves/{{ pk.secondary_type.name }}_text.png">
                         </a>
                     </td>
                     {% else %}
