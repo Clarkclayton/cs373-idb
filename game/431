@@ -1,0 +1,1434 @@
+{
+  "games": [
+    {
+      "deck": "Page about mean macine of commodore 64", 
+      "developers": [], 
+      "id": 21490, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14133/1050200-mm.jpg", 
+      "name": "Mean Machine", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/826/666106-609px_dizzyprinceoftheyolkfolk.jpg", 
+      "name": "Dizzy: Prince of the Yolkfolk", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spellbound Dizzy has Dizzy trying to rescue family members and his girlfriend from various predicaments they have been placed in.", 
+      "developers": [], 
+      "id": 21492, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/826/666158-609px_spellbounddizzy.jpg", 
+      "name": "Spellbound Dizzy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "NES Helicopter game by Codemasters. ", 
+      "developers": [], 
+      "id": 21493, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6518/438875-firehawk.jpg", 
+      "name": "Firehawk", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "LIttle Puff is lost and it's your job to guide him safety home to Dragonland.", 
+      "developers": [], 
+      "id": 21494, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1148544-little_puff_in_dragonland.gif", 
+      "name": "Little Puff in Dragonland", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magicland Dizzy is the fourth game in a series of multi-platform adventure-platformers by the Oliver Twins, produced by Codemasters.", 
+      "developers": [], 
+      "id": 21495, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/826/612069-dizzy4.jpg", 
+      "name": "Magicland Dizzy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tetris clone starring Dizzy.", 
+      "developers": [], 
+      "id": 21496, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/826/608939-dizzy_yolk.jpg", 
+      "name": "Dizzy Panic!", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21497, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2608090-moto_x_simulator_front.jpg", 
+      "name": "Moto X Simulator", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pro Powerboat Simulator is a game that was released on a few 8-bit platforms in 1989.  \n", 
+      "developers": [], 
+      "id": 21498, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28533/946731-pro_powerboat_cover.jpg", 
+      "name": "Pro Powerboat Simulator", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21499, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "750cc Grand Prix", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "KGB Super Spy is an arcade game for the Commodore 64 and 128, developed by Mark Healey, Christian Pennycate and Matt Gray, published by Codemasters.", 
+      "developers": [], 
+      "id": 21500, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "KGB Super Spy", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/641187-atv_simulator_eu_box_art.jpg", 
+      "name": "ATV Simulator", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the World Snooker franchise.", 
+      "developers": [], 
+      "id": 21502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/987/484032-world_championship_snooker_pal.jpg", 
+      "name": "World Championship Snooker", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21503, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Kamikaze", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "At the end of the 8-bit age, Quattro Mega Stars was released for the Amstrad CPC, ZX Spectrum, and the Commodore 64 in 1992.  It featured four games in one cartridge.  \n\n1. C.J.'s Elephant Antics\n2. Little Puff in Dragon Land\n3. Big Foot\n4. Sky High Stuntman", 
+      "developers": [], 
+      "id": 21504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/645757-zx_bigfoot_2.gif", 
+      "name": "Quattro Mega Stars", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Music with new features and a multiplayer mode.", 
+      "developers": [], 
+      "id": 21505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1255531-music_2000_cover.jpg", 
+      "name": "Music 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation of four different \"extreme\" sports, including AMX, two BMX games, and a Jet Ski racer title. It belongs to Codemaster's Quattro game series.", 
+      "developers": [], 
+      "id": 21506, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Quattro Racers", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game where players must stop a terrorist plot in Venice.", 
+      "developers": [], 
+      "id": 21884, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2774999-4511478410-37781.jpg", 
+      "name": "Murders in Venice", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Slicks is a top down Formula 1 style racing game for the C64.  This game allowed you to pit your wits against qualifying and racing other drivers in multiple races over several tracks.  It allows you to race cars such as Benneton, Ferrari and Mclaren.  ", 
+      "developers": [], 
+      "id": 21507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13029/1206313-slicks__cover_.jpg", 
+      "name": "Slicks", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/640944-striker_crypts_5.png", 
+      "name": "Stryker in the Crypts of Trogan", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2010 cricket game from Codemasters, licensed by the ECB, Cricket Australia and the MCC; International Cricket 2010 is the second cricket game to be released by Codemasters for the Playstation 3 and Xbox 360, following Ashes Cricket 2009.", 
+      "developers": [], 
+      "id": 21509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30446/1321615-991500_161554_front.jpg", 
+      "name": "International Cricket 2010", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21510, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Tank Simulator", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "Create music on your PlayStation!", 
+      "developers": [], 
+      "id": 21511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1255528-music_cover.jpg", 
+      "name": "Music", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21512, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Quattro Power Machines", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/640949-steg_slug_3.png", 
+      "name": "Steg the Slug", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21514, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Wacky Darts", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14452/1737934-g32134o9zfq.jpg", 
+      "name": "Manchester United Manager 2005", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quattro Super Hits is a complication of four classic Codemaster games that was released for systems like the Commodore 64, Amstrad CPC, and ZX Spectrum.", 
+      "developers": [], 
+      "id": 21516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/641238-quattro_super_hits.jpg", 
+      "name": "Quattro Super Hits", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10026/619903-super_seymour_03.gif", 
+      "name": "Super Seymour Saves the Planet", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/987/483854-world_championship_snooker_03.jpg", 
+      "name": "World Championship Snooker 2003", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/88782/1410794-micro_machines_military_opening_screen.jpg", 
+      "name": "Micro Machines: Military", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "RF Online is a Korean 3D MMORPG", 
+      "developers": [], 
+      "id": 21520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/947010-111.png", 
+      "name": "RF Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/640914-soccer_pinball_4.png", 
+      "name": "Soccer Pinball", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21522, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/74681/1322834-homm2exp.jpg", 
+      "name": "Heroes of Might and Magic II: The Price of Loyalty", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down turn-based strategy game.", 
+      "developers": [], 
+      "id": 21523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/109533/1807870-183750_wages_of_war_the_business_of_battle_windows_screenshot_your.gif", 
+      "name": "Wages of War: The Business of Battle", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21524, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Spaceward Ho! IV", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Chaos Overlords is a 1996 PC/Mac turn-based strategy game by the defunct studio New World Computing.", 
+      "developers": [], 
+      "id": 21525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/724612-23312_boxshot_1.jpg", 
+      "name": "Chaos Overlords", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game built on the World of Xeen engine, designed by a third party.", 
+      "developers": [], 
+      "id": 21526, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/605123-1111177568_00_1_.png", 
+      "name": "Swords of Xeen", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the last traditional 2D fantasy RPG's to hit the PC, Anvil of Dawn was developed by Dreamforge Entertainment in 1995.", 
+      "developers": [], 
+      "id": 21527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/635679-7023_boxshot_anvil_20of_20dawn_1_.jpg", 
+      "name": "Anvil of Dawn", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Hammer of the Gods is a strategy / tactical combat hybrid released in 1994", 
+      "developers": [], 
+      "id": 21528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1703005-g00978t7k1t.jpg", 
+      "name": "Hammer of the Gods", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21529, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Empire Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21530, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Empire  Deluxe Masters Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wetlands is a 1995 computer game developed by created by Hypnotix, Inc. and published by New World Computing for DOS.", 
+      "developers": [], 
+      "id": 21531, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Wetlands", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21532, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Empire II: The Art of War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 357, 
+          "name": "New World Computing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Aquaplus' first person dungeon crawler.", 
+      "developers": [], 
+      "id": 21533, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Dungeon Travelers 2-2", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 358, 
+          "name": "Aquaplus"
+        }
+      ]
+    }, 
+    {
+      "deck": "Console port of the visual novel White Album 2, containing both the Introductory and Closing chapters with the adult content removed.", 
+      "developers": [], 
+      "id": 21534, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2529723-whitealbum2.jpg", 
+      "name": "White Album 2: Shiawase no Mukougawa", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 358, 
+          "name": "Aquaplus"
+        }
+      ]
+    }, 
+    {
+      "deck": "This enhanced remake of To Heart 2 also comes with the content of To Heart 2 Another Days built right in.", 
+      "developers": [], 
+      "id": 21535, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "To Heart 2 DX Plus", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 358, 
+          "name": "Aquaplus"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D fighting game by Aquaplus. It features characters from a variety of their existing franchises such as To Heart, Utawareru Mono and Tears to Tiara.", 
+      "developers": [], 
+      "id": 21536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2573473-box_apapdm.png", 
+      "name": "Aquapazza: Aquaplus Dream Match", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 358, 
+          "name": "Aquaplus"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tears To Tiara is an adult eroge game with tactical role playing gameplay developed by Leaf. The story borrows heavily from Roman, Welsh, Celt and Christian mythology.", 
+      "developers": [], 
+      "id": 21537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/855507-front_cover.jpg", 
+      "name": "Tears to Tiara", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 358, 
+          "name": "Aquaplus"
+        }
+      ]
+    }, 
+    {
+      "deck": "To Heart 2 is a visual novel by Aquaplus.", 
+      "developers": [], 
+      "id": 21538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/238/600981-toheart2_front.jpg", 
+      "name": "To Heart 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 358, 
+          "name": "Aquaplus"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1391 @@
+{
+  "games": [
+    {
+      "deck": "The first ever retail expansion pack for the Dark Age of Camelot franchise.", 
+      "developers": [
+        {
+          "id": 199, 
+          "name": "Mythic Entertainment"
+        }
+      ], 
+      "id": 6088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34737/1026605-daocsi.png", 
+      "name": "Dark Age of Camelot: Shrouded Isles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This canceled MMO from Mythic was set in an alternate future where the Roman Empire never fell.  Production was stopped in order to focus development on Warhammer Online.", 
+      "developers": [
+        {
+          "id": 199, 
+          "name": "Mythic Entertainment"
+        }
+      ], 
+      "id": 6089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1101920-imperator.jpg", 
+      "name": "Imperator", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 199, 
+          "name": "Mythic Entertainment"
+        }
+      ], 
+      "id": 6090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1264798-daoccat.jpg", 
+      "name": "Dark Age of Camelot: Catacombs", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 199, 
+          "name": "Mythic Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The story of Fullmetal Alchemist: Brotherhood follows the adventures of the Elric brothers, two young alchemists.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1450/1331963-1921fma_psp_2d_gb_q.jpg", 
+      "name": "Fullmetal Alchemist: Brotherhood", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the first two Neon Genesis Evangelion Rebuild movies. Evangelion: Jo was only released in Japan for the PSP ", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2294582-ps2.png", 
+      "name": "Evangelion: Jo", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An upcoming Action Role-Playing Game from Namco-Bandai, which is being developed for the Nintendo DS", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/872842-destinylinksboxjp.jpg", 
+      "name": "Destiny Links", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighting game based around the manga and anime series Soul Eater. It came out on both the PS2 and PSP.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/49366/1172629-souleaterbr.jpg", 
+      "name": "Soul Eater: Battle Resonance", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kidou Senshi Gundam 00 is a DS game based on the first season of the same anime.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/649109-front_cover.jpg", 
+      "name": "Kidou Senshi Gundam 00", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fuel is an open-world racing game featuring 5,000-plus miles of open road and drastic weather like tornados and blizzards.", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824035-box_fuel.png", 
+      "name": "FUEL", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "Digimon World: Dusk and Dawn are dual-version monster raising turn-based RPGs set in the Digimon universe. The two versions feature minor story differences and different starting digimon, among other small discrepancies.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/793618-937345_86779_front.jpg", 
+      "name": "Digimon World: Dusk/Dawn", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Find out what happened two years before the hit anime series Eureka 7.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213153-box_e7v1.png", 
+      "name": "Eureka Seven Vol. 1: The New Wave", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Never Ending Tomorrow is an action game based on the Gundam SEED franchise.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421677-box_msgsnet.png", 
+      "name": "Mobile Suit Gundam SEED: Never Ending Tomorrow", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game based on the anime Naruto.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2533409-naruto1.jpg", 
+      "name": "Naruto: Konoha Ninpo Chou", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Digimon World 3 is the third game in the Digimon World series, where a young boy named Akira enters an online Digital World MMORPG only to be trapped by hackers.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375795-box_dw3.png", 
+      "name": "Digimon World 3", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Digimon: Digital Monsters brings the card game from Bandai to the PlayStation console.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375785-box_ddcb.png", 
+      "name": "Digimon Digital Card Battle", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Digimon World 2 changed the formula of the first game, a pet-raising simulator, into a turn-based dungeon-crawler. Even with these changes, the game unfortunately did no better in reviews than the first.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375794-box_dw2.png", 
+      "name": "Digimon World 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fishing game featuring a focus on collectibles", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2597620-bassr.jpg", 
+      "name": "Bass Rise", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Neon Genesis Evangelion is the Nintendo 64 adaptation of the beloved 1990s anime series. Despite the cartridge limitations, the game is notable for including animated scenes directly from the show.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/794735-evan64.jpg", 
+      "name": "Neon Genesis Evangelion", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Ball Z: Idainaru Dragon Ball Densetsu is a action fighting game published by Bandai in 1996, for the PlayStation and Sega Saturn.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2131800-dbz_psx.jpg", 
+      "name": "Dragon Ball Z: Idainaru Dragon Ball Densetsu", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth and last Captain Tsubasa game released on the SNES.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2215115-captain_tsubasa_j_the_way_to_world_youth.jpg", 
+      "name": "Captain Tsubasa J: The Way to World Youth", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Slam Dunk is a basketball game released only in Japan for the Sega Saturn. It is based on the manga and anime series of the same name.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1764706-1.jpg", 
+      "name": "From TV Animation - Slam Dunk: I Love Basketball", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Dragon Ball Z game for the Game Boy. It is based off the Frieza saga.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/79739/1294946-209px_dragonballzgokugekitouden.jpg", 
+      "name": "Dragon Ball Z: Goku Gekit\u014dden", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A mecha fighting simulation based on the Mobile Suit Gundam franchise. The first Gundam game on a Sony platform.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135574/2123460-51qljmdve6l._sl500_aa300_.jpg", 
+      "name": "Mobile Suit Gundam", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bizarre platform game where Ultraman is turned into a ball. A re-package of a proposed Armadillo (NES) sequel.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2381459-569863_7920_front.jpg", 
+      "name": "Ultraman Ball", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based RPG for the Super Famicom based on the fantasy-comedy anime/manga series of the same name.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2268230-untitled.png", 
+      "name": "Slayers", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "SD Gundam GX is the sequel to SD Gundam X. Like its predecessor, it is a strategy game featuring various mobile suits from the Gundam franchise.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2131798-sd_gx.jpg", 
+      "name": "SD Gundam GX", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategic fighter/action game featuring the large mechas of Patlabor. The player must keep the streets clean with their enormous Ingram mobile suit.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/809043-564347_5084_front.jpg", 
+      "name": "Kidou Keisatsu Patlabor", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A three-character action platformer only released in Japan, based on the anime series of the same name. Gameplay is similar to The Lost Vikings.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2204308-cyborg_009.jpg", 
+      "name": "Cyborg 009", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "2D fighting game published by Bandai in 1993. It features Ultra Seven, Ultraman's successor, and some of his most memorable foes.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2124003-ultra_seven_01.jpg", 
+      "name": "Ultra Seven", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action platformer for the Super Famicom based on the Gegege no Kitarou anime and manga. The player, as Kitarou, must defeat the all-powerful Demon King Tenma before he can resurrect.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/137417/2401762-570908_9043_front.jpg", 
+      "name": "Gegege no Kitarou - Fukkatsu! Tenma Daiou", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fighting game starring characters from the popular Bikkuriman series.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2380998-570905_9879_front.jpg", 
+      "name": "Super Bikkuriman", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "SD Gundam X is a strategy game featuring various Gundam factions.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1375916-sgw.jpg", 
+      "name": "Super Gachapon World: SD Gundam X", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ultraman: Towards the Future is a 2D fighting game published by Bandai and based off the Japanese TV show of the same name.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364690-snes_ultraman.jpg", 
+      "name": "Ultraman: Towards the Future", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/494123-saraba.jpg", 
+      "name": "Saraba Uch\u00fb Senkan Yamato ~ Ai no Senshitachi", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Gundam Battle Tactics is a 3rd person mech action game for the Playstation Portable.  The game is based in the Mobile Suit Gundam universe and follows the events of the One Year War.", 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2504/407239-gundambattle.jpg", 
+      "name": "Gundam Battle Tactics", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 200, 
+          "name": "BEC Co., Ltd."
+        }
+      ], 
+      "id": 6122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/838717-579968_20592_front.jpg", 
+      "name": "Dokodemo Hamster 3: O-Dekake Safuran", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A new take on Monopoly from Ubisoft.", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2724251-untitled.jpg", 
+      "name": "Monopoly Family Fun Pack", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kinect Rush: A Disney/Pixar Adventure is a game for Kinect in collaboration with Disney and Pixar. The game will scan you into the worlds seen in five of Pixar's movies.", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284680-box_krush.png", 
+      "name": "Kinect Rush: A Disney/Pixar Adventure", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kinect Fun Labs is a Xbox 360 app that lets players access various free (and paid) tech demos that make use of Kinect technology, from scanning real life objects to turning the player into an avatar!", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6125, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1804939-boxartlg.jpg", 
+      "name": "Kinect Fun Labs", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the Pixar animated film taking place seven hundred years into the future, Wall-e is about the last functioning robot on Earth in this adventure platformer.", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284725-box_walle.png", 
+      "name": "Wall-E", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 510, 
+          "name": "Heavy Iron Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ratatouille is a game based on the film of the same name.", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6131, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284702-box_rat.png", 
+      "name": "Ratatouille", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 510, 
+          "name": "Heavy Iron Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6132, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2154872-box_gatotk.png", 
+      "name": "Garfield: A Tail of Two Kitties", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A budget title with stealth-action similar to the original Splinter Cell and a cover system similar to kill.switch.", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6133, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478689-box_sfns.png", 
+      "name": "Special Forces: Nemesis Strike", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "CT Special Forces is a Third person shooter developed for the PC. You play as one of two soldiers in the modern day US Military, alternating between Stealth and Action play styles.", 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6134, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478647-box_ctsf.png", 
+      "name": "CT Special Forces", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 201, 
+          "name": "Asobo Studio"
+        }
+      ], 
+      "id": 6135, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840312-915089_47630_front.jpg", 
+      "name": "Sitting Ducks", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Harmonixer Yuri Hyuga makes his debut to stop Roger Bacon's mysterious plans and save the young Alice Elliot from capture in this pre-WWI turn-based RPG that features the innovative Judgement Ring battle system.", 
+      "developers": [
+        {
+          "id": 202, 
+          "name": "Sacnoth"
+        }
+      ], 
+      "id": 6136, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276074-box_sh.png", 
+      "name": "Shadow Hearts", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crawl through the corridors of a building being torn apart at the seams by demonic forces.", 
+      "developers": [
+        {
+          "id": 202, 
+          "name": "Sacnoth"
+        }
+      ], 
+      "id": 6137, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1867807-box_kouldeka.png", 
+      "name": "Koudelka", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A submarine combat role-playing game on the Neo Geo Pocket Color, starring Becky.", 
+      "developers": [
+        {
+          "id": 202, 
+          "name": "Sacnoth"
+        }
+      ], 
+      "id": 6138, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/960543-915799_89770_front.jpg", 
+      "name": "Dive Alert: Becky's Version", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of two Dive Alert games, this one is a role-playing game for the Neo Geo Pocket Color starring Matt.", 
+      "developers": [
+        {
+          "id": 202, 
+          "name": "Sacnoth"
+        }
+      ], 
+      "id": 6139, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/960545-921141_89771_front.jpg", 
+      "name": "Dive Alert: Matt's Version", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "The small nation of Istar has been plunged into civil war and you have been pulled into the fight.  Lead your mercenary group to victory in this mech-based strategy game from Sacnoth.", 
+      "developers": [
+        {
+          "id": 202, 
+          "name": "Sacnoth"
+        }
+      ], 
+      "id": 6140, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2906/388695-ngpc_faselei__front.jpg", 
+      "name": "Faselei!", 
+      "platforms": [
+        {
+          "id": 67, 
+          "name": "Neo Geo Pocket", 
+          "short": "NGP"
+        }, 
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }
+  ]
+}

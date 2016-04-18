@@ -1,0 +1,1357 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12530, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2238/297208-comanche2_9.png", 
+      "name": "Comanche 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12531, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Steel Thunder", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12532, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Jet Pack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12533, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2507041-comanchemd1.jpg", 
+      "name": "Comanche: Mission Disk 1", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12534, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Werewolf vs. Comanche 2.0", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12535, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Comanche: Over the Edge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An upcoming point and click horror game by The Farm 51, the makers of NecroVisioN.", 
+      "developers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ], 
+      "id": 12536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2392045-gorky21.jpg", 
+      "name": "Gorky 21", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person shooter that is attempting to blur the line between single player and multiplayer, developed by The Farm 51.", 
+      "developers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ], 
+      "id": 12537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10354/2592487-1512777_243570162487744_2052955295_n.jpg", 
+      "name": "Get Even", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A first-person action-adventure game by Polish developer, Farm 51 and publisher, Nordic Games.", 
+      "developers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ], 
+      "id": 12538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2560198-box_dfa.png", 
+      "name": "Deadfall Adventures", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A remake of the first Painkiller and its expansion, Battle out of Hell, using Unreal Engine 3.", 
+      "developers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ], 
+      "id": 12539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2578166-box_pkhad.png", 
+      "name": "Painkiller Hell & Damnation", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ]
+    }, 
+    {
+      "deck": "Prequel to the crazy frantic combo zombie first person shooter. Interesting thing about a story going on before the story in the first game is that the zombie apocalypse happened during the first game, and this game is luckily still full of zombies, vampires and monsters anyway. Minds blown.", 
+      "developers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ], 
+      "id": 12540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1712012-989953_159668_front.jpg", 
+      "name": "NecroVisioN: Lost Company", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ]
+    }, 
+    {
+      "deck": "The year is 1916. Young American joins UK Army to experience an adventure of his life and soon realizes that greater evil is hiding beneath the Great War storm. He has to face the underground world of vampires, demons, evil genius creatures and even become one of the demons to rescue the human and vampire kind from forces of darkness.", 
+      "developers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ], 
+      "id": 12541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/863697-boxshot_uk_large.jpg", 
+      "name": "NecroVisioN", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Witcher is an Action Role Playing Game developed by CD Projekt RED and is based on the book \"The Last Wish\" by Polish author Andrzej Sapkowski. An Enhanced Edition was released in September, 2008. A director's cut version was released for North America on July 31, 2009.", 
+      "developers": [
+        {
+          "id": 426, 
+          "name": "The Farm 51"
+        }
+      ], 
+      "id": 12542, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2558589-w1clean.jpg", 
+      "name": "The Witcher", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The popular Tap Tap series returns with something new, a tour mode.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/2268535-tap_tap_revenge_tour_button.png", 
+      "name": "Tap Tap Revenge: Tour", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game in the Tap Tap rhythm game franchise featuring music from the TV show Glee.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5370/2288721-taptapglee.png", 
+      "name": "Tap Tap Glee", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lady Gaga's new album, Born This Way, is presented here for your tapping pleasure.  It also includes a bunch of bonus tracks from the special edition.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1792193-mzm.kyamuhpq.100x100_75.jpg", 
+      "name": "Lady Gaga: Born This Way Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tapulous' latest Tap Tap Revenge game featuring songs by Bruno Mars.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12546, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1771186-mzm.usfqhxnb.175x175_75.jpg", 
+      "name": "Bruno Mars Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A version of Tap Tap Revenge for the iPhone featuring songs from the band Green Day.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/1742618-032211_gd_revenge.png", 
+      "name": "Green Day Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tapulous' fourth entry in their popular Tap Tap Revenge series.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1694739-images.jpg", 
+      "name": "Tap Tap Revenge 4", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Lady Gaga Revenge.  Features even more Lady Gaga songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12549, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751087-original.png", 
+      "name": "Lady Gaga Revenge 2", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new music game from Tapulous that has you using your iPhone accelerometer to guide a marble down a ribbon without falling off the side.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12550, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751094-images__5_.jpg", 
+      "name": "Riddim Ribbon", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tap Tap Revenge game featuring Linkin Park songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12551, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751076-images__2_.jpg", 
+      "name": "Linkin Park Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tap Tap Revenge game featuring Katy Perry songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12552, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751088-images__4_.jpg", 
+      "name": "Katy Perry Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tap Tap Revenge game featuring Nickelback songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12553, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751077-nickelback_revenge_25465_100.jpg", 
+      "name": "Nickelback Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tap Tap Revenge game featuring Nirvana's greatest hits.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12554, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751078-images__3_.jpg", 
+      "name": "Nirvana Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "The touch music game franchise Tap Tap arrives on iPad.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12555, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18149/1670626-tap_tap_radiationlarge_300x300.png", 
+      "name": "Tap Tap Radiation", 
+      "platforms": [
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Justin Bieber Revenge is a game in the Tap Tap Franchise for iPhone featuring Justin Bieber songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12556, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/1327809-617294.jpg", 
+      "name": "Justin Bieber Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tap Tap Revenge game featuring Kings of Leon songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12557, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751072-images__1_.jpg", 
+      "name": "Kings Of Leon Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tap Tap Revenge game featuring Metallica songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12558, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751083-i335928959_jpg_180x180_q85.jpg", 
+      "name": "Tap Tap Revenge: Metallica", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tap Tap Revenge 3 is the latest release in the popular Tap Tap franchise.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12559, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/1208293-tap_tap_revenge_3_1.png", 
+      "name": "Tap Tap Revenge 3", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lady Gaga Revenge is a game in the Tap Tap franchise featuring Lady Gaga songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12560, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/1114771-lady_gaga_revenge_5_200x300.png", 
+      "name": "Lady Gaga Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dave Matthews Band Revenge is a game in the Tap Tap Revenge franchise featuring Dave Matthews Band songs.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12561, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/1114777-screen5.jpg", 
+      "name": "Dave Matthews Band Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A version of Tap Tap Revenge for the iPhone featuring songs from the band Coldplay", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12562, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/1130301-coldplaytapulous.jpg", 
+      "name": "Tap Tap Revenge: Coldplay Edition", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the popular iPhone/iPod touch game", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12563, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3083/909614-img_0014.jpg", 
+      "name": "Tap Tap Revenge 2", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A rhythm game for the iPhone from Tapulous, the developers of Tap Tap revenge.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12564, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1099/896456-mzlzqmjphko.jpg", 
+      "name": "Tap Tap Dance", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A special version of the \"Tap Tap\" Franchise. This one featuring Weezer covering Christmas Classics, and two bonus songs of their own.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12565, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15228/833003-weezer.png", 
+      "name": "Christmas with Weezer", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tap Tap Revenge for the iPhone/iPod Touch, with various songs by the Nine Inch Nails.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12566, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15228/819974-taptap.jpg", 
+      "name": "Tap Tap Revenge: NIN Edition", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A popular free rhythm game that utilizes the touch screen of the iPhone or iPod Touch in both single and local multiplayer musical battles.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12567, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/296/185977-2664640305_f8a4041b35.jpg", 
+      "name": "Tap Tap Revenge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Katy Perry Revenge.  Only features one new Katy Perry song.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12568, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751758-image.png", 
+      "name": "Katy Perry Revenge 2", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new game from Tapulous that sees you controlling a helicopter that is rescuing zoo animals.", 
+      "developers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ], 
+      "id": 12569, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1751097-1036_1_zoo_rescue.jpg", 
+      "name": "Zoo Rescue", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 427, 
+          "name": "Tapulous"
+        }
+      ]
+    }, 
+    {
+      "deck": "An alternate history RPG set in the early 20th century.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12570, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2831499-art.jpg", 
+      "name": "Black Rose Valkyrie", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "New Fairy Fencer F game for Playstation 4.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12571, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2677233-logo.jpg", 
+      "name": "Fairy Fencer F: Advent Dark Force", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Another dungeon RPG in Compile Heart's monster girl themed Genkai Tokki series.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12572, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2753938-3508665634-main..jpg", 
+      "name": "Genkai Tokki Moero Crystal", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A new RPG from Compile Heart headed by the director of Disgaea 4.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12573, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2764355-6462968493-vljm35178_jacket", 
+      "name": "Trillion 1,000,000,000,000: God of Destruction", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Console war RPG parody Hyperdimension Neptunia moves to the PlayStation 4, with a follow-up to Neptunia Victory.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12574, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2764354-1295668496-pljm80062_jacket", 
+      "name": "Megadimension Neptunia VII", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in Compile Heart's Galapagos RPG series, and the first exclusive JRPG to be released on the PlayStation 4.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12575, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2674659-6481390535-81cfa.jpg", 
+      "name": "Omega Quintet", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in Compile Heart's Genkai Totsuki series, Moero Chronicle is a first person fantasy dungeon crawler RPG about a boy sent on a quest to discover why worlds monster girls have suddenly started attacking humans.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12576, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2654138-4515288752-jp0031pcsg00346_00moerochronicler1_jacket", 
+      "name": "Genkai Totsuki Moero Chronicle", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Debut RPG for Compile Heart's Galapagos RPG brand.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12577, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2683035-8468106891-image", 
+      "name": "Fairy Fencer F", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Date A Live: Rinne Utopia is a dating sim based on a light novel series authored by Koshi Tachibana and illustrated by Tsunako.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12578, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2501976-datealivecover.jpg", 
+      "name": "Date A Live: Rinne Utopia", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Hyperdimension Neptunia franchise makes its portable debut as an idol management sim spin-off for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ], 
+      "id": 12579, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2616295-2636360812-61bvO.jpg", 
+      "name": "Hyperdimension Neptunia: Producing Perfection", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

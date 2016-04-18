@@ -1,0 +1,1150 @@
+{
+  "games": [
+    {
+      "deck": "A retro inspired RPG made for iPhone and Android. Takes a pen and paper styling to a more classic Final Fantasy approach.", 
+      "developers": [], 
+      "id": 18439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2554076-3714385729-KoPP_.png", 
+      "name": "Knights of Pen and Paper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A transportation management simulation, where players can dictate the growth and development of a city through public transport.", 
+      "developers": [], 
+      "id": 18440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1081/2297114-yiyfm.jpg", 
+      "name": "Cities in Motion 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Travel the world as you travel the world, setting everything on fire as you go!", 
+      "developers": [], 
+      "id": 18441, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2582739-box_mwotst.png", 
+      "name": "Magicka: Wizards of the Square Tablet", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A combination of action movie tropes and Super Smash Bros. style brawling.", 
+      "developers": [], 
+      "id": 18442, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331148-box_tsde.png", 
+      "name": "The Showdown Effect", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dungeonland is a multiplayer action RPG in which a team of players attempt to navigate their adventurer characters through an amusement park full of monsters and deathtraps set by another player who operates as the evil dungeonmaestro.", 
+      "developers": [], 
+      "id": 18443, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331098-box_dland.png", 
+      "name": "Dungeonland", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magna Mundi was to be a world domination strategy game that takes place between the fall of Constantinople and the Age of Discovery. The game was cancelled by Paradox in the June of 2012.", 
+      "developers": [], 
+      "id": 18444, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2232073-magnamundi.jpg", 
+      "name": "Magna Mundi", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hearts of Iron: Road to War is a WWII strategy sim for XBLA.", 
+      "developers": [], 
+      "id": 18445, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331120-box_hoirtw.png", 
+      "name": "Hearts of Iron: Road to War", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Teleglitch is a roguelike top-down shooter with pixel graphics. The game takes place in a secret corporate research facility on an inhospitable planet far beyond the reach of civilization where something has gone horribly wrong.", 
+      "developers": [], 
+      "id": 18446, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174218/2381323-teleglitch_full_version.png", 
+      "name": "Teleglitch", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dig deep in this Dwarf management and building game.\nCreate a fort to be proud of, while finding treasure along the way.", 
+      "developers": [], 
+      "id": 18447, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2392072-agameofdwarfes_packshot_2d.png", 
+      "name": "A Game of Dwarves", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Starvoid is a space-western strategy game from Zeal Interactive.", 
+      "developers": [], 
+      "id": 18448, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331147-box_starvoid.png", 
+      "name": "Starvoid", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based spin-off of the Majesty RTS franchise, set in the Ardania universe.", 
+      "developers": [], 
+      "id": 18449, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2188531-box_wlmota.png", 
+      "name": "Warlock: Master of the Arcane", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Naval combat simulation game featuring two campaigns focusing on a fictional arctic conflict between Russia and NATO in 2030.", 
+      "developers": [], 
+      "id": 18450, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2348410-naval.png", 
+      "name": "Naval War: Arctic Circle", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gettysburg: Armored Warfare is a real time strategy and third person shooter hybrid set in an alternate history depiction of the American Civil War.", 
+      "developers": [], 
+      "id": 18451, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331113-box_gaw.png", 
+      "name": "Gettysburg: Armored Warfare", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "King Arthur II is the sequel to Neocore's RPG/RTS hybrid, King Arthur: The Role-playing Wargame.", 
+      "developers": [], 
+      "id": 18452, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2121647-box_katrpwg2.png", 
+      "name": "King Arthur II: The Role-Playing Wargame", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Kerberos Production's 2006 4X space-strategy game, Sword of the Stars.", 
+      "developers": [], 
+      "id": 18453, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2582744-box_sots2low.png", 
+      "name": "Sword of the Stars II: The Lords of Winter", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in the 1600s, Fire and the Sword brings the medieval Mount and Blade games into an era of new technology and conflicts, while retaining its open world RPG gameplay.", 
+      "developers": [], 
+      "id": 18454, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331130-box_mabwfas.png", 
+      "name": "Mount and Blade: With Fire & Sword", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }, 
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A satirical fantasy hack-and-slash action adventure in which you and up to three friends take on The Forces of Evil by wielding eight elements of magick and combining them in unique ways.", 
+      "developers": [], 
+      "id": 18455, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811124-box_magicka.png", 
+      "name": "Magicka", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Darkest Hour is a stand-alone Hearts of Iron RTS which takes place from the outbreak of the Great War to the beginning of the Cold war. ", 
+      "developers": [], 
+      "id": 18456, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331095-box_dh.png", 
+      "name": "Darkest Hour: A Hearts of Iron Game", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A stand alone game in the Realm of Majesty 2, extending the original single player game and introducing a new multiplayer mode.", 
+      "developers": [], 
+      "id": 18457, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331132-box_mj2boa.png", 
+      "name": "Majesty 2: Battles of Ardania", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "New monsters, heroes and a campain in this extension for the original Majesty 2.", 
+      "developers": [], 
+      "id": 18458, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331134-box_mj2mk.png", 
+      "name": "Majesty 2: Monster Kingdom", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A transport management sim where the player is challenged to meet the changing transport demands of real-life cities as they change over time.", 
+      "developers": [], 
+      "id": 18459, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1849080-box_cim.png", 
+      "name": "Cities In Motion", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in between the time period of 1189-1192, Lionheart: King's Crusade will focus on the events of the Third Crusade and allow the player to alter history.", 
+      "developers": [], 
+      "id": 18460, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/112064/1550086-51ac8ku9qyl.jpg", 
+      "name": "Lionheart: King's Crusade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ship Simulator Extremes is a realistic recreation of the task of piloting a ship from point A to point B.", 
+      "developers": [], 
+      "id": 18461, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331146-box_sse.png", 
+      "name": "Ship Simulator Extremes", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A chess-like turn-based strategy game pitting the twins Rupert and Violetta of Bellalagusia against one another to see who is truly the rightful ruler of the kingdom.", 
+      "developers": [], 
+      "id": 18462, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331129-box_legio.png", 
+      "name": "Legio", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Warband is a stand-alone expansion for Mount and Blade. It serves an improved and expanded re-release of the original Mount and Blade, a medieval open world RPG by Taleworlds.", 
+      "developers": [], 
+      "id": 18463, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1849085-box_mabw.png", 
+      "name": "Mount & Blade: Warband", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "An extension pack for the second Majesty game that tells the story of the return of Grum-Gog in 8 new missions. It also enables the player to create their own kingdoms as well.", 
+      "developers": [], 
+      "id": 18464, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331133-box_mj2k.png", 
+      "name": "Majesty 2: Kingmaker", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Real-Time Tactics game set in WWII.  Released in Feb. 2010, developed by Graviteam and published by Paradox Interactive.", 
+      "developers": [], 
+      "id": 18465, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331082-box_ap.png", 
+      "name": "Achtung Panzer: Kharkov 1943", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arsenal of Democracy is a mostly fan-made commercial re-release of Hearts of Iron 2 with many improvements and tweaks requested by the community.", 
+      "developers": [], 
+      "id": 18466, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331081-box_aod.png", 
+      "name": "Arsenal of Democracy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remade version of Europa Universalis 2 with new ideas from the fans and an emphasis on History and more modding ability.", 
+      "developers": [], 
+      "id": 18467, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331108-box_euftg.png", 
+      "name": "Europa Universalis: For the Glory", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in the post-apocalyptic town of Piety, Indiana, Fort Zombie allows you to fortify a school, prison or police station while scavenging for food and defending against hordes of undead.", 
+      "developers": [], 
+      "id": 18468, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331112-box_fz.png", 
+      "name": "Fort Zombie", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Majesty franchise makes the transition to 3D in Majesty 2, the sequel to the critically well-received, fantasy real-time strategy game.", 
+      "developers": [], 
+      "id": 18469, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331131-box_mj2.png", 
+      "name": "Majesty 2: The Fantasy Kingdom Sim", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Restaurant business sim, developed by Enlight Interactive Inc", 
+      "developers": [], 
+      "id": 18470, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/938590-re2_box_cover_art_low_res.jpg", 
+      "name": "Restaurant Empire 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RTS based on the concept of Martians invading Earth during World War II, and doing battle with the Soviet Union under Joseph Stalin.", 
+      "developers": [], 
+      "id": 18471, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/925897-666666666666666.jpg", 
+      "name": "Stalin vs. Martians: The Unknown Pages of the Second World War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow-up to very successful 2007 strategy title Fantasy Wars by 1C.", 
+      "developers": [], 
+      "id": 18472, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331100-box_elegacy.png", 
+      "name": "Elven Legacy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second expansion to Sword of the Stars. In addition to new techs, weapons, and ship sections, AMoC adds a sixth race, the bird like Morrigi", 
+      "developers": [], 
+      "id": 18473, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2582745-box_sotsamoc.png", 
+      "name": "Sword of the Stars: A Murder of Crows", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dark Horizon is a space combat simulator develped by Quazar Studio for the PC. \n\nDark Horizon is the sequel to Tarr Chronicles.", 
+      "developers": [], 
+      "id": 18474, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331096-box_dhorizon.png", 
+      "name": "Dark Horizon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }, 
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mount &amp; Blade creates a living medieval world for PC gamers to explore and conquer by whatever means they choose.", 
+      "developers": [], 
+      "id": 18475, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1849084-box_mab.png", 
+      "name": "Mount & Blade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final entry in the Penumbra series, considered disappointing by fans for its sudden switch to the puzzle genre. Gone are the monsters and the cohesive world to explore, leaving only clearly divided levels where the objective is simply to find a number of artifacts required to activate the level's exit portal.", 
+      "developers": [], 
+      "id": 18476, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1867814-box_penr.png", 
+      "name": "Penumbra: Requiem", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18477, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1084302-boxart.jpg", 
+      "name": "Lost Empire: Immortals", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "City Life 2008 is the second expansion pack for the game City Life by the French developer Monte Cristo, adding new buildings, scenarios, maps, and an updated editor with the ability to import satellite maps.", 
+      "developers": [], 
+      "id": 18478, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331087-box_cl2k8.png", 
+      "name": "City Life 2008", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "An exploration based adventure by the Swedish developer Frictional Games. Black Plague focuses on where the previous game in the story ends. It requires the player to traverse an underground facility full of zombie-like creatures which they must avoid if they are to survive.", 
+      "developers": [], 
+      "id": 18479, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1867812-box_penbp.png", 
+      "name": "Penumbra: Black Plague", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Tarr Chronicles humanity is at war with an alien race. The player flies a space ship and is part of an expedition to retrieve an important artifact but just before the goal they get attacked by aliens.", 
+      "developers": [], 
+      "id": 18480, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13157/1335794-tarr_chronicles.jpg", 
+      "name": "Tarr Chronicles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }, 
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based strategy game based on a novel by the Strugatsky brothers released in 2007. It was developed by Wargaming.net and published by Paradox Interactive.", 
+      "developers": [], 
+      "id": 18481, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2348412-galactic_assault_32d_master_copy.jpg", 
+      "name": "Galactic Assault: Prisoner of Power", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battlefront.com enters the 21st century with Combat Mission: Shock Force. This tactical wargame is set in a hypothetical war between NATO forces and Syria.\n", 
+      "developers": [], 
+      "id": 18482, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2348415-combat_mission___shock_force_1.jpg", 
+      "name": "Combat Mission: Shock Force", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Penumbra: Overture is a 2007 first person horror/adventure game, and the first installment of the Penumbra series.", 
+      "developers": [], 
+      "id": 18483, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1867813-box_peno.jpg", 
+      "name": "Penumbra: Overture", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18484, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1801088-front.jpg", 
+      "name": "Frontline: Fields of Thunder", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "A \"grand strategy game\" where players can play as any nation on earth and explore, trade, colonize and conquer their way to global supremacy.", 
+      "developers": [], 
+      "id": 18485, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331103-box_eu3.png", 
+      "name": "Europa Universalis III", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Emperor's Testament is the only expansion pack for the real-time strategy game, Perimeter. It adds several new units and expands the game world's fiction, focusing on the Empire's \"Mechanical Messiah\" and the war against the Harkbacks.", 
+      "developers": [], 
+      "id": 18486, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2261531-1170296292_00.jpg", 
+      "name": "Perimeter: Emperor's Testament", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }, 
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "MadMinute Games brings a Civil War strategy game that allows you to fight through battles such as Cedar Mountain, Second Manassas and Chantilly.", 
+      "developers": [], 
+      "id": 18487, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1806379-take.jpg", 
+      "name": "Take Command - 2nd Manassas", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion to Soldiers: Heroes of WWII", 
+      "developers": [], 
+      "id": 18488, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/211519/2592099-8115486456-silen.jpg", 
+      "name": "Silent Heroes: Elite troups of WWII", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }
+  ]
+}

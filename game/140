@@ -1,0 +1,1285 @@
+{
+  "games": [
+    {
+      "deck": "Twin Cobra is a vertical scrolling shoot-em-up and is the sequel to Tiger-Heli.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6939, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5450/897584-twin_cobra_cover.jpg", 
+      "name": "Twin Cobra", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Truxton is a vertically scrolling shooter set in space. It was originally released to arcades in 1988.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6940, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/1294830-truxton_md_uk.jpg", 
+      "name": "Truxton", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Arcade helicopter vertical shoot 'em up developed by Toaplan that was later released to the NES.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6941, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362310-nes_tigerheli.jpg", 
+      "name": "Tiger-Heli", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A.L.C.O.N (Allied League of Cosmic Nations), also known as Slap Fight, is a vertically scrolling shooter developed by Toaplan.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6942, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/121483/1688708-nimet_n.jpg", 
+      "name": "A.L.C.O.N.", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6943, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370618-genesis_hellfire.jpg", 
+      "name": "Hellfire", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Truxton 2 is a 1992 arcade sequel to the original game, Truxton.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6944, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29310/2465242-4868104520-truxt.png", 
+      "name": "Truxton 2", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest truck driving simulator in development by SCS Software.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6945, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56742/2762208-0031604742-heade.jpg", 
+      "name": "American Truck Simulator", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Travel across Europe as a trucker delivering cargo in a variety of trucks.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6946, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2417287-jaquette_euro_truck_simulator_2_pc_cover_avant_g_1351086645.jpg", 
+      "name": "Euro Truck Simulator 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Scania Truck Driving Simulator is a game developed by SCS Software in cooperation with Scania.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6947, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/223122/2646895-4625061875-15773.jpg", 
+      "name": "Scania Truck Driving Simulator: The Game", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A truck simulator with trailers.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6948, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1825875-1308420645535.jpg", 
+      "name": "Trucks & Trailers", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "18 Wheels of Steel: Extreme Trucker 2 is a big rig trucking game in the 18 Wheels of Steel franchise.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6949, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2178440-cover.jpg", 
+      "name": "18 Wheels of Steel: Extreme Trucker 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In this standalone add-on to the German Truck Simulator, players get to deliver their cargo across Austria.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6950, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Austrian Truck Simulator", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A game about a man, his truck, and a network of roads giving you access to the UK's 18 largest cities.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6951, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84741/2009155-uktruck_simulator_inlay319.jpg", 
+      "name": "UK Truck Simulator", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The newest addition to the Truck Simulator franchise, this time you get to drive all over Germany.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6952, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/578/1250389-gts_trucks.jpg", 
+      "name": "German Truck Simulator", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "18 Wheels of Steel: Extreme Trucker is an entry in the 18 Wheels of Steel franchise.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6953, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2178409-cover.jpg", 
+      "name": "18 Wheels of Steel: Extreme Trucker", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Travel across Europe in a variety of trucks, picking up and delivering cargo in SCS Software's latest game.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6954, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/282488-box_mockup.jpg", 
+      "name": "Euro Truck Simulator", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "You ain't working for the Man any more! The sixth installment to the popular cargo delivery series.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6955, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1248535-longwheel.jpg", 
+      "name": "18 Wheels of Steel American Long Haul", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The latest Hunting Unlimited game.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6956, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/924006-huntingunlimited2008_box.jpg", 
+      "name": "Hunting Unlimited 2008", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take control of a wide range of buses to transport your passengers to their desired destinations while travelling through all kinds of weather conditions and locations.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6957, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/281087-bus_driver_box.jpg", 
+      "name": "Bus Driver", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Hunting Unlimited 4 places the player in the shoes of a hunter in over 50 action packed missions.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6958, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/923935-huntingunlimited4.jpg", 
+      "name": "Hunting Unlimited 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "OceanDive lets players explore the sea.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6959, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2614632-oceandive_box_153.jpg", 
+      "name": "OceanDive", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first three Hunting Unlimited games in one box.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6960, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/923969-930626_71273_front.jpg", 
+      "name": "Hunting Unlimited Trophy Collection", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "18 Wheels of Steel: Convoy is a PC driving game in the 18 Wheels of Steel franchise.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6961, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2178385-cover.jpg", 
+      "name": "18 Wheels of Steel: Convoy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6962, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/293415-1771.jpg", 
+      "name": "18 Wheels of Steel: Pedal to the Metal", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third in SCS Software's Hunting Unlimited series.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6963, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/923966-hunt_unlim_3.jpg", 
+      "name": "Hunting Unlimited 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "You're the owner of your own trucking business and you answer to no one. Bid on jobs and show 'em you've got what it takes to deliver faster than your competition. Manage your money and your business, and build your shipping empire one delivery at a time.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6964, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1736239-2.jpg", 
+      "name": "18 Wheels of Steel: Across America", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "Prove your mettle as you grow your own trucking business. Can you stay in the black? Or will it be game over...", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6965, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/832859-hard_1.jpg", 
+      "name": "Hard Truck: 18 Wheels of Steel", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Hunting Unlimited is an animal hunting game with a focus on action and hunting skill. It is the first in SCS Software's hunting series.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6966, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/923994-huntunlim.jpg", 
+      "name": "Hunting Unlimited", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This is a first person hunting game, developed by SCS Software, that takes place underwater where you hunt various types of sharks, including the Great White Shark.", 
+      "developers": [
+        {
+          "id": 242, 
+          "name": "SCS Software"
+        }
+      ], 
+      "id": 6967, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/963184-s.jpg", 
+      "name": "Shark! Hunting the Great White", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A realistic combat flight simulator from Rise of Flight developers 777 Studios set over the city of Stalingrad during WWII.", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6969, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/2522243-il2_sturmovik+%286%29.jpg", 
+      "name": "IL-2 Sturmovik: Battle of Stalingrad", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konung III is a RPG, based on the Scandinavian, Byzantine, and Slavic mythology, the third game in the Konung series (Konung: Legends of the North and Konung 2: Blood of Titans). ", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6970, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56721/1412717-4847_konung3_packshot.jpg", 
+      "name": "Konung III: Ties of the Dynasty", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D role-playing game that takes place on a prison planet called Alcatraz.", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6971, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17724/1272175-dd_plaal.jpg", 
+      "name": "Planet Alcatraz", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion for Men Of War, a realistic WWII RTS, includes around 100 new units, and a new story campaign. ", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6972, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1334144-mow_rt.jpg", 
+      "name": "Men Of War: Red Tide", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The insane RPG is back in a better looking version.", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6973, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/462902-364.jpg", 
+      "name": "Dungeon Cleaners 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the Russian RPG Planet Alcatraz.", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6974, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/29/296625/2833625-3265658899-heade.jpg", 
+      "name": "Planet Alcatraz 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6975, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Vtoraya Mirovaya: Izdanie Vtoroe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Theatre Of War is a real-time tactical strategy game focusing on the European Theatre of World War II 1939\u20131945. There is another real time strategy game with the same name and a lawsuit actually came out of it, but it seems to have been dismissed.", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6976, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1550/268414-1178207755_theatre_of_war.jpg", 
+      "name": "Theatre of War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6977, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/463068-205.jpg", 
+      "name": "Dungeon Cleaners", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6978, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/531748-496_konung_2.jpg", 
+      "name": "Konung 2: Blood of Titans", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Can you deliver your cargo, safely and carefully, to become the ultimate Hard Trucker?", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6979, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8991/227738-hardtruck2cover.jpg", 
+      "name": "Hard Truck 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Legend of the North: Konung based on Slavic mythology and tells about the fate of the three princes in fairyland", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6980, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2173179-2170276_1056363787_00.jpg", 
+      "name": "Legend of the North: Konung", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A canceled pirate-themed action adventure game from Akella and 1C.", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6981, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/524980-920455_20080606_screen003.jpg", 
+      "name": "Age of Pirates: Captain Blood", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ashes of Victory is upcoming stand-alone expansion to Star Wolves 3.", 
+      "developers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ], 
+      "id": 6982, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/90792/1840777-swash.png", 
+      "name": "Star Wolves 3: Ashes of Victory", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Brute Force was a highly anticipated Xbox-exclusive shooter that was developed by Digital Anvil.", 
+      "developers": [
+        {
+          "id": 244, 
+          "name": "Digital Anvil"
+        }
+      ], 
+      "id": 6983, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199336-box_bforce.png", 
+      "name": "Brute Force", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free roaming space sim which puts you in the shoes of a down and out pilot, and then gives you the freedom to earn your riches by performing missions for the various factions, trading or simply shooting other ships and taking their cargo!", 
+      "developers": [
+        {
+          "id": 244, 
+          "name": "Digital Anvil"
+        }
+      ], 
+      "id": 6984, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/607661-freelancerbox.jpg", 
+      "name": "Freelancer", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Starlancer follows the story of an Alliance fighter pilot drafted into service after a surprise attack on the space station Fort Kennedy.  As part of the 45th Volunteers, you and the rest of your squadron fight in a war against the Coalition to reclaim lost territory.", 
+      "developers": [
+        {
+          "id": 244, 
+          "name": "Digital Anvil"
+        }
+      ], 
+      "id": 6985, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/951730-starlancer.jpg", 
+      "name": "StarLancer", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }, 
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 244, 
+          "name": "Digital Anvil"
+        }
+      ], 
+      "id": 6986, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Action Pack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 244, 
+          "name": "Digital Anvil"
+        }
+      ], 
+      "id": 6987, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Beast", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A roguelike for the PlayStation Vita by Matrix Software.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6988, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2771463-8991282144-c0.pn.jpg", 
+      "name": "Omega Labyrinth", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Final Fantasy Dimensions is a re-release of the 2010 Episodic mobile Role playing game, Final Final Fantasy Legends: Warriors of Light and Dark. It features classic 2D style graphics and a job system similar to Final Fantasy V and Final Fantasy III.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6989, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2231903-ffd.png", 
+      "name": "Final Fantasy Dimensions", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }
+  ]
+}

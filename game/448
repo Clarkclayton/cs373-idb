@@ -1,0 +1,1165 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22343, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "dreamstudio", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan only RPG-platformer for the Dreamcast. It is notable for its soundtrack by Yoko Kanno and the fact that the development team is made up entirely of women.", 
+      "developers": [], 
+      "id": 22344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2590043-untitled.png", 
+      "name": "Napple Tale: Arsia in Daydream", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Planet Harriers is a seated twin arcade cabinet in the Space Harrier franchise. Like its 1985 predecessor Space Harrier, Planet Harriers had the most technically advanced graphics of 2000, running on the Sega Hikaru arcade system board, which was very powerful (but very expensive) for its time.", 
+      "developers": [], 
+      "id": 22345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2983/244890-planetlogo.gif", 
+      "name": "Planet Harriers", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Typing of the Dead is an educational game that focuses on enhancing one's typing skills through the slaughter of the undead.", 
+      "developers": [], 
+      "id": 22346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1130044-gb.png", 
+      "name": "The Typing of the Dead", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213178-box_segagt.png", 
+      "name": "Sega GT", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Giant Gram 2000\" is the third game in the All Japan Pro Wrestling series that was only available in Japan. Giant Gram features a mixture of legends and wrestlers from the All Japan promotion.", 
+      "developers": [], 
+      "id": 22348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8701/376057-5927132_dcgiantgram2000.jpg", 
+      "name": "Giant Gram 2000: All Japan Pro Wrestling 3", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22349, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/402847-wsb2k1.jpg", 
+      "name": "World Series Baseball 2K1", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Virtua Tennis is the first game in Sega's arcade tennis franchise.", 
+      "developers": [], 
+      "id": 22350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18205/611810-vtendc0f.jpg", 
+      "name": "Virtua Tennis", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade exclusive, Hikaru hardware based racing game inspired by Star Wars Episode I: The Phantom Menace.", 
+      "developers": [], 
+      "id": 22351, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/1077684-16427401.jpg", 
+      "name": "Star Wars: Racer Arcade", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based strategy game for the Dreamcast. Part of the long-running Daisenryaku franchise.", 
+      "developers": [], 
+      "id": 22352, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/2702550-39644_front.jpg", 
+      "name": "Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighting game featuring giant robots and full 3D movement.", 
+      "developers": [], 
+      "id": 22353, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/899899-cyber_troopers_virtual_on_oratorio_tangram_coverart.png", 
+      "name": "Cyber Troopers Virtual-On: Oratorio Tangram", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22354, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/277135-undercover_ad2025.jpg", 
+      "name": "Undercover AD2025 Kei", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game where you take control of god and play mind games on a Japanese school boy living alone in his apartment.", 
+      "developers": [], 
+      "id": 22355, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11099/376642-roommania203.jpg", 
+      "name": "Roommania #203", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the original Hanagumi Taisen Columns, which is a spinoff of the Sakura Taisen and Columns series.", 
+      "developers": [], 
+      "id": 22356, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1841965-box.jpg", 
+      "name": "Hanagumi Taisen Columns 2", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade semi-truck racing game, 18 Wheeler's success brought console ports and an eventual spiritual successor.", 
+      "developers": [], 
+      "id": 22357, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14811/382216-18_wheeler.jpg", 
+      "name": "Eighteen Wheeler: American Pro Trucker", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lasso animals to rescue them in this driving game from Sega.", 
+      "developers": [], 
+      "id": 22358, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1030450-jambocab.jpeg", 
+      "name": "Jambo! Safari", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Attempt to clear the board in this tile-matching game.", 
+      "developers": [], 
+      "id": 22359, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/404973-sega_swirl.jpg", 
+      "name": "Sega Swirl", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zombie Revenge is a beat 'em up action game for the Sega Dreamcast.", 
+      "developers": [], 
+      "id": 22360, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1790027-box_zombrev.png", 
+      "name": "Zombie Revenge", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game set in 1980s Japan, following a young man's search for answers about his father's murder. Written, produced and directed by Yu Suzuki, the game was critically lauded for its ambitious scale; it pioneered features like urban sandbox gameplay, interactive environments, real-time weather, and QTEs.", 
+      "developers": [], 
+      "id": 22361, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/779040-shenmuepackfrnt.jpg", 
+      "name": "Shenmue", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22362, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6529/465272-max_impact.jpg", 
+      "name": "Godzilla Generations: Maximum Impact", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An accessible online first-person shooter, Outtrigger was released in the arcades in 1999 and released right with the Dreamcast's ultimate demise in 2001. The game featured a multiplayer mode that performed surprisingly well whether you were on broadband or dial-up.", 
+      "developers": [], 
+      "id": 22363, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/811198-366267_50642_front.jpg", 
+      "name": "Outtrigger", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.", 
+      "developers": [], 
+      "id": 22364, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/775366-sega_rally2_cover.jpg", 
+      "name": "Sega Rally 2", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A snowboarding title released for the Dreamcast in 1999", 
+      "developers": [], 
+      "id": 22365, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1032707-198481_50448_front.jpg", 
+      "name": "Rippin' Riders", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A third-person vehicular-based shooter where the player assumes control of toys such as tanks, planes, helicopters, or one of many wheeled vehicles.", 
+      "developers": [], 
+      "id": 22366, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/784037-toycommander_front.png", 
+      "name": "Toy Commander", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Awakening shipwrecked just after a meteor collides with a remote biotech research island, you begin to discover an uncontrollable madness unleashed in the meteor's wake. As one secret uncovers another, you piece together a horrifying revelation that could lead to the end of life on Earth.", 
+      "developers": [], 
+      "id": 22367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1135548-bs2.jpg", 
+      "name": "Blue Stinger", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A demo disc that featured a short playable story where Ryo is tracking down Sega's Senior Managing Director, Hidekazu Yukawa.", 
+      "developers": [], 
+      "id": 22368, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2759933-what%27s.jpg", 
+      "name": "What's Shenmue", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "F355 Challenge is a realistic racing sim developed by SEGA-AM2. It originally appeared in arcades in 1999, and soon after was ported to the Dreamcast and later to the PS2.", 
+      "developers": [], 
+      "id": 22369, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/775259-f355_cover.jpg", 
+      "name": "F355 Challenge: Passione Rossa", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega arcade game that uses a light-gun controller shaped like a fire hose. The debut title for the Sega Hikaru arcade system in 1999, it had the most technically advanced graphics of its time. It was the first game with Phong shading, the most common shading technique today, and it had the most advanced lighting and particle effects of its time.", 
+      "developers": [], 
+      "id": 22370, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1027862-bravefire.jpg", 
+      "name": "Brave Firefighters", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega Sports: Flag to Flag is a racing game for the Dreamcast licensed by the CART racing league.", 
+      "developers": [], 
+      "id": 22371, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/404711-cartus.jpg", 
+      "name": "CART: Flag to Flag", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega's Ski Champ is an arcade downhill skiing game released in 1998 that runs on Sega Model 3 hardware and features a stand-up cabinet that simulates real skiing motions.", 
+      "developers": [], 
+      "id": 22372, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/2589884-3090247152-08012.jpg", 
+      "name": "Ski Champ", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22373, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/279564-elandoree.jpg", 
+      "name": "Elan Doree", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the film", 
+      "developers": [], 
+      "id": 22374, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354307-lostf.jpg", 
+      "name": "Lost In Space", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A light gun shooter arcade game from Sega circa 1998.", 
+      "developers": [], 
+      "id": 22375, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12222/1323207-temp.jpg", 
+      "name": "The Ocean Hunter", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22376, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/2005764-fatal.jpg", 
+      "name": "Fatal Abyss", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first in the Godzilla Generations series for the Dreamcast. A Japan-only release, players could take control of favorite monsters to destroy famous Japanese cities, such as Osaka and Nagoya among others.", 
+      "developers": [], 
+      "id": 22377, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6529/465054-godzilla_generations.jpg", 
+      "name": "Godzilla Generations", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Yoot Tower is the follow up, but not direct sequel, to SimTower and was developed by creator Yoot Saito. In December 2010, it was released for the iPad.", 
+      "developers": [], 
+      "id": 22378, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1683986-89b0_32.jpg", 
+      "name": "Yoot Tower", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grab your rocket sled and come inside the arena, where you can play Rocket Ball, Rocket Race, or Rocket War.  As fun as it is dangerous, and it's incredibly dangerous.", 
+      "developers": [], 
+      "id": 22379, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14982/915204-rocketjockeybox.jpg", 
+      "name": "Rocket Jockey", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D on rails arcade game never released to home consoles. Reproduced iconic scenes from the original trilogy.", 
+      "developers": [], 
+      "id": 22380, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11484/237103-1181242172216.jpg", 
+      "name": "Star Wars Trilogy Arcade", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A survival horror title similar to Resident Evil created by Sega for the Sega Saturn. It was never released in the US and was the last Saturn title to be released in Europe.", 
+      "developers": [], 
+      "id": 22381, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/778243-deepfear_front.png", 
+      "name": "Deep Fear", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Daytona USA 2 is the arcade sequel to 1994's Daytona USA. Two versions were released; Daytona USA 2: Battle on the Edge in May 1998 and Daytona USA 2: Power Edition in December 1998.", 
+      "developers": [], 
+      "id": 22382, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2591480-16020401.jpg", 
+      "name": "Daytona USA 2", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released at the end of the Saturn's lifespan, this acclaimed RPG is also the only RPG in the Panzer Dragoon series. With a malevolent empire stretching across the land, a mysterious dragon and a soldier embark on a journey to uncover the secret of an ancient civilization and find the truth behind man's shallow ambitions.", 
+      "developers": [], 
+      "id": 22383, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2160114-box_pds.png", 
+      "name": "Panzer Dragoon Saga", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22384, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/839583-fighting_vipers_2.378312.jpg", 
+      "name": "Fighting Vipers 2", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Sequel to the original Sakura Taisen, taking place one year later.", 
+      "developers": [], 
+      "id": 22385, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1658055-sakura_taisen_2_box_front.jpg", 
+      "name": "Sakura Taisen 2: Kimi, Shinitamou koto Nakare", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Turn-based strategy game developed by SystemSoft in 1998.", 
+      "developers": [], 
+      "id": 22386, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/2702593-2989202945-AD98_.jpg", 
+      "name": "Advanced Daisenryaku 98: Storm Over Europe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the Sega Saturn's second entry in the World Series Baseball series.", 
+      "developers": [], 
+      "id": 22387, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "World Series Baseball II", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation disc for the Saturn, featuring three of the most popular Sega arcade games of the 80s", 
+      "developers": [], 
+      "id": 22388, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2390705-segaages.jpeg", 
+      "name": "Sega Ages", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22389, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1496912-41d79a449fl._sl500_aa300_.jpg", 
+      "name": "Lose Your Marbles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Heat up your Winter with Winter Heat, the chilly sports arcade sequel to 1996's Decathlete. ", 
+      "developers": [], 
+      "id": 22390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34651/1218296-0winterheat.jpg", 
+      "name": "Winter Heat", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1997 for the Sega Saturn.", 
+      "developers": [], 
+      "id": 22391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2239805-j_league_pro_soccer_club_o_tsukurou__2.jpg", 
+      "name": "J-League Pro Soccer Club o Tsukurou! 2", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Sakura Taisen fan disc that contains several short scenarios, music from the stage plays, and a preview for the upcoming sequel.", 
+      "developers": [], 
+      "id": 22392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2548134-untitled.png", 
+      "name": "Sakura Taisen Steam Radio Show", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }
+  ]
+}

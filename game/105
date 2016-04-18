@@ -1,0 +1,1763 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2368431-box_rpf.png", 
+      "name": "Rapala Pro Fishing", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror-themed first person shooter for the Nokia N-Gage", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15035/711757-ashen.jpg", 
+      "name": "Ashen", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797990-box_pitfalltle.png", 
+      "name": "Pitfall: The Lost Expedition", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840206-914523_front.jpg", 
+      "name": "Grand Prix Challenge", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1982783-box_mtiim.png", 
+      "name": "The Invincible Iron Man", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow the story of John Anderton in this action game loosely based on the events of the feature film.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285673-box_mrer.png", 
+      "name": "Minority Report: Everybody Runs", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/706311-578867_49734_front.jpg", 
+      "name": "Backyard Football", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dead to Rights is an action game by Namco that puts you in the shoes of Jack Slate, a fugitive cop who's been framed for murder.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428392-box_dtr.png", 
+      "name": "Dead to Rights", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person shooter for Game Boy Advance that is similar to Duke Nukem 3D.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114371-box_dna.png", 
+      "name": "Duke Nukem Advance", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game sequel to the original Planet of the Apes film starring Charlton Heston. Despite sharing the same cover as the game on PlayStation/PC, it is a completely different game with a different story and cast of characters.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34651/1226722-0gameboy.jpg", 
+      "name": "Planet of the Apes", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jackie Chan Adventures: Legend of the Dark Hand ", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7504/820904-481297_50905_front.jpg", 
+      "name": "Jackie Chan Adventures: Legend of the Dark Hand", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Max Steel goes Covert-Opp's to find out the location of Dread.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1030059-914325_47404_front.jpg", 
+      "name": "Max Steel: Covert Missions", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A side-scrolling action game that incorporates many aspects of the Spider-Man world.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1982786-box_sman2tss.png", 
+      "name": "Spider-Man 2: The Sinister Six", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to NBA Showtime: NBA on NBC that introduced a 3-on-3 format to the ubiquitous NBA Jam formula of Midway basketball games.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811136-box_nbahoopz.png", 
+      "name": "NBA Hoopz", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Disney's the Lion King: Simba's Mighty Adventure is a game based on the Lion King movie for the Playstation and Game Boy Color.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285732-box_tlksma.png", 
+      "name": "Disney's the Lion King: Simba's Mighty Adventure", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "To escape a nuclear wasteland, players take their car of choice and destroy anything in their path, be it other vehicles, buildings, or even zombie pedestrians. The game has high quality damage modeling for its time but was criticized for the strict time limit imposed on most levels.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2593/1022350-tdrbox.jpg", 
+      "name": "Carmageddon TDR 2000", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 482, 
+          "name": "SCi Games Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Test Drive: Le Mans puts you behind the wheel of real-life racing machines and lets you tackle the legendary \"24 Hours of Le Mans\" race.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18205/611796-24hmdc0f.jpg", 
+      "name": "Test Drive: Le Mans", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game featuring only Australian vehicles and tracks.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174044/2719823-0670005454-IBMDJ.gif", 
+      "name": "Dick Johnson V8 Challenge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Hello Kitty-themed puzzle game for the PlayStation.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/36102/1696172-2.jpg", 
+      "name": "Hello Kitty's Cube Frenzy", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Hello Kitty brick game for the GBC and PlayStation. Blocks fall from the sky Tetris-style, but these are used to build steps for Kitty to advance.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/105947/1519987-hello_kitty_s_cube_frenzy.jpg", 
+      "name": "Hello Kitty's Cube Frenzy", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Showtime is an arcade-style basketball game from the developers of NBA Jam and NBA Hangtime.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811156-box_nbast.png", 
+      "name": "NBA Showtime: NBA on NBC", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Action hero Duke Nukem returns to his platforming roots for the Game Boy Color remake of the original Duke Nukem II.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114372-box_dngbc.png", 
+      "name": "Duke Nukem", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Jam '99 is an arcade basketball game for the Nintendo 64 and Game Boy Color, developed by Iguana UK.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2700192-nba+jam+99+us+n64+cover+front.jpg", 
+      "name": "NBA Jam 99", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Welcome to Predators' Paradise.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285733-box_tlwjp.png", 
+      "name": "The Lost World: Jurassic Park", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 64, 
+          "name": "Game.Com", 
+          "short": "GCOM"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A DOS racing game based on the Australian Touring Car Championship.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2598037-touring+car+champions+cover.png", 
+      "name": "Touring Car Champions", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Star Wars: Yoda Stories is an adventure game in which the player assumes control of a young Luke Skywalker and sticks out his lightsaber to adjacent cells.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/898127-39287_50114_front.jpg", 
+      "name": "Star Wars: Yoda Stories", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game Boy game based on the 1996 film.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2407358-2407357-dragonheartgb.jpg", 
+      "name": "DragonHeart", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "College Slam is an updated version of NBA Jam; a 2 Vs. 2 basketball game.  The game has 40 college teams and adds power-ups to Acclaim's arcade basketball games.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811121-box_cslam.png", 
+      "name": "College Slam", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Stargate is loosely based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4086/226129-boxart.jpg", 
+      "name": "Stargate", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "After the events of Doom, Hell has found its way to Earth. The last living scientists develop a plan to evacuate what's remaining of the human race with enormous space ships. Unfortunately, the Demons have taken control of the only spaceport, and it's up to the protagonist to take it back.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2353149-untitled.png", 
+      "name": "Doom II: Hell on Earth", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 54, 
+          "name": "Zodiac", 
+          "short": "ZOD"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 269, 
+          "name": "id Software"
+        }, 
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Help Beavis and Butt-head find tickets to attend the GWAR concert. The SNES version is a straight platformer, while the Genesis version more closely resembles a PC adventure game with some platforming and action elements.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369735-genesis_beavisandbutthead_cropped.jpg", 
+      "name": "Beavis and Butt-head", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Jam Tournament Edition is a two-on-two Arcade basketball game, adding updated rosters and new game modes to the original.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1535207-nbajamte_box.png", 
+      "name": "NBA Jam Tournament Edition", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Space Invaders, released in arcades by Taito in 1978, is one of the most influential and successful video games of all time, laying the foundations for most shooters and action games that followed. It revolutionized the game industry and has become a pop culture icon.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2602658-28031001.jpg", 
+      "name": "Space Invaders", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A point-and-click adventure game set in a post-cataclysmic world, wherein a woman discovers a terrible secret held by the omnipotent government.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/27/275424/2752201-7543668315-SL-ba.jpg", 
+      "name": "Shardlight", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Technobabylon is a cyberpunk point-and-click adventure game by Technocrat and Wadjet Eye. The game is set in 2087, in a world of surveillance, drugs and artificial intelligence.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2747825-8893086082-heade.jpg", 
+      "name": "Technobabylon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth and final point-and-click adventure game in the Blackwell Saga. Developed by independent game studio Wadjet Eye Games.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/156597/2609796-7446158402-BE-we.png", 
+      "name": "Blackwell Epiphany", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth entry into the Blackwell adventure franchise.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/99794/2020327-bd_poster.jpg", 
+      "name": "Blackwell Deception", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Blackwell adventure game series.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/835550-blackwellconvergencecover.jpg", 
+      "name": "The Blackwell Convergence", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }, 
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": " A mystery in the land of Oz.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2240235-untitled.png", 
+      "name": "Emerald City Confidential", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Blackwell Unbound is a prequel to The Blackwell Legacy adventure game and is the second game in the Blackwell series. Set in 1973, medium Lauren Blackwell (Rosangela's aunt) along with spirit guide Joey Mallone, help ghosts achieve closure and \"move on\" from the mortal world, leading to a larger mystery.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/835504-blackwellunboundcover.jpg", 
+      "name": "Blackwell Unbound", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Blackwell Legacy stars Rosangela Blackwell as she dives into her recently deceased aunt's old life and aids some ghosts back to the other side with the help of Joey, a family spirit guide.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/835461-blackwelllegacycover.jpg", 
+      "name": "The Blackwell Legacy", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Rabbinically themed point-and-click adventure, the first from Dave Gilbert and Wadjet Eye Games.", 
+      "developers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ], 
+      "id": 5232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2240237-s.png", 
+      "name": "The Shivah", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pair up as Captain Kirk or Commander Spock in this co-operative based third-person shooter set after the events of the 2009 film.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2437074-box_startrek.png", 
+      "name": "Star Trek: The Video Game", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play, third-person action shooter developed by Digital Extremes.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5234, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2578175-box_warframe.png", 
+      "name": "Warframe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ]
+    }, 
+    {
+      "deck": "Return to the dark life of Jackie Estacado in The Darkness II, Digital Extremes' sequel to the 2007 shooter by Starbreeze.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20506/1775662-220514_220273611317105_196621523682314_944408_7166015_o.jpg", 
+      "name": "The Darkness II", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "By the year 2027, the North Koreans have managed to unify Korea, annex Japan, and also invade the western half of the United States. As an American rebel fighter, it is the player's duty to help push the NPA out of the United States and end the citizens' suffering.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1974394-box_hfront.png", 
+      "name": "Homefront", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ten years after the events of the first game, Subject Delta is awoken and must unravel the mystery behind the Big Sisters and his own past in the ruined underwater city of Rapture.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2584143-bioshock2.jpg", 
+      "name": "BioShock 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Use your glaive to chop off your enemies' heads in this third-person action-shooter from D3 and Digital Extremes.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5238, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/824169-dark_sector_cover.jpg", 
+      "name": "Dark Sector", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Battle for the Kaladi System is about to go underway, three races will fight for the planet`s abudant and rare resources.  An arsenal of upgradeable weapons await you in this multiplayer shooter.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5239, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2472257-box_warpath.png", 
+      "name": "WarPath", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Unreal Tournament 2004 is a fast-paced arena-based shooter and enhanced version of Unreal Tournament 2003, adding a slew of new content including vehicular combat and the return of the mission-based Assault game mode.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5240, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837522-box_ut2k4.png", 
+      "name": "Unreal Tournament 2004", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

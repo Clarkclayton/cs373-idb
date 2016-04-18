@@ -1,0 +1,1364 @@
+{
+  "games": [
+    {
+      "deck": "Tear up another creature's insides in this WP7 release.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193506-box_tentacles.png", 
+      "name": "Tentacles", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Beards and Beaks is an action/strategy game for Windows Phone 7.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1846528-bb.png", 
+      "name": "Beards & Beaks", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take on the internet in this free massively multiplayer online Boggle clone for Windows Phone, Windows 8 and as of December 21, 2012 Iphone.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2314088-box_wordament.png", 
+      "name": "Wordament", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Full House Poker is a Texas hold'em poker game for the Xbox 360 and Windows Phone 7 featuring avatars, cross-platform persistent stats, online multiplayer for up to 10 players at a table, and a live prime time show.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7340, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1676358-box_fhpoker.png", 
+      "name": "Full House Poker", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Xbox Live Labs was an optional, downloadable application that performed network tests to gather data and improve Xbox Live.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2164/1729611-xbox_live_labs.png", 
+      "name": "Xbox Live Labs", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players set things ablaze in this game for Windows Phone 7.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2270781-box_bia.png", 
+      "name": "Burn It All!", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game Chest: Logic Games is a set of three different games: Chess, Sudoku, and Minesweeper.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7343, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1789981-game_chest__logic_games4070.png", 
+      "name": "Game Chest: Logic Games", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Interface with Bing's mapping feature to create levels for this mobile Crackdown game.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8253/1691198-ba_project_sunburst.png", 
+      "name": "Crackdown 2: Project Sunburst", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Revenants is a action puzzle game from Chaotic Moon.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1789994-the_revenants___corridor_of_souls___1801.png", 
+      "name": "The Revenants: Corridor of Souls", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Science fiction themed RPG for Windows Phone and Windows 8.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481856-box_harvest.png", 
+      "name": "The Harvest", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Max and the Magic Marker is a side-scrolling puzzle-platformer in which players control Max through a series of levels while also using the magical marker to create platforms, stairs and shields for Max to use.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1899/1155545-maxposter.jpg", 
+      "name": "Max and the Magic Marker", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kodu is a game-creating game for the Xbox 360 from Microsoft.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/855736-koduz.jpg", 
+      "name": "Kodu Game Lab", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Can one Xbox Avatar outlast a mob of 100 other Avatars in trivia? Compete against other players (as either The One, one of The Mob, or a bystander in The Crowd) on Xbox Live in this interactive trivia game based on the TV game show.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7349, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1047231-gb.png", 
+      "name": "1 vs 100", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first official expansion pack offered for Microsoft Flight SImulator X, The Acceleration Expansion Pack adds new aircraft, scenery and missions.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4859/228336-acceleration_box.jpg", 
+      "name": "Microsoft Flight Simulator X: Acceleration", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spyglass Board Games is a complilation of Chess, Checkers, Mancala and Reversi.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7351, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860124-box_sgbg.png", 
+      "name": "Spyglass Board Games", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Microsoft's Flight Simulator X is the 2006 installment in the \"Flight Simulator\" series. Featuring many updates from its predecessors, it is the first Microsoft Flight Simulator game to be DX10 enabled.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7352, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2151655-box_mfsx.png", 
+      "name": "Microsoft Flight Simulator X", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "InkBall is a game that comes with Windows Vista and Windows XP Tablet Edition 2005.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7353, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2591948-inkball+logo.png", 
+      "name": "InkBall", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Now a classic in the flight simulator world, but still highly respected. Flight Simulator 2004 focuses on the aviation achievments from the Wright Brothers plane to the Boeing 747.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7357, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6017/214185-2fs5.jpg", 
+      "name": "Microsoft Flight Simulator 2004: A Century of Flight", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as your favorite MLB teams in this Xbox game! Featuring online play!", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7358, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276001-box_ip03.png", 
+      "name": "Inside Pitch 2003", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Microsoft Combat Flight Simulator 3 features numerous authentic WWII fighters and bombers as well as a dynamic campaign.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7359, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/124786/1713189-3r5r.jpeg", 
+      "name": "Microsoft Combat Flight Simulator 3: Battle For Europe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2003 version of the best-selling golf simulator of all-time", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7360, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1861092-links.jpg", 
+      "name": "Links 2003", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7361, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1835882-links.jpg", 
+      "name": "Links 2003: Championship Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Xbox exclusive NFL game developed by Microsoft Game Studios.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7362, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2251176-box_nflf03.png", 
+      "name": "NFL Fever 2003", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is Microsoft's first foray into console football gaming.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7363, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2251175-box_nflf02.png", 
+      "name": "NFL Fever 2002", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Microsoft Flight Simulator 2002 is an entry in the popular flight sim franchise.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7364, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1295773-simulator.jpg", 
+      "name": "Microsoft Flight Simulator 2002", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7365, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2266622-lceboxart.jpg", 
+      "name": "Links Championship Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7366, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18575/1108160-combat_flight_simulator_2_ww_ii_pacific_theater.jpg", 
+      "name": "Microsoft Combat Flight Simulator 2: WW II Pacific Theater", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "NFL Fever 2000 is an football sim developed by Microsoft Game Studios", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1026267-img197__42609.jpg", 
+      "name": "NFL Fever 2000", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Microsoft Flight Simulator 2000 is the seventh installment in the Flight Simulator series.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7368, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1506/694943-177076_41580_front.jpg", 
+      "name": "Microsoft Flight Simulator 2000", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rampage through downtown Chicago with one of several licensed vehicles in checkpoint races and time trials.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7369, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/882693-midmadcover.jpg", 
+      "name": "Midtown Madness", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Combat Flight Simulator: WWII edition is developed by Microsoft and offers a simulation of the Air Forces aspect of the Second World War.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7370, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30446/1147954-56582_41429_front.jpg", 
+      "name": "Microsoft Combat Flight Simulator: WWII Europe Series", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7371, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Revenge of Arcade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Full Court Press is a simulation-style basketball game developed by Microsoft Game Studios and Krome Studios Melbourne and Published by Microsoft Game Studios for the PC.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7372, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/140/674652-73_8.jpg", 
+      "name": "NBA Full Court Press", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7373, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5230/286569-fs985.jpg", 
+      "name": "Microsoft Flight Simulator 98", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Microsoft Entertainment Pack: The Puzzle Collection is a collection of 10 puzzle computer games developed by Mir - Dialogue and published by Microsoft Games. The creator of Tetris, Alexey Pajitnov, designed some of the games featured in the pack. It was released on CD-ROM for Windows 95. It was also bundled as part of the Microsoft Plus! Game Pack which was released after Windows Me.\n\nA version was made for the Game Boy Color. It features six of the games from the PC version; Fringer, Charmer, Mixed Genetic", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7374, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Entertainment Pack: The Puzzle Collection", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The only first-party expansion pack for Flight Simulator 95, adding scenery and missions for Southern California.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7375, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174044/2606113-2606112-%2524_3z.jpg", 
+      "name": "Expansion Pack for Microsoft Flight Simulator for Windows 95", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Create your own 3D movies with characters from Rocko's Modern Life, Ren and Stimpy, and Aaahh! Real Monsters.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7376, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174460/2532543-9486739640-HXCD3.jpg", 
+      "name": "Nickelodeon 3D Movie Maker", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first MS Flight Simulator to run natively on Windows.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7377, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103922/1522354-msfs95boxart.jpg", 
+      "name": "Microsoft Flight Simulator for Windows 95", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A follow up release to Microsoft Arcade that contains the following game compilation: Pac-Man, Dig Dug, Galaxian, and Pole Position.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7378, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2587176-g07652dwwfj.jpg", 
+      "name": "Microsoft Return of Arcade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "As the director, you call the shots and create your vision.  Explore the studio and make the movies in 3D Movie Maker.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7379, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5586/227784-3d_movie_maker.gif", 
+      "name": "3D Movie Maker", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hovercraft \"capture the flag\" style game that came on the Windows 95 operating systems CD.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7380, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5303/1303028-hover.png", 
+      "name": "Hover!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ms. Frizzle plays hide-and-seek across all nine planets, leaving the class to drive the bus and explore the solar system.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7381, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/1133338-magic_bus.jpg", 
+      "name": "The Magic School Bus Explores the Solar System", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7382, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2268814-mfs_v5.0_boxart.jpg", 
+      "name": "Microsoft Flight Simulator (v5.0)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hearts is a game included with Microsoft Windows software. It is a card game involving you against three other opponents.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7383, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2674225-6375673746-Heart.jpg", 
+      "name": "Hearts", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Qbasic Gorillas is a simple game that is similar to Scorched Earth. There are two gorillas on opposite sides of a city skyline. Each gorilla takes turns throwing atomic bananas at each other. The first gorilla to blow up the other one wins.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7384, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/70437/1536113-gorillas.gif", 
+      "name": "QBasic Gorillas", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "SkiFree is a popular game created in the early 90s in which players ski down an endless ski slope while attempting to avoid obstacles and earn points until inevitably being chased by yetis.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7385, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10759/241907-skifree_yeti.png", 
+      "name": "SkiFree", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nibbles is a PC game variant of the \"Snake\" type games that became popular in arcades in the mid 1970's.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7386, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/70437/1536111-nibbles_1.jpg", 
+      "name": "Nibbles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side scrolling shooter for the PC-Engine CD Rom format.  Developed and published in Japan in 1991.", 
+      "developers": [
+        {
+          "id": 260, 
+          "name": "Datawest"
+        }
+      ], 
+      "id": 7423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1842535-boxii.jpg", 
+      "name": "Rayxanber II", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 260, 
+          "name": "Datawest"
+        }
+      ]
+    }, 
+    {
+      "deck": "Well known for appearing in Windows operating systems, this puzzle game requires you to clear out all of the mines from a board. Clones of the game are available for many operating systems.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7387, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2306246-minesweeperpromoimage_558x756.png", 
+      "name": "Minesweeper", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the long running series to carry the Microsoft Flight Simulator brand.", 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7388, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1763881-giant_bomb_sub_3.jpg", 
+      "name": "Microsoft Flight Simulator (v1.0)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }
+  ]
+}

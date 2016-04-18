@@ -1,0 +1,1374 @@
+{
+  "games": [
+    {
+      "deck": "Fire Emblem Fates is the second game in the series to be released on 3DS and the fourteenth overall. It is split into three separate campaigns based around the player choosing sides in a war between two nations.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2822284-fefbc.jpg", 
+      "name": "Fire Emblem Fates", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stretchmo (HikuDasu: Hippa Land in Japan, Fullblox in PAL regions) is a free-to-start entry in the Pushmo-series that introduces enemy characters and expanding platforms into the mix. Players have to purchase additional levels past the tutorial.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2749880-7974199597-zlCfzTWFM-or1oM42w", 
+      "name": "Stretchmo", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based tactics game with a third person view. It is set in a steampunk world with an art style inspired by comic books. Players control a strike force called S.T.E.A.M., created by Abraham Lincoln, to fend off an alien invasion.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2644722-steam.jpg", 
+      "name": "Code Name: S.T.E.A.M.", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pushmo/Pullblox World again has Mallo solve push and pull-based block puzzles to save the children, this time on Wii U with new mechanics and cross-platform level sharing with Pushmo on 3DS as well as Miiverse integration.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2637860-pushmo_world_logo.jpg", 
+      "name": "Pushmo World", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A music game for 3DS in the Jam With The Band/Daigasso! Band Brothers series.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2558298-dbbpclean.jpg", 
+      "name": "Daigasso! Band Brothers P", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Wii U launch window release, switching rapid-fire WarioWare microgames for a more traditional minigame format.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2474463-gnwcroppedclean.jpg", 
+      "name": "Game & Wario", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crashmo, also known as Fallblox, is the sequel to Pushmo and is available for the 3DS eShop.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2374046-crashmo2.jpg", 
+      "name": "Crashmo", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A very very very light RPG with the Paper Mario brand on it.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2338170-8054165432_e127819445_o.png", 
+      "name": "Paper Mario: Sticker Star", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The thirteenth game in the Fire Emblem series and the first for the 3DS. Conceived as a \"greatest hits\" of previous Fire Emblem ideas, it features a mix of new mechanics and older gameplay concepts.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2581575-fea.jpg", 
+      "name": "Fire Emblem: Awakening", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pushmo is a cute push and pull block puzzle game developed by Intelligent Systems for the eShop on the 3DS.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2115984-13240252301.gif", 
+      "name": "Pushmo", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Quest Collection 25th Anniversary features Dragon Quest 1,2 and 3 in the original format seen on the original Nintendo Entertainment System. It also features the Dragon Quest 1 &amp; 2 Super NES remake in addition to the Super NES remake of Dragon Quest 3.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2551528-untitled.png", 
+      "name": "Dragon Quest Collection 25th Anniversary", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 12th game in the Fire Emblem series and a remake of Fire Emblem: Monsho no Nazo, released only in Japan for the DS. It is the first Fire Emblem game since the series' international debut to not be released in territories outside of Japan.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2832025-fenewemblem.jpg", 
+      "name": "Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The WiiWare counterpart to WarioWare D.I.Y. for DS. Includes exclusive microgames, music and comics and can exchange content with the DS version. A basic multiplayer mode is also available.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2104/1283329-diyshowcase_logo.jpg", 
+      "name": "WarioWare D.I.Y. Showcase", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "WarioWare D.I.Y. is a Nintendo DS game that gives players all the tools they need to create their own microgames, comics and music tracks from scratch and share them with other players.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1887917-box_wwdiy.png", 
+      "name": "WarioWare D.I.Y.", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The page is about Spotto! for the DSi Ware Service.  A game where you help the world\u2019s foremost Bombirdier, throw bombs at ghosts.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1797358-spott.jpg", 
+      "name": "Spotto!", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Puzzle game for DSiWare where you have to connect fuel pipes to launch a rocket into space.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1703686-cover_medium.jpg", 
+      "name": "Link 'n' Launch", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An on rails first person shooter for Wiiware developed by INTELLIGENT SYSTEMS under supervision of Kensuke Tanabe who's known for Metroid Prime.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1256663-ecoshooter.jpg", 
+      "name": "Eco Shooter: Plant 530", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tactical role-playing game based in the Dragon Quest universe. Exclusive for DSiWare, Dragon Quest Wars was developed by Intelligent Systems and published by Square Enix.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1028008-dqw01.jpg", 
+      "name": "Dragon Quest Wars", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A downloadable WarioWare game for the DSi which lets the player use the camera to play a variety of absurd microgames.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2104/940154-wws_logo.jpg", 
+      "name": "WarioWare: Snapped!", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The original Fire Emblem is remade and released for territories outside Japan with enhanced graphics, updated gameplay, and Wi-Fi Connectivity.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2825080-fesd.jpg", 
+      "name": "Fire Emblem: Shadow Dragon", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Advance Wars: Days of Ruin is a turn based strategy game in the long running Nintendo Wars series. It features a much darker story and art style than the previous games; as well as online play.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841699-box_awarsdor.png", 
+      "name": "Advance Wars: Days of Ruin", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/321296-kbchds.png", 
+      "name": "Kousoku Card Battle: Card Hero", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fire Emblem: Radiant Dawn is the tenth game in the series and marks the franchises first appearance on the Nintendo Wii. It's the sequel to the Gamecube game, Fire Emblem: Path of Radiance.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2103131-box_ferd.png", 
+      "name": "Fire Emblem: Radiant Dawn", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Exercises from Fomiko Inudo to relax and strengthen your facial muscles. Or learn to look even less stressed in only a few steps. The game utilizes a camera to mirror the user's face.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2681035-ftb.jpg", 
+      "name": "Face Training", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Planet Puzzle League is the next installment in the Puzzle League series for the Nintendo DS that brings the series online for the first time.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/781883-planet_puzzle_league_ds.jpg", 
+      "name": "Planet Puzzle League", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "As the Dark Prognosticus foretold, Mario travels to faraway lands to put a stop to the nefarious Count Bleck.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2636014-spmclean.jpg", 
+      "name": "Super Paper Mario", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Smooth Moves is the fifth WarioWare game, continuing the franchise tradition of packing dozens of microgames into a single package.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1891364-box_wwaresm.png", 
+      "name": "WarioWare: Smooth Moves", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fire Emblem: Path of Radiance serves as the first incarnation of the Fire Emblem franchise to embrace the realm of the third dimension while continuing the series' focus on turn based combat in a medieval setting.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2103130-box_fepor.png", 
+      "name": "Fire Emblem: Path of Radiance", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation cartridge which contains versions of both Dr. Mario and Tetris Attack.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2618474-4888354683-70515.jpg", 
+      "name": "Dr. Mario & Puzzle League", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Advance Wars game for the Nintendo DS brings dual COs, battle modes and seven new units into the mix.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2830784-awds.jpg", 
+      "name": "Advance Wars: Dual Strike", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Twisted! takes WarioWare's microgames and turns them on their side by including a tilt sensor and rumble pack, raising an innovative series to new levels of ridiculous with another 200  microgames.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/607839-warioware_i_6174.jpg", 
+      "name": "WarioWare Twisted!", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mahjong game featuring various characters from the Mario series.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/79739/1293915-200px_924913_59686_front.jpg", 
+      "name": "Yakuman DS", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "WarioWare: Touched is a Nintendo DS game that fully utilizes the touch screen and microphone to create around 200 crazy new microgames.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1891365-box_wwaret.png", 
+      "name": "WarioWare: Touched!", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-exclusive compilation of Advance Wars 1 and 2 which were originally never released in Japan as separate games despite the Nintendo Wars series originating in Japan and not releasing in the west until Advance Wars. It was first re-released on the Wii U Virtual Console as part of the Game Boy Advance support launch in April 2014 in Japan.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2613221-63904_front.jpg", 
+      "name": "Game Boy Wars Advance 1+2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "In his second paper-themed adventure, Mario must once again rescue the captured princess while he foils the X-Nauts' plans. The Thousand-Year Door features a turn-based battle system with real-time elements.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2108509-box_pmttyd.png", 
+      "name": "Paper Mario: The Thousand-Year Door", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fire Emblem: The Sacred Stones is the eighth game in the Fire Emblem series. At the time of its release, it was only the second game in the franchise to be released outside of Japan.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2712638-fetss.jpg", 
+      "name": "Fire Emblem: The Sacred Stones", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Advance Wars 2: Black Hole Rising is a Turn Based Strategy game for the Gameboy Advance. It is the sequel to Advance Wars.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841698-box_awars2.png", 
+      "name": "Advance Wars 2: Black Hole Rising", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The seventh game in the Fire Emblem series and a prequel to Fire Emblem: Fuin no Tsurugi, released for the Game Boy Advance. It is the first Fire Emblem game to be released outside of Japan.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2103129-box_fe.png", 
+      "name": "Fire Emblem", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nintendo Puzzle Collection is a compilation of classic Nintendo puzzle games Dr. Mario, Panel de Pon, and Yoshi's Cookie. Only released in Japan.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/674737-nintendo_puzzle_collection_boxart.jpg", 
+      "name": "Nintendo Puzzle Collection", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "F\u016bin no Tsurugi follows the tale of Roy, son of Eliwood, on his quest across Elibe to strike down Bern and its twisted leader, Zephiel.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2160492-fe6_wstep.jpg", 
+      "name": "Fire Emblem: Fuuin no Tsurugi", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Eat, mate, and be merry in your quest to become king of the Cubivores.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2097997-box_cubivore.png", 
+      "name": "Cubivore: Survival of the Fittest", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A colorful turn-based strategy game developed by Intelligent Systems. It is the first game in Nintendo's \"Wars\" series to be released outside Japan.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841697-box_awars.png", 
+      "name": "Advance Wars", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Race against your favorite Mario characters on tracks resembling locations in the Mario universe. Use a wide array of power-ups and weapons to gain the upper hand and become the kart racing champion.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261117-box_mksc.png", 
+      "name": "Mario Kart: Super Circuit", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Napoleon is real-time strategy game for the GameBoy Advance starring the historically famous commander. It was released in two countries: France and Japan.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/178721-napoleonbox.jpg", 
+      "name": "Napoleon", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Card Hero: Trading &amp; Battle is a Japanese only Game Boy Color game.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7234, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1910665-cover.jpg", 
+      "name": "Card Hero: Trading & Battle", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Pok\u00e9mon-themed puzzle game is based on the gameplay of Tetris Attack.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171282-box_pkmnpc.png", 
+      "name": "Pok\u00e9mon Puzzle Challenge", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Mario themed RPG, Bowser has stolen the Star Rod and has now has near limitless power. Mario goes on a quest to save the Seven Star Spirits, and retrieve the Star Rod from Bowser in order to save Princess Peach and the Mushroom Kingdom.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2108508-box_pm.png", 
+      "name": "Paper Mario", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the Card Hero franchise by Yoshio Sakamoto and Intelligent Systems.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1092806-cardherogbcboxart.jpg", 
+      "name": "Trade & Battle: Card Hero", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth game in the Fire Emblem series, released only in Japan for the Super Famicom. It is a midquel to Fire Emblem: Seisen no Keifu and stars Leif, a major character from the previous game.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7238, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/99864/2401272-577344_17361_front.jpg", 
+      "name": "Fire Emblem: Thracia 776", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "BS Fire Emblem: Akaneia Senki is an episodic strategy game which was released on Nintendo's Japan-exclusive Satellaview Service in four chapters. The game was available for play from 1997 to 1999.", 
+      "developers": [
+        {
+          "id": 253, 
+          "name": "Intelligent Systems Co., Ltd."
+        }
+      ], 
+      "id": 7239, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2133119-bsfireemblemakaneiasenki.jpg", 
+      "name": "BS Fire Emblem: Akaneia Senki", 
+      "platforms": [
+        {
+          "id": 84, 
+          "name": "Satellaview", 
+          "short": "BS-X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1108 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20241, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336403-flight.jpg", 
+      "name": "Magic School Bus Discovers Flight", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"The wildest racing game since man invented the wheel\"", 
+      "developers": [], 
+      "id": 20242, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15228/948363-cmrlogo.jpg", 
+      "name": "Cro Mag Rally", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20243, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Classic Board Games", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20244, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2161368-2161366-cover.jpg", 
+      "name": "Microsoft Casino", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "MechWarrior 4: Vegeance is a sequel to 1999's successful MechWarrior 3.  To honour the BattleTech Universe's 25th anniversary, MechWarrior 4 was released for free.", 
+      "developers": [], 
+      "id": 20245, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2273266-61ngwt9bm2l._sl500_ss500_.jpg", 
+      "name": "MechWarrior 4: Vengeance", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An \"activity center\" specifically focused on the section of The Magic School Bus Explores the Solar System where the class visits the red planet.", 
+      "developers": [], 
+      "id": 20246, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336409-mars.jpg", 
+      "name": "Magic School Bus Lands on Mars", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20247, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Golf 2001 Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336414-concert.jpg", 
+      "name": "Magic School Bus in Concert", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Magic School Bus game centering around cetaceans.", 
+      "developers": [], 
+      "id": 20249, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336406-dolphins.jpg", 
+      "name": "Magic School Bus Whales and Dolphins", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20250, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Baseball 2001", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Allegiance is a hybrid RTS/action space sim originally developed by Microsoft Research Games, made open source in 2004 and now completely free and community-maintained. The game features 2 or more teams building bases and dogfighting it out with a variety of ships over multiple star sectors.", 
+      "developers": [], 
+      "id": 20251, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/22366/1867151-allegiance_coverart.jpg", 
+      "name": "Allegiance", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20252, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/2022997-pandorabox1.jpg", 
+      "name": "Pandora's Box", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336417-bugs.jpg", 
+      "name": "The Magic School Bus Explores Bugs", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336402-animals.jpg", 
+      "name": "Magic School Bus Explores the World of Animals", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A golf simulation featuring 7 courses", 
+      "developers": [], 
+      "id": 20257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2595347-g01035in33i.jpg", 
+      "name": "Microsoft Golf 1999 Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Close Combat III is the third game in the venerable Close Combat series which takes us to the Russian Front in command of either the German Whermacht or Soviet Red Army, in some of the most realistic combat ever seen in a RTS.", 
+      "developers": [], 
+      "id": 20258, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29460/892244-cc3.jpg", 
+      "name": "Close Combat III: The Russian Front", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based massively multiplayer strategy game where hundreds of real players fight each other to take control of the most planets.", 
+      "developers": [], 
+      "id": 20259, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2595242-199152_43195_thumb.jpg", 
+      "name": "UltraCorps", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade style baseball game featuring robust graphics for the time", 
+      "developers": [], 
+      "id": 20260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2593454-250px-93007-68357.jpg", 
+      "name": "Microsoft Baseball 3D", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20261, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336401-volcano.jpg", 
+      "name": "Magic School Bus Volcano Adventure", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20262, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Golf 1998 Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Outwars is a science fiction third-person shooter developed by SingleTrac and published by Microsoft in 1998.", 
+      "developers": [], 
+      "id": 20263, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/775245-out.jpg", 
+      "name": "Outwars", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Microsoft Pinball Arcade is a pinball game for the PC and Game Boy Color.", 
+      "developers": [], 
+      "id": 20264, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2167738-cover.jpg", 
+      "name": "Microsoft Pinball Arcade", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20265, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29460/892242-cc2.jpg", 
+      "name": "Close Combat: A Bridge Too Far", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ms. Frizzle and the class travel to Costa Rica to find the missing \"bio-clones\" to complete Wanda's \"Right-Away-Rainforest Toolbox\"", 
+      "developers": [], 
+      "id": 20266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336396-rainforest.jpg", 
+      "name": "The Magic School Bus Explores the Rainforest", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20267, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "NetWits", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20268, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Soccer", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lead Klaymen through a variety of puzzles and scenarios to save or take over his home world in this cult adventure game, the brainchild of Doug TenNapel, who also created '90s platforming star Earthworm Jim.", 
+      "developers": [], 
+      "id": 20269, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1267522-never.jpg", 
+      "name": "The Neverhood", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20270, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1488/202078-close_combat_boxart.jpg", 
+      "name": "Close Combat", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A trivia game on geography, history, and science.", 
+      "developers": [], 
+      "id": 20271, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/890161-scan0002.jpg", 
+      "name": "GeoSafari", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ms. Frizzle turns the bus into a time machine to more effectively teach her class about everyone's favourite terror lizards.", 
+      "developers": [], 
+      "id": 20272, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1336419-dinosaurs.jpg", 
+      "name": "Scholastic's The Magic School Bus: Explores in the age of Dinosaurs", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20273, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35470/1266561-spacsim1.gif", 
+      "name": "Microsoft Space Simulator", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "What's a teacher to do when she and her student body is swallowed inside her magic school bus by a fellow student during lunch hour?  Base today's lesson on the human body, of course!", 
+      "developers": [], 
+      "id": 20274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/100887/1438191-b00002s9gr.01.lzzzzzzz.jpg", 
+      "name": "The Magic School Bus Explores the Human Body", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game of tactics and planning in which players must isolate a number of balls into 25% percent of the playing space or less.", 
+      "developers": [], 
+      "id": 20275, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16621/1216207-jezzball.jpg", 
+      "name": "JezzBall", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A piece of software pre-loaded onto most Windows computers.", 
+      "developers": [], 
+      "id": 20276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/625295-gfs_45332_2_2_mid_1_.jpg", 
+      "name": "Microsoft Solitaire", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally developed as a tool to help Windows users learn the mouse, the Windows version of Klondike solitaire (known simply as Solitaire) is one of the most played PC games of all time.", 
+      "developers": [], 
+      "id": 20277, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1389181-solitaire_icon.png", 
+      "name": "Solitare", 
+      "platforms": [
+        {
+          "id": 64, 
+          "name": "Game.Com", 
+          "short": "GCOM"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2268816-mfsa_sdboxart.jpg", 
+      "name": "Microsoft Flight Simulator Aircraft & Scenery Designer", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Microsoft Entertainment Pack was a pack of simple casual games released in 1990. At the time it was one of the first Windows only PC games on the market.", 
+      "developers": [], 
+      "id": 20279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26139/1343079-521px_winentpack.jpg", 
+      "name": "Microsoft Entertainment Pack for Windows", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/113103/1678254-989033262_00.jpg", 
+      "name": "Microsoft Flight Simulator (v4.0)", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third version in Microsoft's popular Flight Simulator series. This game adds new planes, airports, locations, and other various features.", 
+      "developers": [], 
+      "id": 20281, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1762055-screen_shot_2011_04_18_at_7.25.34_pm.png", 
+      "name": "Microsoft Flight Simulator (v3.0)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second version of Microsoft's seminal flight simulation franchise adds a variety of new features, including notable hardware support and new flight options.", 
+      "developers": [], 
+      "id": 20282, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1737843-942572_94443_front.jpg", 
+      "name": "Microsoft Flight Simulator (v2.0)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Decathlon is a sports game made in 1982 for both PC and Apple II. It features ten distinct olympic-like sport events, as well as a \"hot seat\" muliplayer mode.", 
+      "developers": [], 
+      "id": 20283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18269/1365698-shot2.png", 
+      "name": "Microsoft Decathlon", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20284, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2268817-mfsboxart.jpg", 
+      "name": "Microsoft Flight Simulator", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20285, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Entertainment Pack 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game from Other Ocean Interactive", 
+      "developers": [], 
+      "id": 20286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481861-box_mwc.png", 
+      "name": "Monsters Love Candy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A third-person, adventure/hunting game based loosely on Sir Arthur Conan Doyle\u2019s \u2018The Lost World\u2019 in which you\u2019re out to tranquilize all the dinosaurs before a volcano extincts them again!", 
+      "developers": [], 
+      "id": 20287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/72276/2183530-dino_box_japan_front.jpg", 
+      "name": "Dinosaur Hunting", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An upcoming game from Zen Studios. As of a March 2012 Game Informer feature, it's \"at least a year from being finished.\"", 
+      "developers": [], 
+      "id": 20288, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Pinball FX3", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20289, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Rattler Race", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20290, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Arcade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20291, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Ultimate Haunted House", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tri-Peaks is a card game for Windows 3.1. It was a part of the Entertainment Pack, along with Minesweeper, Solitare, and Microsoft Hearts.", 
+      "developers": [], 
+      "id": 20292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/119706/1663803-tri_peaks_4_new_hand.gif", 
+      "name": "Tri-Peaks", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }
+  ]
+}

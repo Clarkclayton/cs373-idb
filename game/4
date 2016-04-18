@@ -1,0 +1,1446 @@
+{
+  "games": [
+    {
+      "deck": "A Soccer game for the GameCube. The game actually received fair reviews.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543553-box_dss.png", 
+      "name": "Disney Sports Soccer", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275984-box_dss.png", 
+      "name": "Disney Sports Skateboarding", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konami's second attempt at a skateboarding game.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428395-box_evsb.png", 
+      "name": "Evolution Skateboarding", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konami tries its hand at pro basketball on the PS2 and Xbox.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250702-box_nbasf.png", 
+      "name": "NBA Starting Five", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The ninth iteration in the main Power Pro series.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1803342-9_ps2.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu 9", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Europe only soccer game.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15405/891312-552896_7013_front.jpg", 
+      "name": "International Superstar Soccer 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 156, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525220-box_nba2n2k2.png", 
+      "name": "ESPN NBA 2Night 2002", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A winter sports game.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/836061-915162_51996_front.jpg", 
+      "name": "ESPN International Winter Sports 2002", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A direct response to the first X-Games snowboarding game, 2002 tries to straddle a pick up and play feel with some simulation mechanics built on top.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 158, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2615383-3863-15257.jpg", 
+      "name": "ESPN Winter X-Games Snowboarding 2002", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konami brings fishing to the GBA.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1096541-espngogbass.jpg", 
+      "name": "ESPN Great Outdoor Games: Bass 2002", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Game Boy Advance entry in the long running soccer series from Konami.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/837314-583069_22716_front.jpg", 
+      "name": "International Superstar Soccer Advance", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": " ESPN Final Round Golf 2002 is a Golf game that was released for The Game Boy Advanced in August of 2001.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3586/317562-81eunqr59el._sl500_aa280_.gif.jpg", 
+      "name": "ESPN Final Round Golf 2002", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released on the PS2 just prior to Tony Hawk's Pro Skater 3 in an attempt to cash in on the popularity of the THPS Franchise.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2123/240348-ps2_espn_x_games_skateboarding.jpg", 
+      "name": "ESPN X-Games Skateboarding", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2766138-2878619677-30976.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu 2001", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "K-1 World Grand Prix 2001 Kaimakuden is a Kickboxing game, developed by Xing Entertainment and published by Konami, which was released in Japan in 2001.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28122/1301482-ront.jpg", 
+      "name": "K-1 World Grand Prix 2001 Kaimakuden", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 2000, ESPN National Hockey Night was the last hockey game published by Konami and was released to generally negative reviews. 2000 Calder Trophy winner and Stanley Cup Champion Scott Gomez graced the cover.\n\n", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839992-365574_front.jpg", 
+      "name": "ESPN National Hockey Night", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play NBA with the stars on the Sega Dreamcast.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525219-box_nba2n.png", 
+      "name": "ESPN NBA 2Night", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konami's first go at snowboarding games, stays true to the sport with painstaking realism.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11254/267161-winterxgamessnowboarding.jpg", 
+      "name": "ESPN Winter X-Games Snowboarding", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "ESPN International Track & Field is a sports game that was released on the Dreamcast, and the PlayStation 2", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 168, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839963-258279_43468_front.jpg", 
+      "name": "ESPN International Track & Field", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 169, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1301246-espn_mls_gamenight_cover.jpg", 
+      "name": "ESPN MLS GameNight", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 170, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/381047-iss2000.jpg", 
+      "name": "International Superstar Soccer 2000", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The seventh iteration in the main Power Pro series, and the first on the PlayStation 2.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1804099-7.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu 7", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A winter sports game for the Game Boy Color. Has multiple winter sports to participate in.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/127648/1750180-gbc_millenium_winter_sports_box.jpg", 
+      "name": "Millennium Winter Sports", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball ", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/233/439713-pa_box_jpn_front.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu 2000", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811138-box_nbaitz00.png", 
+      "name": "NBA in the Zone 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "International Track and Field 2000 is the follow up to 1996's International Track and Field, featuring new events and updated graphics.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 175, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/233/439651-3h_box_jpn_front.jpg", 
+      "name": "International Track and Field 2000", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Goemon's Great 2.5D sidescroller.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29615/1460414-goemon_s_great_adventure.jpg", 
+      "name": "Goemon's Great Adventure", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Game Boy Color sequel to Motocross Maniacs was released in 1999.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/966256-mm2.jpeg", 
+      "name": "Motocross Maniacs 2", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Secret Service agent is thrust into a conspiracy and must stop a hostile alien civilization from taking over the U.S. government.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2318/728626-hybridheaven.jpg", 
+      "name": "Hybrid Heaven", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811141-box_nbaitz99.png", 
+      "name": "NBA in the Zone '99", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276046-box_nhlbos99.png", 
+      "name": "NHL Blades of Steel '99", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/233/439700-p6_box_jpn_front.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu 6", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rakuga Kids is a 2.5D fighting game created by Konami for the Nintendo 64, released in 1998. The name Rakugakids is a portmanteau  of the Japanese word rakugaki (a doodle), and kids, a reflection of the visual style of the game which resembled children's drawings.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/838271-562842_86001_front.jpg", 
+      "name": "Rakugakids", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/394876-da.jpg", 
+      "name": "Deadly Arts", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3552/184756-iss_pro_98.jpg", 
+      "name": "International Superstar Soccer '98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystical Ninja Starring Goemon is an 3D action-adventure game that follows a group of misfits named Goemon, Ebisumaru, Yae, and Sasuke (Sasuke is half ninja half robot) as they try to defeat the evil Peach Mountain Shoguns and restore peace and order to Ancient Japan once and for all.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2549848-box_mnsg.png", 
+      "name": "Mystical Ninja Starring Goemon", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Midnight Run features night time only races through it's 3 races and 4 different cars.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2592131-197936_11882_front.jpg", 
+      "name": "Midnight Run", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 249, 
+          "name": "Konami Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/233/439691-j5_box_jpn_front.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu 5", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball sim developed by Konami in 1998.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2677374-1961596053-30727.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu Basic '98", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A basketball game featuring the 1997-1998 NBA roster and the series debut on the Nintendo 64.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811140-box_nbaitz98.png", 
+      "name": "NBA in the Zone '98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konami's Nagano Winter Olympics '98 is a compilation of winter sporting events observed at the Nagano Olympic Games.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/380819-nwo9864.jpg", 
+      "name": "Nagano Winter Olympics '98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "International Superstar Soccer 64 was the first game of the franchise to hit the Nintendo 64 in 1997.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/233/439562-jp_artwork_1.jpg", 
+      "name": "International Superstar Soccer 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Goal Storm '97 is the second game in Konami's long running Winning Eleven series.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266520-box_gs97.png", 
+      "name": "Goal Storm '97", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball ", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/882584-jikkyo_powerful_pro_yakyu_4_for_n64_2c_front_cover.jpg", 
+      "name": "Jikkyou Powerful Pro Yakyuu 4", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261093-box_bot964.png", 
+      "name": "Bottom of the 9th", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game developed by Konami for the SEGA Genesis, SNES and PSone systems.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370650-genesis_internationalsuperstarsoccerdeluxe_eu_cropped.jpg", 
+      "name": "International Superstar Soccer Deluxe", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first in the franchise, ISS featured a realistic simulation style soccer game played on a skewed almost isometric grid.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363877-snes_internationalsuperstarsoccer_eu.jpg", 
+      "name": "International Superstar Soccer", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players take on the role of Kid Ying (or Goemon) and Dr. Yang (Ebisumaru) as they traverse Japan searching for a kidnapped princess.  The game features two distinct modes - traditional action platforming and town exploration.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363924-snes_legendofthemysticalninja.jpg", 
+      "name": "The Legend of the Mystical Ninja", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/745135-fshbps0f.jpg", 
+      "name": "Fisherman's Bait: A Bass Challenge", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Horse racing game developed by Konami in 1996.", 
+      "developers": [
+        {
+          "id": 2, 
+          "name": "Konami Computer Entertainment Osaka Co., Ltd."
+        }
+      ], 
+      "id": 199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1140125-stable_star.png", 
+      "name": "Jikkyou Keiba Simulation: Stable Star", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }
+  ]
+}

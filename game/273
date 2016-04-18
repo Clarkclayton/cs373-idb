@@ -1,0 +1,2038 @@
+{
+  "games": [
+    {
+      "deck": "An action RPG from Now Software for the NES. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 485, 
+          "name": "Now Production Co., Ltd."
+        }
+      ], 
+      "id": 13577, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2322815-jikuu_yuten_debias_fc_box.jpg", 
+      "name": "Jikuu Yuten: Debias", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Namco Arcade game based on the eponymous clans. The player is the resurrected vengeful spirit of historical samurai Taira no Kagekiyo. It received its first American localization in the 1997 Namco Museum Vol. 4 compilation.", 
+      "developers": [
+        {
+          "id": 485, 
+          "name": "Now Production Co., Ltd."
+        }
+      ], 
+      "id": 13578, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2359552-genpei_touma_den_pce.jpg", 
+      "name": "The Genji and the Heike Clans", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Namco action game where the player is a contestant on the futuristic gameshow: Metro Cross!", 
+      "developers": [
+        {
+          "id": 485, 
+          "name": "Now Production Co., Ltd."
+        }
+      ], 
+      "id": 13579, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/33870/1095887-metrocrossfront.jpg", 
+      "name": "Metro-Cross", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the arcade classic featuring Pac-Man's feminine counterpart. The game is notable for having a variety of mazes as opposed to the single maze design in the original game, as well as bonus items that wandered through the mazes rather than appearing just in the center.", 
+      "developers": [
+        {
+          "id": 485, 
+          "name": "Now Production Co., Ltd."
+        }
+      ], 
+      "id": 13580, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367786-a2600_mspacman.jpg", 
+      "name": "Ms. Pac-Man", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 60, 
+          "name": "iPod", 
+          "short": "IPOD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Manga-based video game produced by Now Production for the PlayStation Portable.", 
+      "developers": [
+        {
+          "id": 485, 
+          "name": "Now Production Co., Ltd."
+        }
+      ], 
+      "id": 13581, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2115886-higanjima01.jpg", 
+      "name": "Higanjima", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 485, 
+          "name": "Now Production Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The tale of Jack and the Beanstalk is retold in this Famicom game from Asmik.", 
+      "developers": [
+        {
+          "id": 485, 
+          "name": "Now Production Co., Ltd."
+        }
+      ], 
+      "id": 13582, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Jumpin' Kid: Jack to Mame no Ki Monogatari", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "EA's long-running soccer franchise returns for yet another year.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2767128-8599676888-13495.jpg", 
+      "name": "FIFA 16", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "EA's respected hockey franchise returns yet again with NHL 16.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2783773-1435207211_nhl16.jpg", 
+      "name": "NHL 16", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "EA's annual soccer release is back for the year 2014.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13585, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19222/2683302-2239177757-10352.jpg", 
+      "name": "FIFA 15", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 23rd installment in the EA Sports NHL franchise with the promise of a commentary changeover for the first time in eight years, along with revamped physics for both the players and the puck.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13586, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2649958-boxart.jpg", 
+      "name": "NHL 15", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "UFC comes to next-gen platforms via EA SPORTS.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13587, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2701434-box_ufc.jpg", 
+      "name": "EA Sports UFC", 
+      "platforms": [
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A modified version of FIFA 14 released to coincide with the 2014 World Cup.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13588, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15715/2606845-bh5gwt0ieaa6cky.png", 
+      "name": "2014 FIFA World Cup Brazil", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2014 installment in EA Canada's soccer simulation franchise. This was the first in the franchise to bridge the 360/PS3 to Xbox One/PS4 gap.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13589, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2560199-box_fifa14.png", 
+      "name": "FIFA 14", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 22nd installment in the EA Sports NHL franchise.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13590, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525223-box_nhl14.png", 
+      "name": "NHL 14", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest installment in EA Sports' FIFA series, featuring updated rosters, technical improvements, a more robust feature set for Support Your Club, and a new First Touch mechanic.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13591, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2329195-box_fifa13.png", 
+      "name": "FIFA Soccer 13", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NHL 13 is the 21st installment in the NHL franchise by EA SPORTS.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13592, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276035-box_nhl13.png", 
+      "name": "NHL 13", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A reboot of the FIFA Street series, developed by the core FIFA team at EA Canada.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13593, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266518-box_fifastr360.png", 
+      "name": "FIFA Street", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sixth entry in the Snowboard Super X series that allows players to ride down real world mountains in dangerous weather conditions.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13594, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2099991-box_ssx.png", 
+      "name": "SSX", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Grand Slam Tennis' first foray into HD, this update to 2009's Grand Slam Tennis for the Wii brings with it more realistic graphics, an expanded roster and Total Racquet Control.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13595, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2136547-box_gst2.png", 
+      "name": "Grand Slam Tennis 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA LIve 2005 is the 2005 version of the NBA Live Franchise.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13655, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2536370-box_nbal2k5.png", 
+      "name": "NBA Live 2005", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced downloadable version of the 2010 installment of the long-running NBA Jam series of arcade basketball games, updating the player roster while adding new gameplay mechanics, a new campaign, and new secrets.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13596, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1885918-box_nbajamofe.png", 
+      "name": "NBA Jam: On Fire Edition", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "FIFA 12 is set to be EA Sports' 2011 iteration of the franchise, covering the 2011-2012 season and will introduce tactical defending, precision dribbling and enhanced AI.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13597, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266509-box_fifa12.png", 
+      "name": "FIFA 12", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 20th annual installment of EA Sports hockey, featuring the Winter Classic and an expanded physics engine.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13598, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276034-box_nhl12.png", 
+      "name": "NHL 12", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA brings Fight Night back into the ring with an M-rating, depicting the \"violence and brutality that is true to the trade.\"", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13599, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291741-box_fnc.png", 
+      "name": "Fight Night Champion", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second installment in the EA Sports Active franchise, and the first to be released on platforms other than the Wii.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13600, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1500868-81cgo_6rgzl._aa1417_.jpg", 
+      "name": "EA Sports Active 2.0", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An EA Sports Active game using the NFL license and Total Body Tracking system.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13601, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11660/1468812-actnflwiipft3dlusengbox.jpg", 
+      "name": "EA Sports Active NFL Training Camp", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Return to the roots of arcade NBA basketball in the 2010 installment of NBA Jam. Developed by EA Canada for seventh-generation game consoles, this rebirth brings back the gameplay, aesthetics, and gratuitous secrets of the original 1993 arcade game.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13602, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1536634-nbajam_box.png", 
+      "name": "NBA Jam", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "FIFA 11 is the yearly, best selling football (soccer) game by EA Sports. FIFA 11 features 11 v 11 online multiplayer and the ability to play as a goalkeeper.  ", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13603, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266508-box_fifa11.png", 
+      "name": "FIFA 11", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA Sports' first hockey venture on the Nintendo Wii.  The game features a plastic hockey stick peripheral to house the Wii Remote and Nunchuk.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13604, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1795335-box_nhlslap.png", 
+      "name": "NHL Slapshot", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 19th annual release of EA's successful NHL franchise introduces a Canadian Hockey League license and a new real-time physics engine.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13605, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/89375/1413572-towes_nhl_11_cover.jpg", 
+      "name": "NHL 11", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "2010 FIFA World Cup South Africa is the latest in EA Sports' FIFA World Cup series and it not only improves on 2006 FIFA World Cup Germany, but also adds some key elements popularized by FIFA 10 and UEFA EURO 2008", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13606, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1825083-box_fifawc10.png", 
+      "name": "2010 FIFA World Cup South Africa", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA Sports' college basketball title with former Oklahoma forward Blake Griffin as the cover athlete.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13607, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811159-box_ncaab10.png", 
+      "name": "NCAA Basketball 10", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "FIFA 10 is EA Sports' 2009-2010 edition of the successful football game franchise.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13608, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266507-box_fifa10.png", 
+      "name": "FIFA 10", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA's annual basketball series returns for the 2009-10 NBA season", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13609, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810949-box_nbalive10.png", 
+      "name": "NBA Live 10", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 19th installment of EA Sports' long running series, NHL 10 brings a new degree of toughness through one-on-one battle refinements and a new board physics engine, as well as various EA Sports Hockey League adjustments.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13610, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276033-box_nhl10.png", 
+      "name": "NHL 10", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth entry in EA Sport's boxing franchise and second release for the XBox 360 and PS3.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13611, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894708-box_fnr4.png", 
+      "name": "Fight Night Round 4", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA Sports' first tennis game slams into action on the Wii with a family-friendly art style and MotionPlus support.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13612, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824037-box_gst.png", 
+      "name": "Grand Slam Tennis", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Wii game by Electronic Arts that provides customized workout plans, a fitness journal, co-op play, and exercising accessories to enhance your workouts.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13613, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/944881-954998_116123_front.jpg", 
+      "name": "EA Sports Active", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Xbox Live Arcade exclusive that allows those who have not experianced NCAA Basketball 09 to relive the 2009 NCAA Tournament for fee of 1200 Microsoft Points ($15)", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13614, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811158-box_ncaab09mme.png", 
+      "name": "NCAA Basketball 09 March Madness Edition", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Big heads rule the ice in this fast-paced downloadable hockey game from EA.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13615, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1795333-box_nhlarc.png", 
+      "name": "3 on 3 NHL Arcade", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Formerly known as the NCAA March Madness Series, NCAA Basketball 09 is the exclusive NCAA Basketball game by EA Sports.  It serves as the only up-to-date college basketball simulation on the market.  Cover athlete is Kevin Love of the UCLA Bruins.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13616, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246603-box_ncaab09.png", 
+      "name": "NCAA Basketball 09", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA Sports returns with the '09 edition of FIFA, a soccer simulation video game series. FIFA 09 features gameplay and graphic improvements from its predecessor, FIFA 08, as well as increased amount of players, leagues, and stadiums, and you have more control overall in the game.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13617, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266506-box_fifa09.png", 
+      "name": "FIFA Soccer 09", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 108, 
+          "name": "Zeebo", 
+          "short": "ZBO"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Live 09 is the next installment in the popular basketball franchise from Electronic Arts.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13618, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2243871-box_nbalive09.png", 
+      "name": "NBA Live 09", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Live 09 All-Play is the Wii-only version of EA's long-running franchise.  It features exaggerated players, multiple control schemes to cater to players of all ages, and a more arcade-style flavor.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13619, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810948-box_nbalive09ap.png", 
+      "name": "NBA Live 09 All-Play", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL 09 adds major improvements to the franchise, such as the defense skill stick and the highly praised Be A Pro Mode, to make this sports game one of the best of 2008.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13620, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276032-box_nhl09.png", 
+      "name": "NHL 09", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Facebreaker is a boxing game from the EA sports Brand of Electronic Arts. It has a more fun and accessible look over EA's other boxing franchise \"Fight Night\".", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13621, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291739-box_fbreaker.png", 
+      "name": "FaceBreaker", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "UEFA Euro 2008 is the official video game of the UEFA Euro 2008 football championships. Developed by EA Canada, the game uses an improved version of the FIFA 08 engine.\n", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13622, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266558-box_uefaeuro08.png", 
+      "name": "UEFA Euro 2008", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "FIFA Street 3 continues EA's stylized arcade soccer series. Combine moves seamlessly to rack up style points and land game-winning goals against opponents.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13623, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266517-box_fifastr3.png", 
+      "name": "FIFA Street 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA Sports is back with NCAA March Madness 08, featuring Texas Freshamn Standout Kevin Durant on the cover.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13624, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811175-box_ncaamm08.png", 
+      "name": "NCAA March Madness 08", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Medal of Honor Heroes 2, released in November 2007 in USA, was one of the few Wii titles to have online and the first to have 32 players online. The online play was discontinued in August 2011; even for the PSP version.", 
+      "developers": [
+        {
+          "id": 486, 
+          "name": "EA Canada"
+        }
+      ], 
+      "id": 13625, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1988890-box_mohh2.png", 
+      "name": "Medal of Honor: Heroes 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }
+  ]
+}

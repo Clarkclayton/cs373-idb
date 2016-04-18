@@ -1,0 +1,1456 @@
+{
+  "games": [
+    {
+      "deck": "A hidden object game for PC.", 
+      "developers": [], 
+      "id": 18089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2478014-gardenscapes-2_feature.jpg", 
+      "name": "Gardenscapes 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game for PC and Mac.", 
+      "developers": [], 
+      "id": 18090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2477693-fear-for-sale-nightmare-cinema-ce_feature.jpg", 
+      "name": "Fear for Sale: Nightmare Cinema", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game for PC.", 
+      "developers": [], 
+      "id": 18091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2478018-barn-yarn_feature.jpg", 
+      "name": "Barn Yarn", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hidden object game, where the heroine Tiffany must rescue her boyfriend from the clutches of a wicked demon.", 
+      "developers": [], 
+      "id": 18092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2652438-3124680320-14512.jpg", 
+      "name": "Sacra Terra: Kiss of Death", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "More levels for the fantasy tower defense game.", 
+      "developers": [], 
+      "id": 18093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2830765-3907365346-24917.jpg", 
+      "name": "Royal Defense: Invisible Threat", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third in a series of hidden object games that focus on the Spanish island of Tormente, and the mysterious catastrophe that left it deserted. The player is a detective hired to find his client's daughter, Teresa.", 
+      "developers": [], 
+      "id": 18094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2602680-0299225515-big_i.png", 
+      "name": "Twisted Lands: Origin", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Echoes of the Past: The Revenge of the Witch is a hidden object game for the PC and Mac.", 
+      "developers": [], 
+      "id": 18095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2308309-echoes_of_the_past_the_revenge_of_the_witch.jpg", 
+      "name": "Echoes of the Past: The Revenge of the Witch", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grim Tales: The Wishes is a hidden object game.", 
+      "developers": [], 
+      "id": 18096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2308332-grim_tales_the_wishes.jpg", 
+      "name": "Grim Tales: The Wishes", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grim Tales: The Legacy is a hidden object game.", 
+      "developers": [], 
+      "id": 18097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2308385-grim_tales_the_legacy.jpg", 
+      "name": "Grim Tales: The Legacy", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game for PC and Mac.", 
+      "developers": [], 
+      "id": 18098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2477692-shiver-vanishing-hitchhiker_feature.jpg", 
+      "name": "Shiver: Vanishing Hitchhiker", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Casual Hidden object / Adventure game by EleFun Games", 
+      "developers": [], 
+      "id": 18099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/2749030-url.jpg", 
+      "name": "Witches Legacy: The Charleston Curse", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Someone breaks into the player's castle and steals their magic pets, they set out on a quest to find them and along the way stop the mysterious enchantress from resurrecting the Minotaur.", 
+      "developers": [], 
+      "id": 18100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/212518/2554269-spirits-mystery-dark-minotaur-top.jpg", 
+      "name": "Spirits of Mystery: The Dark Minotaur", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Lake House: Children of Silence is a hidden object game from Alawar Entertainment, Inc.", 
+      "developers": [], 
+      "id": 18101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2674613-8429859100-The-L.jpg", 
+      "name": "The Lake House: Children of Silence", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game in the House of 1,000 Doors series.", 
+      "developers": [], 
+      "id": 18102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2656608-house+of+1000+doors+the+palm+of+zoroaster.jpg", 
+      "name": "House of 1000 Doors: The Palm of Zoroaster", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Physics based puzzle game where the player controls the monstrous King Oddball in his quest to demolish anything in his path using boulders hurled with his tongue.", 
+      "developers": [], 
+      "id": 18103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2586905-0639968817-king-.jpg", 
+      "name": "King Oddball", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dark Strokes: Sins of the Fathers is a hidden objects game.", 
+      "developers": [], 
+      "id": 18104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2314846-2314845-dark_strokes_sins_of_the_fathers.jpg", 
+      "name": "Dark Strokes: Sins of the Fathers", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game for PC and Mac.", 
+      "developers": [], 
+      "id": 18105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2477691-silent-nights-the-pianist_feature.jpg", 
+      "name": "Silent Nights: The Pianist", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game for PC and Mac", 
+      "developers": [], 
+      "id": 18106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2478025-gardenscapestm320x240.jpg", 
+      "name": "Gardenscapes", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Brink of Consciousness: Dorian Gray Syndrome is a hidden object game for the PC and Mac.", 
+      "developers": [], 
+      "id": 18107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193664-cover.jpg", 
+      "name": "Brink of Consciousness: Dorian Gray Syndrome", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object/puzzle game.", 
+      "developers": [], 
+      "id": 18108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2639838-7635838260-pheno.jpg", 
+      "name": "Phenomenon: City of Cyan", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game based on the H.P. Lovecraft short story, The Cats of Ulthar.", 
+      "developers": [], 
+      "id": 18109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2799190-1948940416-ghost.jpg", 
+      "name": "Ghost Towns: Cats of Ulthar", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game developed by Match Gems.", 
+      "developers": [], 
+      "id": 18110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2369764-aaroncranepaintingscomealive.jpg", 
+      "name": "Aaron Crane: Paintings Come Alive", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Strange Cases: the Secrets of Grey Mist Lake is another entry in the Strange Cases series.", 
+      "developers": [], 
+      "id": 18111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2316013-strange_cases_the_secrets_of_grey_mist_lake.jpg", 
+      "name": "Strange Cases: the Secrets of Grey Mist Lake", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Awakening: The Dreamless Castle is an adventure / hidden object game developed by Boomzap Entertainment.", 
+      "developers": [], 
+      "id": 18112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/113418/1731359-awakening_dreamless_castle.jpg", 
+      "name": "Awakening: The Dreamless Castle", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Echoes of the Past: The Citadels of Time is a hidden object game.", 
+      "developers": [], 
+      "id": 18113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2308321-echoes_of_the_past_the_citadels_of_time.jpg", 
+      "name": "Echoes of the Past: The Citadels of Time", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Marine has set off on a crazy journey that could change the world of Myst forever! Find twelve warriors and defeat the heartless government of Mystrock!", 
+      "developers": [], 
+      "id": 18114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117587/2474846-millennium-2-take-me-higher_feature.jpg", 
+      "name": "Millennium 2: Take me Higher", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hidden in Time: Looking-glass Lane is a hidden object game for the PC and Mac.", 
+      "developers": [], 
+      "id": 18115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2197460-cover.jpg", 
+      "name": "Hidden in Time: Looking-glass Lane", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stray Souls: Dollhouse Story is hidden object game from Alawar Entertainment, Inc.", 
+      "developers": [], 
+      "id": 18116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2674625-0bwcrik2i9stdo1x8pd3ljbcnf3svh9qcgkv4m62kthripcvx3q9siactyumyctj-kzy%3Dw300-rw+%281%29.jpg", 
+      "name": "Stray Souls: Dollhouse Story", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grim Tales: The Bride is a hidden object game.", 
+      "developers": [], 
+      "id": 18117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2308351-grim_tales_the_bride.jpg", 
+      "name": "Grim Tales: The Bride", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Awakening: The Goblin Kingdom is the third game in the Awakening series.", 
+      "developers": [], 
+      "id": 18118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2197449-cover.jpg", 
+      "name": "Awakening: The Goblin Kingdom", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Point&Click adventure game.", 
+      "developers": [], 
+      "id": 18119, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Age of Enigma: The Secret of the Sixth Ghost", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Twisted Lands: Shadow Town finds Angel, wife of the previous game's protagonist, held in a psychiatric hospital after returning from the island of Tormente. She tries desperately to escape, while mentally returning to the island to regain her lost memories.", 
+      "developers": [], 
+      "id": 18120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2612123-8467730260-twist.jpg", 
+      "name": "Twisted Lands: Insomniac", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Abra Academy: Returning Cast is a hidden object game for the PC.", 
+      "developers": [], 
+      "id": 18154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2209198-cover.jpg", 
+      "name": "Abra Academy: Returning Cast", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "JRPG style game in which you have to save the land Sylia from the invaded aliens who try to steal the planets' energy.", 
+      "developers": [], 
+      "id": 18121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117587/2474880-sylia.jpg", 
+      "name": "Sylia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game for PC.", 
+      "developers": [], 
+      "id": 18122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2478024-farmscapes_feature.jpg", 
+      "name": "Farmscapes", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden-object and puzzle game loosely based on Bram Stoker's classic vampire novel.", 
+      "developers": [], 
+      "id": 18123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/2205512-dracula_love_kills_feature.jpg", 
+      "name": "Dracula Love Kills", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "VSPD is a 2D puzzle platformer that takes place on a three-dimensional cube. It won Best Design by IndiePub and was a member of The PAX 10 at PAX Prime 2011.", 
+      "developers": [], 
+      "id": 18124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1881370-vspd_00.png", 
+      "name": "Vanessa Saint-Pierre Delacroix & Her Nightmare", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Antique Road Trip 2: Homecoming is the second game in the Antique Road Trip series published by Big Fish Games and developed by Boomzap Entertainment.", 
+      "developers": [], 
+      "id": 18125, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193349-cover.png", 
+      "name": "Antique Road Trip 2: Homecoming", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A festive hidden object game for all ages.", 
+      "developers": [], 
+      "id": 18126, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/133382/1833114-xmas.jpg", 
+      "name": "Christmas Wonderland", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Death at Fairing Point: A Dana Knightstone Novel is an adventure / hidden object game developed by Boomzap Entertainment and published by Big Fish Games.", 
+      "developers": [], 
+      "id": 18127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/133734/1862072-lsit_title_screen.jpg", 
+      "name": "Death at Fairing Point: A Dana Knightstone Novel", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Awakening: Moonfell Wood is the second game in the Awakening Series. Awakening: Moonfell Wood is an adventure / hidden object game developed by Boomzap Entertainment, published by Big Fish Games.", 
+      "developers": [], 
+      "id": 18128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/133734/1862064-a2.jpg", 
+      "name": "Awakening: Moonfell Wood", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery Trackers: The Void is a hidden objects game.", 
+      "developers": [], 
+      "id": 18129, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2327104-mystery_trackers_the_void.jpg", 
+      "name": "Mystery Trackers: The Void", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pirate themed solitaire.", 
+      "developers": [], 
+      "id": 18130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2830764-7821735703-24654.jpg", 
+      "name": "Pirate Solitaire", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Break through the Krainian Empire's defenses in this twist on the Arkanoid genre.", 
+      "developers": [], 
+      "id": 18131, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11827/1565209-arklight_logo_by_pi_eye_games.jpg", 
+      "name": "ArkLight", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Twisted Lands: Shadow Town is a hidden objects game from Alawar Entertainment.", 
+      "developers": [], 
+      "id": 18132, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2322015-twisted_lands_shadow_town.jpg", 
+      "name": "Twisted Lands: Shadow Town", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Redemption Cemetery: Curse of the Raven is a hidden objects game.", 
+      "developers": [], 
+      "id": 18133, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2520836-redemption+cemetery+curse+of+the+raven.png", 
+      "name": "Redemption Cemetery: Curse of the Raven", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A dark and intriguing hidden object game where Catalina seeks to help her ill father.", 
+      "developers": [], 
+      "id": 18134, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/133382/1837839-vb_lod.jpg", 
+      "name": "Vampire Brides: Love Over Death", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Echoes of the Past: The Castle of Shadows is a hidden object game.", 
+      "developers": [], 
+      "id": 18135, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2207682-cover.jpg", 
+      "name": "Echoes of the Past: The Castle of Shadows", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Brunhilda and the Dark Crystal is an adventure game from Codeminion and Twin Bottles.", 
+      "developers": [], 
+      "id": 18136, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2477589-brunhilda+and+the+dark+crystal+cover.jpg", 
+      "name": "Brunhilda and the Dark Crystal", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "As a new member of Sunnyville, a fictional U.S. town, your goal is to win the Superstar Homes Magazine Contest by scavenging for better furniture and d\u00e9cor for your fledgling house.", 
+      "developers": [], 
+      "id": 18137, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1581/1340266-61hpgv4ulvl._sl500_aa300_.jpg", 
+      "name": "Yard Sale Hidden Treasures: Sunnyville", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }
+  ]
+}

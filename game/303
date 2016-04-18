@@ -1,0 +1,2213 @@
+{
+  "games": [
+    {
+      "deck": "X-15 Alpha Mission is a Flight Simulation game, published by Activision, which was released in 1987.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/1227036-572298_33402_front.jpg", 
+      "name": "X-15 Alpha Mission", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling action/shooter based on the 1987 Schwarzenegger movie Predator. It was published by Activision for many home computers, though its NES incarnation plays slightly differently.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15084, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362129-nes_predator.jpg", 
+      "name": "Predator", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Square is responsible for this port of Activision's Little Computer People for the Famicom Disk System.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15085, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/10360-lcp.jpg", 
+      "name": "Apple Town Monogatari: Little Computer People", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Muder on the Mississippi is a mystery game initially released in 1986 for the Apple II, Commodore 64 and Commodore 128. It was later ported to the Famicom and MSX2 in Japan.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15086, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1499000-mississippi_front.jpg", 
+      "name": "Murder on the Mississippi", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Alter ego is a video game and a simulation type video game. Developed by Peter J. Favaro for the Commodore 64, Apple II, DOS and Mac OS, it was released in 1986.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15087, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3544/1036090-cover_alterego_crane.jpg", 
+      "name": "Alter Ego", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1765868-giant_bomb_sub_2.jpg", 
+      "name": "Howard the Duck: Adventure on Volcano Island", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Aliens: The Computer Game is an action title based on the James Cameron film of the same title.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/653895-aliens_loading_screen.png", 
+      "name": "Aliens", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/818553-transformers__mastertronic_plus_.jpg", 
+      "name": "The Transformers: Battle to Save the Earth", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror game based on the James Cameron film that takes place in many horizontaly scrolling corridors.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1339221-aliens_the_computer_game.jpg", 
+      "name": "Aliens: The Computer Game", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Hacker is a time-based puzzle game developed in 1985 by activision in which the player hacks into a companies computer system called MAGMA Ltd.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/630261-948176_104774_front_1_.jpg", 
+      "name": "Hacker", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Alcazar the Forgotten Fortress for the Atari 7800 is a side scrolling shooting game in the same vain as Contra but sadly lacking.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15093, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Alcazar: The Forgotten Fortress", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ghostbusters is based on the smash hit film of the same name. Players drive around New York catching ghosts and earning cash before heading to the Temple of Zuul.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367703-a2600_ghostbusters.jpg", 
+      "name": "Ghostbusters", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pitfall II is a wide-open platforming adventure that's much larger than its predecessor, with advanced features including save points and non-linear level design.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366214-a5200_pitfall2.jpg", 
+      "name": "Pitfall II: Lost Caverns", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fly down into dangerous caves filled with bugs, lava, and other traps to save your buddy before you run out of health.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366079-a5200_hero.jpg", 
+      "name": "H.E.R.O.", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players look after virtual people in this early precursor to The Sims.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1148532-little_computer_people.gif", 
+      "name": "Little Computer People", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Players attempt to form a completely connected maze by rotating sections of the maze in the correct direction.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366247-a5200_zenji.jpg", 
+      "name": "Zenji", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pastfinder is a game in which you use a spider robot to walk around an irradiated world and collect artifacts.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1477601-1846_1.jpg", 
+      "name": "Pastfinder", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Help to protect a toy store against waves of robots in this Activision platformer.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7939/1332283-toybizarrecover.png", 
+      "name": "Toy Bizarre", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Private Eye is a multi-screen adventure game for the Atari 2600. To solve the case, help \"private eye\" Pierre Touche find all of the evidence scattered around town before time runs out, and stop his nemesis Henri le Fiend!", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/595585-b_privateeye_front.jpg", 
+      "name": "Private Eye", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Activision game features the 10 track &amp; field events used to determine \"The World's Greatest Athlete\" every four years in the Olympics.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366061-a5200_decathlon.jpg", 
+      "name": "The Activision Decathlon", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An Atari 2600 game where players controls a dolphin who must use echolocation to avoid obstacles and escape from a pursuing octopus.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1461664-b_dolphin_front.jpg", 
+      "name": "Dolphin", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "David Rolfe's frantic into-the-screen space blaster.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366012-a5200_beamrider.jpg", 
+      "name": "Beamrider", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Facts Say It's Impossible... For Your Planet, It's Imperative!", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366243-a5200_thedreadnaughtfactor.jpg", 
+      "name": "The Dreadnaught Factor", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spider Fighter is a game for the Atari 2600 released in 1983.  Your goal is to protect fruit from being stolen by bugs while avoiding attacks from various enemies.  ", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/584599-spiderfighter.jpg", 
+      "name": "Spider Fighter", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pressure Cooker is an Activision title for the Atari 2600 that has you making hamburgers against the clock for hungry customers. ", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/616280-b_pressurecooker_front.jpg", 
+      "name": "Pressure Cooker", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Catch the criminals before they get away", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366101-a5200_keystonekapers.jpg", 
+      "name": "Keystone Kapers", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367831-a2600_spaceshuttle_none.jpg", 
+      "name": "Space Shuttle: A Journey into Space", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The retelling of the classic Three Little Pigs narrative in video game form.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/580413-b_oink_front.jpg", 
+      "name": "Oink!", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Day and night, fog and rain, snow and sun, Enduro challenged players to watch the weather before going out to race!! ", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/913/317168-b_enduro_front.jpg", 
+      "name": "Enduro", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Frostbite was written by Steve Cartwright who also wrote Barnstorming, Megamania, Plaque Attack, and Seaquest and released by Activison in 1983 for the Atari 2600. The goal is to jump on moving ice flows to build an igloo before the temperature drops below 0 while avoiding all manners of wildlife.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1445846-frostbite_boxart.jpg", 
+      "name": "Frostbite", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crackpots is a game that continues the ages old rivalry of man and bugs. Use strategically placed flower pots to squash as many bugs as possible before you are completely overrun.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14975/1342526-crackbox.jpg", 
+      "name": "Crackpots", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Plaque Attack is a game where you must defend teeth from junk food by shooting toothpaste at it.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1365987-mdo32lx4.jpg", 
+      "name": "Plaque Attack", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "This demo for the Atari 2600 was created by Activision in 1982 as a response to Atari's accusation that Activision programmers \"stole\" the \"venetian blinds\" programming technique.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/36406/1662821-s_venetianblinds_3.png", 
+      "name": "Venetian Blinds", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chopper Command is a Defender clone for the Atari 2600. In Chopper Command players control a helicopter as it tries to destroy enemies while navigating a desert.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367687-a2600_choppercommand.jpg", 
+      "name": "Chopper Command", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "First released by Activision for the Atari 2600, River Raid is one of the first scrolling shooters ever made. Controlling a rogue fighter jet, players must destroy bridges, sink civilian ships, and take out the defending military trying to stop their rampage.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367660-2600_riverraid.jpg", 
+      "name": "River Raid", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Megamania is an Atari 2600 game released in 1982 by Activision. Its TV ads featured an original song by The Tubes.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/610045-b_megamania_front.jpg", 
+      "name": "Megamania", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Barnstorming is a sidescrolling aeroplane ride that tests your ability to fly through barns as fast as you can while avoiding windmills and ducks.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/629374-b_barnstorming_front.jpg", 
+      "name": "Barnstorming", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pitfall! has been holding it down as the grandfather of the modern day platformer since its release in 1982. The premise of the game is to avoid falling down pits.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367802-a2600_pitfall_none.jpg", 
+      "name": "Pitfall!", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A jolly simulator for the Atari 2600 in which two ghosts play a friendly game of tennis.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1365702-b5kall6t.png", 
+      "name": "Tennis", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Control a chicken and help it cross a series of intersections before the other player can do the same to theirs.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367695-a2600_freeway.jpg", 
+      "name": "Freeway", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ice Hockey is an ice hockey video game designed by Activision programmer Alan Miller, and published by Activision.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1443125-icehockey.jpg", 
+      "name": "Ice Hockey", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kaboom! is a fast-paced action game, where the player must successfully catch bombs in a series of three stacked buckets.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367715-a2600_kaboom.jpg", 
+      "name": "Kaboom!", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A simple round-em-up game but with good sound effects for its day.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15125, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366989-intv_stampede.jpg", 
+      "name": "Stampede", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "You are the invaders for once!  Pilot a flying saucer, destroying anti-spacecraft guns.  Every time you lose a ship, the new ship flies down from the extra-life display.  Was featured in a high-score contest where the prize was a free t-shirt.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15126, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/610033-b_laserblast_original_front.jpg", 
+      "name": "Laser Blast", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1499348-331px_bridge2600.jpg", 
+      "name": "Bridge", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Checkers is a version of the classic board game Checkers (also known as Draughts) for the Atari 2600. The game was derided at the time for the long pauses between gameplay where the computer considers its next move.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1362986-m_checkers_1.jpg", 
+      "name": "Checkers", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fishing Derby is a fishing game released by Activision for the Atari 2600 VCS.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15129, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82221/1277192-b_fishingderby_original_front.jpg", 
+      "name": "Fishing Derby", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Skiing by Activision was the first game to included the simulated sound of the 'whoosh' from skies.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366982-intv_skiing_none.jpg", 
+      "name": "Skiing", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dragster is an early Activision title developed by David Crane. Split second shifting in theory, total luck in practice needed to beat your opponent.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15131, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1080308-d.jpg", 
+      "name": "Dragster", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Boxing for the Atari 2600 is a simple game which shows a top-down view of two boxers in a ring. It was one of the very first games created by Activision, a company formed by a number of disgruntled former Atari employees.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15132, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/543826-b_boxing_original_front.jpg", 
+      "name": "Boxing", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 296, 
+          "name": "Agetec, Inc."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }
+  ]
+}

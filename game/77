@@ -1,0 +1,1519 @@
+{
+  "games": [
+    {
+      "deck": "Ninja Gaiden 3: Razor's Edge is an upgraded version of Ninja Gaiden 3, featuring additions such as gameplay tweaks, dismemberment, multiple weapons, new playable characters, and online co-op.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3792, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2338147-2322580_ng3re.jpg", 
+      "name": "Ninja Gaiden 3: Razor's Edge", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dead or Alive 5 is the seventh entry in the Dead or Alive fighting game franchise, introducing a new visual style, new game mechanics, and highly interactive stages.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3793, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2314060-box_doa5.png", 
+      "name": "Dead or Alive 5", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ninja Gaiden 3 is the first main entry in the modern Ninja Gaiden series not to be directed by former Team Ninja head Tomonobu Itagaki. NG3 features new game mechanics, a focus on consequence and 8-player online modes.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3794, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115068-box_ng3.png", 
+      "name": "Ninja Gaiden 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dead or Alive: Dimensions retells the story of the Dead or Alive saga, adding new playable characters and more features in this handheld debut of the Dead or Alive fighting game franchise.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3795, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791090-box_doad.png", 
+      "name": "Dead or Alive: Dimensions", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set between the events of Super Metroid and Metroid Fusion, Other M follows Samus Aran on a rescue mission to a derelict ship in deep space where she encounters her former commanding officer and a whole host of old and new trouble.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/25628/2111373-metroid_other_m_cover.jpg", 
+      "name": "Metroid: Other M", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dead or Alive's debut on the PSP brings the DOA girls back to the island with more of a focus on relationships and mini games from DOA: Xtreme 2.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791091-box_doap.png", 
+      "name": "Dead or Alive: Paradise", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ninja Gaiden Sigma 2 is a PS3-exclusive enhanced port of Ninja Gaiden II, which was released for the Xbox 360 in 2008. It is the sequel to the first Ninja Gaiden Sigma, which too was an enhanced version of the original Ninja Gaiden for Xbox.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797988-box_ngaidens2.png", 
+      "name": "Ninja Gaiden Sigma 2", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A free-to-play iteration of the Dead or Alive fighting game series, released for Windows in 2008. Because the servers were shut down in 2010, it is no longer playable.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18183/1332790-0610doa01s.jpg", 
+      "name": "Dead or Alive Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Ninja Gaiden; A high-difficulty, ninja-themed, hack-and-slash title.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367511-box_ng2.png", 
+      "name": "Ninja Gaiden II", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ryua Hayabusa has to save his village against evil fiends in this DS outing of Ninja Gaiden, featuring innovative stylus control. And guess what, the Ghost fish are back!", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810955-box_ngaidends.png", 
+      "name": "Ninja Gaiden: Dragon Sword", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second remake of the hit Xbox game, Sigma features enhanced visuals and a bevy of gameplay tweaks to improve on its predecessors.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797987-box_ngaidens.png", 
+      "name": "Ninja Gaiden Sigma", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as one of the Dead or Alive ladies in this volleyball and mini-game collection.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894017-box_doax2.png", 
+      "name": "Dead or Alive: Xtreme 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth official installment in Team Ninja's Dead or Alive fighting game series is brought to the seventh generation of video game consoles, complete with expanded online gameplay and a hidden crossover with the Halo franchise.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894014-box_doa4.png", 
+      "name": "Dead or Alive 4", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ninja Gaiden Black is a re-release of Team Ninja's 2004 Xbox game. Its enhanced visuals, tweaked gameplay, and new mission mode make it the \"definitive version\" in the eyes of game director Tomonobu Itagaki.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367512-box_ngb.png", 
+      "name": "Ninja Gaiden Black", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A package of both Dead or Alive and a Dead or Alive 2 (recreated for the Xbox) both enabled with online play.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894015-box_doau.png", 
+      "name": "Dead or Alive Ultimate", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ryu Hayabusa seeks revenge for the decimation of his clan and must recover a mystical sword. Take control of Ryu as he fights hundreds of tough enemy ninjas and more exotic foes with his trusty Dragon Sword.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797984-box_ngaiden.png", 
+      "name": "Ninja Gaiden", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Xtreme Beach Volleyball is a gravure and vacation resort simulator with the female cast from Dead or Alive.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894016-box_doax.png", 
+      "name": "Dead or Alive Xtreme Beach Volleyball", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dead or Alive 3 is the third installment of Team Ninja's 3D Fighting game series Dead or Alive. Hitomi the karate master, Christie the assassin and drunken fighter, Brad Wong are added to the roster. The superior Japanese 3.1 release tweaked the gameplay mechanics and moves creating a masterpiece never released in the states.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894013-box_doa3.png", 
+      "name": "Dead or Alive 3", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An improved version of Dead or Alive 2, released in 2000 for the arcades, PS2, and Japanese Dreamcast. It included several upgrades over the original 1999 arcade and Dreamcast versions.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894012-box_doa2hc.png", 
+      "name": "Dead or Alive 2: Hardcore", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to Dead or Alive, Dead or Alive 2 includes new characters, new environments and a whole new great experience for the fighting series", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791086-box_doa2.png", 
+      "name": "Dead or Alive 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dead or Alive was released two years after Virtua Fighter 2 hit the arcades. Despite its slightly inferior in-game graphics, its increased tempo and innovative mechanics (most notably its counter system) made Dead or Alive an instant hit.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3812, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791085-box_doa.png", 
+      "name": "Dead or Alive", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Don the Power Suit of intergalactic bounty hunter Samus Aran as she recaptures the dangerous Metroid species from the evil Space Pirates. Released by Nintendo in 1986, this game introduced the \"Metroidvania\" style of open-world gameplay on consoles.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362064-nes_metroid.jpg", 
+      "name": "Metroid", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Two brothers are on a search for a cure for their dying father.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478646-box_bros.png", 
+      "name": "Brothers: A Tale of Two Sons", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Harvest Moon: My Little Shop is a WiiWare title released November 23, 2009 for 1200 points.  Four DLC releases (priced at 400 points each) have been released.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3842, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1582/1105006-harvest_moon_my_little_shop_profilelarge.jpg", 
+      "name": "Harvest Moon: My Little Shop", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Syndicate is a reinvention of the 1993 game by Bullfrog. Developed at Starbreeze Studios, the game puts players in the shoes of Miles Kilo, one of the cybernetically-enhanced Agents who wages war against enemy mega-corporations on behalf of EuroCorp, his sponsor syndicate.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133355-box_syndicate.png", 
+      "name": "Syndicate", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Both a remake and expansion to the critically-acclaimed Xbox and PC title The Chronicles of Riddick: Escape from Butcher Bay, Dark Athena features both the original campaign, an all-new campaign and new multiplayer modes.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897555-box_tcoraoda.png", 
+      "name": "The Chronicles of Riddick: Assault on Dark Athena", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "On his 21st birthday, Jackie Estacado gets possessed by an entity known as The Darkness. After getting into trouble with the Mafia, Jackie finds himself on the run, trying to protect the people most important to him.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3817, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1778769-box_darkness.png", 
+      "name": "The Darkness", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Escape From Butcher Bay is a first-person action game set before the events of the first Riddick film, Pitch Black.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2309067-cropped.png", 
+      "name": "The Chronicles of Riddick: Escape from Butcher Bay", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Enclave is a third-person action-adventure game which takes place in a medieval fantasy realm in a world which has been torn apart by magic and evil. It was released on the Xbox in the summer of 2002, and later on the PC early in spring of 2003.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1795888-box_enclave.png", 
+      "name": "Enclave", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action/adventure role playing game from the developers behind Chronicles of Riddick and The Darkness. The game was never released outside Europe.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/565447-cover.jpg", 
+      "name": "Knights of the Temple: Infernal Crusade", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Starbreeze is developing this co-op focused sci-fi first-person shooter.", 
+      "developers": [
+        {
+          "id": 113, 
+          "name": "Starbreeze Studios AB"
+        }
+      ], 
+      "id": 3821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2418080-storm.png", 
+      "name": "Storm (working title)", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A beat \u2018em up about a group of delinquents fighting on an island with no rules!", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2791526-uppers.jpg", 
+      "name": "Uppers", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Story of Seasons is the latest Harvest Moon title and allows players to fully create their own character from scratch. XSEED will be bringing the game to North America in 2014.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2638742-sos.jpg", 
+      "name": "Story of Seasons", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kunio-Kun no Nekketsu Dodgeball Allstars!! for mobile devices gives players the opportunity to play as over 100 characters in the Kunio-Kun series.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2733206-1496554850-screen.jpeg", 
+      "name": "Kunio-Kun no Nekketsu Dodgeball Allstars!!", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A new strategy RPG for Nintendo 3DS from the developers of Rune Factory.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2725730-lordofmagnacleanbox.jpg", 
+      "name": "Lord of Magna: Maiden Heaven", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expanded version of otome rhythm game Bakumatsu Rock, with new music, characters and story chapters.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2686829-3451959571-vljm35132_jacket", 
+      "name": "Bakumatsu Rock: Ultra Soul", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A downloadable Nintendo 3DS game in which players collect Pok\u00e9mon via StreetPass in order to battle thieves. The game is available for free and for a limited time only.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2685745-title.jpg", 
+      "name": "Touzoku to 1000-Biki no Pok\u00e9mon", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expanded rerelease of Sony's boss hunting game Soul Sacrifice, which adds new features and content - including a third character alignment.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2657602-6982990075-image", 
+      "name": "Soul Sacrifice Delta", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expanded version of action RPG Valhalla Knights 3, it offers new content as well as technical and gameplay improvements.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2569725-1184429705-logo_.png", 
+      "name": "Valhalla Knights 3 Gold", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "An otome themed rhythm game, that re-imagines the conflicts of Bakumatsu-era Japan as a battle to win the peoples hearts with rock music.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2599320-5799008043-uljs00598_jacket", 
+      "name": "Bakumatsu Rock", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Action RPG released for the iOS mobile platform in 2013.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2595641-1227302393-mobil.jpg", 
+      "name": "Conquest Age", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fantasy action RPG for the PlayStation Vita, with lots of loot and the ability to form a party of up to 7 characters.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3832, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2536380-box_vk3.png", 
+      "name": "Valhalla Knights 3", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A dark fantasy action-RPG for PlayStation Vita by Marvelous AQL and SCE Japan Studio, designed by Keiji Inafune. The player takes the role of a sorcerer who can choose to save or sacrifice allies and enemies in order to become more powerful.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3833, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478700-box_ss.png", 
+      "name": "Soul Sacrifice", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 188, 
+          "name": "SCE Japan Studio"
+        }, 
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A card battle game based on the Senran Kagura franchise for the GREE mobile platform.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3834, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2388669-senrankagura_nww.jpg", 
+      "name": "Senran Kagura: New Wave", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Harvest Moon 3D: A New Beginning has been billed as the most customizable Harvest Moon game ever.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3835, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2348783-box_hm3d.png", 
+      "name": "Harvest Moon 3D: A New Beginning", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "The PlayStation Vita sequel to the Wii cult classic \"Little King's Story.\"", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3836, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2339310-box_nlks.png", 
+      "name": "New Little King's Story", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Horror game for the Wii that includes Wii Balance Board support", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3837, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27239/1706123-c20110210_ikenie_01_cs1w1_500x713.jpg", 
+      "name": "Night of Sacrifice", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Making its first ever appearance outside of Japan, this new entry in the Itadaki Street series once again challenges classic Dragon Quest characters as well as Mario and his friends in the ever-changing stock market game on the Nintendo Wii.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3838, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2079823-box_fstreet.png", 
+      "name": "Fortune Street", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Half-Minute Hero: Super Mega Neo Climax is a port of the PSP RPG/puzzle game mashup Half-Minute Hero, released on XBLA and PC. It also includes a new graphical style and an added multiplayer component.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3839, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1821529-box_hmh.png", 
+      "name": "Half-Minute Hero: Super Mega Neo Climax", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to Marvelous' cult PSP game, Half-Minute Hero 2 features five new modes of thirty-second RPG chaos, plus a level editor.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3840, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7667/1671378-71sm79t4oxl._aa1500_.jpg", 
+      "name": "Half-Minute Hero: The Second Coming", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

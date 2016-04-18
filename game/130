@@ -1,0 +1,1556 @@
+{
+  "games": [
+    {
+      "deck": "Beyond the Ice Palace is a Ghouls'n'Ghosts-like platformer for various systems.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/629365-beyond_the_ice_palace.jpg", 
+      "name": "Beyond the Ice Palace", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on the long running BBC quiz show.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/683308-question_of_sport.gif", 
+      "name": "A Question of Sport", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pilot the baddest helicopter this side of the Pacific in this game based on the hit television series, Airwolf.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6441, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361128-nes_airwolf.jpg", 
+      "name": "Airwolf", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Batty is a Breakout style game complete with all the mainstay powerups found in a game like Arkanoid, but definitely earned its place as a cult classic", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6442, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1477675-batty.jpg", 
+      "name": "Batty", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bomb Jack II is a licensed sequel to the original Bomb Jack arcade game, for European computer systems.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6443, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2596778-6070704991-94012.jpg", 
+      "name": "Bomb Jack II", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An unauthorized modified port of Nintendo's arcade game Super Punch Out!! It featured Frank Bruno as a main character.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6444, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45471/1084890-fbsbcp0f.jpg", 
+      "name": "Frank Bruno's Boxing", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "1942 is a vertical shooter set in an exaggerated World War 2 universe.  It went on to be one of Capcom's very first hits.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6445, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361100-nes_1942.jpg", 
+      "name": "1942", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6446, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1846191-touring.jpg", 
+      "name": "Grand Touring", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6447, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Now Games 2", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6448, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Grand National", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6449, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Roller Coaster", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6450, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/157771/2311430-a11.png", 
+      "name": "911 Tiger Shark", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6451, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2833979-battleship_amiga_1_1_us.jpg", 
+      "name": "Battleship", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A platformer where you could actually fly around using wings.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6452, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1356591-kokotoniwilf_cassette.jpg", 
+      "name": "Kokotoni Wilf", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6453, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9761/969460-250px_janes_attack_squadron.jpg", 
+      "name": "Jane's Combat Simulations: Attack Squadron", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Thief II follows the continuing larcenous exploits of master thief Garrett as he becomes involved in schemes involving a new fanatical religious sect.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6454, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/913/822248-1thief2cover2.jpg", 
+      "name": "Thief II: The Metal Age", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Flight Unlimited III was the last entry in the popular flight game series", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6455, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4608/1051080-51gs8n8k79l._ss400_.jpg", 
+      "name": "Flight Unlimited III", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed by Looking Glass Studios and released in 1999, this cyberpunk first-person shooter with RPG elements established new standards for storytelling and gameplay.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6456, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608097-systemshock2box_1_.jpg", 
+      "name": "System Shock 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Destruction Derby 64 is the premier demolition derby game for the Nintendo 64. It's full of thrills, spills, and of course enough destruction to make you want to slap yo mamma!", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6457, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2593/372898-destruction_derby_64_coverart.png", 
+      "name": "Destruction Derby 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Thief is a first person sneaker made by the now defunct Looking Glass Studios.  Unlike most first person shooters, Thief emphasizes being stealthy and tactically creeping past your opponents rather than plowing through them in combat.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6458, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/685993-thief_the_dark_project_boxcover.jpg", 
+      "name": "Thief: The Dark Project", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Flight Unlimited II is the second entry in the series, taking a more serious approach to flight games.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6459, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14064/326406-fu2_front.jpg", 
+      "name": "Flight Unlimited II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rex Bradford, the man who came up with the power swing bar, returns for the first time in British Open Championship Golf with exclusive rights to the British Open course and tournament.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6460, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2590127-pic11.jpg", 
+      "name": "British Open Championship Golf", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Terra Nova: Strike Force Centauri is a tactical first-person computer game from Looking Glass Studios. It casts players as the leader of a squad of elite soldiers utilizing heavily armored battle suits.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6461, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4656/922168-250px_terranovastrikeforcecentauribox.jpg", 
+      "name": "Terra Nova: Strike Force Centauri", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game by PopCap Games, similar to Breakout and Pachinko machines.", 
+      "developers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ], 
+      "id": 6523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1381532-peggle_box.png", 
+      "name": "Peggle", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 60, 
+          "name": "iPod", 
+          "short": "IPOD"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 108, 
+          "name": "Zeebo", 
+          "short": "ZBO"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Command &amp; Conquer is the first entry in the long running series of real-time strategy games.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6462, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2130/184700-cncbox.jpg", 
+      "name": "Command & Conquer", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Set in a bleak cyberpunk universe, System Shock is a first-person action-adventure game from Looking Glass Studios that challenges players to overcome the hazards of an immense, multi-level space station under the control of an artificial intelligence with aspirations of godhood.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6463, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608098-256px_sysshock_1_.jpg", 
+      "name": "System Shock", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to Ultima Underworld saw the Avatar return to Britannia at the invitation of Lord British to help celebrate their victory over the Guardian a year before in Ultima VII. However, the Guardian has other plans and traps Britannia's elite along with the Avatar within an impregnable prison.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6464, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608844-ultima_underworld_ii_box_1_.jpg", 
+      "name": "Ultima Underworld II: Labyrinth of Worlds", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "John Madden Football '93 was an early title in the popular football series. Released on the Genesis and SNES in 1992.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6465, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1086248-jm7.jpg", 
+      "name": "John Madden Football '93", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6466, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1753502-car_driver_008.png", 
+      "name": "Car & Driver", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "This unreleased racing game was announced by Nintendo during E3 '99, but never saw retail release.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6467, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1095976-mini_racers_1.jpg", 
+      "name": "Mini Racers", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wildwaters Extreme Kayak was to be Looking Glass Studios' take on the sport of extreme kayaking, but the game was cancelled when the studio shut down.", 
+      "developers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ], 
+      "id": 6468, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2171099-1.png", 
+      "name": "Wildwaters Extreme Kayak", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth Deus Ex game, revealed a week before E3 2013 to be an iOS game that aims to recreate a true Deus Ex game on mobile devices and is built from the ground up for them.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6469, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2491944-deusexthefalllogo.jpg", 
+      "name": "Deus Ex: The Fall", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2013 remake of Leisure Suit Larry. It's developed by Replay Games, a team that includes series creator Al Lowe.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6470, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2520105-desura_960x1320.jpg", 
+      "name": "Leisure Suit Larry in the Land of Lounge Lizards RELOADED", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "\"If you let go and flow with this game, you let go and flow with life. I can tell you that\" - Deepak Chopra", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6471, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2238930-cropped.jpg", 
+      "name": "Deepak Chopra's Leela", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "This page is empty. Use the edit article link in the top right of this page to edit.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6472, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1141001-mg.jpg", 
+      "name": "Medieval Games", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Simulate running away with the circus! ", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6473, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1039841-goplaycircusstarwii.jpg", 
+      "name": "Go Play Circus Star", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hour of Victory is a World War II-themed first-person shooter. Calling it mediocre would be a compliment.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6474, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133349-box_hov.png", 
+      "name": "Hour of Victory", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6475, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1824236-elite.jpg", 
+      "name": "Elite Warriors: Vietnam", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In-Fisherman Freshwater Trophies is a fishing simulator on the PC.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6476, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1826993-inf.jpg", 
+      "name": "In-Fisherman Freshwater Trophies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Line of Sight: Vietnam is a Vietnam war oriented squad-based first-person shooter game. The game follows a young sniper in the 5th Special Forces compound in Nha Tong, Vietnam.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6477, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62140/1212004-box_art_1.jpg", 
+      "name": "Line of Sight: Vietnam", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6478, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1136/1333163-ddpa.jpg", 
+      "name": "Deadly Dozen: Pacific Theater", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cabela's Ultimate Deer Hunt 2 is a PC entry in the long running Cabela's line.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6479, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/844855-578923_35614_front.jpg", 
+      "name": "Cabela's Ultimate Deer Hunt 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6480, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/844856-578984_35627_front.jpg", 
+      "name": "Cabela's Big Game Hunter 6", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Deadly Dozen video game set in World War 2.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6481, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1475305-deadly_dozen_coverart.png", 
+      "name": "Deadly Dozen", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6482, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/844864-cabela_s_ultimate_deer_hunt_coverart.png", 
+      "name": "Cabela's Ultimate Deer Hunt", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6483, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Jugular Street Luge Racing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ember is a full-fledged RPG for iOS developed by N-Fusion and published by 505 Games.", 
+      "developers": [
+        {
+          "id": 216, 
+          "name": "nFusion Interactive LLC"
+        }
+      ], 
+      "id": 6484, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2689981-screen+shot+2014-10-08+at+6.52.24+pm.jpg", 
+      "name": "Ember", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A role-playing game by CD Projekt RED based on the pen and paper RPG known as Cyberpunk.", 
+      "developers": [
+        {
+          "id": 217, 
+          "name": "CD Projekt RED Sp. z o.o."
+        }
+      ], 
+      "id": 6485, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19306/2346715-1600x1200_logo.jpg", 
+      "name": "Cyberpunk 2077", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "CD Projekt RED's third Witcher combines the series' non-linear storytelling with a sprawling open world that concludes the saga of Geralt of Rivia.", 
+      "developers": [
+        {
+          "id": 217, 
+          "name": "CD Projekt RED Sp. z o.o."
+        }
+      ], 
+      "id": 6486, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2698809-the+witcher+3+-+wild+hunt+v7.jpg", 
+      "name": "The Witcher 3: Wild Hunt", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mobile-only multiplayer online battle arena (MOBA) game set in the world of the Witcher franchise.", 
+      "developers": [
+        {
+          "id": 217, 
+          "name": "CD Projekt RED Sp. z o.o."
+        }
+      ], 
+      "id": 6487, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/166681/2651867-6099720648-Q_i855.jpeg", 
+      "name": "The Witcher: Battle Arena", 
+      "platforms": [
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 217, 
+          "name": "CD Projekt RED Sp. z o.o."
+        }
+      ]
+    }
+  ]
+}

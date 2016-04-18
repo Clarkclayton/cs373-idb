@@ -1,0 +1,1512 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 162, 
+          "name": "The Creative Assembly"
+        }
+      ], 
+      "id": 5142, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "AFL '98", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 162, 
+          "name": "The Creative Assembly"
+        }
+      ], 
+      "id": 5143, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "ARL 96", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 162, 
+          "name": "The Creative Assembly"
+        }
+      ], 
+      "id": 5144, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Cricket World Cup 99", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sony's flagship future racing series is one of the launch games available for Sony's PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5145, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114386-box_wout2048.png", 
+      "name": "WipEout 2048", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The futuristic racing and combat of the Wipeout universe makes its first PlayStation 3 appearance as a downloadable game on PlayStation Network.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5146, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1914387-wipeout_hd_fury_cover__cropped_.jpg", 
+      "name": "WipEout HD", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "WipEout Pulse is the second WipEout game on the PSP platform, featuring all-new tracks, songs, updated graphics and HUDs, and new Infrastructure features such as custom ship skin editing (through the WipEout website) and a host of new Downloadable Content.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5147, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210284-box_woutpulse.png", 
+      "name": "WipEout Pulse", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Formula 1 game to be released on the PlayStation 3, it was developed by the SCEE Liverpool Studio. This was the last Formula 1 game to be released exclusively on a PlayStation platform before Sony lost the F1 license to Codemasters.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5148, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832139-box_f1ce.png", 
+      "name": "Formula One Championship Edition", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Developed by Studio Liverpool, this is the fifteenth game in the Official Formula One games.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5149, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2333751-box_f12006.png", 
+      "name": "Formula One 06", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Use the EyeToy camera to play out the role of a spy. Mission include stealthy sky diving, code breaking, face matching, and more.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9348/576871-eyetoyspy.jpg", 
+      "name": "EyeToy: Operation Spy", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }, 
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Formula One 05 continued to improve the gameplay mechanics and A.I over the previous Formula 1 games which was a step in the right direction after a number of lackluster Formula 1 games developed by Studio Liverpool.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2333750-box_f12005.png", 
+      "name": "Formula One 05", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wipeout Pure is the seventh game in the Wipeout series and the first game in the franchise on a portable system.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837524-box_wpure.png", 
+      "name": "WipEout Pure", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Formula One 04 was the first game in the series to change the gameplay mechanics and is the first Sony developed Formula 1 game to feature a career mode.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2333749-box_f12004.png", 
+      "name": "Formula One 04", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Formula One 2003 was the first exclusive Formula 1 licensed game that Sony Computer Entertainment released previously sharing the license with EA.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2333748-box_f12003.png", 
+      "name": "Formula One 2003", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Formula One 2002 was the second Formula 1 game to be developed by SCEE Liverpool Studio which was released in late 2002.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/522799-582580_23274_front.jpg", 
+      "name": "Formula One 2002", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fusion is the debut of the WipEout series on PlayStation 2.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5156, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210283-box_woutfusion.png", 
+      "name": "WipEout Fusion", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Formula One 2001 was released on the PlayStation and PlayStation 2.", 
+      "developers": [
+        {
+          "id": 163, 
+          "name": "SCEE Studio Liverpool"
+        }
+      ], 
+      "id": 5157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/518374-formula_one_2001_pal.jpg", 
+      "name": "Formula One 2001", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dreamworks Animation's How to Train Your Dragon 2 movie tie-in game developed by Torus Games.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5158, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/2611630-028082.jpg", 
+      "name": "How to Train Your Dragon 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Nintendo DS/3DS compilation of two games based on Dreamworks CGI animated films", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2618534-7666852463-34999.jpg", 
+      "name": "Madagascar 3 & The Croods: Prehistoric Party Combo Pack", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A minigame collection featuring Barbie and friends who are trapped in Barbie's dreamhouse.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48189/2575795-9457404022-23830.jpg", 
+      "name": "Barbie Dreamhouse Party", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Game based on the Turbo movie by DreamWorks", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2504241-turbo-super-stunt-squad-xbox-360+cropped.jpg", 
+      "name": "Turbo: Super Stunt Squad", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Party game based on the 2013 Dreamworks animated feature \"The Croods\", available across all of Nintendo's active platforms.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452914-box_tcpp.png", 
+      "name": "The Croods: Prehistoric Party!", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367522-box_rotg.png", 
+      "name": "Rise of the Guardians", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Madagascar 3: The Video Game is a game based on the third movie in the Madagascar franchise.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2166801-box_mad3.png", 
+      "name": "Madagascar 3: The Video Game", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cars Supercharged is a Leapster game based on the Pixar/Disney movie of the same name", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/962822-leapster6.jpg", 
+      "name": "Cars Supercharged", 
+      "platforms": [
+        {
+          "id": 76, 
+          "name": "Leapster", 
+          "short": "LEAP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bigfoot: King of Crush is a monster truck game for the Wii.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1819443-bigfoot_king_of_crush.jpg", 
+      "name": "Bigfoot: King of Crush", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Scooby-Doo and the gang are back on the Wii, DS, and PlayStation 2 to solve the mystery of a strange swamp girl and her cauldron of magical brew.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525240-box_sdatss.png", 
+      "name": "Scooby-Doo! and the Spooky Swamp", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Kid Adventures: Sky Captain is a flying game that includes three open worlds and several minigame missions.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5168, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1386451-991149_161079_front.jpg", 
+      "name": "Kid Adventures: Sky Captain", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Scooby-Doo! First Frights is an action platformer that features Scooby-Doo and the Gang as kids.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5169, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1141466-scoobydoo.jpg", 
+      "name": "Scooby-Doo! First Frights", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Staring the hero from JetPack Heroes, the player must collect letter as you race. It is a spelling game for the Didj. ", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5170, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/148570/2203130-racing.jpg", 
+      "name": "Didj Racing - Tiki Tropics", 
+      "platforms": [
+        {
+          "id": 129, 
+          "name": "Leapfrog Didj", 
+          "short": "DIDJ"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Monster Jam: Urban Assault is multi-platform game based on real life Monster Jam motorsport show", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1027804-977b4a8b8b0e.jpg", 
+      "name": "Monster Jam: Urban Assault", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "No info.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/830785-me0000983331_2.jpg", 
+      "name": "Backyard Football '09", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A racing game for the Wii where you race in the Indianapolis 500 circut.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/125537/1724190-giant_bomb_sub.jpg", 
+      "name": "Indianapolis 500 Legends", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Players compete in monster truck rallies as well as races through large destructible environments as any of the big name trucks such as Big Foot, Gravedigger, Maximum Destruction, and even Monster Mutt!", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817069-box_mjam.png", 
+      "name": "Monster Jam", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In Zoo Hospital, players begin with 10 wild animal species including: jaguar, zebra, chimp, panda, hyena, kangaroo, lion, eagle, cobra and the endangered fossa. Gamers must identify and treat their ailments, while checking vital signs and learning how to calm their stressed patients. Players use the Touch Screen and stylus to tackle challenging medical mini-games, including: administering injections, applying ointment, bandaging appendages, pulling teeth, x-raying organs and much more. ", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5175, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/549653-61pluh14bll.jpg", 
+      "name": "Zoo Hospital", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Football '08 is one in a series of fun, non-sim style sports titles from Atari. It features cartoon-style graphics and simple football gameplay.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/46484/1116955-backyardfootball08.jpg", 
+      "name": "Backyard Football '08", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cars is a game for the Leapster based on the Pixar/Disney film of the same name", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/962821-leapster5.jpg", 
+      "name": "Cars", 
+      "platforms": [
+        {
+          "id": 76, 
+          "name": "Leapster", 
+          "short": "LEAP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spider-Man once again faces his nemesis in the form of a playable Green Goblin.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284712-box_smbfny.png", 
+      "name": "Spider-Man: Battle for New York", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shrek Smash N' Crash Racing is a racing game for multiple platforms featuring characters and settings from the Shrek franchise.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284713-box_ssncr.png", 
+      "name": "Shrek Smash N' Crash Racing", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Football game for GBA.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2407373-backyard_sports_football_2007.jpg", 
+      "name": "Backyard Sports Football 2007", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A game based on the monkey that is a wee bit curious.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803612-box_cgeorge.png", 
+      "name": "Curious George", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Movie-inspired Fantastic Four game centered around the Human Torch. It was only released for Game Boy Advance.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280466-box_f4fo.png", 
+      "name": "Fantastic 4: Flame On", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gumby embarks on a journey to save his friends.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1102354-gumbyvstheastrobots.jpg", 
+      "name": "Gumby vs. the Astrobots", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fantastic Four is an action adventure game based on the 2005 film Fantastic Four. Players play as the characters of the Fantastic Four using combos and special attacks to fight their way through hordes of enemies and bosses.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280465-box_f4.png", 
+      "name": "Fantastic 4", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Go Diego Go! Animal Rescuer is a game for the Leapster", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/962828-leapster12.jpg", 
+      "name": "Go Diego Go! Animal Rescuer", 
+      "platforms": [
+        {
+          "id": 76, 
+          "name": "Leapster", 
+          "short": "LEAP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Solar Winds is a top down space fighter.", 
+      "developers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ], 
+      "id": 5247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2593/358356-ugly.gif", 
+      "name": "Solar Winds: The Escape", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A first person shooter developed by Torus games. The plot follows a black ops soldier recruited for the Sentinel project. You must locate a man named Landau, a scientist who turns out to be a traitor with a maniacal plan. ", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803116-box_ctsc.png", 
+      "name": "Classified: The Sentinel Crisis", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sonic X is a game for the Leapster", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2422158-2422157-leapster.jpg", 
+      "name": "Sonic X", 
+      "platforms": [
+        {
+          "id": 76, 
+          "name": "Leapster", 
+          "short": "LEAP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ice Nine is a FPS for GBA.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2407368-icenineboxart.jpg", 
+      "name": "Ice Nine", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A hunting game publised by Activision.", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2360855-box_cbgh05.png", 
+      "name": "Cabela's Big Game Hunter 2005 Adventures", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Operation Shadow is an ACtion Adventure game for the N-Gage", 
+      "developers": [
+        {
+          "id": 164, 
+          "name": "Torus Games Pty. Ltd."
+        }
+      ], 
+      "id": 5190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14811/366660-operation_shadow.jpg", 
+      "name": "Operation Shadow", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

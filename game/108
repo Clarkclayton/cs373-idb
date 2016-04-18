@@ -1,0 +1,1647 @@
+{
+  "games": [
+    {
+      "deck": "The second entry in Nadeo's \"Mania\" series, ShootMania: Storm is a first-person shooter that, like Trackmania, places a heavy emphasis on user-generated content.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4344/2431307-sm+storm+-+key+art+-+portrait+%2B+logo.jpg", 
+      "name": "ShootMania Storm", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The long-awaited full sequel to TrackMania is here! Drive fast and drift long in this crazy, physics-based fun racing game. Features gameplay similar to that of previous games in the series. The player can race on various tracks, with the ability to do stunts in various modes.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1868742-trackmania_2___canyon.jpg", 
+      "name": "TrackMania\u00b2 Canyon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "TrackMania Nations Forever is the updated version of the game TrackMania Nations ESWC and is available for download for free.  It was released at the same time as Trackmania United Forever and uses the same physics engine.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5872/192398-tmnfbox.jpg", 
+      "name": "TrackMania Nations Forever", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 50, 
+          "name": "Valve Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Considered to be the ultimate in nautical simulations, Virtual Skipper is back with a new edition which will delight all sailing fans and which highlights a magnificent campaign dedicated to the 32nd America\u2019s Cup. ", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/639878-32nd_america_s_cup_the_game.jpg", 
+      "name": "32nd America's Cup: The Game", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "TrackMania United compiles much of the content and concepts found in the previous TrackMania games while maintaining the same crazy driving and huge online feel.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/904/774627-trackmania.jpg", 
+      "name": "TrackMania United Forever", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Virtual Skipper series continues, updated with the 2005 ISF rule changes.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174044/2719838-4099531153-35978.jpg", 
+      "name": "Virtual Skipper 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Trackmania Nations ESWC is a version of Trackmania that was released for free in 2006 to be featured in the upcoming Electronic Sports World Cup of that year.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5872/191142-tmnbox.jpg", 
+      "name": "TrackMania Nations ESWC", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 50, 
+          "name": "Valve Corporation"
+        }, 
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ]
+    }, 
+    {
+      "deck": "TrackMania Sunrise is the sequel to TrackMania and featured 3 new environments and new game modes.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5349, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/705322-box_l.jpg", 
+      "name": "TrackMania Sunrise", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take part in realistic sailing races in six water stretches around the world.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174044/2719837-1465821926-Virtu.jpg", 
+      "name": "Virtual Skipper 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5351, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/745268-trackmania_power_up_pc.jpg", 
+      "name": "TrackMania: Power Up!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "TrackMania is the first in a series of games where you race along a narrow track featuring insane jumps, loops and excessive speed.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5352, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210199-box_tmania.png", 
+      "name": "TrackMania", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second installment in a long line of international sail racing simulators.", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5353, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174044/2719836-7900181782-pres_.jpg", 
+      "name": "Virtual Skipper 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5354, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4757/296491-00010622.jpg", 
+      "name": "Virtual Skipper", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Questmania is the third game in Nadeo's \"Mania\" series of user-generated content-focused games, this time with an RPG slant!", 
+      "developers": [
+        {
+          "id": 170, 
+          "name": "Nadeo"
+        }
+      ], 
+      "id": 5355, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1817/1405978-qm.jpg", 
+      "name": "QuestMania", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A persistent MMORPG set in the Warhammer 40k Universe and developed by Behaviour Interactive.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5356, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/156597/2497305-0370451108-xeter.jpg", 
+      "name": "Warhammer 40,000: Eternal Crusade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A vault management simulator from Bethesda, set in the Fallout universe.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5357, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2773118-untitled.jpg", 
+      "name": "Fallout Shelter", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action platformer based on the SpongeBob SquarePants franchise.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5358, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2726182-untitled.jpg", 
+      "name": "SpongeBob HeroPants", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Major League Baseball is getting into the video game business with the release of a new game that says \"RBI Baseball\" right on the (digital) cover.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5359, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/2610931-027854.jpg", 
+      "name": "R.B.I. Baseball 14", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Stop Plankton's robot army from getting the Krabby Patty secret formula", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5360, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525266-box_ssprr.png", 
+      "name": "SpongeBob SquarePants: Plankton's Robotic Revenge", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game across four Nintendo platforms that is based on the Cars spin-off film.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5361, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2500342-cropped.png", 
+      "name": "Planes", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Doritos-sponsored \"obstacle course\" platformer returns, bringing Avatars to new exotic locations while giving them crazy objectives and power-ups that can only come from spiced tortilla chips.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5362, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2437068-box_dcc2.png", 
+      "name": "Doritos Crash Course 2", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Doritos Crash Course comes to the Windows 8", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5363, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478650-box_dccgo.png", 
+      "name": "Doritos Crash Course GO", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The eponymous Naughty Bear is back in the sequel to 2010's Naughty Bear.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5364, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276019-box_nbpip.png", 
+      "name": "Naughty Bear: Panic in Paradise", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third game based on the TV-series.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5365, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2368433-box_wout3.png", 
+      "name": "Wipeout 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ice Age: Continental Drift - Arctic Games is an upcoming game based on the fourth movie. It is a minigame-centric title.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5366, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291750-box_iacdag.png", 
+      "name": "Ice Age: Continental Drift - Arctic Games", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Temple Run featuring the license of 2012's Disney/Pixar film.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2800311-temple+run+brave.png", 
+      "name": "Temple Run: Brave", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Voltron: Defender of the Universe is a game based on the identically named anime series of the 1980s. The game has since been delisted, making it unavailable to purchase.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5368, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1845434-box_vdotu.png", 
+      "name": "Voltron: Defender of the Universe", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Alvin &amp; The Chipmunks: Chipwrecked is a music game based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5369, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285614-box_aatccw.png", 
+      "name": "Alvin and the Chipmunks: Chipwrecked", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "ABC's TV show about fitness, abuse, and humiliation continues its march across consoles.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5370, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210207-box_wipeout2.png", 
+      "name": "Wipeout 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Transformers: War for Cybertron developers bring a movie-tie in game for Transformers: Dark of the Moon to home and portable consoles.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5371, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2207759-box_tfdotm.png", 
+      "name": "Transformers: Dark of the Moon", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Side-scrolling platformer MMO by Nickelodeon.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5372, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1998485-monkey_quest__logo_.jpg", 
+      "name": "Monkey Quest", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action-adventure game based on the Gore Verbinski/Johnny Depp animated movie of the same name.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5373, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285684-box_rango.png", 
+      "name": "Rango: The Video Game", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Guide your Avatar through a variety of obstacle courses in this free sidescrolling platformer based on Japanese-style \"obstacle course\" game shows (and, of course, Doritos-brand seasoned tortilla chips).", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5374, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1839016-box_dcc.png", 
+      "name": "Doritos Crash Course", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Naughty Bear is a third-person action game about a psychotic teddy bear that preys on the innocent inhabitants of an island because he was not invited to a birthday party.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5375, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1256634-xb360_boxart.jpg", 
+      "name": "Naughty Bear", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Traverse the nine circles of hell in EA's God of War clone named after the first cycle of Dante Alighieri's epic poem The Divine Comedy.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5376, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1871436-box_dinferno.png", 
+      "name": "Dante's Inferno", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP Mini bowling simulator. The game features five single-player modes and pass-and-play multiplayer for up to four players.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5377, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1283812-bowling_3d_psp_minisboxart_160w.jpg", 
+      "name": "Bowling 3D", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest game in the Scene It? series continues to have the great 4 player trivia action of the original games but will now be available on all three consoles.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5378, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1825110-box_sitblbs.png", 
+      "name": "Scene It? Bright Lights! Big Screen!", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An homage to obscene grindhouse-style movies, WET is a third-person action/shooter soaked in blood and violence. Featuring the voice acting talent of Eliza Dushku &amp; Alan Cumming.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5379, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824065-box_wet.png", 
+      "name": "WET", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shorts features 26 levels within 3 episodes. It is based on the Robert Rodriguez (Sin City, Spy Kids) family movie of the same name.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5380, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5327/1312341-shorts.jpg", 
+      "name": "Shorts", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in 1939, follow Indiana Jones as he searches all around the globe for the Staff of Moses.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5381, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285660-box_ijatsok.png", 
+      "name": "Indiana Jones and the Staff of Kings", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Sequel to the first Kung Fu Panda video game, Legendary warriors picks up where the movie left off.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5382, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284679-box_kfplw.png", 
+      "name": "Kung Fu Panda: Legendary Warriors", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Transformers Animated: The Game is a game for the Nintendo DS based on the Transformers Animated cartoon.  It is a puzzle game similar to The Lost Vikings.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5383, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2207756-box_tfatg.png", 
+      "name": "Transformers Animated: The Game", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the critically acclaimed Mercenaries: Playground of Destruction. Now set in war-torn Venezuela, the player again takes on contracts for various warring factions on a quest for payback.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5384, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246593-box_merc2.png", 
+      "name": "Mercenaries 2: World in Flames", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The classic Marvel superhero Iron Man steps into the world of video games in his own game based on the hit blockbuster film.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5385, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817646-box_ironman.png", 
+      "name": "Iron Man", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take Princess GIselle back home through the strange, chaotic world known as Manhattan.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5386, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1114183-enchanted.jpg", 
+      "name": "Enchanted: Once Upon Andalasia", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "High School Musical: Sing It! is a karaoke game based on Disney's smash hit High School Musical franchise, allowing players to sing their way through over 2 dozens tracks from or related to the movies.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5387, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/261533-high_school_musical.jpg", 
+      "name": "High School Musical: Sing It!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Power Rangers: Super Legends is a video game based on the action/adventure television franchise Power Rangers. It was released for the Nintendo DS (Oct 16th), PlayStation 2 (Oct 30th) and PC (Dec 5th). The game was released as part of the 15th Anniversary of Power Rangers.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5388, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367517-box_prsl.png", 
+      "name": "Power Rangers: Super Legends", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Join Zack and Cody on their second adventure on the DS.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5389, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/762416-939635_87950_front.jpg", 
+      "name": "The Suite Life of Zack & Cody: Circle of Spies", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Friend or Foe is a beat 'em up where Spider-Man teams up with his enemies to save the day and stop an unknown nemesis.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817080-box_smanfof.png", 
+      "name": "Spider-Man: Friend or Foe", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Travel across America as one of the six characters from High School Musical or create a new star of your own.", 
+      "developers": [
+        {
+          "id": 171, 
+          "name": "Behaviour Interactive"
+        }
+      ], 
+      "id": 5391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1114186-hsmmtc.jpg", 
+      "name": "High School Musical: Makin' the Cut!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

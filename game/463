@@ -1,0 +1,1389 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23095, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Run the Gauntlet", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/1226999-571763_32867_front.jpg", 
+      "name": "G.U.T.Z.", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Your plane has ditched on a plateau in Tibet.  You survive the crash but you soon discover that this plateau has been completely untouched by the passage of time and Dinosaurs still live.", 
+      "developers": [], 
+      "id": 23097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/615936-where_time_stood_still_7.gif", 
+      "name": "Where Time Stood Still", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23098, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "We Are the Champions", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "\"BEAT THE SYSTEM\" - crew the spaceship Firefly in a mighty battle to save our home planet from the mechanised aliens.", 
+      "developers": [], 
+      "id": 23099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34468/960887-scan0003a.jpg", 
+      "name": "Firefly", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Cabal is a behind-the-back shooter developed by TAD Coporation in 1988, mainly for arcades. The player is an unnamed military commando that travels to various enemy bases and attempts to obliterate them.", 
+      "developers": [], 
+      "id": 23100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361195-nes_cabal.jpg", 
+      "name": "Cabal", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A standard action platforming affair that is split into two parts.  In the first part the Penguin is trying to take over the world with his penguin robots and in the second part the Joker has kidnapped Robin.", 
+      "developers": [], 
+      "id": 23101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/705104-bat_cc.jpg", 
+      "name": "Batman: The Caped Crusader", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23102, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Game Set & Match", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Madballs", 
+      "developers": [], 
+      "id": 23103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1083084-madballs.jpg", 
+      "name": "Madballs", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi themed shooter.", 
+      "developers": [], 
+      "id": 23104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2771498-mutants+c64+cover+us.jpg", 
+      "name": "Mutants", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wizball is a shoot-em-up developed for many home computers and consoles by British studio Sensible Software. It follows the adventures of a wizard and his cat as they endeavor to bring color back to their world.", 
+      "developers": [], 
+      "id": 23105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9992/226826-256px_wizball_cover_art.jpg", 
+      "name": "Wizball", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1362082-emiliobutraguenofutbol.jpg", 
+      "name": "Emilio Butrague\u00f1o F\u00fatbol", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An American Football game released only in Europe.", 
+      "developers": [], 
+      "id": 23107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2783472-1994256688-54626.jpg", 
+      "name": "Super Bowl XX", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An isometric action-adventure game from 1986 based on the 1963 WWII POW movie.", 
+      "developers": [], 
+      "id": 23108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/730880-1087701597_00.gif", 
+      "name": "The Great Escape", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "V was released in 1986 by Ocean.", 
+      "developers": [], 
+      "id": 23109, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "V: The Computer Game", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This game was the first videogame tie-in of the Highlander franchise. This action/beat-em-up game was not acclaimed, nor was it very popular.", 
+      "developers": [], 
+      "id": 23110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4560/493132-highlander.jpg", 
+      "name": "Highlander", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A flipscreen action-adventure set within the Castle of Kandar where the player guides the main character around in search of 'the secret'.", 
+      "developers": [], 
+      "id": 23111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2751225-secret_of_kandar_c64_1_1.jpg", 
+      "name": "Secret of Kandar", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ocean produced this Commodore 64 and ZX Spectrum game in 1985.", 
+      "developers": [], 
+      "id": 23112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2297506-transformers_c64.jpeg", 
+      "name": "Transformers", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1362021-1_1.jpg", 
+      "name": "Cosmic Wartoad", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Frankie Goes to Hollywood is an action adventure game featuring the band of the same name.", 
+      "developers": [], 
+      "id": 23114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39474/1228014-frankie_ad__article_image.jpg", 
+      "name": "Frankie Goes to Hollywood", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1362020-274_1.jpg", 
+      "name": "Cavelon", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Inspired by Sega's maze-action arcade coin-op Pengo this game invites the player into the Arctic to join Eskimo Eddie's adventures with his faithful Penguin Percy.", 
+      "developers": [], 
+      "id": 23116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2718464-eskimo_eddie_c64_1_1.jpg", 
+      "name": "Eskimo Eddie", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A maze game about an android.", 
+      "developers": [], 
+      "id": 23117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1383426-androidtwo2.gif", 
+      "name": "Android Two", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "On a quest to escape the planet Steps, Pogo must color all of the 28 steps in each level of the game.", 
+      "developers": [], 
+      "id": 23118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/46130/1405979-pogo_zafichip_.jpg", 
+      "name": "Pogo", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "As Quasimodo, the hunchback of Notre-Dame, players must ring bells while avoiding myriad obstacles.", 
+      "developers": [], 
+      "id": 23119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1362066-764_1.jpg", 
+      "name": "Hunchback", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 51, 
+          "name": "Dragon 32/64", 
+          "short": "DRAG"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A UK only ZX Spectrum release that was a rip off of Donkey Kong.", 
+      "developers": [], 
+      "id": 23120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1356640-kong_2.gif", 
+      "name": "Kong", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1119542-ivanhoe___front.jpg", 
+      "name": "Ivanhoe", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This title was a compilation of games (7 games plus one added for free)", 
+      "developers": [], 
+      "id": 23122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/137417/2350220-spectrum_compilations_magnificent_7.jpg", 
+      "name": "The Magnificent Seven", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34468/960919-scan0013.jpg", 
+      "name": "Live Ammo", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/869148-eco___front.jpg", 
+      "name": "Eco", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Crossfighter is the fourth installment of the arcade shooter Crossfire.", 
+      "developers": [], 
+      "id": 23125, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2675973-3686357268-2_sup.jpg", 
+      "name": "Super Crossfighter", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 493, 
+          "name": "Radiangames"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nun Attack Origins: Yuki's Silent Quest is an tactical action game from Frima Studio.", 
+      "developers": [], 
+      "id": 23126, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2673672-jrsiekn3eua-ziab05enpale530ddjboorcewxu7d1tjvnkaupp-ljba3x1vmic_xr4%3Dw300-rw.jpg", 
+      "name": "Nun Attack Origins: Yuki's Silent Quest", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 494, 
+          "name": "Frima Studio"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kawasaki Fantasy Motocross", 
+      "developers": [], 
+      "id": 23127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1088390-motocross.jpg", 
+      "name": "Kawasaki Fantasy Motocross", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 498, 
+          "name": "Nitro Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game for the Nintendo 3DS eShop.", 
+      "developers": [], 
+      "id": 23128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2173644-pyramids.jpg", 
+      "name": "Pyramids", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 500, 
+          "name": "Enjoy Gaming Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gummy Bears Magical Medallion is a 2d platformer for the Nintendo Wii.", 
+      "developers": [], 
+      "id": 23129, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/140706/2094892-gbmm_wii_box_front_jam.jpg", 
+      "name": "Gummy Bears Magical Medallion", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 500, 
+          "name": "Enjoy Gaming Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "The inevitable tie-in to the 2011 movie, Beastly for the Nintendo Wii is a collection of minigames based on a particularly shallow retelling of Beauty and the Beast, where \"baldness and tattoos\" apparently means \"hideous beyond belief\".", 
+      "developers": [], 
+      "id": 23130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35888/1702012-beastly_cover.jpg", 
+      "name": "Beastly", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 500, 
+          "name": "Enjoy Gaming Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection of casino games.", 
+      "developers": [], 
+      "id": 23131, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2612450-cruise+party+tile.jpg", 
+      "name": "Cruise Party", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 500, 
+          "name": "Enjoy Gaming Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "Brain Drain from Enjoy Gaming Ltd.", 
+      "developers": [], 
+      "id": 23132, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Brain Drain", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 500, 
+          "name": "Enjoy Gaming Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free to play MMO set in the Drakensang universe.", 
+      "developers": [], 
+      "id": 23133, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164160/2281758-do.jpg", 
+      "name": "Drakensang Online", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow-up to Hatoful Boyfriend.", 
+      "developers": [], 
+      "id": 23134, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/76733/2806594-holiday.png", 
+      "name": "Hatoful Boyfriend: Holiday Star", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 517, 
+          "name": "Mediatonic"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down space simulator with roguelike elements.", 
+      "developers": [], 
+      "id": 23135, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/20/207194/2583690-5008339996-21594.png", 
+      "name": "Jameson The Pilot", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 518, 
+          "name": "11 Bit Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Simplistic Puzzler", 
+      "developers": [], 
+      "id": 23136, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1682720-i352789149_jpg_180x180_q85.jpg", 
+      "name": "Escape - Norm's World XL", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Race to the bottom of the screen as fast as you can while avoiding the many obstacles thrown at you", 
+      "developers": [], 
+      "id": 23137, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1682741-i336712479_jpg_180x180_q85.jpg", 
+      "name": "Cliffed", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure game.", 
+      "developers": [], 
+      "id": 23138, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2735926-29307523752130940123895701342.jpg", 
+      "name": "Oceanhorn: Monster of Uncharted Seas", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Banana Kong pays homage to classic platformers while elegantly re-imagining the genre as an endless runner for iPhone and iPad. With beautiful hand-drawn graphics, ultra-fast game-play, and simple touch controls, it'll keep you entertained for hours.", 
+      "developers": [], 
+      "id": 23139, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/148820/2424461-banana_kong_510040874_ipad_02.jpg", 
+      "name": "Banana Kong", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzler for your iDevice", 
+      "developers": [], 
+      "id": 23140, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1689144-i386303262_jpg_180x180_q85.jpg", 
+      "name": "Beyond Ynth", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "TNA Wrestling iMPACT! is the second TNA game for the iPhone.", 
+      "developers": [], 
+      "id": 23141, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2201233-logo.png", 
+      "name": "TNA Wrestling iMPACT!", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Yamasa Digi World: Collaboration SP Pachi-Slot Ridge Racer is a pachi-slot game based on Namco's Ridge Racer series.", 
+      "developers": [], 
+      "id": 23142, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2589805-1558495984-94568.jpg", 
+      "name": "Yamasa Digi World: Collaboration SP Pachi-Slot Ridge Racer", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "PlayStation 2 remake of the original Tales of Destiny by Namco Tales Studio, with renewed graphics, revised plot for consistence with the sequel Tales of Destiny 2 and the most fast-paced battle system in the series so far.", 
+      "developers": [], 
+      "id": 23143, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/388788-934092_77394_front.jpg", 
+      "name": "Tales of Destiny", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Berenstain Bears go on a night-time adventure through the forest.", 
+      "developers": [], 
+      "id": 23144, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1102353-beren.jpg", 
+      "name": "The Berenstain Bears and the Spooky Old Tree", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }
+  ]
+}

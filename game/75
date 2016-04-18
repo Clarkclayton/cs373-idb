@@ -1,0 +1,1501 @@
+{
+  "games": [
+    {
+      "deck": "R.C Pro-Am II is an isometric track racer with power ups for the NES. It boasts a variety of themed tracks aswell as vehicles.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3693, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362149-nes_rcproam2_4.jpg", 
+      "name": "R.C. Pro-Am II", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "In Championship Pro-Am players race remote-controlled cars on eight different tracks.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3694, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/848270-925728_61510_front.jpg", 
+      "name": "Championship Pro-Am", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as the 'Ghost with the Most', Betelgeuse, in this LJN movie-licensed platformer.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3695, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361167-nes_beetlejuice.jpg", 
+      "name": "Beetlejuice", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3696, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/236052-sesame_street_abc___123.jpg", 
+      "name": "Sesame Street 1 2 3/A B C", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The original NES Wheel of Fortune game, based on the popular TV game show.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362601-nes_wheeloffortune.jpg", 
+      "name": "Wheel of Fortune", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Attila and Genghis as you try to rescue Sonia Snake from the Nasty Nibbler in this sequel to Snake, Rattle, &amp; Roll.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3697, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19306/1397085-sneakysnakessmall.jpg", 
+      "name": "Sneaky Snakes", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Not to be confused with the Arcade game with the same name, this game to Game Boy was published by LJN.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3698, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2218/1332430-563306_92518_front.jpg", 
+      "name": "WWF Superstars", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A genre-defying tale of two toads' quest to rescue their kidnapped friends from the clenches of the Dark Queen. Where Frogger brought frogs to the forefront of videogaming, Battletoads taught children that toads weren't frogs and were here to kick some ass.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3699, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361165-nes_battletoads.jpg", 
+      "name": "Battletoads", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A sequel to the NES racing game R.C. Pro-Am, where players aim to win the Nintendo Championship Cup.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3700, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1087/366927-super_rc_pro_am_cover.jpg", 
+      "name": "Super R.C. Pro-Am", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The last Jeopardy developed by Rare, this version updated the game with more questions and trivia. ", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2618607-2019594706-49277.jpg", 
+      "name": "Jeopardy! 25th Anniversary Edition", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Solar Jetman is a multi-directional shooter where players must navigate a jet pod through alien planets while juggling the effects of gravity, the towing of cargo and enemy fire.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3702, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362244-nes_solarjetman_2.jpg", 
+      "name": "Solar Jetman: Hunt for the Golden Warpship", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Arguably the least known game in the Wizards & Warriors franchise (although apparently widely spread in Europe). It was released in 1990 for the Gameboy.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/21226/808456-wizards___warriors_chapter_x___the_fortress_of_fear_coverart.png", 
+      "name": "Wizards & Warriors Chapter X: The Fortress of Fear", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Published by LJN and developed by Rare, this gem was released to the NES 1990.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362626-nes_wwfwrestlemania_eu.jpg", 
+      "name": "WWF WrestleMania Challenge", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Essentially 3-D Arkanoid, Super Glove Ball was one of only two games designed specifically with the Nintendo Power Glove peripheral in mind.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3705, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1186157-sg.jpg", 
+      "name": "Super Glove Ball", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Control Spider-Man, and fight his old enemies to save Spidey's beloved.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3706, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/21226/821697-spiderman.png", 
+      "name": "The Amazing Spider-Man", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "An isometric action platformer developed by Rare for the NES.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362234-nes_snakerattlenroll_ca.jpg", 
+      "name": "Snake Rattle 'n Roll", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Captain Skyhawk, players take the role of a pilot trying to thwart an alien invasion of Earth in this isometric shooter for the NES.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3708, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361197-nes_captainskyhawk.jpg", 
+      "name": "Captain Skyhawk", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A game show game based upon the classic Nickelodeon game show of the same name.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3709, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/213075-double_dare.jpg", 
+      "name": "Double Dare", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The NES version had up to 3 players compete against one another or the computer in a simulated event of the popular game show, \"Wheel of Fortune\".  ", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3710, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362600-nes_wheeloffortunefamilyedition.jpg", 
+      "name": "Wheel of Fortune: Family Edition", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Wizards and Warriors trilogy. It is often seen as the most difficult entry in the series.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3711, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361867-nes_wizardsandwarriors2.jpg", 
+      "name": "Ironsword: Wizards & Warriors II", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based the \"A Nightmare on Elm Street\" slasher film series in which the player must collect Freddy Krueger's bones and try to kill him once and for all.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361104-nes_nightmareonelmstreet.jpg", 
+      "name": "A Nightmare on Elm Street", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3713, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362597-nes_wheeloffortunejunioredition.jpg", 
+      "name": "Wheel of Fortune: Junior Edition", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The year is 2999, and it's up to you to stop Earth from being sieged by time-travelling armies and aliens.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3714, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362312-nes_timelord.jpg", 
+      "name": "Time Lord", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A NES Edutainment game for younger players, featuring characters from Jim Henson's Sesame Street. This one focuses on letters and spatial awareness.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1175544-ss.jpg", 
+      "name": "Sesame Street A B C", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 1-on-1 battle between the titular 80s hoop stars. Who will triumph? The dead-eye jumpshots of Larry Bird or the anti-gravity dunks of Michael Jordan?", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370665-genesis_jordanvsbird.jpg", 
+      "name": "Jordan vs. Bird: One-on-One", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cobra triangle is mission based boat game developed by Rare for the NES", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361236-nes_cobratriangle.jpg", 
+      "name": "Cobra Triangle", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tarot card simulator and one of the few licensed NES games to feature nudity.  It came in a silk pouch to add to the creepiness.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362288-nes_taboo.jpg", 
+      "name": "Taboo: The Sixth Sense", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "WWF WrestleMania is the first home console wrestling game featuring the superstars of the World Wrestling Federation.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362623-nes_wwfwrestlemania.jpg", 
+      "name": "WWF WrestleMania", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Created by Merv Griffin in 1964, Jeopardy is a trivia-based gameshow which was later syndicated and hosted from the point of syndication (1984) by Alex Trebek. The popularity of the show has caused it to be ported in various incarnations throughout the years.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361891-nes_jeopardy.jpg", 
+      "name": "Jeopardy!", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }, 
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the first ultra-violent arcade games to be released. With extreme violence being the main draw. This classic also featured a moral message about drugs. This game was remade in 2005.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3721, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/221848-narc.jpg", 
+      "name": "NARC", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The 1988 GameTek adaptation of the celebrity-focused trivia game show, based on the classic pen and paper game Tic-Tac-Toe. The player and their opponent allows the host ask celebrities questions and then determine if they are correct or not.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3722, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361814-nes_hollywoodsquares.jpg", 
+      "name": "Hollywood Squares", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Junior edition of Jeopardy made for the NES focused more on pop culture questions and had kid avatars for the players. ", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3723, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361890-nes_jeopardyjunioredition.jpg", 
+      "name": "Jeopardy! Junior Edition", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Command a submarine in the Pacific during World War 2.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/236442-silent_service.jpg", 
+      "name": "Silent Service", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "3D eye spy game", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/779330-ispy.jpg", 
+      "name": "Ultimate I Spy", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "R.C. Pro-Am is a combat racing game that was developed by Rare in 1988. ", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/783217-587546_46971_front.jpg", 
+      "name": "R.C. Pro-Am", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG developed by Rare Ltd. and the first in a trilogy of games for the NES. The game features a swordsman named Kuros saving a number of damsels in distress on his way to defeat the evil wizard Malkil.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362614-nes_wizardsandwarriors.jpg", 
+      "name": "Wizards & Warriors", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Skiing game for the NES that was eagerly anticipated by some and is generally considered to have not met those expectations.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362235-nes_slalom.jpg", 
+      "name": "Slalom", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pin*Bot is a pinball machine which has also been ported to the NES and Nintendo's PlayChoice-10 arcade system.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/783177-587511_46963_front.jpg", 
+      "name": "Pin*Bot", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Compete in a range of sporting events around the world.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3731, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9450/1364368-world_gamesc64.jpg", 
+      "name": "World Games", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Run the red light and outrun the cops on this classic pinball machine.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1155252-highspeed.jpg", 
+      "name": "High Speed", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/765392-dragonskulle_title.png", 
+      "name": "Dragonskulle", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sabreman must search out the lost sections of the Wulf amulet in this colourful flick screen maze game whilst fighting off the many beasts, and the Wulf itself, that inhabit the jungle before making his final escape.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7663/395575-s_wulf.jpg", 
+      "name": "Sabre Wulf", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A classic game from the Stamper brothers and Ultimate Play The Game.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/788362-gunfright.gif", 
+      "name": "Gunfright", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Imhotep is an Egyptian-themed shooter for the Commodore 64, released in 1985 by Ultimate Play The Game.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/759533-imhotep_cover.png", 
+      "name": "Imhotep", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Isometric adventure game by Ultimate using the Filmation II engine with scrolling backgrounds.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7663/396163-nightshade_ad.jpg", 
+      "name": "Nightshade", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the popular Jetpac", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/888522-lunarjetman.jpg", 
+      "name": "Lunar Jetman", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Jetpac is a 2D shooter for the BBC Micro, ZX Spectrum and VIC-20. The game was developed by Rare and released in 1983.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/888517-jetpac_coverart.png", 
+      "name": "Jetpac", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This culinary action game definitely isn't a Burgertime rip-off", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/70/340066-cookie.jpg", 
+      "name": "Cookie", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "As Robbie the Robot, players must protect a plant from various insects.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/888523-pssst.jpg", 
+      "name": "Pssst", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Atic Atac is an action/maze game which was developed and released by Ultimate Play The Game in 1983. It was written by Tim Stamper and Chris Stamper.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2267/300993-atic_atac_coverart.png", 
+      "name": "Atic Atac", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

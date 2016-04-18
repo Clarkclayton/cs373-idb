@@ -1,0 +1,1857 @@
+{
+  "games": [
+    {
+      "deck": "A vertical shoot 'em up and one of the earliest Sega Master System exclusives.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12082, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2728346-7495231527-30656.jpg", 
+      "name": "Satellite 7", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Carnival is an arcade game released in 1980 by Sega. It was ported to various consoles of the day.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/812031-carnival.jpg", 
+      "name": "Carnival", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The original Great Baseball, part of Sega's series of Great sports games for the Sega Master System. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2375575-great_baseball_sms_jp.jpg", 
+      "name": "Great Baseball", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One of the earliest Master System games, Pit Pot is an action-adventure game where the player controls a mallet-wielding knight trying to rescue a princess from a castle full of monsters.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12084, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2476264-pp.jpg", 
+      "name": "Fushigi no Oshiro Pit Pot", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in Sega's Great series of Sega Master System sports games, released shortly after the console's launch in Japan. The game was never released in the US.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12085, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2375569-great_soccer_c_sms_eu.jpg", 
+      "name": "Great Soccer", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released for the arcades by Sega in 1985, this was an early third-person golf game that featured motion controls. A metal swing stick allows players to swing much like normal golfers do, letting players hit the ball as hard or as soft as they wish.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12086, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/1970053-4247_1.png", 
+      "name": "Crowns Golf In Hawaii", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A run &amp; gun shooter arcade game released by Sega in 1985, also known as Sega Ninja or The Ninja.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12087, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1771795-giant_bomb_sub_2.jpg", 
+      "name": "Ninja Princess", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person jet fighter simulation game created for the Japanese MSX and ported to the Sega Master System. Also known as F-16 Fighter. The goal is to fly an F-16 and take down opponents in dogfights.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362889-sms_f16fighter_au.jpg", 
+      "name": "F-16 Fighting Falcon", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players control Flicky, a bird who must escort chicks to the exit door while avoiding cats.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370563-genesis_flicky_ca_cropped.jpg", 
+      "name": "Flicky", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Golgo-13 shooting game, released on the SG-1000 in 1984.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2359842-916286_8535_front.jpeg", 
+      "name": "Golgo 13", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally released on the SG-1000, Champion Soccer was later released on the MSX in 1984. The game is a simplistic soccer simulator.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1765721-951421_108888_front.jpg", 
+      "name": "Champion Soccer", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega's Champion Tennis on the SG-1000.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2805981-6903052552-31927.jpg", 
+      "name": "Champion Tennis", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A business simulation game for the Commodore 64 and the SC-3000.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/131447/2446623-2110285053-603px.jpg", 
+      "name": "Ice Cream Stall", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A second Sega-1000 pachinko simulator", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2810604-6780663444-31928.jpg", 
+      "name": "Pachinko II", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This shape-based Russian mind-bender set the stage for innumerable puzzle games to follow.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362306-nes_tetris.jpg", 
+      "name": "Tetris", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A simplistic boxing game released on the SG-1000, MSX, and arcade, by Sega in 1983.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1765795-916301_116343_front.jpg", 
+      "name": "Champion Boxing", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pachinko simulator for the Sega SG-1000", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2810603-7616420137-31927.jpg", 
+      "name": "Pachinko", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/690532-1166204951_00.png", 
+      "name": "Thunderground", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1983 arcade game developed by SEGA. The player controls a ship that is being fired upon by aircraft and enemy ships.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2571110-yamato_title.png", 
+      "name": "Yamato", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the Japanese anime of the same name, Albegas was a 1983 laserdisc game by Sega that differentiated itself by allowing the choice of different paths to take throughout the game. Bally Midway released the game in North America as Cybernaut in March 1984.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2506144-6650816256-albeg.jpg", 
+      "name": "Albegas", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Laserdisc alien shooter. Originally a arcade game , now on emulators.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93124/1408738-gr.jpg", 
+      "name": "Galaxy Ranger", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A treasure-hunting maze game where Sindbad (also known as Sinbad the Sailor) must search for treasure in multi-layered, isometric-like, levels. While doing so, he must avoid enemies, which Sindbad can hold-up by digging holes or using the environment.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2788828-2888291153-smfly.jpg", 
+      "name": "Sindbad Mystery", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the first Laserdisc games, made in 1982 and using technology pioneered by SEGA. Following its 1982 debut, it was released in Japan in May 1983 and worldwide several months later.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93124/1408777-ab.jpg", 
+      "name": "Astron Belt", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade title developed by Sega that is very similar to classic arcade games of the time.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366056-a5200_congobongo.jpg", 
+      "name": "Congo Bongo", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally released as Zoom 909 in Japan, the Buck Rogers: Planet of Zoom arcade game is a forward-scrolling, pseudo-3D, third-person rail shooter, released by Sega in 1982.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2727403-4930464614-16218.jpg", 
+      "name": "Buck Rogers: Planet of Zoom", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366237-a5200_startrek.jpg", 
+      "name": "Star Trek: Strategic Operations Simulator", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A vehicle-action arcade game released by Sega in 1982. It was the first attempt at a train simulator and featured background music based on Yellow Magic Orchetra's 1979 hit \"Rydeen\".", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2579820-1727514573-slarc.png", 
+      "name": "Super Locomotive", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A simple puzzle game created in 1980 by Hiroyuki Imabayashi and published by Thinking Rabbit in 1982.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173599-sokoban_fm_7.jpg", 
+      "name": "Sokoban", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fight the space dragon in Super Zaxxon, a more challenging update to Sega's isometric shooter, Zaxxon.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45471/1335945-1588_1.jpg", 
+      "name": "Super Zaxxon", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D side-scrolling platformer with a main character that resembles Alex Kidd. He has a giant fist that is, and he uses it to defend this haunted House from none other than Dracula. It was originally the 1982 arcade game Monster Bash.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362899-ms_ghosthouse_2_eu.jpg", 
+      "name": "Ghost House", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This early example of 3D gaming has players fire rockets from a submarine at incoming ships and UFOs. It was the first video game to use stereoscopic 3D, and the first commercial product to use active-shutter-based stereoscopic 3D.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2727374-subroc-3d+flyer.jpg", 
+      "name": "Subroc-3D", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2617007-0453177928-45737.jpg", 
+      "name": "Tac-Scan", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zaxxon is an arcade shooter developed by Sega, along with assistance from Ikegami Tsushinki. When it was first released, Zaxxon's isometric projection was considered ground-breaking and original, giving players the sense that they were playing in 3-D.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1212207-16237501.jpg", 
+      "name": "Zaxxon", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1981 boxing game from Sega. It introduced a pressure-sensitive boxing bag controller to measure a player's punching power.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2556047-16016901.jpg", 
+      "name": "KO Punch", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released by Sega in 1981, 005 was an early arcade game that employed stealth elements. A spy armed only with a gas canister must avoid enemies as he makes his way through buildings and warehouses, where he will need to dodge enemy flashlights and use boxes as hiding spots.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2701847-8621898274-16036.jpg", 
+      "name": "005", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Turbo is an early racer released by Sega in 1981, using a third-person rear-view racer format nearly a year before Pole Position. The ColecoVision port featured a racing wheel and gas pedal peripheral to simulate the arcade experience of the original.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2595977-16017201.jpg", 
+      "name": "Turbo", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released by Sega in 1981, Space Fury was the first video game to feature colour vector graphics. It also featured ship power-ups.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1315675-spacefurymarquee.jpg", 
+      "name": "Space Fury", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tactical maze shooter released by Sega in 1981. It has a mixture of vertical scrolling run &amp; gun shooting and maze digging.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2788763-8115720196-15142.jpg", 
+      "name": "Borderline", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early 2D shoot 'em up featuring both side-scrolling and vertical scrolling segments.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2788817-7739832992-16039.jpg", 
+      "name": "Space Odyssey", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Vertical shooter released by Sega in 1981.  Featured digital speech and multiple stages.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3568/324745-astroblaster01.jpg", 
+      "name": "Astro Blaster", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade first-person space shooter released by Sega in 1980. It featured early 3-D effects, such as sprite scaling and a motion cabinet where the screen mobilizes as the player aims a centred crosshair and lasers shoot into the screen. Five bases need to be defended and can be commanded to fire shots, and an energy shield is available for protection.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/1917557-107441501.jpg", 
+      "name": "Space Tactics", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tranquilizer Gun is an arcade game released by Sega in 1980, and ported to the Master System in 1983. The goal is to sedate animals and get them to a vehicle before they wake up. It was included as a bonus game in the Dreamcast release of Dynamite Cop!.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30116/2649884-tranq.jpg", 
+      "name": "Tranquilizer Gun", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Samurai is the first known hack &amp; slash brawler, released by Sega in 1980. The player character is armed with a sword and simultaneously faces multiple opponents in an arena before facing a boss opponent.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/172348/2522515-9167796079-12981.jpg", 
+      "name": "Samurai", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released by Sega in 1979, Monaco GP was a vertical-scrolling racing game, notable for its early use of sprite-scaling, achieved without the use of a CPU.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12125, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2606847-107000901.jpg", 
+      "name": "Monaco GP", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12126, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Bowl", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2349606-26089.jpg", 
+      "name": "Bomber", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early motorbike racing game developed by Sega and published by Sega-Gremlin in 1976, based on the character Fonz from the TV show Happy Days. Versions of the game are also known as Man TT and Moto-Cross. It uses a pseudo-3D, third-person perspective.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/1917437-16442001.jpg", 
+      "name": "Fonz", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ali-Baba", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12129, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ali-Baba", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A boxing game from Sega, originally released in 1976. It was an early example of a fist-fighting game. A remake was later released in 1987.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1909674-hc.jpg", 
+      "name": "Heavyweight Champ", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early driving/racing game developed and published by Sega in early 1976. The game was notable for its introduction of a pseudo-3D, third-person perspective.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12131, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2596083-16008501.jpg", 
+      "name": "Road Race", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }
+  ]
+}

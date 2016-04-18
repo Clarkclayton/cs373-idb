@@ -1,0 +1,1624 @@
+{
+  "games": [
+    {
+      "deck": "NES game from Konami based on the 1980's TV Series. It used the same game engine as Metal Gear.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16136, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/2411184-2362072_nes_missionimpossible.jpg", 
+      "name": "Mission: Impossible", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rollergames is a game for the Nintendo Entertainment System developed by Konami.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16137, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362164-nes_rollergames_eu.jpg", 
+      "name": "Rollergames", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A skateboarding game released for the original Game Boy that featured side-scrolling/top-down platforming action.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16138, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2181146-cover.jpg", 
+      "name": "Skate or Die: Bad 'N Rad", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set over 200 years before the original game, the third installment of the Castlevania series tells the tale of Simon Belmont's ancestor Trevor, who seeks to destroy Dracula with the help of one of three possible companions.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16139, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361210-nes_castlevania3.jpg", 
+      "name": "Castlevania III: Dracula's Curse", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "In the Turtle's first adventure on the Game Boy, you must play as them to defeat Krang, Shredder and any evil minions that stand in your way. The game uses simple platforming mechanics.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16140, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/758641-teenage_mutant_ninja_turtles___fall_of_the_foot_clan_coverart.png", 
+      "name": "Teenage Mutant Ninja Turtles:  Fall of the Foot Clan", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Originally released for the Japan-exclusive MSX2 in 1990, this sequel is set four years after the Outer Heaven incident. New FOXHOUND commander, Roy Campbell, brings a shell-shocked Solid Snake back from early retirement to infiltrate the military nation Zanzibar Land.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16141, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/830050-mg2_cover.png", 
+      "name": "Metal Gear 2: Solid Snake", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Aliens: The Arcade Game. Released by Konami in 1990", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16142, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9674/890449-0003.png", 
+      "name": "Aliens", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An NFL football game for the Super Nintendo and Nintendo Game Boy developed by Konami. It is one of the earlier NFL games to use a dynamic camera that turns around to follows whichever side is playing offense.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16143, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2475969-konami.jpg", 
+      "name": "NFL Football", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A reimaging of Snatcher in the form of a \"super deformed\" RPG, exclusively released on the MSX2 platform in 1990.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16144, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/784006-front.png", 
+      "name": "SD Snatcher", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling shoot 'em up that is a Gradius parody - hence, \"Parodius\".", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16145, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362112-nes_parodius_eu.jpg", 
+      "name": "Parodius", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Konami-developed/Ultra Games-published horizontal space shooter, borrows the name of the European version of Gradius, as well as some elements from Gradius 1 and 2.  The end product is a game that has some new content, as well as some old.  This game was only released in North America and Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16146, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26763/1122730-box_scan015.jpg", 
+      "name": "Nemesis", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An unofficial action-packed sequel to the NES version of the original Metal Gear has Lt. Solid Snake and his team of operatives infiltrating an undisclosed nation to hunt down the successor of the original Metal Gear superweapon. It is considered to be the only published non-canon installment in Konami's franchise.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16147, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362060-nes_metalgear2_2.jpg", 
+      "name": "Snake's Revenge", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An original puzzle platformer from Konami, never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16148, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/545174-moai_kun_box.jpg", 
+      "name": "Moai Kun", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16149, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3161/318918-ganbare_goemon_gaiden__kieta_ougon_kiseru_japon.jpg", 
+      "name": "Ganbare Goemon Gaiden: Kieta Ougon Kiseru", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Motocross Maniacs is a side-scrolling motorcycle racing game developed by Konami.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2345127-box_mm.png", 
+      "name": "Motocross Maniacs", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The now widely available third installment to the Gradius franchise was the first to introduce customizable weapon sets and brief 2.5D action.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11236/327583-01_front.jpg", 
+      "name": "Gradius III", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quarth is an action/puzzle game released on multiple platforms.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2334962-quartharc.jpg", 
+      "name": "Quarth", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1989 arcade game by Konami. It is the sequel to Green Beret (AKA Rush'n Attack).", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/1657804-mia_sales_flyer.png", 
+      "name": "M.I.A.: Missing In Action", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the original NES game Top Gun.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362321-nes_topgun2.jpg", 
+      "name": "Top Gun: The Second Mission", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Several women have been kidnapped by a crime boss. It's your job to rescue them by beating up everyone in your way.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6182/1034402-crimefighters.jpg", 
+      "name": "Crime Fighters", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set a century before Simon Belmont's adventure, Castlevania: The Adventure entrusts the Vampire Killer whip to Christopher Belmont in the first handheld Castlevania game.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16156, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1773385-box_cvta.png", 
+      "name": "Castlevania: The Adventure", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A board game/racing game hybrid based on a miniature RC car toyline. It was developed and published by Konami exclusively for the Japanese Famicom.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2702547-racerminiyonku_fc.jpg", 
+      "name": "Racer Mini Yonku: Japan Cup", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based strategy game set in the Gradius universe and featuring some classic Gradius ships. The game is equipped with a battery back-up to store progress. It was marketed with a slogan that essentially translates to \"Gradius was only a skirmish!\"", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16158, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2390060-cosmic_wars.jpg", 
+      "name": "Cosmic Wars", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally appearing as an arcade game in 1989, the game has seen many re-releases in all of its years, but most recently it has appeared on the Xbox Live Marketplace.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/1482365-tmnt.jpg", 
+      "name": "Teenage Mutant Ninja Turtles", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fifth game in the cartoony series of Gradius clones.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1845668-box.jpg", 
+      "name": "Sexy Parodius", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Run, hurdle, dive, swim, shoot, hop, skip and jump your way to a gold medal in this seminal Olympic games-style effort from Konami", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362327-nes_trackandfieldii.jpg", 
+      "name": "Track & Field II", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Turtles' first appearance on the NES followed the fighting foursome as they attempt to defeat the evil Shredder. Featuring challenging platforming elements and open-world levels, the game quickly became one of the NES's best-selling titles.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362300-nes_tmnt.jpg", 
+      "name": "Teenage Mutant Ninja Turtles", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A baseball sim by Konami. It was released for the Famicom in Japan only.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2372396-ganbare_pennant_race_fc.jpg", 
+      "name": "Ganbare Pennant Race!", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES Motocross racing game developed and published by Konami and released in Japan only.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2370910-motocross_champion_fc.jpg", 
+      "name": "Motocross Champion", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in Konami's Ganbare Goemon series of bizarre action/brawler games based on historical figure Ishikawa Goemon. It was only released in Japan on January 4th 1989 on the Famicom.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/554823-ganbare_goemon_2_nes_box_front.jpg", 
+      "name": "Ganbare Goemon 2", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Track and field arcade video game based on the 1988 Summer Olympics in Seoul, South Korea.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2546180-0004.png", 
+      "name": "'88 Games", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game starring an archeologist on a quest to gain more treasure. Some of this game's music was later used in Castlevania: Portrait of Ruin.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1030254-918128_25419_front.jpg", 
+      "name": "King's Valley 2", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game of fortune telling and...penguins?", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/76355/1304930-konamis_uranai_sensation.1.jpg", 
+      "name": "Konami no Uranai Sensation", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Collect criminals while gunning down hundreds of others in this shooter from Konami.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16168, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2594662-18000301.jpg", 
+      "name": "Gang Busters", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early isometric 2D skating game published by EA.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16169, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362228-nes_skateordie.jpg", 
+      "name": "Skate or Die", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The follow-up to Konami's shoot-em-up Arcade classic Gradius. It had various home conversions, though was not available in the US until its Wii Virtual Console release.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16170, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361771-nes_gradius2_jap.jpg", 
+      "name": "Gradius II", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Get to the bottom of the mystery shrouding both a recent influx of body-snatching robotic terrorists and your own past as futuristic gumshoe Gillian Seed in this thrilling cinematic adventure. A Hideo Kojima adventure game originally released for the NEC PC-88 in 1988.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2782680-segacd.jpg", 
+      "name": "Snatcher", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Haunted Castle is an action horror platformer for the arcades and a loose remake of the original Castlevania.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2474815-untitled.png", 
+      "name": "Haunted Castle", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tennis game developed by Konami for the Famicom Disk System in 1988. The first in the Konamic series of sports games.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2357367-konamic_tennis_fds.jpg", 
+      "name": "Konamic Tennis", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Adventures of Bayou Billy is an action game released for the NES by Konami. The game is primarily a side-scrolling beat-em-up, but it also includes driving and shooting segments.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361120-nes_adventuresofbayoubilly.jpg", 
+      "name": "The Adventures of Bayou Billy", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Devastators is an early third-person shooter. Up to two players can take control of Rambo-style mercenaries with mullets.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16175, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7667/1315961-devastatorsafas.jpg", 
+      "name": "Devastators", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game starring former Japanese idol Risa Tachibana. It was developed for the Famicom Disk System by Konami in 1988 and released in Japan only.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2344196-risa_no_yosei_densetsu.jpg", 
+      "name": "Risa no Yousei Densetsu", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES adventure game developed by Konami that is based on a Japanese slice-of-life manga. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2348029-jarinko_chie_fc.gif", 
+      "name": "Jarinko Chie", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action platformer game released in 1988 by Konami for the Famicom Disk System and was later made available via the Wii Shop's Virtual Console.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4879/487563-medium.jpg", 
+      "name": "Bio Miracle Bokutte Upa", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An MSX-exclusive entry in the Gradius/Nemesis series of side-scrolling shooters.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126208/1870888-917744_90479_front.jpg", 
+      "name": "Nemesis 3: The Eve of Destruction", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game from Konami and part of their Exciting sports series for the Famicom Disk System.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2338393-exciting_soccer_konami_cup_fds_cover.jpg", 
+      "name": "Exciting Soccer: Konami Cup", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade game released in 1988 by Konami. Known as Nyan Nyan Panic in Japan", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1176/1518295-kitten.jpg", 
+      "name": "Kitten Kaboodle", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A difficult platformer with characters from the Konami world. You can play with Simon Belmont, Moai, Kong, Goemon, and others. It was never released in the U.S., but appears to have a fan-made translation patch.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/80790/1266245-waiwaiworld.jpg", 
+      "name": "Konami Wai Wai World", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Top Gun is a Konami air combat game loosely based on the film of the same name. The player, as Maverick, flies an an F-14 Tomcat through a series of missions.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362320-nes_topgun.jpg", 
+      "name": "Top Gun", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Super Contra, also known as Super C, is the sequel to Contra. In addition to side-scrolling levels like its predecessor, Super Contra introduces top-down levels, which replace the third-person segments of the original. The NES version, uses the same gameplay engine as the NES version of Contra, with some levels not featured in the arcade version.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2799396-7245693820-18113.jpg", 
+      "name": "Super C", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }
+  ]
+}

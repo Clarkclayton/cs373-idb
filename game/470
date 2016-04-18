@@ -1,0 +1,1542 @@
+{
+  "games": [
+    {
+      "deck": "Night Stalker is an action game with a treacherous maze full of robots, spiders, and bats. To survive means finding a gun and fighting back, six bullets at a time.", 
+      "developers": [], 
+      "id": 23445, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366973-intv_nightstalker_au.jpg", 
+      "name": "Night Stalker", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Frogs compete to zap flies within a time limit", 
+      "developers": [], 
+      "id": 23446, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366955-intv_frogbog.jpg", 
+      "name": "Frog Bog", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Major League Baseball became one of the most popular and best selling video game for the Intellivision in 1980.  After Mattel Electronics went out of business, M Network ported the game to the Atari 2600 and renamed it Super Challenge Baseball to avoid paying the MLB trademark license.", 
+      "developers": [], 
+      "id": 23447, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2348423-baseball.png", 
+      "name": "Major League Baseball", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shark! Shark! is a game where the player must eat fish to grow bigger while avoiding being eaten by sharks.", 
+      "developers": [], 
+      "id": 23448, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366980-intv_sharkshark.jpg", 
+      "name": "Shark! Shark!", 
+      "platforms": [
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mini-game collection comprised of four games targeted at younger audiences.", 
+      "developers": [], 
+      "id": 23449, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366981-intv_sharpshot_none.jpg", 
+      "name": "Sharp Shot", 
+      "platforms": [
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Strike is a pseudo 3D game that was first released on the Intellivision and later ported to the Atari 2600. The game is reminiscent of the \"Death Star Run\" from Star Wars.", 
+      "developers": [], 
+      "id": 23450, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366990-intv_starstrike_eu.jpg", 
+      "name": "Star Strike", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Space Armada is a Space Invaders clone that was released on the Intellivision.", 
+      "developers": [], 
+      "id": 23451, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366984-intv_spacearmada_au.jpg", 
+      "name": "Space Armada", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Space Hawk is an Intellivision shooter in which a spaceman flies around hunting down giant robotic space hawks.", 
+      "developers": [], 
+      "id": 23452, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366986-intv_spacehawk_none.jpg", 
+      "name": "Space Hawk", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Blast a never-ending onslaught of meteors, missiles, and UFOs out of the sky as a laser battery commander.", 
+      "developers": [], 
+      "id": 23453, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366937-intv_astrosmash_none.jpg", 
+      "name": "Astrosmash", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 86, 
+          "name": "Aquarius", 
+          "short": "AQUA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sub Hunt is an Intellivision game released in 1981, in which a fleet of subs must protect their homeland from invading ships.", 
+      "developers": [], 
+      "id": 23454, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366991-intv_subhunt.jpg", 
+      "name": "Sub Hunt", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Skiing game for the intellivision released in 1980.", 
+      "developers": [], 
+      "id": 23455, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2348429-ski.png", 
+      "name": "U.S. Ski Team Skiing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sea Battle is a two-player strategy game for the Intellivision in which two warring fleets fight to take over the opponent's harbor.", 
+      "developers": [], 
+      "id": 23456, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366979-intv_seabattle.jpg", 
+      "name": "Sea Battle", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A licensed golf game that was released for the Intellivision in 1980.", 
+      "developers": [], 
+      "id": 23457, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366957-intv_golf_au.jpg", 
+      "name": "PGA Golf", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Outer space action! You must outwit the computer-controlled invaders! Consult the situation map, deploy the defense. Switch to cockpit close-up. Fire lasers! Save the command ship! You do it all, amidst the simulated sounds of outer space combat.\"", 
+      "developers": [], 
+      "id": 23458, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366985-intv_spacebattle_none.jpg", 
+      "name": "Space Battle", 
+      "platforms": [
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Armor Battle is an Intellivision game for two players, and features two-on-two tank battles across hundreds of battlefields.", 
+      "developers": [], 
+      "id": 23459, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366935-intv_armorbattle.jpg", 
+      "name": "Armor Battle", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game.", 
+      "developers": [], 
+      "id": 23460, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366969-intv_naslsoccer.jpg", 
+      "name": "NASL Soccer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "GBA Championship Basketball: Two-on-Two is a basketball game released on multiple early home computers.", 
+      "developers": [], 
+      "id": 23461, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2162263-cover.jpg", 
+      "name": "GBA Championship Basketball: Two-on-Two", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23462, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Laser Surgeon: The Microscopic Mission", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sledgehammer Games was working on a new Call of Duty release, said to be an action-adventure.", 
+      "developers": [], 
+      "id": 23463, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Call of Duty Action-Adventure", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23464, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Paparazzi!: Tales of Tinseltown", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1987 for the Amstrad CPC, Commodore 64, and ZX Spectrum.", 
+      "developers": [], 
+      "id": 23465, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2260101-guadalcanal.jpg", 
+      "name": "Guadalcanal", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23466, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Prophecy: The Fall of Trinadon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23467, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/913/337923-386777389_794cdd1cc1.jpg", 
+      "name": "Tour De France", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based around the lovable Shamu from SeaWorld.", 
+      "developers": [], 
+      "id": 23468, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/627151-seaworld_ds.jpg", 
+      "name": "Sea World: Shamu's Deep Sea Adventures", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23469, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1707329-worm_womper_for_intellivision.jpg", 
+      "name": "Worm Whomper", 
+      "platforms": [
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "This ultimately-cancelled real-time strategy game set the player as the Borg Collective, tasked with assimilating and conquering the Alpha Quadrent.", 
+      "developers": [], 
+      "id": 23470, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2263943-stba.jpg", 
+      "name": "Star Trek: Borg Assimilator", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23471, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366938-intv_autoracing.jpg", 
+      "name": "Auto Racing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23472, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Fast Tracks: The Computer Slot Car Construction Kit", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23473, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/937753-gfl_championship_football___front.jpg", 
+      "name": "GFL Championship Football", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play Call of Duty game being released in China.", 
+      "developers": [], 
+      "id": 23474, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2723494-call-of-duty-online-2.jpg", 
+      "name": "Call of Duty Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Attempt to win trophies by catching various fish.", 
+      "developers": [], 
+      "id": 23475, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817662-box_rapalaff09.png", 
+      "name": "Rapala Fishing Frenzy 2009", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23476, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Power Game III", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game based on the movie of the same name.", 
+      "developers": [], 
+      "id": 23477, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4859/507651-1209_1.jpg", 
+      "name": "Predator 2", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23478, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1135775-killing_cloud_the.gif", 
+      "name": "Killing Cloud", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23479, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/631593-wings__1_.jpg", 
+      "name": "Wings", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A two-player competitive platformer game in which the goal is to carry water back to the player's spaceship. The lead programmer Bobby Earl went on to work on Wipeout, LittleBigPlanet and many more hits for Sony.", 
+      "developers": [], 
+      "id": 23480, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/376/1621597-flipmbox.jpg", 
+      "name": "Flip-it & Magnose", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An add-on data disc that required the original game to play, this game takes place five years after the first game.", 
+      "developers": [], 
+      "id": 23481, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1391923-antheads.jpg", 
+      "name": "Antheads: It Came from the Desert II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Isometric point and click adventure game.  The sequel to Legend of the Sword.", 
+      "developers": [], 
+      "id": 23482, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/894484-final_battle_the.gif", 
+      "name": "The Final Battle", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23483, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1093242-gravity.gif", 
+      "name": "Gravity", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as either Emperor Napoleon or Czar Alexander and re-fight the decisive battle of Austerlitz", 
+      "developers": [], 
+      "id": 23484, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/699560-austerlitz_cover.jpg", 
+      "name": "Austerlitz", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bloodwych is a classic Dungeon Crawler which features a split-screen two player mode in which each player controls a party of its own.", 
+      "developers": [], 
+      "id": 23485, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/699512-bloodwych_uk_box_art.jpg", 
+      "name": "Bloodwych", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Phobos has created 15 planets each based on something humans fear. 2 players are able to help each other at once.", 
+      "developers": [], 
+      "id": 23486, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1344873-phobia.jpg", 
+      "name": "Phobia", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fight through different World War III scenarios, NATO vs the Warsaw Pact. ", 
+      "developers": [], 
+      "id": 23487, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/833406-798431679764318.jpg", 
+      "name": "Conflict: Europe", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Your plane has crashed on an island in the Bermuda Triangle.  You must find a way to survive and rescue the other passengers.", 
+      "developers": [], 
+      "id": 23488, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/720563-bermudaproject.gif", 
+      "name": "Bermuda Project", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23489, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/694595-1075059429_00.gif", 
+      "name": "Sinbad and the Throne of the Falcon", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23490, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2586815-andy_capp.jpg", 
+      "name": "Andy Capp", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1314748-meanstreak___track1.jpg", 
+      "name": "Mean Streak", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "8-way scrolling shoot-em-up with a strategic overworld map for the c64 from Mirrorsoft.", 
+      "developers": [], 
+      "id": 23492, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1358806-raid2000___ingame1.jpg", 
+      "name": "Raid 2000", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in Medieval England, Defender of the Crown revolves around a Risk-like gameplay. It also features action sequences such as sword-fighting raids, jousting matches &amp; sieges involving catapulting at enemy castles.", 
+      "developers": [], 
+      "id": 23493, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361642-nes_defenderofthecrown_eu.jpg", 
+      "name": "Defender of the Crown", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "1986: Vertically scrolling shoot-em-up for the Spectrum with large detailed mono graphics (including an opportunity to blow up the Mona Lisa!)", 
+      "developers": [], 
+      "id": 23494, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1358818-moon_strike___title.jpg", 
+      "name": "Moon Strike", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }
+  ]
+}

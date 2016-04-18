@@ -1,0 +1,1386 @@
+{
+  "games": [
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16286, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mahjong Fight Club 4", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Inspired by the TV show of the same name, follow a penguin as he tries to solve his troubles through adventuring.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2714/887501-penguinadventure.jpg", 
+      "name": "Penguin no Mondai: Saikyou Penguin Densetsu!", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jikkyou Oshaberi Parodius is the fourth game in Konami's Parodius series. The game was first released for the Super Famicom in 1995 and ported with enhanced graphics to the Sega Saturn and Sony Playstation in 1996.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1732/959525-chatting_parodius.jpg", 
+      "name": "Jikkyou Oshaberi Parodius", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of \"New Love Plus\" with new locations, scenarios, and an overall upgraded experience.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/211697/2576072-3dsxl04.jpg", 
+      "name": "New LovePlus+", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1804107-saishuu_heiki_kanojo.jpg", 
+      "name": "Saishuu Heiki Kanojo", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A skincare game for your DS", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16291, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1012183-941274_91219_front.jpg", 
+      "name": "Saeki Chizu Shiki Yumemihada: Dream Skincare", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This was only released in Japan, on September 29th 1989.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/551440-twinbee_3_box_front.jpg", 
+      "name": "TwinBee 3: Poko Poko Daimaou", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16293, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mahjong Fight Club 7", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fantasy-themed vertical scrolling shooter released in 1986 for MSX, also available for Wii's Virtual Console in Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126208/1869920-knightmare.jpg", 
+      "name": "Knightmare", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade sequel to Salamander, which is known as Life Force outside Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16295, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2898/375533-salamander_2.jpg", 
+      "name": "Salamander 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tele-Shibai Wii is an educational Wii game only released in Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2350098-tele_shibai_wii_cover.jpg", 
+      "name": "Tele-Shibai Wii", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16297, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mahjong Fight Club 3", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Wi-Fi enabled mahjong game for the DS", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16298, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mahjong Fight Club DS: Wi-Fi Taiou", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the famous race around France, Tour de France is a cycling game for PS2 and Xbox from Konami.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16299, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1438411-tour_de_france_pal_ps2_front.jpg", 
+      "name": "Tour de France", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This was only released in Japan, on March 30th 1990.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16300, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2209070-nes.png", 
+      "name": "Mouryou Senki Madara", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Knightmare II: The Maze of Galious (Majou Densetsu II: Galious no Meikyuu in Japan) is a screen by screen action adventure platformer released originally for MSX in 1987. It can be considered an early example of a Metroidvania game with free exploration of a large castle.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16301, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126208/1870048-the_maze_of_galious__konami__front.jpg", 
+      "name": "Knightmare II: The Maze of Galious", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Powered by Unreal Engine 4, Fable Legends was meant to be a free to play 4 versus 1 multiplayer game, where 4 players control heroes while 1 player takes the role of the villain. Developed by Lionhead Studios for the Xbox One and PC. It was cancelled in March 2016", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/2643405-fable-legends-rgb-10a1ss-vert-12000-vertical-refjpg.jpg", 
+      "name": "Fable Legends", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Xbox 360 remastering of the original Fable game, including the extra (originally cut) content from Fable: The Lost Chapters. Released on February 4, 2014 in both boxed and digital forms.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16303, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/49445/2492013-uwrjqid.jpg", 
+      "name": "Fable Anniversary", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fable: The Journey is a Kinect shooter that may or may not be on-rails, but it is definitely set in the Fable world of Albion.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16304, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331110-box_fabletj.png", 
+      "name": "Fable: The Journey", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Heroes of Albion team up in this cooperative 4-player adventure game.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16305, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2146360-box_fableh.png", 
+      "name": "Fable Heroes", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fable Coin Golf is a Windows Phone 7 mini-golf styled game that allows players to earn gold in Fable III.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16306, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193498-box_fcg.png", 
+      "name": "Fable: Coin Golf", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third game in the Fable series sets you with the task of overthrowing your own brother, the tyrant ruler of Albion, as the kingdom enters the industrial era.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1886609-box_fable3.png", 
+      "name": "Fable III", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-oriented role-playing game set 500 years after the original Fable, this sequel starts players out in the role of a street urchin destined for greatness.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16308, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/24/221544-fable_ii.jpg", 
+      "name": "Fable II", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection of the three pub-style games in Fable II, originally released as a pre-order bonus for that game. Players transfer gold and exclusive items for their Heroes in Fable II.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16309, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841435-box_fable2pg.png", 
+      "name": "Fable II Pub Games", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stunts &amp; Effects is the expansion to The Movies and adds a variety of flashy movie-making abilities to the original game.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16310, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/270565-932332_74166_front.jpg", 
+      "name": "The Movies: Stunts & Effects", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battle of the Gods constitutes the final edition in Lionhead Studios' Black and White franchise, an overhead perspective city sim-type game in which the player plays the role of a god summoned by his people to aid them in a time of crisis.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16311, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/179113-932337_74171_front.jpg", 
+      "name": "Black & White 2: Battle of the Gods", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Movies immerses players into the world of movie making by letting them create their own studio, stars, and feature films while simulating the challenges and progressions of a real movie studio.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16312, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/430194-moviespremiere.jpg", 
+      "name": "The Movies", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of the original Fable featuring additional quests, armor, weapons, and explorable areas.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16313, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803629-box_fabletlc.png", 
+      "name": "Fable: The Lost Chapters", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Are you good or evil? This is the question that Black and White 2 asks as it puts you in the shoes of a god.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6384/629733-blackandwhite2boxart.jpg", 
+      "name": "Black & White 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fable is the first game in the Fable franchise, following the exploits of an unnamed Hero as he struggles to free Albion from the evil Jack Of Blades. Fable features a moral choice system, where your appearance changes depending on your actions.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16315, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2243846-box_fable.png", 
+      "name": "Fable", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16316, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/843434-front_cover.jpg", 
+      "name": "Black & White: Creature Isle", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A highly ambitious real-time strategy game, Black & White casts players in the role of a newborn god responsible for cultivating a loyal following of human worshipers and interacting with a sophisticated artificial intelligence in the shape of a large anthropomorphic animal.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16317, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3740/813169-black__26_white_coverart_1_.png", 
+      "name": "Black & White", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "During E3 2011, Peter Molyneux confirmed the existence of Fable IV by discussing how Fable: Journey fits within the series chronologically.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16318, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Fable IV", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Xbox pre-historic action adventure title went through years of development before officially being canceled in 2005.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16319, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1096788-bc102_96.jpg", 
+      "name": "B.C.", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Peter Molyneux's cancelled Kinect-based project. It features a young boy who interacts with the player by recognizing facial features and the tone of the player's voice.", 
+      "developers": [
+        {
+          "id": 582, 
+          "name": "Lionhead Studios Ltd."
+        }
+      ], 
+      "id": 16320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1042190-milo.jpg", 
+      "name": "Milo and Kate", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collectible card game by 2K Games featuring players from the NHL.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/29/297941/2789897-1030598443x356.jpg", 
+      "name": "NHL SuperCard", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An Evolve themed mobile match-three puzzle game.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2723641-rsz_qr-evolve-huntersquest.jpg", 
+      "name": "Evolve: Hunters Quest", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Build a deck and battle it out in this virtual card game for iOS and Android by 2K.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2670850-wwe+supercard.jpg", 
+      "name": "WWE SuperCard", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Let's Cheer! is a cheerleading/dancing game for the Xbox 360 Kinect.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16324, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525197-box_lc.png", 
+      "name": "Let's Cheer!", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "2K's Wii minigame series is now on the Xbox 360 with Kinect support.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16325, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1828894-box_cgmsmd.png", 
+      "name": "Carnival Games: Monkey See, Monkey Do!", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sequel to the multi-million selling mini-game compilation. Includes 30 new games as well as support for the motion plus peripheral.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16326, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5911/1405355-target_shoot.jpg", 
+      "name": "New Carnival Games", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Forty circus games. ", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1186821-circuswii.jpg", 
+      "name": "Ringling Bros. and Barnum & Bailey Circus", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A collection of party themed minigames.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16328, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1148609-i3g_fvvp6ow6b7_mzoy4jqalfnryc3vj.jpg", 
+      "name": "Birthday Party Bash", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Hot on the heels of the million-selling original, Carnival Games: Mini-Golf comes exclusively to the Wii and is home to larger-than-life, theme park style miniature golf courses. Whether back in time to the land of dinosaurs, keeping order in the Wild West or searching for a buried treasure in Pirate\u2019s Cove, the game combines traditional mini-golf fare with action-oriented game play - utilizing the unique capabilities of the Wii Remote. ", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14493/479196-us_front.jpg", 
+      "name": "Carnival Games Mini Golf", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "All the fun of a carnival, without leaving your sofa.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/855754-4z9ov9i.jpg", 
+      "name": "Carnival Games", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Create the ultimate shopping center, where you build up mountains of cash whilst keeping the customers happy.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/923158-55607_forside.jpg", 
+      "name": "Mall Tycoon 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Renegade Paintball is a game which simulates all types of paintball through single player and multiplayer matches.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803158-box_smrp.png", 
+      "name": "Renegade Paintball", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wildfire is a forest fire fighting strategy game. It forces players to contemplate the best plan of action in order to stop a fire.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3603/262252-wildfire_box.jpg", 
+      "name": "Wildfire", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A PC strategy cross tycoon game, set in a goofy fantasy world.  Control units, build cities, destroy evil.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16334, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/497/1860629-medieval_cover.jpg", 
+      "name": "Medieval Conquest", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Build and expand a school in School Tycoon.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16335, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5327/537282-school_tycoon_01.png", 
+      "name": "School Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

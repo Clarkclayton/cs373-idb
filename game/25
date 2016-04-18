@@ -1,0 +1,1733 @@
+{
+  "games": [
+    {
+      "deck": "An amiibo card-compatible game in which villagers that are scanned in via amiibo card ask the player to design a home for them (otherwise, they appear randomly) or given jobs in various places all over town.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2785815-hhdbox.jpg", 
+      "name": "Animal Crossing: Happy Home Designer", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A third-person shooter/platformer hybrid that lets players paint the environment in colored ink and turn into squids to quickly traverse it. Along with a solo adventure and local one-on-one multiplayer, the game's main focus is its 4-on-4 online multiplayer battles.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2717331-spratoonboxbig.jpg", 
+      "name": "Splatoon", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Xenoblade Chronicles X from MonolithSoft is an open-world action RPG about humanity escaping the destruction of earth and fighting off their attackers with transforming mechs on an alien planet. It is the spiritual successor to Xenoblade Chronicles.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2724633-xcxbox.jpg", 
+      "name": "Xenoblade Chronicles X", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first original The Legend of Zelda game on the Nintendo 3DS and also a direct sequel to The Legend of Zelda: A Link to the Past set six generations after.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2537465-albwcleanbox.jpg", 
+      "name": "The Legend of Zelda: A Link Between Worlds", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pikmin 3 stars three all-new main characters who end up on a planet full of Pikmin and various dangers. They have to coordinate to survive in this hostile but beautiful environment and taking advantage of the helpful little Pikmin (among them two new types!) might just be the only way to achieve that.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2490341-pikmin3.png", 
+      "name": "Pikmin 3", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The player takes the position of town mayor in this version of Animal Crossing for the Nintendo 3DS.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2611458-anclclean.jpg", 
+      "name": "Animal Crossing: New Leaf", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Capcom, Sega, and Namco team up for this crossover strategy RPG for the 3DS using some of their most iconic characters. A spiritual sequel to Namco X Capcom.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2475280-pxz.jpg", 
+      "name": "Project X Zone", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Link descends from his floating continent home to explore the dark and dangerous world below with the help of a magical sword, in this latest instalment of the Legend of Zelda series.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2338815-skywardcolor.jpg", 
+      "name": "The Legend of Zelda: Skyward Sword", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An RPG developed by Monolith Soft, for Wii and New Nintendo 3DS. Two great civilizations that live on the vast bodies of slain deities have been at war for aeons, and now with the development of a dangerous superweapon, things are finally coming to a head.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2482718-xenobladeboxartclean.jpg", 
+      "name": "Xenoblade Chronicles", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to Endless Frontier. Like its predecessor, it is an RPG loosely based on the Original Generation line of Simulation RPGs.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1257928-front.jpg", 
+      "name": "Mugen no Frontier EXCEED: Super Robot Wars OG Saga", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based role-playing game set in the Dragon Ball Z universe from the makers of Xenosaga and Baten Kaitos that covers the Saiyan Saga of the series. The game features art design from Yasuyuki Honne.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814864-box_dbzaots.png", 
+      "name": "Dragon Ball Z: Attack of the Saiyans", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Endless Frontier is a spin-off of the Super Robot Taisen series. It is unlike other games in the series as this is solely a turn based RPG.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478699-box_srtogsef.png", 
+      "name": "Super Robot Taisen OG Saga: Endless Frontier", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capitalizing on the anarchy caused by a series of intermittent natural disasters, a group of rogue task force commanders seizes an atomic weapon. In order to survive, former Elite Rescue Task Force operative Ray needs to simultaneously overcome the terrorists' plot, and an overwhelming abundance of disasters, like hurricanes, pyroclastic.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2434610-disasterdayofcrisisboxartclean.jpg", 
+      "name": "Disaster: Day of Crisis", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Diablo style RPG developed by Monolith Soft featuring co-op play for up to 3 players.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2214316-943692_97068_front.jpg", 
+      "name": "Soma Bringer", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2059532-fatal_run__1990___atari_.jpg", 
+      "name": "Fatal Run", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Strap on your fighting shoes and get ready to brawl in the first  Smash Bros. game for the Wii. Super Smash Bros. Brawl is one of the best-selling Wii games, selling over 4.85 million units worldwide.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2561025-ssb.jpg", 
+      "name": "Super Smash Bros. Brawl", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Baten Kaitos Origins is a prequel to Eternal Wings and the Lost Ocean. Its story revolves around Sagi, and his spirit guide.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133337-box_bko.png", 
+      "name": "Baten Kaitos Origins", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third and final episode of this Bandai Namco Japanese RPG series, released in 2006 for the PlayStation 2.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092605-box_xenosaga3.png", 
+      "name": "Xenosaga: Episode III - Also Sprach Zarathustra", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dirge Of Cerberus delves into the mysterious past of Vincent Valentine, with plenty of explosions.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179479-box_ff7doc.png", 
+      "name": "Dirge of Cerberus: Final Fantasy VII", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Xenosaga I+II is a Nintendo DS re-imagining of the original Xenosaga titles released on the Playstation 2. Wholly redesigned in a sprite and anime style, it covers the major plot points of both titles.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/327766-925355_61106_front.jpg", 
+      "name": "Xenosaga I+II", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategic role-playing game that features characters from various Namco and Capcom games, such as Tekken, Soul Calibur, Ghosts 'n Goblins, and Mega Man Legends.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179490-box_nxc.png", 
+      "name": "Namco x Capcom", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Xenosaga Episode II: Jenseits von Gut und B\u00f6se expands on the story of Jr. and his relationship with his brothers Albedo and Gaignun.  It also introduces Shion's brother, Jin Uzuki, as a playable character.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092604-box_xenosaga2.png", 
+      "name": "Xenosaga: Episode II - Jenseits von Gut und B\u00f6se", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-entry in the Xenosaga franchise. Never released outside Japan.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7395/2627388-2941793547-XSF.j.jpg", 
+      "name": "Xenosaga Freaks", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG that uses a card-based battle system. You play the role as Guardian Spirit to Kalas and must help him and his friends save the island kingdom in the clouds which they live upon.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133336-box_bk.png", 
+      "name": "Baten Kaitos: Eternal Wings and the Lost Ocean", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first episode in the Xenosaga trilogy released for the Playstation 2.", 
+      "developers": [
+        {
+          "id": 34, 
+          "name": "Monolith Software, Inc."
+        }
+      ], 
+      "id": 1224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092603-box_xenosaga1.png", 
+      "name": "Xenosaga: Episode I - Der Wille zur Macht", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "LEGO Star Wars: The Force Awakens covers the seventh film and includes material that occurred between Return of the Jedi and Force Awakens.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2822264-lswtfa.jpg", 
+      "name": "LEGO Star Wars: The Force Awakens", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Lego Avengers is a Lego game based on the Marvel Cinematic Universe.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/95676/2772914-lma_keyart_-_eng_1438786337.jpg", 
+      "name": "LEGO Marvel's Avengers", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Relive the action of all four Jurassic Park films - in LEGO video game form!", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2738085-untitled.jpg", 
+      "name": "LEGO Jurassic World", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An open world building game from Traveler's Tales.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2754107-4817812891-capsu.jpg", 
+      "name": "LEGO Worlds", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Developed by Hellbent Games for the Nintendo DS, LEGO Battles is a strategy game in which players will build and defend bases, mixing and matching units from medieval, pirate and space thematic sets.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284682-box_legob.png", 
+      "name": "LEGO Battles", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Chronicles of Narnia: Prince Caspian is adapted from the novel-adapted movie of the same name.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817674-box_tconpc.png", 
+      "name": "Chronicles of Narnia: Prince Caspian", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Transform and roll out with many of the characters from the live-action movie in this epic action game.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2207760-box_tftg.png", 
+      "name": "Transformers: The Game", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bionicle Heroes is a third-person shooter based off the popular line of toys from Lego.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284663-box_bh.png", 
+      "name": "Bionicle Heroes", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }, 
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Be prepared to put those plastic, LEGO lightsabers to work as you rebel against the Galactic Empire in LucasArts' second installment of the LEGO Star Wars series.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284689-box_legosw2.png", 
+      "name": "LEGO Star Wars II: The Original Trilogy", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1234, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810174-box_smba.png", 
+      "name": "Super Monkey Ball Adventure", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/837360-920826_54601_front.jpg", 
+      "name": "WRC", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adaption of the novel-adapted movie of the same name. It consists of many levels, and 4 playable characters - Peter, Edmund, Susan and Lucy.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803639-box_narnia.png", 
+      "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "F1 Grand Prix is an official F1 game released on the PSP which features the whole of the 2005 Formula 1 Season's tracks and driver lineup.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2333742-box_f1gp.png", 
+      "name": "F1 Grand Prix", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as a large variety of Star Wars characters from the prequel trilogy in this LEGO-meets-Star Wars action game.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1238, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284688-box_legosw.png", 
+      "name": "LEGO Star Wars: The Video Game", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crash Twinsanity is a Title in the Crash Bandicoot series in which you play as Crash and his Arch-Enemy Neo Cortex. The game features free-roaming levels and is less about collecting crystals, as in the previous games, and more about completing levels.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1239, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331089-box_ct.png", 
+      "name": "Crash Twinsanity", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Finding Nemo is a game based on the film of the same name.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1240, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1146043-914599_front.jpg", 
+      "name": "Disney/Pixar's Finding Nemo", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 90, 
+          "name": "Yuke's Co. Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure for the PlayStation 2 about a young man named Haven. Intended to be the first part of a trilogy, the game's poor sales left the story incomplete.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1241, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2160109-box_haven.png", 
+      "name": "Haven: Call of the King", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Weakest Link is a console version of the TV show with the same name. ", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1242, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840011-477563_22898_front.jpg", 
+      "name": "The Weakest Link", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crash Bandicoot: The Wrath of Cortex brings the fight to the sixth generation consoles while retaining a lot of the original concepts and ideas of the previously Playstation-focused franchise.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1243, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1881043-box_cbtwoc.png", 
+      "name": "Crash Bandicoot: The Wrath of Cortex", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Toy Story Racer is a racing game for the Playstation and Game Boy Color.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1244, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284724-box_tsr.png", 
+      "name": "Disney/Pixar Toy Story Racer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kart racing game staring Jim Henson's Muppets, released on PlayStation in 2000.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1245, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26412/1224898-muppetracemania.jpg", 
+      "name": "Muppet RaceMania", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based around the cartoon of the same name, control Buzz through fourteen missions on eight different planets.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1246, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284665-box_blosc.png", 
+      "name": "Disney/Pixar's Buzz Lightyear of Star Command", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Buzz Lightyear as you run, jump and swing your way to victory through 15 levels of intense platforming action where you help out Mr. Potato Head find his body parts and collect coins to defeat your foes.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284722-box_ts2.png", 
+      "name": "Toy Story 2: Buzz Lightyear to the Rescue!", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Bug's Life is a platformer aimed at young children based on the Pixar movie of the same name.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284662-box_abl.png", 
+      "name": "A Bug's Life", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Rascal, you must take control of young Callum Clockwise in his quest to rescue his father from the evil time traveler Chronos.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1249, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5578/513610-rascal_coverart.png", 
+      "name": "Rascal", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }
+  ]
+}

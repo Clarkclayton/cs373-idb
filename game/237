@@ -1,0 +1,1341 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1032691-235px_planetringdceu.jpg", 
+      "name": "Planet Ring", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A golf simulation game by Sega for the Dreamcast.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2473024-boxgolf.png", 
+      "name": "Netto Golf", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game based on the Love Hina manga and anime", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/672522-front_cover.jpg", 
+      "name": "Love Hina: Totsuzen no Engeji Happening", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Minigame collection based on Toy Story 2.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2830636-0500859385-TS2WS.jpg", 
+      "name": "Toy Story 2: Woody Sousaku Daisakusen!!", 
+      "platforms": [
+        {
+          "id": 104, 
+          "name": "Sega Pico", 
+          "short": "PICO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade fishing title developed by Sega's WOW Entertainment studio.  Players fish in a number of tropical locales looking to catch the big one.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/863587-sega_marine_fishing_ntsc_front.jpg", 
+      "name": "SEGA Marine Fishing", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Game Gear-only installment in the Ninja Gaiden series developed by Sega with license from Tecmo.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11944, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17724/887730-ninja_gaiden__game_gear_.png", 
+      "name": "Ninja Gaiden", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "THQ's third title under the WWF banner and their only title built specifically to be an arcade game. A console port was made for the Sega Dreamcast. It is the first console 3D wrestling game to allow more than four wrestlers on screen simultaneously; it allows nine.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1150221-wwfrrdc.jpg", 
+      "name": "WWF Royal Rumble", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Hello Kitty quiz and trivia game", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2633836-5430028538-31058.jpg", 
+      "name": "Hello Kitty no Waku Waku Quiz", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game about Ogami preparing a real world Sakura Taisen stage play.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11792, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2548080-untitled.png", 
+      "name": "Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11793, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1032716-199206_43225_front.jpg", 
+      "name": "Virtua Striker 2", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1-2 player co-op game that let's you fight and shoot your way to save the president's daughter from a band of modern pirates.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11794, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1680518-dynamite_cop__box_front.jpg", 
+      "name": "Dynamite Cop!", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The software that allows you to browse the internet on your Dreamcast. There were 3 made PlanetWeb being the american version. It used the Dreamcast's dial-up capabilities to surf the web.\n\nThe PlanetWeb Browser allowed not only access to the web but also allowed access to Java, uploads, and movies.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11795, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1073732-dcbrowser1_dcboxboxart_160w.jpg", 
+      "name": "Sega Dreamcast Web Browser", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fast paced Star Wars racing game featuring the Pods as seen in the movie Episode I: The Phantom Menace.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787604-box_swe1r.png", 
+      "name": "Star Wars: Episode I - Racer", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crackin' DJ is an arcade DJ game that features two turntables and cross-fader. The game focuses on mixing, cueing up and \"scratching\" tracks. ", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117812/2073817-3917.jpg", 
+      "name": "Crackin' DJ", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Compilation of 12 classic Sega games, including Sonic the Hedgehog, Shining Force, Streets of Rage 2 and Virtua Cop 2.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1030049-476208_19618_front.jpg", 
+      "name": "Sega Smash Pack: Volume 1", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to Gunblade NY, LA Machine Guns is a light gun game that casts the player as a machine gunner on an attack helicopter.  The game runs on Sega Model 2 arcade hardware.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/54618/1355608-sl_a__machineguns__rage_of_the_machines.jpg", 
+      "name": "LA Machine Guns", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the car ", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354319-viperb.jpg", 
+      "name": "Viper Night Drivin'", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the film", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354298-godzf.jpg", 
+      "name": "Godzilla", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A companion to Sakura Taisen 2 that features a short scenario about the Hanagumi's production of the Sleeping Beauty and other bonus materials.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2548086-untitled.png", 
+      "name": "Sakura Taisen Teigeki Graph", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "\n", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1156245-sppin.jpg", 
+      "name": "South Park", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "2 years after the Curien Mansion incident, strange activity has been coming from the city of Venice. The AMS has sent several agents to investigate the strange disappearance of locals there, but are you prepared for what lies ahead of you as one of them?", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1790007-box_hotd2.png", 
+      "name": "The House of the Dead 2", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An isometric role-playing game set in a steampunk based dark future. The game was only released in Japan for the Sega Saturn.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2297404-w.png", 
+      "name": "Wachenr\u00f6der", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A visual novel based-off the Revolutionary Girl Utena anime where the player controls a female student that has transfered to Ohtori Academy.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2787669-box.jpg", 
+      "name": "Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Muppets on the Go for the Sega Pico", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2524972-muppets.jpg", 
+      "name": "Muppets on the Go", 
+      "platforms": [
+        {
+          "id": 104, 
+          "name": "Sega Pico", 
+          "short": "PICO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Japanese only sequel to Dragon Force.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2590838-1.png", 
+      "name": "Dragon Force II: Kamisarishi Daichi ni", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A massively multiplayer, real-time strategy, and action game set on the world of Planet Visitor. Mine, defend, trade, raid, and setup alliances across the world of Visitor to secure global domination in the first 'million player' game.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5057/745540-g074123tfcr.jpg", 
+      "name": "10six Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Top Skater is a virtual skateboarding arcade game that was released in 1997 by Sega. It was controlled by standing on a skateboard peripheral and moving the board with your body movement.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/636/230977-top_skater.jpg", 
+      "name": "Top Skater", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade game where people milk a fake cow for tickets. ", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1353592-16001001.jpg", 
+      "name": "Udderly Tickets", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the film", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11812, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354313-starf.jpg", 
+      "name": "Starship Troopers", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2297397-day.png", 
+      "name": "Daytona USA Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sega Ages: Columns Arcade Collection is a compilation of four Columns arcade titles.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1379826-574076_14842_front.jpg", 
+      "name": "Sega Ages: Columns Arcade Collection", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the 3 films of the original trilogy.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354316-starwf.jpg", 
+      "name": "Star Wars Trilogy", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The baseball sim from SEGA for the 1997 MLB season.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389667-genesis_worldseriesbaseball98.jpg", 
+      "name": "World Series Baseball '98", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shining the Holy Ark is a traditional turn based RPG within the 'Shining' series of games, which was released on the Sega Saturn.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11817, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525268-box_stha.png", 
+      "name": "Shining the Holy Ark", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pinball game based on the film", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354309-lostwf.jpg", 
+      "name": "The Lost World Jurassic Park", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball table based on the beloved mid-90s science-fiction series.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354322-xff.jpg", 
+      "name": "The X-Files", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This game is a spin-off of Sakura Taisen and Columns. This was developed by Sega and was released in 1997 for the ST-V arcade board and the Sega Saturn in Japan. The game follows the Sakura Taisen story line and uses Columns gameplay.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12609/859462-256px_hanagumi_taisen_columns.jpg", 
+      "name": "Hanagumi Taisen Columns", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 418, 
+          "name": "Black Rock Studio"
+        }
+      ], 
+      "id": 12459, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15405/841946-atv_quad_power_racing_2_coverart.png", 
+      "name": "ATV: Quad Power Racing 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A fan disc that provides interactive news about the future of the Sakura Taisen series as well as quizzes and short video greetings from the characters' voice actresses.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2548110-untitled.png", 
+      "name": "Sakura Taisen Hanagumi Tsuushin", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the film", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354318-twisterf.jpg", 
+      "name": "Twister", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arena Maze of Death is an isometric action game for the SEGA Game Gear.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/908195-586638_39118.jpg", 
+      "name": "Arena Maze of Death", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade version of Columns that has enhanced sound and graphics.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2517431-columns97.png", 
+      "name": "Columns 97", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Panzer Dragoon Mini is a Sega Game Gear game that only saw a release in Japan, back in 1996.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/405853-pdm.jpg", 
+      "name": "Panzer Dragoon Mini", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the film", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354305-indayf.jpg", 
+      "name": "Independence Day", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A shooting game for Saturn based on the Kikaider franchise.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1673071-hakaider_f.jpg", 
+      "name": "Mechanical Violator Hakaider: Last Judgement", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game based on the film of the same name.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1354311-sjamf.jpg", 
+      "name": "Space Jam", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128958/1770727-segatocapcuk.jpg", 
+      "name": "Sega Touring Car Championship", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1996 for the Sega Saturn, Sakura Taisen is the first game in the iconic Japanese game franchise. It combines strategy RPG elements with dating sim-style character interactions to make \"A Storm of Romance amid Taishou Cherry Blossoms!\"", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2135347-box.jpg", 
+      "name": "Sakura Taisen", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15955/2191729-x_menmojoworld.jpg", 
+      "name": "X-Men: Mojo World", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Baku Baku is a puzzle game where you have to match animals to the food they eat. Make big chain reactions to defeat your enemy!", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 11832, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2297377-untitled.png", 
+      "name": "Baku Baku", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }
+  ]
+}

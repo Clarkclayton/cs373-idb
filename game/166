@@ -1,0 +1,1359 @@
+{
+  "games": [
+    {
+      "deck": "European exclusive platformer starring the indomitable Gaul, Ast\u00e9rix. It was released on all three Nintendo platforms of 1993: NES, Game Boy and SNES. US releases were planned but canceled.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8240, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361135-nes_asterix_gb.jpg", 
+      "name": "Ast\u00e9rix", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platformer based on the Belgian comic book of the same name about a tribe of peaceful tiny blue creatures and their frequent run-ins with the evil wizard Gargamel. It was released on multiple consoles in 1994.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8241, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/236951-smurfs.jpg", 
+      "name": "The Smurfs", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Robot Jox inspired giant robot smash'em up. Father of Rise Of The Robots.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8242, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/2110457-__metal_masters_amiga__.jpg", 
+      "name": "Metal Masters", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Pok\u00e9mon-themed free-to-play match three game for Nintendo 3DS. The game was also released on iOS and Android as \"Pok\u00e9mon Shuffle Mobile\".", 
+      "developers": [
+        {
+          "id": 288, 
+          "name": "Genius Sonority, Inc."
+        }
+      ], 
+      "id": 8328, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2717091-shuffle.jpg", 
+      "name": "Pok\u00e9mon Shuffle", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Inspector gadget themed racing game. It features characters from the cartoon, allowing players to race in Gadget's van, Claw's car, as well as Penny's jeep.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8243, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86078/1365064-563098_23760_front.jpg", 
+      "name": "Inspector Gadget Racing", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A free-to-play MMORPG inspired by R.A. Salvatore's Neverwinter Saga book trilogy.", 
+      "developers": [
+        {
+          "id": 284, 
+          "name": "Cryptic Studios"
+        }
+      ], 
+      "id": 8244, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2502904-untitled.png", 
+      "name": "Neverwinter", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 461, 
+          "name": "Perfect World Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi MMORPG developed by Cryptic Studios and Perpetual Entertainment which allows players to fight amongst the ranks of Starfleet or join the Klingon Empire.", 
+      "developers": [
+        {
+          "id": 284, 
+          "name": "Cryptic Studios"
+        }
+      ], 
+      "id": 8245, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1195003-924226_58206_front.jpg", 
+      "name": "Star Trek Online", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 461, 
+          "name": "Perfect World Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Champions Online is a superhero action-MMORPG for PC. It was developed by Cryptic Studios, the makers of City of Heroes.", 
+      "developers": [
+        {
+          "id": 284, 
+          "name": "Cryptic Studios"
+        }
+      ], 
+      "id": 8246, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2392939-champions_online_01_artwork.jpg", 
+      "name": "Champions Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "City of Villains is the first retail expansion to the MMORPG City of Heroes.  Players can create Super Villains that rob banks, kidnap citizens and various other nefarious deeds.", 
+      "developers": [
+        {
+          "id": 284, 
+          "name": "Cryptic Studios"
+        }
+      ], 
+      "id": 8247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3712/183988-city_of_villains.jpg", 
+      "name": "City of Villains", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "City of Heroes was a superhero based MMORPG that ran from April 2004 to November 2012", 
+      "developers": [
+        {
+          "id": 284, 
+          "name": "Cryptic Studios"
+        }
+      ], 
+      "id": 8248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34737/1027897-coh_front.jpg", 
+      "name": "City of Heroes", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Earth Defense Force 4.1 is a remake of Earth Defense Force 2025 for the Playstation 4, featuring new content and remastered visuals.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8249, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2804846-box.jpg", 
+      "name": "Earth Defense Force 4.1: The Shadow of New Despair", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A remake of the second Earth Defense Force game, with improved graphics and new features.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8250, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2804859-box.jpg", 
+      "name": "Earth Defense Force 2: Invaders From Planet Space", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth mainline game in the Earth Defense Force series.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8251, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2575460-box_edf2025.png", 
+      "name": "Earth Defense Force 2025", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Earth Defence Force 2017 Portable is a digital-only PlayStation Vita game in the Earth Defense Force series, featuring ad-hoc and online mulitplayer for up to 4 players.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8252, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2405587-edf2017p_cover.jpg", 
+      "name": "Earth Defense Force 2017 Portable", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Earth Defense Force 2 Portable is an enhanced remake of the PS2 game on the PSP. Most notably, it adds new multiplayer modes.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/69222/1728560-51fb6cby10l.jpg", 
+      "name": "Chikyuu Boueigun 2 Portable", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A hack 'n' slash game with a large focus on co-op set in a world based on Norse mythology.  Lopping-off heads and hacking-off arms is highly recommended for survival.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2581339-zangekifullclean.jpg", 
+      "name": "Zangeki no Reginleiv", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade style TPS, which in 53 levels, pits you against giant ants, giant spiders, giant robots and UFOs. Luckily for you, the game has an arsenal of over 150 different weapons and 4 different vehicles, all collectible throughout the game. And don't forget, every building is destructible! And how.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1845410-box_edf2017.png", 
+      "name": "Earth Defense Force 2017", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A hexagonal turn-based strategy game based on the Earth Defense Force series.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8256, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1358777-front.jpg", 
+      "name": "Global Defence Force Tactics", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Protect the Earth from an onslaught of giant ants and UFOs! Released on the Sony Playstation 2 in Japan and later in Europe.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9234/291724-global_defence_force_ps2_cover.jpg", 
+      "name": "Global Defence Force", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In Remote Control Dandy SF you control giant robots with a remote control.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8258, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/278930-remotecontroldandybox.jpg", 
+      "name": "Remote Control Dandy SF", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first-game in Sandlot's Earth Defence Force series, see's the player adorn the-role of a  Storm-1 unit deployed with the sole-purpose of stopping the menacing 'ravengers', who have launched a full-scale invasion of Earth with the-intent of annihilating-it, utterly.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8259, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1358775-front.jpg", 
+      "name": "Monster Attack", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 296, 
+          "name": "Agetec, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Robot Alchemic Drive places the player in control of the Meganite, a gigantic robot, and is tasked with defending Earth from the invading Volgara monsters.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115901/2118238-rad_robot_alchemic_drive_artwork.jpg", 
+      "name": "Robot Alchemic Drive", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only Playstation game in which you play a little boy controlling a giant robot via remote control. Developed by Sandlot, who later developed the Earth Defense Force series, and had a direct sequel -- Remote Control Dandy SF -- on the PS2.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8261, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/22453/783156-1103501as5.jpg", 
+      "name": "Remote Control Dandy", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 30, 
+          "name": "Human Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game set in the Tetsujin/Gigantor universe where you control gigantic robots with a remote control.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8262, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/278768-tetsujinbox.jpg", 
+      "name": "Tetsujin 28-Go", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Chou Soujuu Mecha MG is a Japan-exclusive DS game developed by Sandlot and published by Nintendo. The game revolves around collecting and controlling over 100 different types of unique Japanese-style mechs, all of which feature unique abilities and controls that utilize the touch screen.", 
+      "developers": [
+        {
+          "id": 285, 
+          "name": "Sandlot"
+        }
+      ], 
+      "id": 8263, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/24771/936029-csjmmg.jpg", 
+      "name": "Chou Soujuu Mecha MG", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Metal Gear compilation consisting of the previous \"Metal Gear Solid HD Collection\" and much more.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8264, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2472712-mgslegacy.jpg", 
+      "name": "Metal Gear Solid: The Legacy Collection 1987-2012", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Adrenalin Misfits is Konami's first ever Microsoft Kinect title.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8265, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492896-box_am.png", 
+      "name": "Adrenalin Misfits", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The DS series comes to the Nintendo Wii.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1056070-spec_org.jpg", 
+      "name": "Spectrobes: Origins", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Wiiware game where you try to fit differently shaped pieces into a box.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8267, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1101505-lonpos1.jpg", 
+      "name": "LONPOS", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A port of the PC title with the same name, Populous DS is a God simulation game in the style of Black and White where the player is responsible for guiding a small civilization. The DS game has 50 single player missions and a new four player mode.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8268, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2484709-box_pds.png", 
+      "name": "Populous DS", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kengo: Legend of the 9 is a samurai action game for the Xbox 360. You play as 9 historical samurai and follow each of their stories, which vaguely mimic their real life accomplishments.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8269, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817066-box_kengo.png", 
+      "name": "Kengo: Legend of the 9", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }, 
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "With 500 free hours of AOL!", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8909, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341228-mavis11.jpg", 
+      "name": "Mavis Beacon Teaches Typing Version 11", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Demon Chaos is a 2005 action-adventure game published by Konami for the PlayStation 2. The game is in vein of the well known Dynasty Warriors series. It is set in feudal Japan in the 1500s and revolves around a priestess who has been given eternal youth until she exterminates all the demons. She has been given charge of a mystical beast from the gods, Inugami, which is controlled by the player.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8270, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7645/400943-252px_demon_chaos_cover_art.jpg", 
+      "name": "Demon Chaos", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Drifting focused racing game released on the PS2 on 04/17/2007. It contains over 180 cars and four different locations. ", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8271, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213190-box_txrd2.png", 
+      "name": "Tokyo Xtreme Racer Drift 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }, 
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Illegal Japanese highway racing makes a next-gen debut in this quirky, street racing video game.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8272, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213162-box_itc.png", 
+      "name": "Import Tuner Challenge", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP exclusive entry in the popular Tokyo Xtreme Racer series.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8273, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2795234-streetsupremacy+%281%29.jpg", 
+      "name": "Street Supremacy", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 440, 
+          "name": "Konami Digital Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Steel Lancer Arena International or S.L.A.I. is the Playstation 2 based sequel to the Xbox's mech combat simulator \"Phantom Crash\".", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525254-box_slai.png", 
+      "name": "S.L.A.I.", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A drifting focused racing game for the PS2, featuring mountain courses around Japan.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8275, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122316/2832798-kaido_battle_2_chain_reaction.jpg", 
+      "name": "Kaid\u014d Battle 2: Chain Reaction", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Fu-un Shinsengumi is a PS2 action game based on the historical Shinsengumi military group in the late Edo period in Japan. The artwork was done by Yoji Shinkawa of the Metal Gear Solid series.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20737/769759-shinsengumi.jpg", 
+      "name": "Fu-un Shinsengumi", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Tokyo Xtreme Racer 3 is the fourth installment of this Japan-based street racing series.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8277, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213188-box_txr3.png", 
+      "name": "Tokyo Xtreme Racer 3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game with alternating driving and shooting levels. ", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797975-box_maxchase.png", 
+      "name": "Maximum Chase", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game focused on drifting for the PS2", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2694788-8603330232-72952.jpg", 
+      "name": "Tokyo Xtreme Racer Drift", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Phantom Crash is an Xbox game developed by Genki Co. In a future, cyberpunk Tokyo, the most popular sport is Rumbling, where people battle in small mechs called SVs. The player assumes the role of a newbie Rumbler set on reaching the top.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796267-box_pcrash.png", 
+      "name": "Phantom Crash", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Jade Cocoon 2 is the PS2 sequel to the original on the PS1. Collect and raise monsters to battle alongside you, the player, in the hopes of stopping the Kalma invasion.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8281, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478662-box_jc2.png", 
+      "name": "Jade Cocoon 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tokyo Xtreme Racer Zero is a street racing game based on the highways of Japan's capital city.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8282, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213191-box_txrz.png", 
+      "name": "Tokyo Xtreme Racer Zero", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Napoleon is real-time strategy game for the GameBoy Advance starring the historically famous commander. It was released in two countries: France and Japan.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/178721-napoleonbox.jpg", 
+      "name": "Napoleon", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A platform game in which players must use the protagonist, Neo's, magnetic abilities in his quest to defeat Pinki and save Pao Pao Land.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8284, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/402196-smndc.jpg", 
+      "name": "Super Magnetic Neo", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rally Challenge 2000 is a Nintendo 64 racing game that features tracks and cars from around the world.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8285, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2420670-c.png", 
+      "name": "Rally Challenge 2000", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 23, 
+          "name": "SouthPeak Interactive, LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tokyo Xtreme Race was the second game in the Tokyo Highway Battle series. It is noted for its unique race system which play similarly to a fighting game. ", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/460465-tokyo_highway_challenge_eu_box_art.jpg", 
+      "name": "Tokyo Xtreme Racer", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jade Cocoon is a fantasy turn-based RPG, seen by some as a cross of Final Fantasy and Pokemon.", 
+      "developers": [
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }
+      ], 
+      "id": 8287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478663-box_jcsott.png", 
+      "name": "Jade Cocoon: Story of the Tamamayu", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }, 
+        {
+          "id": 286, 
+          "name": "Genki Co., Ltd."
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }
+  ]
+}

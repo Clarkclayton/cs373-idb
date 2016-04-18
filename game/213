@@ -1,0 +1,1496 @@
+{
+  "games": [
+    {
+      "deck": "Snowmobile racing game featuring renowned snocrossers.", 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5911/1034071-polaris_snocross_for_n64__front_cover.jpg", 
+      "name": "Polaris SnoCross", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Game Boy Color entry into the Barbie franchise.", 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1889011-barbie_magic_genie_adventure.jpg", 
+      "name": "Barbie: Magic Genie Adventure", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A action-adventure game based on the Spider-Man comics, featuring narration from Stan Lee. Nearly all of Spider-Man's enemies make appearances in the game.", 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10585, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284711-box_sm.png", 
+      "name": "Spider-Man", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 3D space exploration and trading simulator by Vicarious Visions features a branching narrative structure with many unique missions and endings.", 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10586, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Terminus", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A dart game for the Game Boy Color. There are 6 game types in all.", 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10587, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2776971-3512074177-pro-d.jpg", 
+      "name": "Pro Darts", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Zebco Fishing is a fishing game for the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10588, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2207113-2207112-cover.jpg", 
+      "name": "Zebco Fishing", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Skate the cel-shaded streets of Tokyo-to, spraying your mark on the world while ditching cops and one-upping rival gangs in Jet Grind Radio.", 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10589, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139801-box_jgr.png", 
+      "name": "Jet Grind Radio", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 363, 
+          "name": "Vicarious Visions"
+        }
+      ], 
+      "id": 10590, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Synnergist", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A World War II first-person-shooter developed with the ARMA II engine.", 
+      "developers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ], 
+      "id": 10592, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5761/1784356-ironfront_pc_all_screenshot_announcement_94736533ce.jpeg", 
+      "name": "Iron Front", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first game to bear the Jane name in a decade, discarding the realism of the original Jane's Combat Simulation titles.", 
+      "developers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ], 
+      "id": 10593, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2009752-box_jasf.png", 
+      "name": "JASF: Jane's Advanced Strike Fighters", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "coming later this year for the Nintendo DS. ", 
+      "developers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ], 
+      "id": 10594, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1108249-djs.jpg", 
+      "name": "DJ Star", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzle game based on gravity and physics presented by Professor Heinz Wolff.", 
+      "developers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ], 
+      "id": 10595, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/826051-951201_108553_front.jpg", 
+      "name": "Professor Heinz Wolff's Gravity", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wildlife Park 2 is a sequel to Wildlife Park, first released in 2006, and published by B-Alive. It was developed by Deep Silver exclusively for the PC.", 
+      "developers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ], 
+      "id": 10596, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/154509/2648773-wildife_park_2.jpg", 
+      "name": "Wildlife Zoo", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Meine Tierklinik is the first game in the \"Meine Tierklinik\" franchise, which has players maintain a veterinary clinic and manage funds, patients, and treat injuries while simultaneously expanding their enterprise and dealing with increasingly grave diseases and a growing range of animal races.", 
+      "developers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ], 
+      "id": 10597, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Meine Tierklinik", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Fable Coin Golf is a Windows Phone 7 mini-golf styled game that allows players to earn gold in Fable III.", 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10598, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193498-box_fcg.png", 
+      "name": "Fable: Coin Golf", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Call of Duty series comes to the iPhone in this zombie-themed offshoot that is a close port of the Nazi Zombies gamemode in Call of Duty: World at War.", 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10599, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810981-codwawz.png", 
+      "name": "Call of Duty: World at War: Zombies", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "An iPhone/iPod Touch game based on the CG movie of the same name.", 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10600, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/972706-bhd01.jpg", 
+      "name": "Resident Evil: Degeneration", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An original game for mobile phones and N-Gage set between the events of Metal Gear Solid and Sons of Liberty.", 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10601, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34651/1199501-0mobile.jpg", 
+      "name": "Metal Gear Solid Mobile", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cruise the streets of Rockport City, keep away from the cops, and defeat the wily Razor Callahan in this open-street racing game from EA Black Box.", 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10602, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12813/832771-need_for_speed_most_wanted.jpg", 
+      "name": "Need for Speed: Most Wanted", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10603, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213150-box_cmr05.png", 
+      "name": "Colin McRae Rally 2005", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pandemonium! is a platformer starring Nikki and Fargus who accidentally destroyed their hometown and must reach the Wishing Machine to save it", 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10604, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/1066461-pandemonium_f.png", 
+      "name": "Pandemonium!", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tomb Raider stars Lara Croft in her first title as she races through the jungles of Peru to the sands of Egypt in pursuit of the Scion, an ancient artifact reputedly holding the key to the ancient mystery of Atlantis itself. It would later be remade as Tomb Raider Anniversary.", 
+      "developers": [
+        {
+          "id": 365, 
+          "name": "Ideaworks Game Studio"
+        }
+      ], 
+      "id": 10605, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2560/217714-tombraiderpccover.jpg", 
+      "name": "Tomb Raider", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Psych is a hidden object game based on the television show about a brilliant detective who masquerades as a psychic and his best friend and sidekick, a pharmaceutical rep.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10606, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2702190-1990114383-Psych.jpg", 
+      "name": "Psych", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Famous crime fiction writer Jessica Fletcher returns to investigate the nefarious things going on in Cabot Cove.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10607, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2702187-4543331501-27005.jpg", 
+      "name": "Murder, She Wrote 2: Return to Cabot Cove", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10608, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2686861-1421713184-13292.jpg", 
+      "name": "Ghost Whisperer", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Stop the Gunpowder plot and save London.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10609, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/2097188-untitled_1.jpg", 
+      "name": "Doctor Who Episode 5: The Gunpowder Plot", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10610, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11660/1468808-criminal_minds_preview_screenshot_2.jpg", 
+      "name": "Criminal Minds", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as Dr. House and the skilled staff at Princeton-Plainsboro Hospital, as you race to unravel medical mysteries. Track down the correct diagnosis by interviewing and examining patients, performing lab tests, surgery, and more. The clock is ticking, but be prepared for multiple twists and turns before you solve each of the 5 cases!", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10611, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31859/1748261-house_md_pc.jpg", 
+      "name": "House M.D.", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "14 years after the television show was cancelled, 'Murder, She Wrote' has finally been adapted into a video game.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10612, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2702184-6189951776-71BJH.jpg", 
+      "name": "Murder, She Wrote", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Solve 30 medical cases with mini games. ", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10613, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1109236-emergencyroomds.jpg", 
+      "name": "Emergency Room: Real Life Rescues", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Solve five different crimes in the first CSI game to be set in New York City", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10614, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2749885-2415161408-81KOs.jpg", 
+      "name": "CSI: NY", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A follow-up to Vivendi Universal's 2004 educational simulation Zoo Vet.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10615, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1076/951083-zoo_vet_endangered_animals.jpg", 
+      "name": "Zoo Vet: Endangered Animals", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Igor: the game coincides with the animated movie coming out this september and in it you are able to play as one of four characters", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10616, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/615171-1.jpg", 
+      "name": "Igor: The Game", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "In a peculiar turn of events, Jack finds himself on a mission to save the British Empire.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10617, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4086/268627-jhsq6t.jpg", 
+      "name": "Jack Keane", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10618, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1801073-la.jpg", 
+      "name": "The Apprentice: Los Angeles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Law &amp; Order game for PC.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10619, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1822267-law.jpg", 
+      "name": "Law & Order: Criminal Intent", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "Life and death in the trauma room.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10620, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5177/430675-er_18lscr.jpg", 
+      "name": "ER", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An up and coming female tennis star is found dead in a locker room. Join the cast of the popular TV series to hunt down the murderer and work with the D.A to put together a convincing case to nail the guilty verdict.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10621, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5177/386396-lawandorderjs_lscr4.jpg", 
+      "name": "Law & Order: Justice is Served", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10622, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1076/951090-zoo_vet.jpg", 
+      "name": "Zoo Vet", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }, 
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lights...Camera...Action! is a pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10663, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781557-lights...camera...action_.jpg", 
+      "name": "Lights...Camera...Action!", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second point and click adventure based upon the popular TV series. A renowned scientist is found murdered in his car. It is up to you to find the murderer and put together a good enough case to nail the guilty verdict.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10623, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35156/1246871-na_cover_914812_front.jpg", 
+      "name": "Law & Order II: Double or Nothing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Law &amp; Order: Dead on the Money is an adventure game based on the popular television show of the same name. The game is split into two segments, field work and courtroom drama. The actors lend their voices to the game.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10624, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35156/1240321-game1.gif", 
+      "name": "Law & Order: Dead on the Money", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10625, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17724/874459-combatmedic.jpg", 
+      "name": "Combat Medic: Special Ops", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An FMV adventure game putting the player into the role of the district attorney investigating a murder.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10626, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2683152-pursuit+of+justice.jpg", 
+      "name": "Pursuit of Justice", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Code Blue is the interactive ER game from Legacy Interactive.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10627, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/2527431-579053_18509_front.jpg", 
+      "name": "Code Blue", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth game in the Emergency Room doctor simulation series.", 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10628, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2606768-emergency+room+life+or+death+cover.jpg", 
+      "name": "Emergency Room: Life or Death", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10629, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Emergency Room 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10630, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1908519-room.jpg", 
+      "name": "Emergency Room 3", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10631, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9023/1046103-featured_image_vetemergency2.jpg", 
+      "name": "Vet Emergency 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ], 
+      "id": 10632, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1795102-911.jpg", 
+      "name": "911 Paramedic", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 366, 
+          "name": "Legacy Games"
+        }
+      ]
+    }
+  ]
+}

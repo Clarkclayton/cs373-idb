@@ -1,0 +1,1564 @@
+{
+  "games": [
+    {
+      "deck": "High Seize is a pirate themed strategy game on the N-Gage.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14234, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/939922-high_seize_front.png", 
+      "name": "High Seize", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pathway to Glory is a military turn-based strategy game for the N-Gage. One of the rare worthwhile exclusives on the N-Gage platform, Pathway to Glory is considered a cult classic and lost gem by most turn-based tactics fans. ", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/700706-ptg_cover.png", 
+      "name": "Pathway to Glory", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Knights &amp; Dragons is an RPG for Android and iOS that allows you to craft and evolve armor. The game centers around weekly bosses, PvP tournaments, and guild battles.", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/28/285982/2766416-knights-and-dragons-icon.jpg", 
+      "name": "Knights & Dragons", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Implode! is a Windows Phone 7 puzzle game.", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1906713-cover.png", 
+      "name": "Implode!", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Build your pirate empire", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14238, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1682304-i397196071_jpg_180x180_q85.jpg", 
+      "name": "Lil' Pirates", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Daisy to save the town from the alien invasion.", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14239, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681175-i354783213_jpg_180x180_q85.jpg", 
+      "name": "Daisy Mae's Alien Buffet", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Implode XL from IUGO", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14240, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1682727-i337180220_jpg_180x180_q85.jpg", 
+      "name": "Implode XL", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "2nd game in IUGO's Zombie Attack franchise", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14241, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1682283-i336071188_jpg_180x180_q85.jpg", 
+      "name": "Zombie Attack 2: Second Wave", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "A spin off of IUGO's Toy Bot series", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14242, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681426-i325243808_jpg_180x180_q85.jpg", 
+      "name": "Spy Bot Chronicles", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Over 100 mini games set in the Toy Bot universe", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14243, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1682187-i332317450_jpg_180x180_q85.jpg", 
+      "name": "Toy Bot Mini Missions", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Think Worms in space", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14244, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681429-i320408597_jpg_180x180_q85.jpg", 
+      "name": "Star Hogs: Online & Campaign Battles", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection of nearly 100 mini games for your iPhone/iPod Touch", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14245, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681105-i319182394_jpg_180x180_q85.jpg", 
+      "name": "A.D.D. - Addictive Dumb Distractions", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "5 pinball tables in a single portable game.", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14246, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681177-i309943540_jpg_180x180_q85.jpg", 
+      "name": "Freeballin'", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 3rd game in the Toy Bot franchise.", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681007-image003.jpg", 
+      "name": "Toy Bot Diaries 3", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the 2nd game in the Toy Bot trilogy.", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681006-toybot.jpg", 
+      "name": "Toy Bot Diaries 2", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zombie Attack! from IUGO", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14249, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1682272-i295873663_jpg_180x180_q85.jpg", 
+      "name": "Zombie Attack!", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Race to the top of the mountain as fast as you can", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14250, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1681425-i291443933_jpg_180x180_q85.jpg", 
+      "name": "Shaky Summit", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platformer for the iPhone.", 
+      "developers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ], 
+      "id": 14251, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1099/896617-toy_bot_diaries.png", 
+      "name": "Toy Bot Diaries", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 524, 
+          "name": "IUGO Mobile Entertainment Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "The creator of Wonder Boy and Monster World is collaborating on a new follow-up for PC and consoles.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14252, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2721428-screen+shot+2015-01-30+at+6.17.23+pm.jpg", 
+      "name": "Monster Boy and the Wizard of Booze", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bowl at the beach on the go.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1688924-i366644804_jpg_180x180_q85.jpg", 
+      "name": "Beach Bowling 3D", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mahjong for your iDevice.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1688643-i362744231_jpg_180x180_q85.jpg", 
+      "name": "Mahjong Elements", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG for the iPhone.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1688890-i351652012_jpg_180x180_q85.jpg", 
+      "name": "Across Age", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "More mahjong from FDG", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14256, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1691711-i327360412_jpg_180x180_q85.jpg", 
+      "name": "Mr. Mahjong Touch", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A shooter for your iDevice.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1691629-i315649970_jpg_180x180_q85.jpg", 
+      "name": "Kryzer", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wiiware and Iphone  title based upon the popular mobile franchise bobby carrot by FDG Entertainment.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14258, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1686602-i302980372_jpg_180x180_q85.jpg", 
+      "name": "Bobby Carrot Forever", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "3rd game in the Bobby Carrot franchise.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14259, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1685402-i319069849_jpg_180x180_q85.jpg", 
+      "name": "Bobby Carrot 3", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Guide your stickman to safety", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1692752-i317435143_jpg_180x180_q85.jpg", 
+      "name": "Parachute Panic", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "2nd game in the Bobby Carrot franchise.", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14261, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1685401-i312664288_jpg_180x180_q85.jpg", 
+      "name": "Bobby Carrot 2", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game for the iPhone", 
+      "developers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ], 
+      "id": 14262, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/1685400-i309572257_jpg_180x180_q85.jpg", 
+      "name": "Bobby Carrot", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 525, 
+          "name": "FDG Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Dungeon Lord has been cursed and bound to a subterranean throne by the good-loving humans. Take on the role of the Dungeon Lord and command a horde of evil minions.", 
+      "developers": [
+        {
+          "id": 526, 
+          "name": "Realmforge Studios GmbH"
+        }
+      ], 
+      "id": 14263, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/27/275951/2743067-dungeons2_usa_pc_2d_packshot.jpg", 
+      "name": "Dungeons 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A stealth-action RPG with a newly-converted vampire as the main protagonist. Players will use their vampiric powers to defeat the enemy and solve the mystery of why they were transformed into a vampire.", 
+      "developers": [
+        {
+          "id": 526, 
+          "name": "Realmforge Studios GmbH"
+        }
+      ], 
+      "id": 14264, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2457094-box_dark.png", 
+      "name": "Dark", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to the 2011 dungeon-building game. This iteration adds multiplayer, a new ice dungeon setting and more.", 
+      "developers": [
+        {
+          "id": 526, 
+          "name": "Realmforge Studios GmbH"
+        }
+      ], 
+      "id": 14265, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2246810-the_dark_lord_cover.jpg", 
+      "name": "Dungeons: The Dark Lord", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Reach the lower dungeons and get back at your ex-girlfriend for tricking you out of your seat as the supreme Dungeon Lord.", 
+      "developers": [
+        {
+          "id": 526, 
+          "name": "Realmforge Studios GmbH"
+        }
+      ], 
+      "id": 14266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139774-box_dungeons.png", 
+      "name": "Dungeons", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Keep ratings up and keep money coming in with this TV-based strategy game from Kalypso.", 
+      "developers": [
+        {
+          "id": 526, 
+          "name": "Realmforge Studios GmbH"
+        }
+      ], 
+      "id": 14267, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5275/1684773-image001.jpg", 
+      "name": "M.U.D. TV", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ceville is a point and click adventure game developed by  Boxed Dreams and published by Kalypso Media GmbH.", 
+      "developers": [
+        {
+          "id": 526, 
+          "name": "Realmforge Studios GmbH"
+        }
+      ], 
+      "id": 14268, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/914971-ceville_video_game.jpg", 
+      "name": "Ceville", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Moto Racer 3 allows players to take part in numerous types of motorcycle activities. Racing street bikes and dirtbikes, performing tricks in freestye mode, race through real world locales in traffic mode, even perform on trials bikes.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14269, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1673817-mr3.jpg", 
+      "name": "Moto Racer 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ]
+    }, 
+    {
+      "deck": "Darkstone is a dungeon crawler published by Take 2 and developed by Delphine Software for the PS1 and PC", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14270, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/79985/2720339-images.jpg", 
+      "name": "Dark Stone", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Darkstone is a third person Diablo style dungeon crawler. With up to 2 people in your party use swords, magic and bows to defeat your enemies! ", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14271, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608864-darkstone.jpg", 
+      "name": "Darkstone", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A sequel to the motorcycle racing game Moto Racer. Motor Racer 2 featured more tracks, more bikes, and a track editor.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14272, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31231/1261578-moto_racer_2.3464607.jpg", 
+      "name": "Moto Racer 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14273, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Best of Voodoo", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Moto Racer is an arcade style motorcycle racing game.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31231/1261595-51oq2xmvtyl._sl500_aa280_.jpg", 
+      "name": "Moto Racer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fade to Black is a third person action adventure and the sequel to Flashback. You play as Conrad B. Hart who wakes up from cryosleep only to be imprisoned by his former adversaries, the morphs, in New Alcatraz.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14275, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/224/273484-ftbcover.jpg", 
+      "name": "Fade to Black", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Out of this World follows the mysterious alien captive turned friend from the first game.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2263099-heart_of_the_alien___out_of_this_world_part_i___ii__u___front_.jpg", 
+      "name": "Heart of the Alien: Out of this World Parts I and II", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "When a powerful, banished mummy is about to break through to this dimension and take over the world, the only hope for humanity is none other than... Shaquille O'Neal?", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14277, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492922-box_shaqfu.png", 
+      "name": "Shaq Fu", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "It's 2142 and the player is Conrad B. Hart, an agent for the Galaxia Bureau of Investigation. He must recover his lost memories to save Earth before it's too late.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3163/235655-flashback.jpg", 
+      "name": "Flashback: The Quest for Identity", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A classic point and click adventure game about an Agatha Christie-style murder mystery. Inspector Raoul Dusentier must investigate when a businessman is murdered on his own cruise ship.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/720620-cruise.jpg", 
+      "name": "Cruise for a Corpse", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A critically-acclaimed action-adventure game designed by Eric Chahi in which players assume the role of a young physicist trapped on an alien planet.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8960/1907052-out_of_this_world_cover.jpg", 
+      "name": "Out of This World", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14281, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Light Force", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "James Bond: The Stealth Affair (Operation Stealth in Europe) is a point and click adventure game featuring a secret agent searching for a stealth plane in the middle of a jungle-island banana republic.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14282, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4/905334-picture_3.png", 
+      "name": "James Bond: The Stealth Affair", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Future Wars is a third-person sci-fi point and click game released in 1989 for the PC, Amiga, and Atari ST. It is known as Time Travelers in Europe and Time Travelers: The Menace (Les Voyageurs du Temps: La Menace) in it's native France.", 
+      "developers": [
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ], 
+      "id": 14283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2306937-future_wars_adventures_in_time_interplay_d7.jpg", 
+      "name": "Future Wars", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 527, 
+          "name": "Delphine Software International"
+        }
+      ]
+    }
+  ]
+}

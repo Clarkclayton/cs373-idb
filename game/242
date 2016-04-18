@@ -1,0 +1,1736 @@
+{
+  "games": [
+    {
+      "deck": "Zaxxon 3-D is a 1987 Sega Master System remake of Sega's 1982 Arcade classic Zaxxon. The player could use a peripheral to see the game in 3D.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12033, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1209025-tumblr_ku70lhoszm1qzurbto1_500.jpg", 
+      "name": "Zaxxon 3-D", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1987 Arcade game. The player takes control of Joe Musashi, a master ninja whose mission is to rescue all of the hostages. SEGA's ninja game predates Ninja Gaiden for the NES and includes challenging platforming, first-person mini-games, and scaleable difficulty.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12034, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2412940-box_shinobi.png", 
+      "name": "Shinobi", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to the cartoonish Sega Arcade shoot-em-up Fantasy Zone. It was developed for the Sega Master System and has seen releases for NES, MSX, PS2 and the Wii Shop.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12035, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362890-sms_fantasyzone2_br.jpg", 
+      "name": "Fantasy Zone II: The Tears of Opa-Opa", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in Japan as Masters Golf, this is the sequel to the original (Japan-only) Great Golf for the Sega Master System. It was then localized as Great Golf outside Japan.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12036, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362911-sms_greatgolf_au.jpg", 
+      "name": "Great Golf", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sega Master System Combo Cartridge that contains the top down shooter Astro Warrior and the Maze game Pit Pot.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12037, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362851-sms_astrowarriorpitpot_eu.jpg", 
+      "name": "Astro Warrior/Pit Pot", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega's attempt to release a better game than Nintendo's Baseball for the NES.  Part of the Sega's 'Great' sport series.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12038, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1794814-baseball.jpg", 
+      "name": "Great Baseball", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "After Burner is a classic Arcade shooter, designed by SEGA game creator legend Yu Suzuki. It was released first in the Japanese arcades in 1987.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12039, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2602790-16024601.jpg", 
+      "name": "After Burner", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Alex Kidd puts his life on the line in pursuit of video games in this combination adventure-platformer for the Sega Master System.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12040, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417184-box_akhtw.png", 
+      "name": "Alex Kidd: High-Tech World", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Named World Soccer elsewhere, Great Soccer is part of Sega's series of Great sports games for the Sega Master System. It is a sequel of the first Great Soccer.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12041, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2375564-great_soccer_sms_us.jpg", 
+      "name": "Great Soccer", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12042, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6182/925430-outrun.gif", 
+      "name": "Out Run 3-D", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zillion is a sci-fi side-scrolling action game with many similarities to the Metroid series. As the protagonist JJ, the player is tasked with retrieving 5 floppy-disks from an underground base on Planet X.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12043, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59868/1448971-zillion.jpg", 
+      "name": "Zillion", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kung Fu Kid is a side-scrolling brawler in the vein of Kung-Fu Master. It was developed and produced by Sega for the Sega Master System.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12044, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362943-ms_kungfukid_eu.jpg", 
+      "name": "Kung Fu Kid", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese-only Sega Master System adventure/brawler game based on the popular manga/anime Sukeban Deka (Delinquent Girl Cop). It was developed by Sega.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12045, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2297618-sukeban_deka_ii_sm3_box.jpg", 
+      "name": "Sukeban Deka II: Shoujo Tekkamen Densetsu", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Great Volleyball is a volleyball simulator from Sega as part of their \"Great\" series of sports titles for the Sega Master System.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12046, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122766/2092980-great_volleyball_front.jpg", 
+      "name": "Great Volleyball", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only Sega Master System text adventure game featuring Sherlock Holmes.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12047, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2286070-89091_loretta_no_shouzou__japan__1.jpg", 
+      "name": "Loretta no Shouzou", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Alien Syndrome is a cooperative, top-down, run &amp; gun shooter with aliens developed by SEGA as an arcade game in 1987. Compared to other shooters at the time, Alien Syndrome introduced a horror atmosphere in an isolated space station, along with some exploration and survival elements.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12048, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362842-ms_aliensyndrome.jpg", 
+      "name": "Alien Syndrome", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Marksman Shooting & Trap Shooting was a companion game for the Sega Light Phaser for Sega Master System. The European release has an additional mode: Safari Hunt.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12049, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56971/2022048-256px_marksman_trap.jpg", 
+      "name": "Marksman Shooting & Trap Shooting", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An unlicenced Formula One racing game released by Sega in 1986.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12050, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/129083/1774046-wgp.jpg", 
+      "name": "World Grand Prix", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "In AD 2001 wres was beginning", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12051, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2559097-robowres2001.jpg", 
+      "name": "Robo Wres 2001", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Safari Hunt is a Sega Master System launch title that uses the Light Phaser, players travel to different locations and shoot different animals and insects for points.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12052, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2617272-1986748247-Hang_.jpg", 
+      "name": "Safari Hunt", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Two great Master System classics on one cartridge.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12053, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2413577-combo2.jpg", 
+      "name": "Hang On & Safari Hunt", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1937 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1231718-1.jpg", 
+      "name": "Ball Park", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighting game involving the kendo martial art.  Released in Japan for the Sega SG-1000 in 1986.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12054, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2609653-8277785017-31929.jpg", 
+      "name": "Champion Kendo", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12055, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2238/334276-sdi_pc_1.gif", 
+      "name": "S.D.I.", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Alex Kidd: The Lost Stars is a platform game in which the characters are searching for the twelve zodiac signs. The protagonist can shoot arrows and pick up power ups to aid in his quest.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12056, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417186-box_aktls.png", 
+      "name": "Alex Kidd: The Lost Stars", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Two great Master System classics on one cartridge.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12057, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2413575-combocart1.jpg", 
+      "name": "Hang On & Astro Warrior", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Golf simulation game. Part of the Great Sports series for the Sega Master System developed by Sega. Not to be confused with the international version of Great Golf, originally Masters Golf in Japan.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12058, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2286034-greatgolfjp_sms_jp_front.jpg", 
+      "name": "Great Golf", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Vertically scrolling shooter in the vein of Commando, where Rambo sets out to murder anyone who gets in his way, and free hostages or blow up police cruisers for power ups!", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12059, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362984-sms_rambofirstbloodpart2_br.jpg", 
+      "name": "Rambo: First Blood Part II", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Ninja, who must battle enemy ninjas using knives and throwing stars.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12060, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2689297-5845944406-theni.jpg", 
+      "name": "The Ninja", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The most well known game out of the Alex Kidd series, Miracle World follows the adventures of the plucky little lad Alex as he fights his way through 16 stages to find his long lost brother. Sega's answer to Super Mario Bros, Miracle World is a more ambitious platformer, with more varied levels, quirky Roshambo battles, and a longer adventure.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12061, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/37448/1397715-alex_kidd_in_miracle_world.jpg", 
+      "name": "Alex Kidd in Miracle World", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A motocross simulator developed for the Arcade by Sega and later ported to many home consoles.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12062, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362888-sms_enduroracer.jpg", 
+      "name": "Enduro Racer", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Action Fighter is an overhead vehicular combat game released by Sega in 1986.\n\n", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12063, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/745172-acfist0f.jpg", 
+      "name": "Action Fighter", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A post-apocalyptic brawler/fighter released for the Sega Master System in 1986. The Japanese version is named Hokuto no Ken and is based on the manga/anime of the same name, known in the US as Fist of the North Star.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12064, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1538146-bbus2_front.jpg", 
+      "name": "Black Belt", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Three Sega Light Phaser games on one cartridge", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12065, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2617274-8572806755-86676.jpg", 
+      "name": "Marksman Shooting/Trap Shooting/Safari Hunt", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A simple timed maze game, where the objective is to guide your small orange snail to the goal. Snail Maze was built into the Sega Master System BIOS.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12066, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2269/204907-snail_maze.gif", 
+      "name": "Snail Maze", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ice hockey game of the \"Great Sports\" line of games from SEGA for the Sega Master System", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12067, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122766/2092999-great_ice_hockey_front.jpg", 
+      "name": "Great Ice Hockey", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tag-team wrestling game for the Arcades and Sega Master System, both versions of which are known outside Japan as Body Slam and Pro Wrestling, respectively.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12068, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/10342-prowrestling-sms.jpg", 
+      "name": "Pro Wrestling", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quartet is a side-scrolling shooter that, in some configurations, allows up to four players to play at once.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12069, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2689301-7899135847-16030.jpg", 
+      "name": "Quartet", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A multi-directional shooter developed by Sega for the Sega Master System in 1986. It is exclusive to Japan and is one of the few card-based games for the system.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12070, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2728591-9407273053-30656.jpg", 
+      "name": "Comical Machine Gun Joe", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Be a hero in this rudimentary brawler from Sega, which challenges players to beat up foes using jump kicks and glass bottles in order to save the girl.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12071, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362959-sms_myhero.jpg", 
+      "name": "My Hero", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ghostbusters is based on the smash hit film of the same name. Players drive around New York catching ghosts and earning cash before heading to the Temple of Zuul.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12072, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367703-a2600_ghostbusters.jpg", 
+      "name": "Ghostbusters", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12073, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2297395-h.png", 
+      "name": "Champion Ice Hockey", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A SG-1000 sequel to the Hang-On Mark III (Master System) game. It is the only game designed for use with the BH-400 bike handlebar controller.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12074, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2413574-ho2.jpg", 
+      "name": "Hang-On II", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure game by Sega and Pony Canyon. The player controls a penguin on his journey through the arctic.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12075, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582309-0785928951-91631.jpg", 
+      "name": "Doki Doki Penguin Land", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A simpler Hang-On installment with easier courses.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12076, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2413552-hoj.jpg", 
+      "name": "Hang-On Jr.", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Drawing program for SG-1000. The cartridge came attached to a \"Graphic Board\" tablet. This was the first game to feature the use of touch controls.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12077, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2552999-terebioekaki.jpg", 
+      "name": "Terebi Oekaki", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Arcade platformer that was one of two launch games for the Sega Master System in Japan along with motorcycle racer Hang-On. The Japanese title, Teddy Boy Blues, refers to a song of the same name.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12078, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363096-sms_teddyboy_au.jpg", 
+      "name": "Teddy Boy", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game made by Sega for the SG-1000.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12079, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/33679/1333194-453434.jpg", 
+      "name": "Dragon Wang", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "After the devastating underground Dalaus invasion only one TransBot pilot is left standing in this horizontal shoot 'em up from Sega, developed especially for the SG-1000 Mark III (Sega Master System).", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12080, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363099-sms_transbot_2_eu.jpg", 
+      "name": "TransBot", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Tennis game for the Sega Master System, developed by Sega themselves. Part of the \"Great\" series of sport simulations created around the system's launch.", 
+      "developers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ], 
+      "id": 12081, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363046-ms_supertennis_eu.jpg", 
+      "name": "Super Tennis", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }
+  ]
+}

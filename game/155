@@ -1,0 +1,1608 @@
+{
+  "games": [
+    {
+      "deck": "A side-scrolling platformer featuring ninjas.", 
+      "developers": [
+        {
+          "id": 269, 
+          "name": "id Software"
+        }
+      ], 
+      "id": 7690, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17914/1504201-shadow_knights_ss1.gif", 
+      "name": "Shadow Knights", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 141, 
+          "name": "Softdisk Publishing"
+        }
+      ]
+    }, 
+    {
+      "deck": "Episode 2 of the story about Commander Keen.", 
+      "developers": [
+        {
+          "id": 269, 
+          "name": "id Software"
+        }
+      ], 
+      "id": 7691, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2352/219498-ss_ck201.gif", 
+      "name": "Commander Keen 2: The Earth Explodes", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the third and final episode of the series 'Invasion of the Vorticons'.", 
+      "developers": [
+        {
+          "id": 269, 
+          "name": "id Software"
+        }
+      ], 
+      "id": 7692, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2352/219531-ss_ck301.gif", 
+      "name": "Commander Keen 3: Keen Must Die!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "While on a trip to Mars, aliens have stolen vital parts of Commander Keen's starship, and hidden them. In order to safely return to Earth, he must find the missing parts.", 
+      "developers": [
+        {
+          "id": 269, 
+          "name": "id Software"
+        }
+      ], 
+      "id": 7693, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2352/219411-ss_ck101.gif", 
+      "name": "Commander Keen 1: Marooned on Mars", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Commander Keen: Invasion of the Vorticons is a compilation of the first three Commander Keen episodes.", 
+      "developers": [
+        {
+          "id": 269, 
+          "name": "id Software"
+        }
+      ], 
+      "id": 7694, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Commander Keen: Invasion of the Vorticons", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Scene It? Movie Night is a downloadable title for Xbox Live Arcade and PSN. Game packs featuring new genres and movies will be available to download.", 
+      "developers": [
+        {
+          "id": 270, 
+          "name": "Sarbakan, Inc."
+        }
+      ], 
+      "id": 7695, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2110223-box_sitmnmm.png", 
+      "name": "Scene It? Movie Night: Mega Movies", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Spin the maze and avoid traps in this Xbox Live action puzzle game.\n\n", 
+      "developers": [
+        {
+          "id": 270, 
+          "name": "Sarbakan, Inc."
+        }
+      ], 
+      "id": 7696, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841441-box_lraiders.png", 
+      "name": "Lazy Raiders", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wedding dash is the sequel to a serve-people type game.  Casual but energetic, try your best to keep your guests and couple happy.  ", 
+      "developers": [
+        {
+          "id": 270, 
+          "name": "Sarbakan, Inc."
+        }
+      ], 
+      "id": 7697, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3339/382750-weddingdash2screen1.jpg", 
+      "name": "Wedding Dash 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Like Diner Dash but fitness instead if diner.", 
+      "developers": [
+        {
+          "id": 270, 
+          "name": "Sarbakan, Inc."
+        }
+      ], 
+      "id": 7698, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1798903-dash.jpg", 
+      "name": "Fitness Dash", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Crossword puzzle game for the Nintendo DS by ZOO digital.", 
+      "developers": [
+        {
+          "id": 270, 
+          "name": "Sarbakan, Inc."
+        }
+      ], 
+      "id": 7699, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/826996-4168.png", 
+      "name": "Wordmaster", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 270, 
+          "name": "Sarbakan, Inc."
+        }
+      ], 
+      "id": 7700, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1820082-wolf.jpg", 
+      "name": "Go, Diego, Go: Wolf Pup Rescue", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Based on the original PlayStation game of the same name, Warhawk for the PlayStation 3 opts for team-based multiplayer action on the ground and in the air instead of single-player flight combat.", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832175-box_warhawk.png", 
+      "name": "Warhawk", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Collect the criminal and return him to jail, but watch out -- the other players are trying to get him before you can!", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7702, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9897/220199-calling_all_cars_1.jpg", 
+      "name": "Calling All Cars!", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Twisted Metal goes portable with Twisted Metal: Head-On for the PSP.", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2011584-box_tmetalho.png", 
+      "name": "Twisted Metal: Head-On", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Downhill Domination is a mountain biking game that focuses on fast and dangerous downhill descents, on-bike combat and gigantic jumps and tricks. The game is from the same team that brought us Twisted Metal: Black.", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275982-box_dhd.png", 
+      "name": "Downhill Domination", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "War of the Monsters is a 3D fighting game styled after old-school 'creature feature' films of the '50s and '60s, with a variety of playable characters inspired by movie monsters from that era.", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7705, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417203-box_wotm.png", 
+      "name": "War of the Monsters", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "An online version of Twisted Metal: Black.", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7706, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2314082-box_tmbo.png", 
+      "name": "Twisted Metal: Black ONLINE", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A bizarre case of missing the target audience entirely, Small Brawl was an action racing game for children, featuring child versions of the psychotic Twisted Metal characters controlling remote-controlled cars in enclosed deathmatches. ", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2011585-box_tmetalsb.png", 
+      "name": "Twisted Metal Small Brawl", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth game of the Twisted Metal franchise. It occurs outside of the \"normal\" continuity and has a much darker tone than the previous games.", 
+      "developers": [
+        {
+          "id": 271, 
+          "name": "Incognito Entertainment"
+        }
+      ], 
+      "id": 7708, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2011583-box_tmetalb.png", 
+      "name": "Twisted Metal: Black", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Pokemon-based arcade game that reads physical cards, released to Japan in July 2012.", 
+      "developers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ], 
+      "id": 7709, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2182698-pokemt.jpg", 
+      "name": "Pok\u00e9mon Tretta", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Animal Resort tells the story of an animal resort, probably.", 
+      "developers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ], 
+      "id": 7710, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1976444-3ds_zoo_mania.jpg", 
+      "name": "Zoo Resort 3D", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3DS game from AQ Interactive where you must make use of the 3DS's Gyro Sensors to guide the main character, \"CC\", to the goal.", 
+      "developers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ], 
+      "id": 7711, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817054-box_cninja.png", 
+      "name": "Cubic Ninja", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "With the help of Korg, a replica of the MS-20 is being made for the DS.  Originally only slated for a Japanese release, it was released in North America in November 2008.", 
+      "developers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ], 
+      "id": 7712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/843828-korg_cover.jpg", 
+      "name": "Korg DS-10", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An arcade game released in Japan in 2007, players battle Pok\u00e9mon by controlling pucks on a grid.", 
+      "developers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ], 
+      "id": 7713, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2164/1474685-pokemon_battrio.png", 
+      "name": "Pok\u00e9mon Battrio", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PS2 visual novel game based on the Love*Com romantic comedy manga series, developed by AQ Interactive.", 
+      "developers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ], 
+      "id": 7714, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2648737-lovecomgame.jpg", 
+      "name": "Love Com: Punch de Konto", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the open world driving game, Test Drive Unlimited.", 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139880-box_tdu2.png", 
+      "name": "Test Drive Unlimited 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A reboot of the Alone in the Dark series, once again following Edward Carnby in his fight against the vile creatures of the darkness.", 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1867797-box_aitd.png", 
+      "name": "Alone in the Dark", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Test Drive Unlimited is an open world racing game that takes place on the island of Oahu in Hawaii. It features over 1000 miles of open roads which you may traverse in a hot Ferrari or in a blazing Kawasaki race bike.", 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1795448-box_tdu.png", 
+      "name": "Test Drive Unlimited", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840287-b0002w4p8e.08.lzzzzzzz.jpg", 
+      "name": "Titeuf m\u00e9ga-compet'", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "After falling through a portal she discovered in her house, Kya is transported into a strange world. There, she encounters the Nativs, a tribe that is fighting against the evil Brazul and his minions. Can she help the Nativs in their fight and return safe to her world?", 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276009-box_kyadl.png", 
+      "name": "Kya: Dark Lineage", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796160-box_vrally3.png", 
+      "name": "V-Rally 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Need for Speed: Porsche Unleashed is an arcade racing game, which lets the player to dwell in  the  world of Porsche sports cars.", 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7721, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1793305-box_nfspu.png", 
+      "name": "Need for Speed: Porsche Unleashed", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to V-Rally, V-Rally 2 is a rally racing game that was released in North America under both the Need for Speed (PlayStation) and Test Drive (Dreamcast) banners.", 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7722, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1793312-box_nfsvr2.png", 
+      "name": "Need for Speed: V-Rally 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "V-Rally is a rally racing game initially developed by Eden Studios for the PlayStation, published in North America by Electronic Arts under the title of Need for Speed: V-Rally. Later ported to PC, N64, Game Boy, and Game Boy Color.", 
+      "developers": [
+        {
+          "id": 273, 
+          "name": "Eden Games S.A.S."
+        }
+      ], 
+      "id": 7723, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1793311-box_nfsvr.png", 
+      "name": "Need for Speed: V-Rally", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sixth game in IO Interactive's sneaky murder sim franchise, simply titled Hitman, adopts an episodic design wherein it will continually introduce new assassination contracts for players to undertake.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/2759205-pack-large.jpg", 
+      "name": "Hitman", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection of the second, third and fourth Hitman games, remastered in HD with support for Achievements/Trophies.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7725, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2827616-hitmanhdtri.jpg", 
+      "name": "Hitman HD Trilogy", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Agent 47 returns after a six-year hiatus to embark on a mission of redemption for the only person he could ever trust.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97594/2148126-34163412hma_x360_pft_pegi.jpg", 
+      "name": "Hitman: Absolution", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free downloadable preview game available for people who pre-ordered Hitman: Absolution.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2374883-hitman.jpg", 
+      "name": "Hitman: Sniper Challenge", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kane &amp; Lynch 2: Dog Days makes a notable switch of the titular duo, with James Lynch now taking up the role as lead protagonist over Kane. However the two are still once again forced to endure a hail of gunfire as they find themselves embroiled in Shanghai's criminal underworld.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1887890-box_kal2.png", 
+      "name": "Kane & Lynch 2: Dog Days", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The miniature ninja Hiro and friends embark on a quest to defeat the Evil Samurai Warlord and his equally evil army in this quirky action/adventure from IO Interactive.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1790552-mini_ninjas_cover.jpg", 
+      "name": "Mini Ninjas", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A squad-based shooter centering around the uneasy alliance between ex-military mercenary Adam 'Kane' Marcus and the psychopathic James Lynch.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1790550-kane___lynch_cover.jpeg", 
+      "name": "Kane & Lynch: Dead Men", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hitman: Blood Money is a 3rd person action-adventure game released by Eidos in 2006. The game is a continuation of the popular Hitman franchise in which the player takes control of the mysterious assassin, Agent 47.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7731, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2827615-hitmanbloodmoneybox.jpg", 
+      "name": "Hitman: Blood Money", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hitman: Contracts is the third entry in the Hitman series. A wounded 47 seeks refuge in a shoddy apartment and reminisces his earlier missions in the darkness and the rain... Contracts takes place after mission 3 of Blood Money.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2827612-hcontractsbox.jpg", 
+      "name": "Hitman: Contracts", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Freedom Fighters is an alternate history squad-based shooter from IO Interactive, critically hailed for its simple yet deep squad mechanics.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2409904-box_ff.png", 
+      "name": "Freedom Fighters", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Agent 47 is forced out of retirement and takes up contracts again in order to find the whereabouts of his captured friend.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2827614-hitman2box.jpg", 
+      "name": "Hitman 2: Silent Assassin", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first entry in the Hitman series has the player take control of Agent 47, who is expertly trained in the art of assassination. His missions take him to a variety of locations, targeting decadent criminals.", 
+      "developers": [
+        {
+          "id": 274, 
+          "name": "IO Interactive"
+        }
+      ], 
+      "id": 7735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2827613-hitmanc47box.jpg", 
+      "name": "Hitman: Codename 47", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Select your Eva unit and battle the Angels in this 2D side-scrolling fighting game, stylistically similar to the Super Smash Bros. series.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1791823-684a50cc2379e40fd84bf720ab98acc1.jpg", 
+      "name": "Neon Genesis Evangelion: Battle Orchestra", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as a mother or a father as you care for an adopted princess until she reaches her 18th birthday.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2634404-untitled.jpg", 
+      "name": "Princess Maker 5", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Strange things are happening and Shinji Ikari is tasked to investigate and stop the mysterious murders and odd occurrences throughout Tokyo-3. Using keywords found through conversation as clues, Shinji must uncover the culprits and stop them.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3776/444005-detective_eva_f.jpg", 
+      "name": "Meitantei Evangelion", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "You are a member of NERV tasked with caring for and raising Rei or Asuka and preparing them to fight the Angels attacking Tokyo-3. Taking the system first seen in Princess Maker, Gainax introduces their Evangelion twist to it.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2683329-untitled.jpg", 
+      "name": "Shin Seiki Evangelion: Ayanami Ikusei Keikaku with Asuka Hokan Keikaku", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }
+  ]
+}

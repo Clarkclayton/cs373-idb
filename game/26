@@ -1,0 +1,1546 @@
+{
+  "games": [
+    {
+      "deck": "Sonic R is a 3D racing game. It features characters from the Sonic series and puts them in races against each other.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1250, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1870233-box_sonicr.png", 
+      "name": "Sonic R", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic 3D Blast, also known as Sonic 3D: Flickies' Island, is a 2D isometric action-adventure game in which Sonic the Hedgehog must traverse pseudo-3D environments to collect flickies, tiny little birds born out of the Sega arcade game, Flicky.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1251, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1870226-box_sonic3db.png", 
+      "name": "Sonic 3D Blast", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based off the popular animated movie of the same name.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1252, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1124915-586557_46808_front.jpg", 
+      "name": "Disney's Toy Story", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A side-scrolling platformer featuring Disney mascot Mickey Mouse that is inspired by his long history in animated films.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543318-box_mmania.png", 
+      "name": "Mickey Mania", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puggsy follows the story of... well, Puggsy. Released on the Mega Drive, you find your way around an alien planet in this weird, wacky platformer game.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2787137-2938148791-47953.jpg", 
+      "name": "Puggsy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror action platformer game based on the movie of the same name, released on a multitude of platforms from 1993 on, developed by Psygnosis, Traveller's Tales, and Probe Entertainment and published by Sony Imagesoft and Psygnosis.", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361185-nes_dracula_eu.jpg", 
+      "name": "Bram Stoker's Dracula", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }, 
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Leander is a medieval fantasy 2D platformer with a sword-wielding protagonist who goes by the name of Leander", 
+      "developers": [
+        {
+          "id": 35, 
+          "name": "Traveller's Tales Ltd."
+        }
+      ], 
+      "id": 1256, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/720171-leander_001.png", 
+      "name": "Leander", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Turn your words around in this word game.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/2113229-primaryimage.png", 
+      "name": "Text Twist 2", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Collapse! is a puzzle game released for Windows Phone 7.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1258, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1894727-4c71b9db_0cc3_43f7_926f_6d1136445e2c.png", 
+      "name": "Collapse!", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Tiki Towers.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1259, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2169120-tiki_med.jpg", 
+      "name": "Tiki Towers 2: Monkey Republic", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Droplitz featuring a cuter art style.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2169115-logo_info.png", 
+      "name": "Droplitz Delight", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Little Shop: World Traveler is the sixth game in the Little Shop hidden object series of games.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1261, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1851113-ls.jpg", 
+      "name": "Little Shop: World Traveler", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "South Park Mega Millionaire is a Mario Party style board game for the iPhone.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1262, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1851134-sp.jpg", 
+      "name": "South Park Mega Millionaire", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sally's Salon asks players to help Sally fulfill her dream of opening the most fabulous hair and beauty salon in the world.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1263, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8257/1040515-sallys_salon_ds_ninte_r72456.jpg", 
+      "name": "Sally's Salon", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "In Sally's Spa you take control of Sally and rub mud on people's faces, toss hot rocks on their backs and stare at them in the hot tub.  Your goal is to do this all across the world. ", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1264, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2169123-20980779_24355002_300x150.jpg", 
+      "name": "Sally's Spa", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Squashy Software's 2002 claymation shmup indie hit Platypus, developed without the involvement of Squashy Software.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1265, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Platypus II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Little Shop of Treasures is a hidden object game for the PC and iPhone.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1796724-lsot.jpg", 
+      "name": "Little Shop of Treasures", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1267, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2735700-3444818911-13971.jpg", 
+      "name": "Jewel Match", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1268, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1802935-rain.jpg", 
+      "name": "Rainforest Cascade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1269, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1831527-crunch.jpg", 
+      "name": "Collapse! Crunch", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "SpongeBob SquarePants Collapse", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1270, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1166463-spongebobcollapse.jpg", 
+      "name": "SpongeBob SquarePants Collapse", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1271, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tap a Jam", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1272, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Nisqually", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1273, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Glinx!", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first in the Collapse! series to be released in retail.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2678303-super+collapse.jpg", 
+      "name": "Super Collapse!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sally's Studio is the third in a series of games featuring Sally, the now famous owner of a salon and a spa franchise.", 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1275, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Sally's Studio", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/836062-920033_53385_front.jpg", 
+      "name": "Super Collapse! II", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ], 
+      "id": 1277, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1830761-pile.jpg", 
+      "name": "Super PileUp!", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to futuristic WiiWare racer FAST Racing League.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2802527-frn.jpg", 
+      "name": "FAST Racing Neo", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }, 
+        {
+          "id": 383, 
+          "name": "Arc System Works Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "3DS-sequel to Shin'en Multimedia's WiiWare game. Full 3D, 60fps action.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2445040-top2.jpg", 
+      "name": "Jett Rocket II: The Wrath of Taikai", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wii U eShop launch game from Shinen, a sequel to the 3DS game Nano Asssault.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2325867-nano_assault_neo_key_artwork.jpg", 
+      "name": "Nano Assault Neo", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nano Assault is Shin'en Multimedia's first game on the Nintendo 3DS platform. Like prior handheld Shin'en Multimedia games, Nano Assault belongs to the Shoot 'Em Up genre.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1281, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2080539-box_nanoass.png", 
+      "name": "Nano Assault", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "FAST Racing League is a futuristic racer in the same vein of F-Zero and Wipeout for WiiWare.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1282, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2565065-fast1.jpg", 
+      "name": "FAST Racing League", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Jett Rocket is a platformer exclusively for WiiWare that features several different means of transportation including jet packs and snowboards.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45471/1293690-large.jpg", 
+      "name": "Jett Rocket", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Wiiware game by Shin'en Multimedia that involves of stacking up objects either as high as possible without the stack falling over or simply keeping it in balance for a set amount of time.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1284, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2667738-0846599300-gfs_1.jpg", 
+      "name": "Art Of Balance", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fun! Fun! Minigolf is a minigolf game designed with the Wii Remote's unique capabilities in mind. It was released onto Nintendo's WiiWare service on December 22, 2008.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1285, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3009/295344-logo_fun_fun_minigolf.png", 
+      "name": "Fun! Fun! Minigolf", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ]
+    }, 
+    {
+      "deck": "Challenge your mind, body, and spirit with this collection of 6 relaxation-based puzzles.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/880150-z.jpg", 
+      "name": "Zenses: Rainforest", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Zenses: Ocean is a DS game that was developed by Shin'en Multimedia and published by The Game Factory.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/792068-945833_101552_front.jpg", 
+      "name": "Zenses: Ocean", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Nanostray 2 is a sequel to the DS shoot-em-up Nanostray released in 2005.  It features improvements over it's prequel such as a new weapon system, enhanced touch controls, and unlockable minigames.  It is developed by Shin'en Multimedia and published by Majesco.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492916-box_nstray2.png", 
+      "name": "Nanostray 2", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Strawberry Shortcake: The Four Seasons Cake is a DS game that was developed by Shin'en Multimedia and published by The Game Factory.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1089948-f.jpg", 
+      "name": "Strawberry Shortcake: The Four Seasons Cake", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Garfield has over-indulged before bed and as a result is stuck in his nightmare. Help Garfield out in this DS platformer developed by Shin'en Multimedia.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2154875-box_gn.png", 
+      "name": "Garfield's Nightmare", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pet Alien: An Intergalactic Puzzlepalooza is a DS game that was developed by Shin'en Multimedia and published by The Game Factory. It was released in PAL regions simply as Pet Alien. It is based off of the TV show.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1291, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1089964-pa2.jpg", 
+      "name": "Pet Alien: An Intergalactic Puzzlepalooza", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly is a DS game that was developed by Shin'en Multimedia.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1089991-ms.jpg", 
+      "name": "Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Nanostray is a space shooter released on the DS. It was developed by Shin'en Multimedia and is regarded as a spiritual successor to the Iridion games from the GBA. It was followed by a sequel.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1293, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492915-box_nstray.png", 
+      "name": "Nanostray", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Maya the Bee: Sweet Gold is a platformer released for the GBA only in Germany and German speaking countries.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1089618-db2.jpg", 
+      "name": "Die Biene Maja: S\u00fc\u00dfes Gold", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Iridion II is the sequel to Iridion 3D. Like the first game it was released for the GBA and developed by Shin'en Multimedia. It was published by Majesco and Vivendi Games.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1295, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492910-box_i2.png", 
+      "name": "Iridion II", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Iridion 3D was a launch title for the GBA. It was developed by Shin'en Multimedia and published by Majesco. It spawned a sequel, Iridion II and two spiritual successors in the form of Nanostray and Nanostray 2.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492911-box_i3d.png", 
+      "name": "Iridion 3D", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Maya the Bee: The Great Adventure is a GBA game released only in Europe. It was developed by Shin'en Multimedia and published by Acclaim.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1297, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1089410-gb.jpg", 
+      "name": "Maya the Bee: The Great Adventure", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "K\u00e4pt'n Blaub\u00e4r: Die Verr\u00fcckte Schatzsuche is a puzzle game for the GBC, it was developed by Sin'en Multimedia, it was their first game. It was released only in German speaking countries.", 
+      "developers": [
+        {
+          "id": 37, 
+          "name": "Shin'en Multimedia"
+        }
+      ], 
+      "id": 1298, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1090003-gbc.jpg", 
+      "name": "K\u00e4pt'n Blaub\u00e4r: Die Verr\u00fcckte Schatzsuche", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A mobile JRPG developed and published by Kemco about a man with amnesia that only remembers the name of a girl.", 
+      "developers": [
+        {
+          "id": 38, 
+          "name": "Kemco"
+        }
+      ], 
+      "id": 1299, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165455/2750150-dark+seven.jpg", 
+      "name": "RPG Dark Seven", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 38, 
+          "name": "Kemco"
+        }
+      ]
+    }
+  ]
+}

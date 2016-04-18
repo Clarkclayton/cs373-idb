@@ -1,0 +1,1611 @@
+{
+  "games": [
+    {
+      "deck": "In this Harvest Moon title, players are tasked with returning Zephyr Town's bazaar back to its former glory, as well as growing crops, raising animals, and romancing some of the villagers.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3841, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139790-box_hmdsgb.png", 
+      "name": "Harvest Moon: Grand Bazaar", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Harvest Moon: Animal Parade offers more traditional Harvest Moon gameplay for the Nintendo Wii, and features a range of exotic animals for you to interact with.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3843, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139783-box_hmap.png", 
+      "name": "Harvest Moon: Animal Parade", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Reel Fishing series comes to the Wii. ", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3844, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1040990-reelfishingwii.jpg", 
+      "name": "Reel Fishing: Angler's Dream", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "River King Mystic Valley takes the player on a fishing trip to help his sister and make all kinds of unique new friends along the way.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3845, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213172-box_rkmv.png", 
+      "name": "River King Mystic Valley", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "The female version of the Harvest Moon DS game. Play as one of two girl characters and try to win the affections of the boys in Forget-Me-Not Valley, as well as maintaining a prosperous farm.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3846, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139789-box_hmdsc.png", 
+      "name": "Harvest Moon DS Cute", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "New Zealand Story Revolution is a DS remake of the original New Zealand Story, featuring updated graphics, new level designs, and touch-screen controls.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3847, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199421-box_nzsr.png", 
+      "name": "New Zealand Story Revolution", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally released in Japan in 2002, Samurai Deeper Kyo arrived on North American shores in 2008, becoming the last Game Boy Advance game released in the region.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3848, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/1156197-front_cover.jpg", 
+      "name": "Samurai Deeper Kyo", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }, 
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Rainbow Islands Evolution is an update to the Taito classic Rainbow Island.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3849, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199424-box_rie.png", 
+      "name": "Rainbow Islands Evolution", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }, 
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }, 
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "This page is about the DS game \"Ys Strategy\".", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3850, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/752749-1.jpg", 
+      "name": "Ys Strategy", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Enhanced remake compilation of the two portable Kawa no Nushi Tsuri games (released as Legend of the River King and Legend of the River King 2 in the west)", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3851, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2617052-9205832993-31338.jpg", 
+      "name": "Kawa no Nushi Tsuri 3&4", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Wonderful Journey continues the River King games on home consoles for the first time in the U.S.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3852, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213171-box_rkawj.png", 
+      "name": "River King A Wonderful Journey", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Harvest Moon: Another Wonderful Life is a modified version of Harvest Moon: A Wonderful Life, featuring a female protagonist.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3853, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139785-box_hmawl2.png", 
+      "name": "Harvest Moon: Another Wonderful Life", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Licca-chan no Oshare Nikki is a Game Boy Advance game based on the Licca-chan fashion doll.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3854, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2807537-7166926606-31423.jpg", 
+      "name": "Licca-chan no Oshare Nikki", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Harvest Moon: A Wonderful Life is the first iteration of the popular series to appear on the Nintendo Gamecube. It was later released for the PlayStation 2 as well.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3855, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139784-box_hmawl.png", 
+      "name": "Harvest Moon: A Wonderful Life", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Harvest Moon: More Friends of Mineral Town allows you to enjoy a similar gaming experience that was present in Harvest Moon: Friends of Mineral Town but through the eyes of a female protagonist.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3856, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139796-box_hmmfomt.png", 
+      "name": "Harvest Moon: More Friends of Mineral Town", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Harvest Moon: Friends of Mineral Town offers a portable remake of Harvest Moon: Back to Nature for the Game Boy Advance console.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3857, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139794-box_hmfomt.png", 
+      "name": "Harvest Moon: Friends of Mineral Town", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second King of Fighters game for the Game Boy Advance, adding characters never before seen in the series.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3858, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199353-box_kofex2.png", 
+      "name": "The King of Fighters EX2: Howling Blood", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chobits: Atashi Dake no Hito is a GBA game featuring the characters from the anime / manga Chobits.", 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3859, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/238/695193-chobits_gba.jpg", 
+      "name": "Chobits: Atashi Dake no Hito", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3860, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199352-box_kofex.png", 
+      "name": "The King of Fighters EX: Neo Blood", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ], 
+      "id": 3861, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2526140-bbuster.jpg", 
+      "name": "Block Buster", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Saboteur is a action-packed, free-roaming sandbox game that takes place in Nazi-occupied France during World War II. Drive the Nazis out of Paris through whatever means necessary as Irish mechanic-turned-race-car-driver-turned-soldier-of-fortune Sean Devlin.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3862, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2392112-the_saboteur_01_artwork.jpg", 
+      "name": "The Saboteur", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Be immersed in Middle Earth where you fight to stop the forces of evil from taking over Middle Earth or prevent the good of Middle Earth from achieving victory in this \" Star Wars Battlefront\" version of Lord of the Rings. ", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3863, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/872980-front.jpg", 
+      "name": "The Lord of the Rings: Conquest", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the critically acclaimed Mercenaries: Playground of Destruction. Now set in war-torn Venezuela, the player again takes on contracts for various warring factions on a quest for payback.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3864, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246593-box_merc2.png", 
+      "name": "Mercenaries 2: World in Flames", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Destroy All Humans! 2 is the sequel to the popular game in which you play an extra-terrestrial destroying human beings.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3865, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2136542-box_dah2.png", 
+      "name": "Destroy All Humans! 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Full Spectrum Warrior: Ten Hammers is the sequel to Pandemic's modern war game, which allows players to lead mechanized infantry units and engage in multiplayer tactical combat.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3866, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1798098-box_fswth.png", 
+      "name": "Full Spectrum Warrior: Ten Hammers", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Star Wars: Battlefront adds new unlockable classes, huge space battles, and the ability to play Hero characters. Battlefront II also features revamped Galactic Conquest and story modes.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3867, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285707-box_swbf2.png", 
+      "name": "Star Wars: Battlefront II", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "An open-world game spoofing 1950s sci-fi films. The player is an alien named Crypto who comes to Earth with the express purpose of wiping out the human race.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3868, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2136541-box_dah.png", 
+      "name": "Destroy All Humans!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mercenaries: Playground of Destruction is a sandbox game set in a fictional North Korea which has been torn apart by a massive multinational war.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3869, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246592-box_merc.png", 
+      "name": "Mercenaries: Playground of Destruction", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Immerse yourself in some of the greatest Star Wars Battles ever!", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3870, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525269-box_swbf.png", 
+      "name": "Star Wars: Battlefront", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 118, 
+          "name": "Dinamic Software"
+        }
+      ], 
+      "id": 3937, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2238/406152-abu_cpc_7.png", 
+      "name": "Abu Simbel Profanation", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Full Spectrum Warrior is based on a game commissioned by the US Army to train light infantry troops in urban combat situations. The game places soldiers in a tense, hostile, and claustrophobic environment where they must complete a variety of military objectives.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3871, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1798097-box_fsw.png", 
+      "name": "Full Spectrum Warrior", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow Mace Windu, Obi-Wan, and Anakin, as the fight through the early battles of the clone wars against Count Dooku and his ancient weapon \"The Dark Reaper\".", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3872, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285714-box_swtcw.png", 
+      "name": "Star Wars: The Clone Wars", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A real time strategy game set in the Army Men universe. Players collect plastic and electricity to create tiny soldiers and vehicles in the fight against the tan army.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3873, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5727/698687-menujq7.jpg", 
+      "name": "Army Men RTS", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 175, 
+          "name": "The 3DO Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Batter Up! It's time for EA Sports' 2002 entry into their baseball franchise Triple Play.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3874, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261148-box_tp02.png", 
+      "name": "Triple Play 2002", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A real-time strategy game pitting the dictatorial Jovian Detention Authority against the freedom-fighting Sprawlers as the Earth makes its death throes in its 26th and final century", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3875, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4656/1059144-2779.jpg", 
+      "name": "Dark Reign 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this sequel to Activision's unique first-person/real-time strategy PC game, players are tasked with combating a new, unknown enemy at the edge of space.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3876, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/863564-battlezone_ii___combat_commander_coverart.png", 
+      "name": "Battlezone II: Combat Commander", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "MechWarrior 2: Mercenaries was the third game in the MechWarrior 2 series, and improved significantly on the original's graphics, Mech customization mechanics and gameplay. ", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3877, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/118253/1751061-mw2mercenariesboxart.jpg", 
+      "name": "MechWarrior 2: Mercenaries", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Mercenaries series was set to continue with an online-focused third title, but Pandemic Studios was closed in November 2009. Electronic Arts claimed to continue working on the franchise, but nothing has been heard about the game since.", 
+      "developers": [
+        {
+          "id": 115, 
+          "name": "Pandemic Studios"
+        }
+      ], 
+      "id": 3878, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31999/1254982-mercs_inc_cover.png", 
+      "name": "Mercs Inc.", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sony's long-running baseball franchise returns for the 2016 season.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3879, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2804211-71qovwdotdl._sl1247_.jpg", 
+      "name": "MLB The Show 16", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 10th annual edition of The Show, and the second to appear on the PlayStation 4. Featured on the cover is LA Dodgers outfielder Yasiel Puig.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3880, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2706666-mlb-15-the-show_615.0.jpg", 
+      "name": "MLB 15: The Show", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sony's critically acclaimed Major League Baseball franchise continues into the next generation.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3881, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2603666-theshow14.jpg", 
+      "name": "MLB 14: The Show", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2013 installment of Sony's baseball simulator. Includes an all-new playoff mode and a Beginner mode, as well as revamped Franchise and Diamond Dynasty modes.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3882, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421661-box_mlb13ts.png", 
+      "name": "MLB 13: The Show", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sony's baseball sim for the 2012 MLB season.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3883, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2132186-box_mlb12ts.png", 
+      "name": "MLB 12: The Show", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "ModNatioon Racers: Road Trip is a racing game for the PS Vita that refines the \"Race, Create and Share\"  concept that ModNation Racers for PS3 started.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3884, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2111578-box_mnrrt.png", 
+      "name": "ModNation Racers: Road Trip", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take on the role of Deadmund as he battles his way through hordes of undead skeletons using his sword & shield, bow & arrow, and throwing stars in this PlayStation Move-exclusive game.\n", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3885, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2103137-box_mmdq.png", 
+      "name": "Medieval Moves: Deadmund's Quest", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sony's MLB franchise returns for the 2011 baseball season, with PlayStation Move and 3D support.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3886, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2146376-box_mlb11ts.png", 
+      "name": "MLB 11: The Show", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "ModNation Racers is a racing game using Sony's \"Play, Create, Share\" mantra -- applied in ModNation Racers as \"Race, Create, Share\". Like other titles in the series such as LittleBigPlanet, it allows players to customize characters, create their own levels/tracks, and share them online on the PlayStation Network.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3887, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832926-box_mnr.png", 
+      "name": "ModNation Racers", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sony's award-winning baseball franchise returns for the 2010 season with another installment of The Show. New features including Road to The Show Version 4.0 now enabling you to call the game as a catcher as well as the return of the Home Run Derby.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3888, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832925-box_mlb10.png", 
+      "name": "MLB 10: The Show", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "This download-only pinball simulator is based on other Sony games, like Uncharted, Motorstorm and WipEout.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3889, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57559/1342994-pinball_heroes.jpg", 
+      "name": "Pinball Heroes", 
+      "platforms": [
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The follow-up to NBA 09 The Inside, this basketball sim is made by Sony and is exclusive to their platforms.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3890, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810937-box_nba10.png", 
+      "name": "NBA 10 The Inside", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }
+  ]
+}

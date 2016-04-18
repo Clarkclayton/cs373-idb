@@ -1,0 +1,1312 @@
+{
+  "games": [
+    {
+      "deck": "A strategy game developed by exDream Entertainment GbR.", 
+      "developers": [], 
+      "id": 20391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1800647-arena.jpg", 
+      "name": "Arena Wars Reloaded", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1804065-die.jpg", 
+      "name": "Die Pferdebande: Falsches Spiel bei der Pferdeshow", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shadowgrounds is a top-down shooter set in space where you must defend a colony from an invasion of hideous creatures in primarily dark environments.", 
+      "developers": [], 
+      "id": 20395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/659099-shadowgrounds_pc.jpg", 
+      "name": "Shadowgrounds", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sportfischen Professional is a fishing simulation developed by Radon Labs for the PC. It features detailed 3D graphics, 7 different fishing areas and many playing modes.", 
+      "developers": [], 
+      "id": 20396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/238/709520-sportfischen_professional.jpg", 
+      "name": "Sportfischen Professional", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure rollerblading game based on the eponymous popular character and her many Sanrio friends.", 
+      "developers": [], 
+      "id": 20397, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803130-box_hkrr.png", 
+      "name": "Hello Kitty: Roller Rescue", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1827020-trap.jpg", 
+      "name": "Necromania: Trap of Darkness", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "It's Halloween, and private eye Tony Tough must catch the deranged psycho who has kidnapped his beloved dog, Pantagruel.", 
+      "developers": [], 
+      "id": 20399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11165/1331083-t.jpg", 
+      "name": "Tony Tough and the Night of Roasted Moths", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20400, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Let's Ride! Championship Dreams", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth entry in Synetic's longrunning Alarm f\u00fcr Cobra 11 series.", 
+      "developers": [], 
+      "id": 20401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2285441-81elkwxt9hl._aa1500_.jpg", 
+      "name": "Crash Time 5: Undercover", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "Alarm f\u00fcr Cobra 11 comes to Nintendo 3DS. Based on the German television series.", 
+      "developers": [], 
+      "id": 20402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5327/2322781-crash_time.jpg", 
+      "name": "Crash Time 3D", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "Vrrrooom. That's the sound of a motorcycle.", 
+      "developers": [], 
+      "id": 20403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839362-914457_22963_front.jpg", 
+      "name": "Jacked", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horse raising simulator, released in a few European countries in 2005, Jessy: Ein Zirkuspferd in Not stars Jessy and Abraxas.", 
+      "developers": [], 
+      "id": 20404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1770010-51vvhc3jpnl.jpg", 
+      "name": "Jessy: Ein Zirkuspferd in Not", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Hunter MMO made in Cry Engine 3 and developed by TenCent.", 
+      "developers": [], 
+      "id": 20405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18066/2471858-monsterhunteronline.png", 
+      "name": "Monster Hunter Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sumo wrestlers and Street Fighter characters race horses for some reason.", 
+      "developers": [], 
+      "id": 20406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2800838-1880113952-ab0c1.jpg", 
+      "name": "Japan Sumo Cup: Yokozuna Vs Street Fighter", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection of the first six Mega Man games that comes with a new challenge mode and archival art assets. The first project of the newly reformed game restoration house, Digital Eclipse.", 
+      "developers": [], 
+      "id": 20407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2776309-5804188639-28800.jpg", 
+      "name": "Mega Man Legacy Collection", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capcom and Beeline resurrect the Puzzle Fighter brand, accompanied by the Ghostbusters license... and turn the game into a mobile match three game.", 
+      "developers": [], 
+      "id": 20408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2752994-3937055322-5pRX6.jpg", 
+      "name": "Ghostbusters Puzzle Fighter", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Street Fighter: Puzzle Spirits is a match game in the Street Fighter series.", 
+      "developers": [], 
+      "id": 20409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2691281-7858843144-safe_image.php", 
+      "name": "Street Fighter: Puzzle Spirits", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Talisman is a fantasy RPG adventure game based on the classic board game of the same name.", 
+      "developers": [], 
+      "id": 20410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/21249/888303-talisman.jpg", 
+      "name": "Talisman", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pachi-Slot Biohazard 5 is a mobile pachinko/slot game based on Capcom's infected human hunting game.", 
+      "developers": [], 
+      "id": 20411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2646298-2393588964-58293.jpg", 
+      "name": "Pachi-Slot Biohazard 5", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third Lost Planet game, developed by Spark Unlimited. A prequel to the first two games and the first title in the series not developed internally at Capcom.", 
+      "developers": [], 
+      "id": 20412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2472246-box_lp3.png", 
+      "name": "Lost Planet 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Line Drop: Spirit Catcher is a simple mobile puzzle game starring the ji\u0101ngsh\u012b from Darkstalkers.", 
+      "developers": [], 
+      "id": 20413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2758090-title.jpg", 
+      "name": "Line Drop: Spirit Catcher", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed by Dontnod Entertainment, Remember Me is a futuristic game set in Neo-Paris. The protagonist Nilin is up against a tyrant company Memorize with the technology to manipulate peoples memory to their will. It is up to Nilin and her friends to fight against Memorize to break the bind it has on society.", 
+      "developers": [], 
+      "id": 20414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2488952-rememberme.jpg", 
+      "name": "Remember Me", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capcom classics return in some form in this downloadable \"arcade cabinet.\"", 
+      "developers": [], 
+      "id": 20415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2437063-box_cac.png", 
+      "name": "Capcom Arcade Cabinet", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fan creation that celebrates the 25th anniversaries of both Street Fighter and Mega Man that is officially approved by Capcom.", 
+      "developers": [], 
+      "id": 20416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/136764/2385016-sfxmmtitle.gif", 
+      "name": "Street Fighter X Mega Man", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Onimusha Soul is a social game by Capcom which is equal parts card playing and city-building.", 
+      "developers": [], 
+      "id": 20417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2459737-onimashusoul530.jpg", 
+      "name": "Onimusha Soul", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lead your fellow Sour Patch Kids to eventual digestion and death in this plaforming advergame based on the Sour Patch Kids candy.", 
+      "developers": [], 
+      "id": 20418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/2072384-c4777e899e59f9bb1a1f884ee6b1c060.png", 
+      "name": "World Gone Sour", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dustforce is a platformer by indie developer Hitbox Team in which ninja janitors dust and sweep their way through the environment.", 
+      "developers": [], 
+      "id": 20419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2642249-box_dforce.jpg", 
+      "name": "Dustforce", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese combo-heavy doujin brawler, originally released in 2011 at Comiket 80. It was published in the west October 17th 2012 by Capcom.", 
+      "developers": [], 
+      "id": 20420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2530475-untitled.png", 
+      "name": "Fairy Bloom Freesia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2.75D no nonsense full-on arcade shooter created by indie developer group Edelweiss.", 
+      "developers": [], 
+      "id": 20421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2269041-untitled.png", 
+      "name": "Ether Vapor Remaster", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Motorcycles race each other for motorcycle supremacy in Capcom's latest motorcycle racing simulator.", 
+      "developers": [], 
+      "id": 20422, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421670-box_motogp1011.png", 
+      "name": "MotoGP 10/11", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An iOS game based on the popular Saturday Night Live character.", 
+      "developers": [], 
+      "id": 20423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2164/1790749-mrbill924_1285346796.jpg", 
+      "name": "Mr. Bill", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Miley Verisse is creating a comedy club at her school but in order for it to be official she needs to find 3 members before the end of April!", 
+      "developers": [], 
+      "id": 20424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2129712-box.png", 
+      "name": "Cherry Tree High Comedy Club", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The original arcade versions of Final Fight and Magic Sword are collected in this downloadable release.", 
+      "developers": [], 
+      "id": 20425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841436-box_ffdi.png", 
+      "name": "Final Fight: Double Impact", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the iPhone game, KenKen: Train Your Brain, was released on April 9th, 2010. New features include puzzle grids up to 9x9, achievements, and Facebook integration.", 
+      "developers": [], 
+      "id": 20426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/49074/1337819-kenkenpro.jpg", 
+      "name": "KenKen Pro by Will Shortz", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "MotoGP 09/10 is the latest installment in the MotoGP series.", 
+      "developers": [], 
+      "id": 20427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421669-box_motogp0910.png", 
+      "name": "MotoGP 09/10", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "When a robotic virus causes robots to either malfunction or go berserk, it's up to Mega Man and Proto Man to help cure it in the second deliberately-retro installment of the Mega Man series.", 
+      "developers": [], 
+      "id": 20428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1294866-front2.jpg", 
+      "name": "Mega Man 10", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A faux-retro prequel to Dark Void. Pixelated jet-packs abound in this 8-bit side-scrolling shooter for the DSi, PC, and iPhone.", 
+      "developers": [], 
+      "id": 20429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1226534-dvz_box.jpg", 
+      "name": "Dark Void Zero", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rocket out of the void and save a group of stranded humans from an alien force in Dark Void.", 
+      "developers": [], 
+      "id": 20430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1825078-box_darkvoid.png", 
+      "name": "Dark Void", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spyborgs is a Wii brawler designed for co-op play.  It was initially intended to mimic -- to the point of parody -- a standard merchandising-focused Saturday morning cartoon.  Due to poor initial reception, the game was actually made \"more gritty and realistic\" before final release, though remains notably cartoony.", 
+      "developers": [], 
+      "id": 20431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1871443-box_spyborgs.png", 
+      "name": "Spyborgs", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "What the Flock...?! Farmers beware! Sheep-stealing UFO's are reported in the area of this funny (almost cute) looking game.", 
+      "developers": [], 
+      "id": 20432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/955336-gb.png", 
+      "name": "FLOCK!", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "This downloadable seventh iteration of Street Fighter II brings further rebalancing, remixed music, training mode, enhanced online multiplayer, and brand new hand-drawn high-definition graphics.", 
+      "developers": [], 
+      "id": 20433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1099/900269-826903_sfhdp30f_large.jpg", 
+      "name": "Super Street Fighter II Turbo HD Remix", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sail the high seas, pillage towns, and fight off pirate rivals in Certain Affinity's pirate-themed RTS, Age of Booty.", 
+      "developers": [], 
+      "id": 20434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841425-box_aob.png", 
+      "name": "Age of Booty", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "This remake of a classic, top-down shooter now features a wider field of action and emphasizes cooperative online play. Players choose one of three WWII fighter planes to fly through the tropical Pacific and destroy countless enemy airplanes, vehicles and ships.", 
+      "developers": [], 
+      "id": 20435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12541/842116-cbox1942jointstrike.jpg", 
+      "name": "1942: Joint Strike", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The classic series responsible for Commando and Mercs returns as a downloadable dual-joystick shooter from Capcom and Backbone Entertainment.", 
+      "developers": [], 
+      "id": 20436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1331158-wotb_box.png", 
+      "name": "Wolf of the Battlefield: Commando 3", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wacky fighting game by Capcom and their online services subsidiary Daletto to promote Revoltech's new line of action figures. ", 
+      "developers": [], 
+      "id": 20437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2287674-sfo.png", 
+      "name": "Street Fighter Online: Mouse Generation", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth game in the popular Capcom action franchise, Devil May Cry. Take on the role of new playable character Nero, as he uses his swanky demon arm to beat the hell out of a demon invasion in the castle town of Fortuna.", 
+      "developers": [], 
+      "id": 20438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2372454-box_dmc4.png", 
+      "name": "Devil May Cry 4", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The series' second outing on the PSP adds loads of new content including new monsters, regions, downloadable missions, and a new farm for growing resources.", 
+      "developers": [], 
+      "id": 20439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092597-box_mhf2.png", 
+      "name": "Monster Hunter Freedom 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another set of classic Capcom games for the PlayStation 2 and Xbox.", 
+      "developers": [], 
+      "id": 20440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525161-box_ccc2.png", 
+      "name": "Capcom Classics Collection: Volume 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "God Hand is a 3D third-person beat-'em-up game featuring Resident Evil-style \"tank controls\", irreverent humor, and over-the-top action.", 
+      "developers": [], 
+      "id": 20441, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1974391-box_godhand.png", 
+      "name": "God Hand", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mega Man ZX is the first installment in the Mega Man ZX series, featuring a hybrid of gameplay from the Mega Man X series and the Mega Man Zero Series.", 
+      "developers": [], 
+      "id": 20442, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806116-box_mmzx.png", 
+      "name": "Mega Man ZX", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }
+  ]
+}

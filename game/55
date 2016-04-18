@@ -1,0 +1,1665 @@
+{
+  "games": [
+    {
+      "deck": "As the leader of an elite squad of anthropomorphic animal pilots, fly throughout the Lylat star system in the prototype Arwing spacecraft to prevent the galactic conquest of a mad scientist in this 3D shooter for the SNES (with real-time polygonal graphics powered by the new Super FX chip).", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2696, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2702198-box_starfox.jpg", 
+      "name": "Star Fox", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "King Arthur's World is a side-scrolling strategy game where the player must utilise various units and their abilities to help King Arthur safely reach the end of each level.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2697, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363900-snes_kingarthursworld.jpg", 
+      "name": "King Arthur's World", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Super Nintendo first-person futuristic sport simulator in which the player has to maneuver a floating ball into the scoring zone while preventing their opponent from doing the same.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2698, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1791355-space_football__u_.jpg", 
+      "name": "Space Football: One on One", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "X is a Japan-exclusive Game Boy game. Its claim to fame was the ability to render polygons on the handheld, a major technological feat at the time.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2699, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2235800-x.jpg", 
+      "name": "X", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Birds of Prey is a massive flight simulator, released in 1992 and featuring 40 flyable airplanes and 12 mission types in a dynamic NATO vs Soviet Union scenario.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2700, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Birds of Prey", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game with 3D polygonal environments and the sequel to 1989's Hard Drivin'.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/508259-586409_39008_front.jpg", 
+      "name": "Race Drivin'", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Starglider II is a sci-fi flight simulator and space combat game.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2702, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Starglider 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2754808-starglider_ast.jpg", 
+      "name": "Starglider", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This strategy game for the Commodore 64, ZX Spectrum and Amstrad CPC is based on the original Alien movie.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/634067-1195295010_00.png", 
+      "name": "Alien", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 149, 
+          "name": "Commodore"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2705, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "FX Fighter Turbo", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Skyline Attack was the first game developed by Argonaut Games in 1984 and became a hit on the Commodore 64. It allowed players to fly across incredibly realistic outlines of major cities, protecting the world from alien invasion.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2706, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3421/435109-skyline_attack.gif", 
+      "name": "Skyline Attack", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Star Fox 2 was fully developed but never released. Speculation points to Nintendo wanting to hold off on any more 3D titles until the N64. Later installments in the Star Fox franchise would implement Star Fox 2's mechanical and story elements as their own.", 
+      "developers": [
+        {
+          "id": 74, 
+          "name": "Argonaut Games"
+        }
+      ], 
+      "id": 2707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/219930-starfox2_snes_game_box.png", 
+      "name": "Star Fox 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tablet-focused adaptation of the Pathfinder Adventure Card Game from Obsidian Entertainment.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2708, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87610/2832178-pathfinderadventures_boxart.jpg", 
+      "name": "Pathfinder Adventures", 
+      "platforms": [
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Armored Warfare is a free-to-play, modern military, tactical MMO from Obsidian Entertainment.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2709, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2611472-screen+shot+2014-03-20+at+9.13.25+am.png", 
+      "name": "Armored Warfare", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pillars of Eternity is Obsidian Entertainment's isometric, party-based RPG set in the new fantasy world of Eora.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2710, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2735665-5250698812-Pilla.jpg", 
+      "name": "Pillars of Eternity", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Brian Fargo, Alan Pavlish, Mike Stackpole and others reunite for a sequel to their hit 1988, post-apocalyptic CRPG Wasteland. Wasteland 2 is fan-funded from a successful Kickstarter campaign.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2711, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2234257-xn3au.jpg", 
+      "name": "Wasteland 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 302, 
+          "name": "inXile Entertainment, Inc."
+        }, 
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Obsidian-developed role-playing game based on the South Park animated TV series, in which players control a new kid in the eponymous town of South Park and takes part in an epic pretend-fantasy story that threatens the entire town.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/2600454-81bh2nkwxxl._sl1500_.jpg", 
+      "name": "South Park: The Stick of Truth", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG for PC, 360 and PS3. Developed by Obsidian Entertainment and published by Square Enix, it introduces a number of changes to the Dungeon Siege series.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2713, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/1809391-ds3.jpg", 
+      "name": "Dungeon Siege III", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The post-apocalyptic Fallout universe expands into Nevada in this new title in the franchise. As a courier once left for dead by a mysterious man in a striped suit, the player must now set out to find his assailant and uncover the secrets of the enigmatic ruler of New Vegas.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2714, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/1563495-falloutnewvegasboxartntsc.jpg", 
+      "name": "Fallout: New Vegas", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Control rogue agent Michael Thorton as he tries to unearth an international conspiracy in the near future (where everybody seems to have a hidden agenda or two) in this third-person action RPG.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261083-box_aprotocol.png", 
+      "name": "Alpha Protocol", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Storm of Zehir is an expansion for Neverwinter Nights 2.  It adds full customization for a party of 4 and a free roaming overland map.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2966/599805-946862_103375_front_1_.jpg", 
+      "name": "Neverwinter Nights 2: Storm of Zehir", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The silver shard of Gith is gone from your chest, replaced with a mysterious hunger for souls. You find out what happpened and discover a cure before the hunger consumes your very soul.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/1291451-box_l.jpg", 
+      "name": "Neverwinter Nights 2: Mask of the Betrayer", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Bioware's Dungeons and Dragons PC role playing game of 2002, Neverwinter Nights 2 puts the player in the role of a peasant that must realize his importance in the world through an epic adventure. ", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1837607-neverwinter_nights_2_cover.jpg", 
+      "name": "Neverwinter Nights 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set about five years after the events of the first game, the galaxy is on the verge of falling into complete anarchy. As the last undecided Jedi, you must choose your path: either walk the path of a Jedi, or embrace the dark side and destroy the old order.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/647342-kotor2box.jpg", 
+      "name": "Star Wars: Knights of the Old Republic II - The Sith Lords", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "An upcoming fantasy/sci-fi action MMO developed by Allods Team in collaboration with Obsidian Entertainment.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15625/2666232-7005528112-logo..jpg", 
+      "name": "Skyforge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A canceled role-playing game by Obsidian, based on the Alien franchise.", 
+      "developers": [
+        {
+          "id": 75, 
+          "name": "Obsidian Entertainment"
+        }
+      ], 
+      "id": 2721, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8830/833324-aliens_1_.jpg", 
+      "name": "Aliens RPG", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Medieval Mayor is a city-building game set in the middle ages.", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2722, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/146761/2415310-medievalmayor1.png", 
+      "name": "Medieval Mayor", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Create a safe haven in the middle of a hostile wilderness in this fantasy strategy / RPG hybrid.", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2723, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/965374-958753_122110_front.jpg", 
+      "name": "Hinterland: Orc Lords", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take control of John Singleton Mosby in this Civil War-era strategy game.", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/813480-mosby_logo.jpg", 
+      "name": "Mosby's Confederacy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The newest game from Tilted Mill the makers of Caesar 4 and Children of the Nile.  Loot, level and build with fast paced RPG combat and strategic base building!\n", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2725, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2614/203570-teaser10.jpg", 
+      "name": "Hinterland", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Children of the Nile: Alexandria is an addition to the base Children of the Nile game, adding a new mini-campaign focused on the rise of the city of Alexandria.", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1046816-0000005171.1024x768.jpg", 
+      "name": "Children of the Nile: Alexandria", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "SimCity Societies: Destinations is the first expansion pack for SimCity Societies and was released worldwide in June 23, 2008.  The game focuses on tourism and vacations.", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13824/304738-simcitysocietiesdestinations.png", 
+      "name": "SimCity Societies: Destinations", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "SimCity Societies is a city-building simulation computer game from EA and is part of the Sim games series.  The game was developed by Tilted Mill Entertainment and was released worldwide on November 13, 2007.", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2352264-box_scs.png", 
+      "name": "SimCity Societies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Caesar-IV by Sierra is a Real-Time Strategy Game where you build, govern and manage an ancient Roman city. ", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18366/610169-caesar4.jpg", 
+      "name": "Caesar IV", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Immortal Cities is a city-simulation game taking place in ancient Egypt.", 
+      "developers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ], 
+      "id": 2730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/929792-cotn.jpg", 
+      "name": "Immortal Cities: Children of the Nile", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 76, 
+          "name": "Tilted Mill Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "2016's entry in the Call of Duty franchise will be developed by Infinity Ward.", 
+      "developers": [
+        {
+          "id": 77, 
+          "name": "Infinity Ward"
+        }
+      ], 
+      "id": 2731, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Call of Duty 2016 (working title)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The tenth installment of the long-running shooter franchise introduces a brand new storyline, where the United States is under threat from a coalition of South American nations, and must employ a special group of operatives known as \"Ghosts\" to survive.", 
+      "developers": [
+        {
+          "id": 77, 
+          "name": "Infinity Ward"
+        }
+      ], 
+      "id": 2732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2560912-codghostsclean2.jpg", 
+      "name": "Call of Duty: Ghosts", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Call of Duty: Modern Warfare 3 brings World War 3 to the franchise, and furthers the exploits of Capt. Price and Soap MacTavish as they hunt down the international terrorist Vladimir Makarov.", 
+      "developers": [
+        {
+          "id": 77, 
+          "name": "Infinity Ward"
+        }
+      ], 
+      "id": 2733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2011575-box_codmw3.png", 
+      "name": "Call of Duty: Modern Warfare 3", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to 2007\u2019s wildly successful first-person-shooter Call of Duty 4: Modern Warfare, Call of Duty: Modern Warfare 2 continues the story of American and British soldiers fighting Russian ultra-nationalist forces.", 
+      "developers": [
+        {
+          "id": 77, 
+          "name": "Infinity Ward"
+        }
+      ], 
+      "id": 2734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/1112856-modern_warfare_2_cover.png", 
+      "name": "Modern Warfare 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Call of Duty 4: Modern Warfare ditches the World War II motif of the past Call of Duty games to tell a story set in contemporary times, and backs it up with a solid, feature-rich multiplayer mode.", 
+      "developers": [
+        {
+          "id": 77, 
+          "name": "Infinity Ward"
+        }
+      ], 
+      "id": 2735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875205-box_cod4.png", 
+      "name": "Call of Duty 4: Modern Warfare", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the smash hit original game, Infinity Ward returns to the familiar World War 2 setting. In this installment, players take control of four different characters, each of a distinct, allied nationality, as they fight though hordes of Nazi's on their quest to free the world.", 
+      "developers": [
+        {
+          "id": 77, 
+          "name": "Infinity Ward"
+        }
+      ], 
+      "id": 2736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45672/1771679-call_of_duty_2.jpg", 
+      "name": "Call of Duty 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first entry in the critically acclaimed series, Call of Duty allows players to take control of soldiers in 3 different campaigns; British, Russian and American, while fighting against Nazi Germany in WWII.", 
+      "developers": [
+        {
+          "id": 77, 
+          "name": "Infinity Ward"
+        }
+      ], 
+      "id": 2737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/1092147-cod_pc_us.jpg", 
+      "name": "Call of Duty", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person survival horror game and prequel to the horror drama television series The Walking Dead, telling the tale of hunter Daryl Dixon as he travels through the rural U.S.A. with his brother, Merle, during the beginning of the zombie outbreak.", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428432-box_twdsi.png", 
+      "name": "The Walking Dead: Survival Instinct", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars-themed minigame collection for the Xbox Kinect system that features a Jedi killing several storm troopers, and finally facing off against Darth Vader. A video of possible gameplay was first shown at E3 2010.", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139804-box_kinectsw.png", 
+      "name": "Kinect Star Wars", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grab the mic and prove you got swagger in this hip-hop-focused music game from 4mm Games and Terminal Reality.", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1886601-box_djr.png", 
+      "name": "Def Jam Rapstar", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "With a script edited and approved by Dan Aykroyd and Harold Ramis, Ghostbusters: The Video Game is a sequel to the feature length films. Who ya gonna call? GHOSTBUSTERS!", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/960321-ghostbuster.jpg", 
+      "name": "Ghostbusters: The Video Game", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "This compilation includes 6 Samurai Shodown games on one disc.", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525262-box_ssa.png", 
+      "name": "Samurai Shodown Anthology", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A handful of SNK's Neo-Geo games comprise this new collection for PlayStation 2, PSP, and Wii.", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525257-box_snkac1.png", 
+      "name": "SNK Arcade Classics V.1", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Blast your way through jungle infested, nazi-esque worlds in this compilation of the Metal Slug franchise.  Includes every arcade Metal Slug game, which makes this game Metal Slug 6's Western debut.", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/121177/1691411-metal_slug_anthology_us_retail_cover.jpg", 
+      "name": "Metal Slug Anthology", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spy Hunter: Nowhere to Run is the third game in the vehicle-combat franchise. Nowhere to Run is the first game to add on-foot missions to the series.", 
+      "developers": [
+        {
+          "id": 78, 
+          "name": "Terminal Reality, Inc."
+        }
+      ], 
+      "id": 2745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285701-box_shntr.png", 
+      "name": "Spy Hunter: Nowhere to Run", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }
+  ]
+}

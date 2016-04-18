@@ -1,0 +1,1332 @@
+{
+  "games": [
+    {
+      "deck": "Medarot R is the first Medarot game to be released on a console. Battles are rendered in 3D.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1772991-medarot_r.jpg", 
+      "name": "Medarot R", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Not to be confused with Parts Collection 2, this companion game is compatible with Medarot 2.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2297, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1781305-2_parts_collection.jpg", 
+      "name": "Medarot 2 Parts Collection", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Harvest Moon game released on the Game Boy Color, Harvest Moon 2 GBC is a farming simulation in which the player assumes the role of either a boy or a girl who is left a farm and given three years to turn its fortunes around.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2298, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/634412-ham2gb0f.jpg", 
+      "name": "Harvest Moon GBC 2", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Medarot/Medabots series, which serves as the basis for the anime adaption. It introduces Medaforce, powerful attacks that don't rely on a single body part.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2299, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1390424-medarot2.jpg", 
+      "name": "Medarot 2 Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the Medarot/Medabots series. In this collect-em-all RPG, the player builds robots using four body parts and a \"Medal\" and then pit them against their opponents' in 3-on-3 combat.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1784149-medarot_1.jpg", 
+      "name": "Medarot Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Cleopatra Fortune is an Egyptian-themed puzzle game.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2303, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2356276-581465_21735_front.jpg", 
+      "name": "Cleopatra Fortune", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2304, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/46/281980-casperfront.jpg", 
+      "name": "Casper", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Power Rangers Zeo: Battle Racers is a vehicular racing game based on the television show Power Rangers Zeo.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2305, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2115829-saban_s_power_rangers_zeo_battle_racers.jpg", 
+      "name": "Saban's Power Rangers Zeo: Battle Racers", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cartoony action/platformer starring Carranger (Turbo Rangers)", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2306, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2466355-carranger.jpg", 
+      "name": "Gekis\u014d Sentai Carranger: Zenkai! Racer-senshi!", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fishing game developed by Natsume in 1995.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1293246-mdtfm.jpg", 
+      "name": "Mark Davis' The Fishing Master", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "New Mobile Report Gundam Wing: Endless Duel is a 2D fighting game for the SNES based on the popular anime Gundam Wing offering innovative gameplay elements  for its time.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2308, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30526/1214398-new_mobile_report_gundam_wing___endless_duel_coverart.png", 
+      "name": "New Mobile Report Gundam Wing: Endless Duel", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mighty Morphin' Power Rangers: The Fighting Edition is a fighting game for the SNES. Players fight using the various Zords and monsters present throughout the series.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2309, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2218/250963-power_rangers_fighting_edition_6.jpg", 
+      "name": "Mighty Morphin Power Rangers: The Fighting Edition", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tournament fishing for the Game Boy Color, Genesis, and Super Nintendo. Gameplay takes place in top-down \"boat\" sections, as well as side perspective underwater view.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2310, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369046-genesis_bassmastersclassicproedition.jpg", 
+      "name": "Bass Masters Classic", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1995 Super Famicom fishing RPG. It is the sequel to the Famicom game Kawa no Nushi Tsuri and the second game in Natsume's \"River King\" franchise.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2311, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1144646-kawa_no_2.jpg", 
+      "name": "Kawa no Nushi Tsuri 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The last of Natsume's Zen-Nippon series, released in 1995 for the Super Famicom. It features a larger roster and returning modes from previous games, and introduces Budokan mode, essentially a booking mode where the player tries to receive a good rating for a wrestling card.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2312, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/26/260879/2703072-zen-nippon+pro+wrestling+2+-+3-4+budokan+box+art.jpg", 
+      "name": "Zen-Nippon Pro Wrestling 2: 3-4 Budokan", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A fishing game for the Super Famicom endorsed by Masaki Shimono, a Japanese professional angler.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2313, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2757709-5594291189-30698.jpg", 
+      "name": "Shimono Masaki no Fishing to Bassing", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Super Nintendo side-scrolling brawler in which one of five teenagers must fight the forces of Rita Repulsa by morphing into a Power Ranger. The game was developed by Natsume and published by Bandai.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363981-snes_mightymorphinpowerrangers.jpg", 
+      "name": "Mighty Morphin Power Rangers", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Annie and Clint seek revenge on the Kid family in this sci-fi western shooting gallery game for the Super Nintendo.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2315, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9313/349067-5d_8.jpg", 
+      "name": "Wild Guns", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "A wrestling game released on the SNES in 1994. It was adapted from Natsume's earlier All-Japan Pro Wrestling game \"Zen-Nippon Pro Wrestling Dash: Sekai Saikyou Tag\" and reworked to be more American.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2316, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2195608-natsume_championship_wrestling.jpg", 
+      "name": "Natsume Championship Wrestling", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1994 for the Super Famicom. Part of the \"Zen-Nippon Pro Wrestling\" series of video games.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2317, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2195603-zen_nippon_pro_wrestling_fight_da_pon_.jpg", 
+      "name": "Zen-Nippon Pro Wrestling: Fight da Pon!", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pocky &amp; Rocky 2 is the follow-up to Natsume's youkai-filled cute 'em up Pocky &amp; Rocky, starring the eponymous shrine maiden and tanooki.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2318, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/150022/2585718-pocky+%26+rocky+2.jpg", 
+      "name": "Pocky & Rocky 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Super Famicom fantasy virtual board-game that is similar to Asmik's Dokapon Kingdom series. Instead of RPG battles, the player must fight monsters via janken (rock-scissors-paper).", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2319, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2649064-fortunequestsfc.jpg", 
+      "name": "Fortune Quest: Dice o Korogase", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A side-scrolling brawler, Ninja Warriors is the story of three ninja androids sent to fight an oppressive regime in the future. It is the enhanced remake of Taito's 1987 Arcade brawler The Ninja Warriors.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364499-snes_ninjawarriors.jpg", 
+      "name": "Ninja Warriors", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Super Famicom game NCS published based on the Zen-Nippon (All-Japan) Pro Wrestling circuit. This one focuses more on tag team matches, hence the subtitle.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2685756-zennippondashsfc.jpg", 
+      "name": "Zen-Nippon Pro Wrestling Dash: Sekai Saikyou Tag", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action platformer developed by Natsume and published by Banalex featuring characters from the popular early 90s manga and anime series, Ghost Sweeper Mikami.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1677705-mikamifront.jpg", 
+      "name": "GS Mikami: Joreishi wa Nice Body", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A wrestling game and the first in Natsume's Zen-Nippon Pro Wrestling series, based on the Zen-Nippon (All Japan) Pro Wrestling promotion.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2645815-zennipponprowrestling_sfc.jpg", 
+      "name": "Zen-Nippon Pro Wrestling", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pocky and Rocky is an arcade style top-down style shooting game starring a girl and a raccoon.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2324, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364593-snes_pockyandrocky.jpg", 
+      "name": "Pocky & Rocky", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "As Spanky the monkey, players must find keys while eliminating hostile food items with sports balls.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2325, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1845431-box_squest.png", 
+      "name": "Spanky's Quest", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the Japanese Super Sentai franchise from which Power Rangers would later be adapted, this is a pretty fun side scrolling beat 'em up game, also has a giant robot fighting mini game!", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2326, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2466354-jetman.jpg", 
+      "name": "Choujin Sentai Jetman", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game in which the player controls a special agent with cybernetic hands.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362193-nes_shatterhand.jpg", 
+      "name": "Shatterhand", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This was only released in Japan, on October 25th 1991.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2328, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/528746-chaos_world_box.jpg", 
+      "name": "Chaos World", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "After a malicious tanuki kidnaps a fox's girlfriend, he prays at a shrine for a savior. Enter: the tengu.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2766040-3618692580-32074.jpg", 
+      "name": "Hana Taaka Daka!?", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Following the invasion of Earth by fish-like aliens, you must assume the role of a S.C.A.T. soldier and halt the onslaught!", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14389/1150375-scat1.jpg", 
+      "name": "S.C.A.T.: Special Cybernetic Attack Team", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ever wanted to control an alligator that fights with his tail? Then this Natsume published Game Boy game is for you!", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/90155/1459540-585941_38743_front.jpg", 
+      "name": "Tail Gator", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Amazing Penguin is a game for the original Game Boy.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1694313-amazingpenguinfront.jpg", 
+      "name": "Amazing Penguin", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "This was released in Japan before the US version, on August 10th 1990.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361683-nes_dragonfighter.jpg", 
+      "name": "Dragon Fighter", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as either Hayate or Kaede in this fast-paced action platformer. This game is known as \"Blue Shadow\" in Europe.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2334, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362191-nes_shadowoftheninja.jpg", 
+      "name": "Shadow of the Ninja", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Use a deadly boomerang to fight through six sectors and recover the Master Computer in this NES action platformer.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2335, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362124-nes_powerblade_2.jpg", 
+      "name": "Power Blade", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Infamous for its excruciating difficulty, Abadox is a side-scroller shooter for the NES that had both vertical and horizontal levels.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361105-nes_abadox.jpg", 
+      "name": "Abadox: The Deadly Inner War", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361691-nes_dungeonmagic.jpg", 
+      "name": "Dungeon Magic: Sword of the Elements", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese text adventure game for the Famicom. The player assumes the role of Erika, an aspiring pop idol who must foil a plot that might damage her career.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2702634-idolhakkenden_fc.jpg", 
+      "name": "Idol Hakkenden", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A sci-fi/comedy NES adventure game developed and published by Natsume in Japan only.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2360025-touhou_kenbun_roku_fc.jpg", 
+      "name": "Touhou Kenbun Roku", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Action game created by Natsume in 1989.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2340, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1625687-majo.jpg", 
+      "name": "Majoriko Inbikai Inbizone", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Skydiving Extreme is a skydiving game for the PlayStation.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213174-box_sdex.png", 
+      "name": "Skydiving Extreme", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game created by Natsume in 1994.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1625650-_________________.jpg", 
+      "name": "Kagayake! Kirakira Senshi Risky Jewel", 
+      "platforms": [
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2343, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4879/569336-izek_2001.jpg", 
+      "name": "Singer Izek", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A strategy game for the Super Famicom", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2372032-h.png", 
+      "name": "Heian Fuuunden", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A fishing game on the Dreamcast from Natsume.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11512/1141523-rfw.jpg", 
+      "name": "Reel Fishing Wild", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second 3DS Super Robot Wars blends 2D and 3D and uses a new version of the Twin Battle System, and features the debut of Mobile Suit Gundam AGE.", 
+      "developers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ], 
+      "id": 2346, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Robot Wars BX", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Robot Wars OE is a PSP simulation RPG that is broken into eight separate downloadable chapters. It is a rare 3D entry in the series that utilizes the gameplay mechanics of Super Robot Wars NEO.", 
+      "developers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ], 
+      "id": 2347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2543996-srwoe.jpg", 
+      "name": "Super Robot Wars Operation Extend", 
+      "platforms": [
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }
+  ]
+}

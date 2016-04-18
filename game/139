@@ -1,0 +1,1802 @@
+{
+  "games": [
+    {
+      "deck": "Tomb Raider stars Lara Croft in her first title as she races through the jungles of Peru to the sands of Egypt in pursuit of the Scion, an ancient artifact reputedly holding the key to the ancient mystery of Atlantis itself. It would later be remade as Tomb Raider Anniversary.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6888, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2560/217714-tombraiderpccover.jpg", 
+      "name": "Tomb Raider", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "BC Racers is a racing game featuring characters from Core Design's other game, Chuck Rock.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6889, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5578/840335-cv_bcr_usa_a.jpg", 
+      "name": "BC Racers", 
+      "platforms": [
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A first person tank shooter with a heavy hip-hop influence.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6890, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/308451-immagini_foto_saturn_shellshock.jpg", 
+      "name": "Shellshock", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6891, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1896753-568093_86934_front.jpg", 
+      "name": "Asterix and the Power of the Gods", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "If 26 missions, texture-mapped 3D terrains, polygon-generated vehicles, multiple camera views, in-game speech, a fantastic intro sequence and a thumping techno soundtrack aren't enough for you, try admiring the stunning views from Firestorm's virtual cockpit as you bullet your way through global flashpoint situations that will pump your adrenaline to overload.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6892, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12137/322975-firestormth2.jpg", 
+      "name": "Firestorm Thunderhawk 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "You pilot a walking mech in this Sega CD game from Core Design.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6893, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1081037-bc.jpg", 
+      "name": "Battlecorps", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6894, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1288256-dragonstone_front.jpg", 
+      "name": "Dragonstone", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Vertical scrolling shooter for the amiga with propeller engined planes where you must fight off aliens", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6895, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1288151-banshee_eu_front.jpg", 
+      "name": "Banshee", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6896, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369004-genesis_asterixthegreatrescue_eu.jpg", 
+      "name": "Ast\u00e9rix and the Great Rescue", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6897, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/298568-universe_cover.jpg", 
+      "name": "Universe", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Chuck Rock II is a side-scrolling action game featuring the son of the protagonist Chuck Rock as he fights off dinosaurs and tries to help save his parents.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6898, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370455-genesis_chuckrock2.jpg", 
+      "name": "Chuck Rock II: Son of Chuck", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D platformer that plays like A Boy and His Blob, but more like a Redneck and His Stick.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6899, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369763-genesis_bubbanstix_eu.jpg", 
+      "name": "Bubba 'n' Stix", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6900, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2507348-thunderstrike.jpg", 
+      "name": "AH-3 Thunderstrike", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A side-scrolling action platformer, Wardner follows the adventures of Dover in his quest to rescue Mia from the evil Wardner.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6933, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1731132-wardner_box_art.jpg", 
+      "name": "Wardner", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wolfchild is a scrolling shooter with platforming elements. The object of the game is to defeat the the evil Chimera organization, while using guns and the ability to transform into a wolf monster.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6901, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363102-ms_wolfchild_eu.jpg", 
+      "name": "Wolfchild", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Not to be confused with Ubisoft's Watch Dogs, Wonder Dog was an Amiga game in which you played a Wonder Dog. Originally released on the Sega CD in 1992, Wonder Dog is a side-scrolling video game developed by Core Design and released by JVC.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6902, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13641/2231302-wonder_dog_01.png", 
+      "name": "Wonder Dog", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Jaguar XJ220 is a sprite-based pseudo-3D racing game for several 16-bit gaming platforms released in 1992 by Core Design. Race the XJ220 through 12 different countries in single player or two player split screen, and make your own tracks in the track editor.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6903, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6347/473060-cdplayer.png", 
+      "name": "Jaguar XJ220", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Caveman Chuck Rock must save his wife from dinosaurs by beating down enemies with his stomach and by hurling rocks in this side-scrolling action game.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6904, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370453-genesis_chuckrock.jpg", 
+      "name": "Chuck Rock", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }, 
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A young boy from modern Earth must defeat the evil witch queen of a fantasy land.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6905, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/726314-enchantia.jpg", 
+      "name": "Curse of Enchantia", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6906, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1098118-heimdall___front_1.jpg", 
+      "name": "Heimdall", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6907, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/901792-frenetic___front.jpg", 
+      "name": "Frenetic", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Thunderhawk AH-73M is the first entry in the action/flight ThunderHawk/ThunderStrike series.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6908, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2214733-2214732-cover.jpeg", 
+      "name": "Thunderhawk AH-73M", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi run and gun game where the player controls Hiro, the protagonist of the game as he tries to get through six levels infested with mechanoid, metal-clad enemies.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6909, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2659612-switchblade_2.jpeg", 
+      "name": "Switchblade II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rick is back in the sequel to Core Design's popular action platformer.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6910, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/547134-rick_dangerous_2_uk_box_art.jpg", 
+      "name": "Rick Dangerous II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Monty Python's Flying Circus draws its design elements and visual style from the TV series. As Gumby, run, jump and swim your way through the Terry Gilliam-esque levels fighting enemies like The Spanish Inquisition, looking for your missing brains.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6911, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/747825-monty_pythons_flying_circus.jpg", 
+      "name": "Monty Python's Flying Circus", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Car-Vup is an action platformer released for the Amiga and Atari ST systems. It plays similarly to the old NES game City Connection.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6912, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/651173-1220198260_00.png", 
+      "name": "Car-Vup", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D platformer game from Core Design where their recurring character Monty Mole is recruited by aliens and given superpowers to help regain their lost sacred scrolls. Need a scroll? Better call Impossamole!", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6913, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/628838-impossamole__gbh____front.jpg", 
+      "name": "Impossamole", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as an Zodiac Agent investigating a series of murders around Universal Cybernetics Corporation's factory in London in this early FPS/RPG hybrid developed by Core Design.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6914, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370489-genesis_cybercop.jpg", 
+      "name": "Cyber-Cop", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A platformer-shooter similar to Metal Storm. A specially-designed robotic beetle is sent to take down the legions of rogue AI insects meant to terraform a post-apocalyptic world.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6915, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/940618-v.jpg", 
+      "name": "Venus the Flytrap", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Surreal side-scrolling Arcade shooter/brawler from Sega. Two ducks go on a rampage to save a damsel in distress from the sorcerer Achacha.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6916, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362885-sms_dynamitedux_au.jpg", 
+      "name": "Dynamite D\u00fcx", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6917, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/609372-axelam0f.jpg", 
+      "name": "Axel's Magic Hammer", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A comedic platform/action game inspired by Raiders of the Lost Ark released for various home computers.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6918, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1254179-rickdangerous_amiga_front.jpg", 
+      "name": "Rick Dangerous", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Switchblade is a 2D action-adventure platformer where the player guides Hiro, the last of the Bladeknights, through the labyrinth of Undercity. Hiro must recover the 16 fragments of the shattered sword Fireblade and defeat Havok and his nightmare creations.", 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6919, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2339664-switchbladeboxart.jpeg", 
+      "name": "Switchblade", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6920, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Scottish Open: Carnoustie Virtual Golf", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6921, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/780970-1225285052_00.png", 
+      "name": "Thunderstrike 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6922, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2515514-soulstar.jpg", 
+      "name": "Soulstar", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6923, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1721453-284094_blastar_amiga_screenshot_the_title_screen.png", 
+      "name": "Blastar", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6924, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2374499-genesis_skeletonkrew.jpg", 
+      "name": "Skeleton Krew", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6925, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "War Zone", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ], 
+      "id": 6926, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Blob", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 240, 
+          "name": "Core Design Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is a sequel to a 2D make them snow balls and then kick them game.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6927, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17947/587533-snowbro2.png", 
+      "name": "Snow Bros. 2: With New Elves", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A rather obscure vertical scrolling shooter, guide your ship in a battle against aliens using three different weapons. This game is known in Japan as V-Five and is also the first game from Tsuneki Ikeda.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6928, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1156519-586222_78258_front.jpg", 
+      "name": "Grind Stormer", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Knuckle Bash is a side-scrolling brawler in which you must protect wrestling from the evil Mad Bulls Group.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6929, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75245/1834711-1181242124130.png", 
+      "name": "Knuckle Bash", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertically scrolling shoot'em up game. Heralded by many as the first 'maniac shooter' this game could be called the Mother of games like Mushihimesama and DodonPachi.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6930, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2118831-batsugun.jpg", 
+      "name": "Batsugun", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }, 
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertically scrolling shoot'em up.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6931, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9189/1312408-658_1.png", 
+      "name": "Dogyuun", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Star Force is an arcade shoot em up released in 1992.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6932, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20737/1427578-finalstarforce_arcadeflyer.png", 
+      "name": "Final Star Force", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Snow Bros. is a Bubble Bobble styled game where a couple of snowmen brothers must battle through stage after stage of baddies by giving them the cold shoulder.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6935, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362285-nes_snowbrothers.jpg", 
+      "name": "Snow Bros. Nick & Tom", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6936, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5224/401998-sss.jpg", 
+      "name": "Fire Shark", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighter plane shoot 'em up first released to the Arcade by Taito. Players can call in their squadron for support.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6937, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2822754-7123401653-41921.jpg", 
+      "name": "Twin Hawk", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zero Wing is a 1989 scrolling shooter, more notable today for its poorly translated intro movie than its side-scrolling shooter gameplay.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6938, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389679-genesis_zerowing_eu.jpg", 
+      "name": "Zero Wing", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

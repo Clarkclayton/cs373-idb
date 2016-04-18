@@ -1,0 +1,1443 @@
+{
+  "games": [
+    {
+      "deck": "A 3D real time flight FMV adventure game.", 
+      "developers": [], 
+      "id": 19390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2172996-photo_gallery_nir_cover.jpg", 
+      "name": "Kokuu Hyouryo Nirgends", 
+      "platforms": [
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A PC-FX RPG by RayForce and NEC Home Electronics.", 
+      "developers": [], 
+      "id": 19391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2419023-c.png", 
+      "name": "Miraculum: The Last Revelation", 
+      "platforms": [
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "J.B. Harold: Blue Chicago Blues", 
+      "developers": [], 
+      "id": 19392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085129-blue.jpg", 
+      "name": "J.B. Harold: Blue Chicago Blues", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }, 
+        {
+          "id": 79, 
+          "name": "Pioneer LaserActive", 
+          "short": "LACT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second entry in the tactical RPG series, Power Dolls.", 
+      "developers": [], 
+      "id": 19393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2174298-photo_gallery_pdfx_cover.jpg", 
+      "name": "Power Dolls FX", 
+      "platforms": [
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Linda Cubed is an esoteric horror JRPG. It is based around the adventures of a man and woman who attempt to capture creatures while an asteroid hurtles towards Earth.", 
+      "developers": [], 
+      "id": 19394, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1749112-cover2.jpg", 
+      "name": "Linda\u00b3", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1994 for the PC Engine CD.", 
+      "developers": [], 
+      "id": 19395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2237489-j_league_tremendous_soccer__94.jpg", 
+      "name": "J-League Tremendous Soccer '94", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mahjong game developed by Chat Noir in 1994. It is themed around the Chinese novel Journey to the West and was released on multiple systems.", 
+      "developers": [], 
+      "id": 19396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/2164896-587891_4137_front.jpg", 
+      "name": "Mahjong Gokuu Tenjiku", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A life simulation game published in America by Mixx Entertainment, the company that would later become Tokyopop.", 
+      "developers": [], 
+      "id": 19397, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2284354-cover.png", 
+      "name": "Graduation", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down action RPG developed by Hunex for the PC-Engine CD.", 
+      "developers": [], 
+      "id": 19398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2594367-1.png", 
+      "name": "Magicoal", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A golf game developed by T&amp;E Soft in 1993. It is the sequel to the original Harukanaru Augusta and focuses on the major US golf event, the Masters Tournament.", 
+      "developers": [], 
+      "id": 19399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1631964-masters.jpg", 
+      "name": "Masters: Harukanaru Augusta 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third and final core Bonk game for the franchise's home system, the TurboGrafx-16. Bonk is able to increase and decrease his size with special candy power-ups, allowing him to reach new areas.", 
+      "developers": [], 
+      "id": 19400, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2090566-box_bonk3.png", 
+      "name": "Bonk 3: Bonk's Big Adventure", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A TurboGrafx-16 and Genesis platformer based on the TaleSpin license. Unlike the Capcom NES/GB shoot 'em up, Baloo is on foot and looking for vital objects in distinct regions.", 
+      "developers": [], 
+      "id": 19401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2717286-8863095499-46826.jpg", 
+      "name": "TaleSpin", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A TurboGrafx-16 exclusive brawler developed by Manley &amp; Associates. An unfortunate soul has been bitten by the witch Hecate. He must fight his way to her lair before the sun rises lest he remain a night creature forever.", 
+      "developers": [], 
+      "id": 19402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790463-night_creatures__u_.jpg", 
+      "name": "Night Creatures", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hockey game for the TurboGrafx-16 and part of Cinemaware's TV Sports series.", 
+      "developers": [], 
+      "id": 19403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1032198-589152_98771_front.jpg", 
+      "name": "TV Sports Hockey", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down action game for the TurboGrafx-16 featuring a skateboarding bear that has to defeat B-movie monsters to save his town. Its soundtrack features synthesized versions of hit Beach Boys songs.", 
+      "developers": [], 
+      "id": 19404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790466-yo__bro__u_.jpg", 
+      "name": "Yo' Bro", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A tennis game from French developers Loriciel, named for the annual international team event. The game originated on the TurboGrafx-16 before moving to the Genesis.", 
+      "developers": [], 
+      "id": 19405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1794839-davis.jpg", 
+      "name": "Davis Cup Tennis", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A superhero-themed auto-scrolling action game from NEC Interchannel. It is based on the anime of the same name.", 
+      "developers": [], 
+      "id": 19406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2522346-genji_tsuushin_agedama.jpg", 
+      "name": "Genji Tsuushin Agedama", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An role-playing game based on the Saiyuki Reload anime and manga series.", 
+      "developers": [], 
+      "id": 19466, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1908645-919211_27046_front.jpg", 
+      "name": "Saiyuki Reload", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi themed pinball game on the TurboGrafx-16. The pinball can activate time machines which sends it to bonus tables in different time zones.", 
+      "developers": [], 
+      "id": 19407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1731291-time_cruise.jpg", 
+      "name": "Time Cruise", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The 1991 sequel to Bonk's Adventure on the TurboGrafx-16. Bonk continues to bop dinosaurs in his quest to restore the moon.", 
+      "developers": [], 
+      "id": 19408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365514-tg16_bonksrevenge.jpg", 
+      "name": "Bonk's Revenge", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person shooter for the TurboGrafx-16 in which the player navigates the narrow corridors of a space station and eradicating hostile aliens.", 
+      "developers": [], 
+      "id": 19409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365573-tg16_silentdebuggers.jpg", 
+      "name": "Silent Debuggers", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person dungeon-crawling game developed for the TurboGrafx-16. There are many dungeons to explore, each with a piece of a larger password at the end of it.", 
+      "developers": [], 
+      "id": 19410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2338673-box.png", 
+      "name": "Double Dungeons", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A wrestling game for the TurboGrafx-16. It emphasizes the showmanship of Professional Wrestling with its oddball characters, and bouts can involve up to five wrestlers in the ring at once.", 
+      "developers": [], 
+      "id": 19411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1726838-588900_40517_front.jpg", 
+      "name": "Battle Royale", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A basketball game and part of Cinemaware's TV Sports series. The player can select one of eight fictional teams and take on their rivals on the court.", 
+      "developers": [], 
+      "id": 19412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2718858-2108552543-51930.jpg", 
+      "name": "TV Sports Basketball", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sidescrolling mecha shoot 'em up for the TurboGrafx-16 and NEC PC-8801.", 
+      "developers": [], 
+      "id": 19413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1731300-vtg.jpg", 
+      "name": "Veigues Tactical Gladiator", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An educational dinosaur guide with animations and voiceovers exclusive to the TurboGrafx-CD.", 
+      "developers": [], 
+      "id": 19414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2709532-magicaldino_tgcd.jpg", 
+      "name": "Magical Dinosaur Tour", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game from Cream that resembles a cross between Breakout and Bust-a-Move. The player must rescue the heroine by jumping into her dreams and destroying fruit.", 
+      "developers": [], 
+      "id": 19415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790468-drop_off__u_.jpg", 
+      "name": "Drop Off", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "This TurboGrafx-16 gambling game features roulette, poker, blackjack, keno, and slots.", 
+      "developers": [], 
+      "id": 19416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1727821-589006_98517_front.jpg", 
+      "name": "King of Casino", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi top-down shooter and the followup to the original Final Zone for MSX.", 
+      "developers": [], 
+      "id": 19417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2166415-final_zone_ii_2_3.4.jpg", 
+      "name": "Final Zone II", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzler for the TG16 that had the player pushing boxes in a warehouse. Based off of Thinking Rabbit's Sokoban, it is known as Sokoban World in Japan.", 
+      "developers": [], 
+      "id": 19418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2339770-2339769-boxyboy_cover.jpg", 
+      "name": "Boxyboy", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A futuristic vertically-oriented shoot 'em up for the TurboGrafx-16 featuring insectoid enemies. The player's ship, a bio-mechanical vessel named the Chimera, changes shape whenever it collects power-ups.", 
+      "developers": [], 
+      "id": 19419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1726956-588933_88166_front.jpg", 
+      "name": "Cyber-Core", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horizontal-scrolling shoot 'em up similar to R-Type or Gradius; it pits the player against various enemies within a surreal fantasy world.", 
+      "developers": [], 
+      "id": 19420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790465-psychosis__u_.jpg", 
+      "name": "Psychosis", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action/strategy game set in Feudal Japan, specifically around the Genpei War of the 12th century. It is Cinemaware's follow-up to Defender of the Crown.", 
+      "developers": [], 
+      "id": 19421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20737/1427936-lords_of_the_rising_sun.jpg", 
+      "name": "Lords of the Rising Sun", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Save the town of Lizard Breath from mutant ants in this B-Movie inspired adventure/strategy game.", 
+      "developers": [], 
+      "id": 19422, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721047-itcame_c.jpg", 
+      "name": "It Came from the Desert", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A volleyball game for the TurboGrafx-16, Sega Genesis, and Arcade. Unlike many volleyball games of this era, which depicts the whole court, Super Volleyball is on a single 2D plane. It also has four people per team instead of two, as per standard volleyball rules.", 
+      "developers": [], 
+      "id": 19423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1731252-svb.jpg", 
+      "name": "Super Volleyball", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Emerald Dragon is a traditional Japanese RPG released for various gaming consoles and computers.", 
+      "developers": [], 
+      "id": 19424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2463615-box.png", 
+      "name": "Emerald Dragon", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Guy Kazama takes on the evil Force Project in this CD-based shooter from Telenet.", 
+      "developers": [], 
+      "id": 19425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2106830-jbox.jpg", 
+      "name": "Last Alert", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A PC Engine boxing game with an alternate brawler mode.", 
+      "developers": [], 
+      "id": 19426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2802849-0513735961-51630.jpg", 
+      "name": "Bullfight Ring no Hasha", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A basketball game for the TG-16. It has five-person teams, from non-licensed USA regions, and uses animated cutaways for its slam dunks and free throws.", 
+      "developers": [], 
+      "id": 19427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790459-takin__it_to_the_hoop__u_.jpg", 
+      "name": "Takin' It to the Hoop", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Gogan goes on a quest to save his friend Flare from an evil cult with the aid of a legendary weapon. An action game for the Turbografx-16, developed by Marvelous Interactive.", 
+      "developers": [], 
+      "id": 19428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365550-tg16_legendaryaxe_2.jpg", 
+      "name": "The Legendary Axe", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side scrolling action game, featuring a female protagonist and several animated cut scenes in the CD-ROM format. Developed by Telenet and published by NEC in America in 1990. As is the case with other installments in the series, there are marked differences between some versions.", 
+      "developers": [], 
+      "id": 19429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/512412-valis_ii_cover.png", 
+      "name": "Valis II", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling shooter with an aquatic theme, developed by Pack-In-Video for the TurboGrafx-16.", 
+      "developers": [], 
+      "id": 19430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1727816-588941_88236_front.jpg", 
+      "name": "Deep Blue", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top down 2D racing game first released on the TurboGrafx-16. It is now available from the Wii Shop. Moto Roader is a contest between 5 racers (either human or computer) over 8 heats, where players upgrade their cars after each race.", 
+      "developers": [], 
+      "id": 19431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14645/1057859-moto_raoder_boxart.jpg", 
+      "name": "Moto Roader", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A football game and part of Cinemaware's TV Sports series of sports simulators. The game uses fictional teams like the Blizzards and the Rhinos.", 
+      "developers": [], 
+      "id": 19432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1032646-931407_72702_front.jpg", 
+      "name": "TV Sports: Football", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down shooter from Data East, originally released in the Arcades in 1988. Snake and Eagle are on a mission to save the president!", 
+      "developers": [], 
+      "id": 19433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/263976-bloody_wolf.jpg", 
+      "name": "Bloody Wolf", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "SD Gundam game focusing more on the Seed series. It was released on the PS2 in Feb.19 '04 and later made their Greatest Hits list.", 
+      "developers": [], 
+      "id": 19467, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/129475/1776068-sd_seed_front.jpg", 
+      "name": "SD Gundam G Generation Seed", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in Westone's Wonder Boy series and the last to debut in the Arcades, Wonder Boy III is best known outside of Japan as simply Monster Lair. Its sole US release was for the TurboGrafx-CD, though both it and the Genesis version were later added to the US Wii's Virtual Console line-up.", 
+      "developers": [], 
+      "id": 19434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389661-genesis_wonderboyiiimonsterlair_eu.jpg", 
+      "name": "Wonder Boy III: Monster Lair", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally released in 1986, J.B. Harold: Murder Club is the first entry in a noir adventure game series, from the creators who would later go on to develop Hotel Dusk and Trace Memory.", 
+      "developers": [], 
+      "id": 19435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1763976-turbo.jpg", 
+      "name": "J.B. Harold Murder Club", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi space shooter with music and design by Masaya Matsuura, creator of Parappa the Rapper.", 
+      "developers": [], 
+      "id": 19436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1781440-mj_box.jpg", 
+      "name": "Metamor Jupiter", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Strategy game developed by Kogado in 1995.", 
+      "developers": [], 
+      "id": 19437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1632019-schwarzschild_ex___tessa_no_seigun_pc98.jpg", 
+      "name": "Schwarzschild EX: Tessa no Seigun", 
+      "platforms": [
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }
+  ]
+}

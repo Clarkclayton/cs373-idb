@@ -1,0 +1,1401 @@
+{
+  "games": [
+    {
+      "deck": "Kyuukyoku Harikiri Stadium Heisei Gannen Han is a Famicom Baseball game in the Kyuukyoku Harikiri Stadium  series.", 
+      "developers": [], 
+      "id": 18388, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2423274-kyuukyoku_harikiri_stadium_gannenhan.jpg", 
+      "name": "Kyuukyoku Harikiri Stadium Heisei Gannen Han", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Halley Wars is a vertical space scrolling shooting game. Originally released for the Famicom Disk System, it was later ported to the SEGA Game Gear.", 
+      "developers": [], 
+      "id": 18389, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1500571-halley1_front.jpg", 
+      "name": "Halley Wars", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Buggy Boy (Speed Buggy in the US) is a behind-the-car rally racing game developed by Tatsumi, and published by various companies, depending on the country and platform. Players must race a five-leg rally race while avoiding obstacles before time runs out.", 
+      "developers": [], 
+      "id": 18390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2791719-1834799432-27673.jpg", 
+      "name": "Speed Buggy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371432-flintstones_original.jpg", 
+      "name": "The Flintstones", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bonze is a Buddhist monk passing through Hell with only his prayer beads to protect him in this horror-themed Arcade platformer.", 
+      "developers": [], 
+      "id": 18392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2246234-579686_19932_front.jpg", 
+      "name": "Bonze Adventure", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A single-screen maze action game developed for the Famicom Disk System by Taito.", 
+      "developers": [], 
+      "id": 18393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2359990-yuu_maze_fds.jpg", 
+      "name": "Yuu Maze", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early NES JRPG developed by Random House and published by Taito. It is the precursor to the Silva Saga games. It was never released outside of Japan.", 
+      "developers": [], 
+      "id": 18394, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2338380-minelvaton_saga.jpg", 
+      "name": "Minelvaton Saga", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A classic vertical scrolling shooter game that was released in 1987 for arcades and 1989 for the NES.", 
+      "developers": [], 
+      "id": 18395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/206797-thundercade.jpg", 
+      "name": "Thundercade", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Side-scrolling action game with an importance on offensive and defensive tactics.  Best known for the intense battles against other fighters, where both yours and the enemies armor and weapons can be damaged and lost.", 
+      "developers": [], 
+      "id": 18396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2805922-2507621448-Gladi.png", 
+      "name": "Gladiator", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Empire City: 1931 is an arcade first-person shooter that was ported to many home systems under various names, such as Magnum Kiki Ippatsu (NES) and Prohibition.", 
+      "developers": [], 
+      "id": 18397, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1500138-empire_front.jpg", 
+      "name": "Empire City: 1931", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Full-color sequel to Space Invaders.", 
+      "developers": [], 
+      "id": 18398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2408601-flyer.jpg", 
+      "name": "Return of the Invaders", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action platformer for the Arcades produced by UPL. It was later ported to the Famicom by Jaleco. It's known as Ninja-kun in Japan, and is the first of the Ninja-kun series.", 
+      "developers": [], 
+      "id": 18399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2413118-ninja_kun_majou_no_bouken.jpg", 
+      "name": "Ninja-Kid", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Great Swordsman is a 1-on-1 sword fighting game. It was made by Taito Corporation in 1984.", 
+      "developers": [], 
+      "id": 18400, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6234/1069354-1181242121124.png", 
+      "name": "Great Swordsman", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Black Onyx was created in Japan, by Henk Rogers and his Japanese team at Bullet-Proof Software. It was one of the first RPG hits in Japan. One mechanic that may have originated with this game (a health bar that slowly turned from blue to red in lieu of hit point numbers) has penetrated into other genres.", 
+      "developers": [], 
+      "id": 18401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1167719-onyx.jpg", 
+      "name": "The Black Onyx", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lock 'n' Chase was an arcade game developed and published by Data East in 1981. It was seen as Data East's answer to Namco's Pac-Man.", 
+      "developers": [], 
+      "id": 18402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2774108-5255472861-13009.jpg", 
+      "name": "Lock 'n' Chase", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 395, 
+          "name": "Telegames, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Go for it! Climb to the top of the building as a helicopter awaits! A precursor to the platformer genre, Crazy Climber was the first game revolving around climbing.", 
+      "developers": [], 
+      "id": 18403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2683191-33003301.jpg", 
+      "name": "Crazy Climber", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 85, 
+          "name": "Arcadia 2001", 
+          "short": "A2K1"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D vertical shooter released by Sun Electronics and Taito in 1980. It was notable for being the first video game to use voice synthesis.", 
+      "developers": [], 
+      "id": 18404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2606602-28021601.jpg", 
+      "name": "Stratovox", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1979 Arcade shoot 'em up in which the player guides missiles towards alien invaders, avoiding their projectiles and random asteroids along the way. Saw a Super Famicom revamp in 1995.", 
+      "developers": [], 
+      "id": 18405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2833036-8155838665-Galax.jpg", 
+      "name": "Galaxy Wars", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "1979 arcade shooter by Nintendo where the player must fight sixteen surrounding desperadoes. A precursor to Donkey Kong, it was designed by Genyo Takeda, with assistance from Shigeru Miyamoto, working on his first video game. Possibly the first run &amp; gun shooter, it also introduced the damsel-in-distress trope to gaming as well as continuous background music.", 
+      "developers": [], 
+      "id": 18406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7667/1103485-slide04.jpg", 
+      "name": "Sheriff", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The series continues with Puchi Copter 2.", 
+      "developers": [], 
+      "id": 18407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1682968-puchicopter2jp.jpg", 
+      "name": "Puchi Copter 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "James 'Buster' Douglas Knockout Boxing is essentially the exact same game as Final Blow, except featuring James Douglas in 1990 directly after his victory over Mike Tyson.", 
+      "developers": [], 
+      "id": 18408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11059/274826-buster.jpg", 
+      "name": "James 'Buster' Douglas Knockout Boxing", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Homura is an arcade style shoot-em-up that was released for the PS2 in Japan and Europe.", 
+      "developers": [], 
+      "id": 18409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2236061-929799_69944_front.jpg", 
+      "name": "Homura", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An upgraded version of the Arcade and mobile phone game Snake developed by Dual, published by Sony for the MSX 2 and later published again by Taito for the Famicom Disk System and PC-88.", 
+      "developers": [], 
+      "id": 18410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2338447-replicart_fds_box.jpg", 
+      "name": "Replicart", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1663078-vn2.jpg", 
+      "name": "Victorious Nine II", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An FMV adventure game about a group of friends that return to their favorite summer vacation spot as they recall their past.", 
+      "developers": [], 
+      "id": 18412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2237842-917639_25548_front.jpg", 
+      "name": "Shirachuu Tankenbu", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sports game developed by Nidecom in 1985.", 
+      "developers": [], 
+      "id": 18413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1663075-v9_fm7.jpg", 
+      "name": "Victorious Nine", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese arcade game in which players must pound on and then flip a table.", 
+      "developers": [], 
+      "id": 18414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30183/2120603-cho_chabudai_gaeshi_image.jpg", 
+      "name": "Cho Chabudai Gaeshi", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "3D Marble flip is a puzzle/labyrinth game for the PC.", 
+      "developers": [], 
+      "id": 18415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1796897-mf.jpg", 
+      "name": "3D Marble Flip", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "3D Pinball Express is a pinball game from Cosmi. Features 4 fictional pinball machines.", 
+      "developers": [], 
+      "id": 18416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/645258-3dpinballex_front.jpg", 
+      "name": "3D Pinball Express", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nuclear power plant simulator for the Commodore 64", 
+      "developers": [], 
+      "id": 18418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/185326/2778079-3580951100-497px.jpg", 
+      "name": "Chernobyl", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This game is the sequel to the original Forbidden Forest. It boasted the passage of time and a character that could move in and out of the screen.", 
+      "developers": [], 
+      "id": 18419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1344452-forbidden.jpg", 
+      "name": "Beyond the Forbidden Forest", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Legend of the Knucker-Hole is the second game to feature Jet-Book Jack. It was released on the Commodore 64 in 1984.", 
+      "developers": [], 
+      "id": 18420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2771123-legend_of_the_knucker_hole_c64_3_1_us.jpg", 
+      "name": "Legend of the Knucker-Hole", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation of 300 classic arcade games.\nIt features 3D and 2D games of almost every genre", 
+      "developers": [], 
+      "id": 18421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/125537/1723435-giant_bomb_sub.jpg", 
+      "name": "300 Arcade Games", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18422, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Great Qin Warriors", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18423, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Corporate Raider:  The Pirate of Wall St.", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18424, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Navcom-6", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18425, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "3D Caveman Rocks", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1852095-huey.jpg", 
+      "name": "Super Huey III", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18427, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "3D Frog Frenzy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1862323-drift.jpg", 
+      "name": "Drift: When Worlds Collide", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 47, 
+          "name": "Cosmi Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The next entry in the series of WWII wargames from Paradox Interactive.", 
+      "developers": [], 
+      "id": 18429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/127158/2593883-hoi4.jpg", 
+      "name": "Hearts of Iron IV", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the comedic fantasy world of Magicka tells the tale of a new group of powerful Wizards as they battle evil in a world almost devoid of other Wizards.", 
+      "developers": [], 
+      "id": 18430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2649477-magicka+2+v1.jpg", 
+      "name": "Magicka 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Knights of Pen and Paper, a turn-based, pixel-art game.", 
+      "developers": [], 
+      "id": 18431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171939/2749865-7689345023-heade.jpg", 
+      "name": "Knights of Pen & Paper II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cities: Skylines is a city-building simulation heavily inspired by the SimCity franchise.", 
+      "developers": [], 
+      "id": 18432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2670675-temp-packshot-v2.jpg", 
+      "name": "Cities: Skylines", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Salem is a new Crafting MMORPG being developed by Seatribe Inc and published by Paradox Interactive. Its free-to-play, has persistant death and players can effect and mould the landscape overtime.", 
+      "developers": [], 
+      "id": 18433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331143-box_salem.png", 
+      "name": "Salem", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Single player space themed Real-Time Strategy game with Star Studded cast known from other Sci-Fi properties.", 
+      "developers": [], 
+      "id": 18434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4344/2672894-0004543680-Ancie.jpg", 
+      "name": "Ancient Space", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the turn-based strategy game Warlock: Master of the Arcane.", 
+      "developers": [], 
+      "id": 18435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2582748-box_w2te.png", 
+      "name": "Warlock II: The Exiled", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "March of the Eagles is a grand-strategy game focusing on the Napoleonic Wars in Europe during 1805-1820. It was released by Paradox Development Studio on February 18th, 2013.", 
+      "developers": [], 
+      "id": 18436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2348411-eagles.png", 
+      "name": "March of the Eagles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "Leviathan: Warships is a strategic, turned-based action game where players customize their fleet and fight alone, cooperatively or competitively in naval warfare.", 
+      "developers": [], 
+      "id": 18437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2582736-box_lw.png", 
+      "name": "Leviathan: Warships", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "The newest game in Paradox Interactive's grand strategy franchise, focusing on Europe in the Age of Discovery.", 
+      "developers": [], 
+      "id": 18438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331106-box_eu4.png", 
+      "name": "Europa Universalis IV", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 49, 
+          "name": "Paradox Interactive AB"
+        }
+      ]
+    }
+  ]
+}

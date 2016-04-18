@@ -1,0 +1,1264 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17586, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Seal Team", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17587, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Jane's Combat Simulations: Longbow Anthology", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17588, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2326912-demon_stalker.gif", 
+      "name": "Demon Stalkers", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17589, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ultimate Motorcycle Series", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Littlest Pet Shop Online is the web based community portal for girls based on the Littlest Pet Shop franchise.", 
+      "developers": [], 
+      "id": 17590, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1042411-litlepetshop.jpg", 
+      "name": "Littlest Pet Shop Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17591, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/744357-mc3boxfront.jpg", 
+      "name": "The Magic Candle III", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17592, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44966/1516607-hot357_2.jpg", 
+      "name": "Heroes of the 357th", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Lord of the Rings: The White Council was an RPG in development at EA Redwood Shores (now Visceral Games), until its cancellation. The game was to be set in Middle-earth at a time before Bilbo Baggins discovers the One Ring.", 
+      "developers": [], 
+      "id": 17593, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2843/534211-fsnafeooky.jpg", 
+      "name": "The Lord of the Rings: The White Council", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Business etiquette trainer for the Nintendo Ds.", 
+      "developers": [], 
+      "id": 17594, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/847644-4323.png", 
+      "name": "Business Ryoku Kentei DS", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first person parkour game by EA in collaboration with Steven Spielberg that has been cancelled twice.", 
+      "developers": [], 
+      "id": 17595, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39637/1621319-009.jpg", 
+      "name": "LMNO", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17596, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/125883/1756946-patton_vs_rommel.jpg", 
+      "name": "Patton vs. Rommel", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17597, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Buick PGA Tour Courses", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1994 for the SEGA Genesis/Mega Drive, PGA Tour Golf III (3) was the third in a series of golf games produced by EA Sports.  The PGA Tour series is the precursor to the Tiger Woods series of games.", 
+      "developers": [], 
+      "id": 17598, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1794827-3.jpg", 
+      "name": "PGA Tour Golf III", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Save the world of Tarmalon from an evil scroll and the forces pursuing it in this RPG from Quest Software & EA", 
+      "developers": [], 
+      "id": 17599, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608954-922_1_1_.jpg", 
+      "name": "Legacy of the Ancients", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17600, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/365393-3611.jpg", 
+      "name": "Cricket 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17601, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Strike Commander and Privateer TwinPack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17602, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/101045/1439064-l1.png", 
+      "name": "Lords of Conquest", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17603, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1908526-mania.jpg", 
+      "name": "Outdoorsman Mania", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Respawn and EA have separately confirmed that an as-of-yet unnamed sequel to Titanfall is in the works.", 
+      "developers": [], 
+      "id": 17604, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Titanfall 2 (working title)", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17605, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ultimate Hunt Challenge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "charge n blast is a game for the Sega Dreamcast, released in 2001", 
+      "developers": [], 
+      "id": 17606, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/547883-3f_8.jpg", 
+      "name": "Charge n Blast", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A single player/ local co-op puzzle platformer developed by Rock Pocket Games and published by Sierra.", 
+      "developers": [], 
+      "id": 17607, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2725198-image.jpg", 
+      "name": "Shiftlings", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third main installment in the Geometry Wars franchise, developed by Lucid Games. Dimensions is the first entry in the series to be in 3D.", 
+      "developers": [], 
+      "id": 17608, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2676151-geometry+wars+3+-+dimensions.jpg", 
+      "name": "Geometry Wars 3: Dimensions", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 144, 
+          "name": "Apple TV", 
+          "short": "APTV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top down shoot 'em up and platformer in one adventure. Velocity 2X is the sequel to the award winning Velocity, and features fast paced gameplay and a teleport mechanic. The heroine Kai Tana blasts, tele-dashes and jumps through interior sections then returns to her Quarp Jet to continue her fight against the Vokh.", 
+      "developers": [], 
+      "id": 17609, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2733451-rsz_3image.jpg", 
+      "name": "Velocity 2X", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Become Jason Bourne as he tries to outrun government assassins and discover the secrets of his past.", 
+      "developers": [], 
+      "id": 17610, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2154889-box_tbc.png", 
+      "name": "Robert Ludlum's The Bourne Conspiracy", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based loosely on the events of the motion picture, The Spiderwick Chronicles puts you in control as Jared, Simon and Mallory.", 
+      "developers": [], 
+      "id": 17611, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/624803-spdr.jpg", 
+      "name": "The Spiderwick Chronicles", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Race and fight to earn enough credits to upgrade your ship to be even more deadly.", 
+      "developers": [], 
+      "id": 17612, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/666829-mach_manual.jpg", 
+      "name": "M.A.C.H.: Modified Air Combat Heroes", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17613, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1506/1183312-930464_70987_front.jpg", 
+      "name": "Lawnmower Racing Mania 2007", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP exclusive flight-action game in which you play as the dragon Saphira; based on the Eragon book and movie license.", 
+      "developers": [], 
+      "id": 17614, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/813670-932599_74883_front.jpg", 
+      "name": "Eragon", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Joint Task Force is a military real-time strategy that follows the JTF First Battalion and its commander, Major O'Connell, in a fight for order and stability where the war becomes more personal with each battle.", 
+      "developers": [], 
+      "id": 17615, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31837/1090646-mw2ia9.jpg", 
+      "name": "Joint Task Force", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join former SAS soldier Andrew Sterling as he takes on a group of arms dealers with access to a missle guidance system.", 
+      "developers": [], 
+      "id": 17616, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/810055-914739_60855_front.jpg", 
+      "name": "Cold Winter", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bring your bling and live the life of 50 Cent and the G-Unit as they clean up the streets of New York in this ill-regarded third-person shooter.", 
+      "developers": [], 
+      "id": 17617, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285610-box_50cbp.png", 
+      "name": "50 Cent: Bulletproof", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Crash and Spyro compilation cart featuring two games.", 
+      "developers": [], 
+      "id": 17618, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1789016-930112_70385_front.jpg", 
+      "name": "Crash & Spyro Superpack", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17619, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803994-box_spyrosl.png", 
+      "name": "Spyro: Shadow Legacy", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Red Ninja is a stealth action game in the vein of Tenchu. Developed as a collaboration between Tranji Studios and film writer Shinsuke Sato.", 
+      "developers": [], 
+      "id": 17620, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2491513-box_rneoh.png", 
+      "name": "Red Ninja: End of Honor", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first rule of Fight Club is: you do not talk about Fight Club.", 
+      "developers": [], 
+      "id": 17621, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285649-box_fclub.png", 
+      "name": "Fight Club", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Men of Valor you play as Dean Shepard, a young Marine in the United States Marine Corps, trying to stay alive with his squad in the harsh jungles of Vietnam.", 
+      "developers": [], 
+      "id": 17622, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1801453-box_mov.png", 
+      "name": "Men of Valor", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17623, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/692669-aladdin.jpg", 
+      "name": "Disney's Aladdin Chess Adventures", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Containing a mixture of simulation and strategy games, Evil Genius tasks players with constructing an underground lair capable of defeating the Forces of Justice, maintaining minions, and developing notoriety in a quest of world domination.", 
+      "developers": [], 
+      "id": 17624, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/625317-915014_front_1_.jpg", 
+      "name": "Evil Genius", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Van Helsing is a video game adaptation of the 2004 movie of the same name.", 
+      "developers": [], 
+      "id": 17625, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2226790-box_vh.png", 
+      "name": "Van Helsing", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Mulder and Scully in Resist or Serve, an action game from 2004 featuring an original story, several voices from the show, and a whole lotta kickin'. ", 
+      "developers": [], 
+      "id": 17626, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139884-box_txfros.png", 
+      "name": "The X-Files: Resist or Serve", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metal Arms: Glitch in the System is a third-person action game developed by Swingin' Ape Studios for the GameCube, PS2, and Xbox. As Glitch you must take up arms with the Droids of Iron Star against the evil General Corrosive.", 
+      "developers": [], 
+      "id": 17627, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2352263-box_marmsgits.png", 
+      "name": "Metal Arms: Glitch in the System", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17628, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285645-box_dstcith.png", 
+      "name": "Dr. Seuss' The Cat in the Hat", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Starsky & Hutch is a driving and shooting game based upon the legendary television show of the 1970's.", 
+      "developers": [], 
+      "id": 17629, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797002-box_sah.png", 
+      "name": "Starsky & Hutch", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17630, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1838487-table.jpg", 
+      "name": "Hoyle Table Games 2004", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17631, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14247/1761926-129119208172180433112.jpeg", 
+      "name": "Hoyle Majestic Chess", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Futurama is a game based on the award winning television show, and features many of the original cast members and creative writing. ", 
+      "developers": [], 
+      "id": 17632, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796983-box_futurama.png", 
+      "name": "Futurama", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hardcore NASCAR online racing simulation.  Praised for being one of the most realistic racing simulations and used by professional drivers.", 
+      "developers": [], 
+      "id": 17633, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/25091/837386-boxshot_1_.jpg", 
+      "name": "NASCAR Racing 2003 Season", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A GBA game based off the popular robot battle series, BattleBots", 
+      "developers": [], 
+      "id": 17634, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171939/2623992-9272923694-Battl.jpg", 
+      "name": "BattleBots: Beyond the BattleBox", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Whirl Tour, players play as Wasa B; A roadie on the search for the members of the band \"Flipside.\"", 
+      "developers": [], 
+      "id": 17635, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/536106-01.jpg", 
+      "name": "Whirl Tour", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }
+  ]
+}

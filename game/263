@@ -1,0 +1,1718 @@
+{
+  "games": [
+    {
+      "deck": "An updated version of Mortal Kombat 4 which was supposed to be more authentic to the orginal arcade version. Six characters were added to this version of the game.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13076, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7661/656341-mkgold_logo_medium.jpg", 
+      "name": "Mortal Kombat Gold", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Duke Nukem Zero Hour is the second third person adaption of the classic shoot em' up franchise", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13077, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114375-box_dnzh.png", 
+      "name": "Duke Nukem: Zero Hour", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tarzan is a game based on the 1999 Animated Disney Film of the same name. It is mainly a 2D platformer, although it features several variations of the base gameplay.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13078, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285718-box_tarzan.png", 
+      "name": "Disney's Tarzan", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Disney's Hercules is a movie based action game for the PlayStation and PC. In it, the player takes control of Hercules, who must complete various feats in order to be admitted into Olympus and sit alongside the gods.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13079, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2173622-197544_6404_front.jpg", 
+      "name": "Disney's Hercules: Action Game", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mortal Kombat 4 is the fourth installment of one of the most violent fighting game franchises of all time, moving the series to 3D while introducing limited weapon-based combat.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13080, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1529065-mk4_box.png", 
+      "name": "Mortal Kombat 4", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Machine Hunter is a top-down free-roaming shooter in which the core gameplay feature is the ability to take over the bodies of downed robots, thus slowly increasing the player's firepower.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13081, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2875/259255-256px_machunt.jpg", 
+      "name": "Machine Hunter", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cruis'n World is an arcade driving game that lets you race around the globe.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13082, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543547-box_cruisnw.png", 
+      "name": "Cruis'n World", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Kill countless aliens while rescuing babes as Duke Nukem in this critically acclaimed first-person shooter.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4/257274-235827_duke3d_super.jpg", 
+      "name": "Duke Nukem 3D", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 64, 
+          "name": "Game.Com", 
+          "short": "GCOM"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "War Gods is a fighting game by Midway that was very similar to the Mortal Kombat franchise.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13084, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193310-box_wgods.png", 
+      "name": "War Gods", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Maui Mallard is out to collect him some Luau Loot in this mid-90s platformer.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13085, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363962-snes_mauimallard_eu.jpg", 
+      "name": "Maui Mallard in Cold Shadow", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 7 Up soft drink brand's lil' mascot returns in this isometric sequel to Cool Spot, ready to wreck havoc in stereotypical movie genres.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13086, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421689-box_sgth.png", 
+      "name": "Spot Goes to Hollywood", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Considered one of the most competitive fighting games out of the entire franchise, Ultimate Mortal Kombat 3 is an update to the third installment that brings back masked ninjas while tweaking character balances.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13087, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1331194-umk3flyer.jpg", 
+      "name": "Ultimate Mortal Kombat 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sacred Crystal Palace of Mythrandir is under siege by Zok, Zink and their Saurian army. It's up to the Stone Protectors to help Princess Opal in this licensed brawler from Eurocom.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2673483-8542123024-51185.jpg", 
+      "name": "Stone Protectors", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 38, 
+          "name": "Kemco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gameboy game with a mindlessly repetitive soundtrack.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/95838/1407830-tarzan.jpg", 
+      "name": "Tarzan: Lord of The Jungle", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Created by the twisted minds at Shiny Entertainment (led by Dave Perry and Doug TenNapel), Earthworm Jim is a nonsensical side-scrolling platform game that allows the player to venture through the galaxy as an earthworm trapped in a futuristic space-suit to rescue Princess What's-Her-Name.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370511-genesis_earthwormjim.jpg", 
+      "name": "Earthworm Jim", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }, 
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighting game starring anthropomorphic characters as the in-game fighters. The game was similar to other fighting games of the time.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1025951-085.jpg", 
+      "name": "Brutal: Paws of Fury", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 2D platformer based on the 1967 animated Disney movie and released on multiple platforms. It was one of four Virgin Interactive platformers based on Disney movies, along with The Lion King, Aladdin and Pinocchio.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370671-genesis_junglebook_cropped.jpg", 
+      "name": "Walt Disney's The Jungle Book", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fifth iteration of Street Fighter II makes further changes to each characters' movelist while rebalancing the game and adding a new Super Meter (with a Super Combo attack for each fighter), adjustable game speed settings, and a hidden final boss.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2273498-box_ssf2t.png", 
+      "name": "Super Street Fighter II Turbo", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action-platformer licensed game by Eurocom and Ocean, based on the 1992 comedy action movie sequel Lethal Weapon 3. Released on various consoles, there are small differences between each version.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361963-nes_lethalweapon.jpg", 
+      "name": "Lethal Weapon", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "James Bond Jr. was also a 1991 video game developed by Eurocom for the Nintendo Entertainment System and the Super Nintendo Entertainment System", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361885-nes_jamesbondjr.jpg", 
+      "name": "James Bond Jr.", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adaptation of the TV quiz show where two families compete for cash prizes. These versions were all published by GameTek and developed by various developers between 1991 and 1994.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370550-genesis_familyfeud.jpg", 
+      "name": "Family Feud", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Magician is a side-scrolling RPG.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362027-nes_magician.jpg", 
+      "name": "Magician", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as fairies Tam and Rit in this Arcade action platformer developed by Jaleco.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/235923-rodland.jpg", 
+      "name": "Rod Land", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dropzone is a side scrolling shooter.", 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/213751-dropzone.jpg", 
+      "name": "Dropzone", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 447, 
+          "name": "Eurocom Entertainment Software"
+        }
+      ], 
+      "id": 13100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/407237-tesserae.jpg", 
+      "name": "Tesserae", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play MOBA game from the developers of Global Agenda and Tribes Ascend. Smite is played entirely in third person camera and every spell and attack is a skillshot.", 
+      "developers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ], 
+      "id": 13101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1870775-smite_online_game_screenshot.jpg", 
+      "name": "Smite", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tribes: Ascend is a fast-paced free-to-play FPS developed by Hi-Rez Studios for the PC. With a focus on projectile weapons, high speed and jet packs, Tribes: Ascend offers unique acrobatic aerial combat with intense class based teamwork.", 
+      "developers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ], 
+      "id": 13102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2189119-tribes_ascend.jpeg", 
+      "name": "Tribes Ascend", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hegemonia: Legions of Iron is a PC strategy game.", 
+      "developers": [
+        {
+          "id": 454, 
+          "name": "Digital Reality, Ltd."
+        }
+      ], 
+      "id": 13167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/21051/1104805-hegemonia_box_art.jpg", 
+      "name": "Hegemonia: Legions of Iron", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Global Agenda is an MMO Third Person Shooter using the Unreal 3 engine, being developed by Hi-Rez Studios. This \"spy-fi\" action game focuses on Agencies that fight one another for strategic points in the world which allow access to new technology in hopes of gaining supremacy among one another.", 
+      "developers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ], 
+      "id": 13103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/30/1190941-globalagenda_boxcover_promo_teen.jpg", 
+      "name": "Global Agenda", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An upcoming MMO based on the Tribes series.  The game will feature large open maps, along with a large persistent world where players fight for territory control.", 
+      "developers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ], 
+      "id": 13104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11039/1565341-72535_149386991773120_149383678440118_273992_944708_n.jpg", 
+      "name": "Tribes Universe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Paladins is a multiplayer arena shooter from Hi-Rez Studios (Tribes Ascend, Smite).", 
+      "developers": [
+        {
+          "id": 448, 
+          "name": "Hi-Rez Studios"
+        }
+      ], 
+      "id": 13105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/229426/2799288-paladins+logo.jpg-large", 
+      "name": "Paladins", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Fast & Furious: SuperCars is an arcade racing game based on the movie franchise.", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2123706-ffsc.jpg", 
+      "name": "Fast & Furious: SuperCars", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ]
+    }, 
+    {
+      "deck": "This arcade rail shooter is independent from the home console and PC release of the same name. The game features a total of eight levels spread over two chapters. ", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5911/1062211-termsalvarc6.jpg", 
+      "name": "Terminator Salvation", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The spiritual successor to the powerboat racing arcade game Hydro Thunder.", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1309846-h2o_logo.jpg", 
+      "name": "H2Overdrive", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade version of Guitar Hero, based on Guitar Hero III.", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1064554-guitar_hero_arcade.jpg", 
+      "name": "Guitar Hero Arcade", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Blast terrorists with t-shirts wrapped around their heads in this light-gun game from Raw Thrills.", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/824180-terror_cover.jpg", 
+      "name": "Target: Terror", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "F&F Super Bikes is a spin-off of The Fast and The Furious arcade game. Since this game is about motorcycle races, it uses a different cabinet, with a replica of a byke's body, like most motorcycle based arcade games.", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/611/370415-machine.gif", 
+      "name": "The Fast and The Furious: Super Bikes", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ]
+    }, 
+    {
+      "deck": "The premise is simple; There are 4 areas with 5 rounds in each one. Each round has 3 bucks to take down with your shotgun, but watch out for those doe's, other wise the round is over", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15138/389056-big_buck_hunter_pro.jpg", 
+      "name": "Big Buck Hunter Pro", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Fast and The Furious is an arcade game based on the movie of the same name. It is considered an espiritual successor of the Cruis'n games because its gameplay is very similar.", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2549854-fast+and+the+furious.jpg", 
+      "name": "The Fast and The Furious", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ]
+    }, 
+    {
+      "deck": "It's the sequel to The Fast and The Furious. It is sold by Raw Thrills as an upgrade kit that can be used in almost all driving game cabinets; as an upgrade kit for The Fast and The Furious and as a standalone cabinet.", 
+      "developers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ], 
+      "id": 13114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/611/390930-td_arcade_bg.jpg", 
+      "name": "The Fast and The Furious: DRIFT", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ]
+    }, 
+    {
+      "deck": "A satirical action-adventure game themed after a 1950s sci-fi movie.", 
+      "developers": [
+        {
+          "id": 450, 
+          "name": "ACE Team"
+        }
+      ], 
+      "id": 13115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62404/2817034-scarlet_poster_1.jpg", 
+      "name": "The Deadly Tower of Monsters", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "From the developers of Zeno Clash, Abyss Odyssey is a 2D platformer adventure game with the mechanical depth of a fighting game and the world randomization of a roguelike.", 
+      "developers": [
+        {
+          "id": 450, 
+          "name": "ACE Team"
+        }
+      ], 
+      "id": 13116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2660633-1776005078-abyss.jpg", 
+      "name": "Abyss Odyssey", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to the original Zeno Clash; the game continues the adventures of Ghat.", 
+      "developers": [
+        {
+          "id": 450, 
+          "name": "ACE Team"
+        }
+      ], 
+      "id": 13117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481884-box_zc2.png", 
+      "name": "Zeno Clash II", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Rock of Ages is a downloadable game from ACE Team where players take on the role of Sisyphus as he uses the boulder he was cursed with to smash the defences of famous generals and kings from history and gain supremacy in the strangest rock-related story ever told.", 
+      "developers": [
+        {
+          "id": 450, 
+          "name": "ACE Team"
+        }
+      ], 
+      "id": 13118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1879565-box_roa.png", 
+      "name": "Rock of Ages", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Zeno Clash is an action/fighting game set in a bizarre quasi-neolithic world.  The game is played from a first-person perspective and the combat is generally up close and brutal.", 
+      "developers": [
+        {
+          "id": 450, 
+          "name": "ACE Team"
+        }
+      ], 
+      "id": 13119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4344/1282843-zc_boxart_cover_cropped.jpg", 
+      "name": "Zeno Clash", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 50, 
+          "name": "Valve Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Transformers Legends was a digital card game for mobile based on the toy and cartoon franchise. It was released in 2012 (Android) and 2013 (iOS) but shut down in 2015.", 
+      "developers": [
+        {
+          "id": 451, 
+          "name": "ngmoco"
+        }
+      ], 
+      "id": 13120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2807446-1529489221-Legen.jpg", 
+      "name": "Transformers Legends", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Four player Deathmatch Arena Shooter for the iPhone & iPod Touch from ngmoco", 
+      "developers": [
+        {
+          "id": 451, 
+          "name": "ngmoco"
+        }
+      ], 
+      "id": 13121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9351/1651808-star_wars_imperial_academy_canada_1.jpg", 
+      "name": "Star Wars: Imperial Academy", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rule over your very own kingdom! Build farms, wizard towers, and dragon lairs to grow your castle and domain.\n", 
+      "developers": [
+        {
+          "id": 451, 
+          "name": "ngmoco"
+        }
+      ], 
+      "id": 13122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19275/1309230-we_rule.png", 
+      "name": "We Rule", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Build a planet of followers in this strategy builder. Using your great \"wonders\" you convince followers to do your bidding and put them to work earning you gold and XP.", 
+      "developers": [
+        {
+          "id": 451, 
+          "name": "ngmoco"
+        }
+      ], 
+      "id": 13123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7772/1351710-godfinger1.jpg", 
+      "name": "GodFinger", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 451, 
+          "name": "ngmoco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Eliminate Pro is an incredibly addictive shooter experience. It is for the iPod Touch and iPhone.", 
+      "developers": [
+        {
+          "id": 451, 
+          "name": "ngmoco"
+        }
+      ], 
+      "id": 13124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11300/1388262-ep.jpg", 
+      "name": "Eliminate Pro", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 451, 
+          "name": "ngmoco"
+        }
+      ]
+    }
+  ]
+}

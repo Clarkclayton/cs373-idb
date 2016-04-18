@@ -1,0 +1,1304 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24601, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Disk Station #0", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24602, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Global Commander", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game based on the Arthurian legend.", 
+      "developers": [], 
+      "id": 24603, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/738389-lancelot.jpg", 
+      "name": "Lancelot", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A asteroid is hurtling towards earth, you must travel to Tibet and find Professor K.K. Renegade.  Once you have found him you must convince him to help build a anti-asteroid deflector to save Earth from being utterly destroyed.", 
+      "developers": [], 
+      "id": 24604, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Cosmic Relief: Prof. Renegade to the Rescue", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "221b Baker St. is an adventure game release on many early computer systems.", 
+      "developers": [], 
+      "id": 24605, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/720726-8_1.jpg", 
+      "name": "221 B Baker St.", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24606, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Theatre Europe", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is a Commodore 64 game created by Scott Spanburg and presented by Datasoft.\n\n", 
+      "developers": [], 
+      "id": 24607, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5312/499308-mancopter_01.gif", 
+      "name": "Mancopter", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Journey forth, Conan the Barbarian, and traverse the evil wizard Volta's fortress.", 
+      "developers": [], 
+      "id": 24608, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/487/680964-characters.gif", 
+      "name": "Conan: Hall of Volta", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A wireframe flight simulator based around the Apache AH-64 helicopter.", 
+      "developers": [], 
+      "id": 24609, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1363479-tomahawk_loading.gif", 
+      "name": "Tomahawk", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24610, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Napoleon In Russia: Borodino 1812", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24611, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/94457/1374319-ms2.png", 
+      "name": "Moon Shuttle", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24612, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/94457/1382698-cc1.png", 
+      "name": "Canyon Climber", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon's Prophet is an MMO from Runewaker Entertainment, the makers of Runes of Magic.", 
+      "developers": [], 
+      "id": 24613, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2347233-dp.jpeg", 
+      "name": "Dragon's Prophet", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "EverQuest Worlds is a game for iOS and Android that unlocks items within other games in the EverQuest franchise.", 
+      "developers": [], 
+      "id": 24614, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2524442-phones.png", 
+      "name": "EverQuest Worlds", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wizardry Online brings the storied franchise online with a free-to-play MMORPG.", 
+      "developers": [], 
+      "id": 24615, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2420650-untitled_1.png", 
+      "name": "Wizardry Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Bullet Run you participate in a TV Game show to be the best, baddest and most stylish killer in this online First Person Shooter.", 
+      "developers": [], 
+      "id": 24616, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117587/2281595-bulletrun_600x300.jpg", 
+      "name": "Bullet Run", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "PSN Mini.", 
+      "developers": [], 
+      "id": 24617, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/143230/2077220-orbit.jpg", 
+      "name": "Orbit", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A four-player cooperative criminal action game made by ex-GRIN employees and headed by Bo and Ulf Andersson of Overkill Software. Players coordinate efforts to conduct robberies on six different environments, holding off law enforcement efforts to make a clean getaway.", 
+      "developers": [], 
+      "id": 24618, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1865292-paydaykeyart_copy.jpg", 
+      "name": "Payday: The Heist", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platform adventure game for the PlayStation Network and PC.", 
+      "developers": [], 
+      "id": 24619, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2261572-sideway_new_york.jpg", 
+      "name": "Sideway: New York", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "As hardy asteroid miner John Rochard, use a state-of-the-art gravity lifter to solve physics-based puzzles, battle nefarious space pirates, and uncover the mystery of your latest find.", 
+      "developers": [], 
+      "id": 24620, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2093958-rochardboxart.jpg", 
+      "name": "Rochard", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japanese Indie Bullethell Shoot'em Up by Platine Depositif", 
+      "developers": [], 
+      "id": 24621, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2424/1458492-gndmnmshot01.jpg", 
+      "name": "Gundemonium Recollection", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Slam Bolt Scrappers is a Brawler/Puzzling featuring 4 player co-op and head to head multiplayer. The game consists of a deep competitive battle mode", 
+      "developers": [], 
+      "id": 24622, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59275/1313497-website_02.jpg", 
+      "name": "Slam Bolt Scrappers", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Qlione 2 is the follow-up to Qlione.", 
+      "developers": [], 
+      "id": 24623, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1970540-index.jpg", 
+      "name": "Qlione 2", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Platforming/Action/SHMUP released by Rockin' Android on the PlayStation Network on November 9th, 2010.", 
+      "developers": [], 
+      "id": 24624, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13111/1622242-5146656661_b22e2c62be.jpg", 
+      "name": "Crescent Pale Mist", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars: Clone Wars Adventures is a Free to Play MMO being published by Sony Online Entertainment. It is based around the animated series Star Wars: Clone Wars and features characters and locations from the show. The game is scheduled to shut down on March 31st, 2014.", 
+      "developers": [], 
+      "id": 24625, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1114/1390491-cw_logo.jpg", 
+      "name": "Star Wars: Clone Wars Adventures", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japanese Indie Bullethell Shoot'em Up by Platine Depositif", 
+      "developers": [], 
+      "id": 24626, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/129083/2416554-gundeadligne_wp_hd.jpg", 
+      "name": "GundeadliGne", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pirates of the Burning Sea (PotBS) is a free to play MMORPG which takes place in and around the Caribbean Sea during the Golden Age of Piracy. It is published by Sony Online Entertainment.", 
+      "developers": [], 
+      "id": 24627, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6357/196139-potbsbox.jpg", 
+      "name": "Pirates of the Burning Sea", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "High Stakes on the Vegas Strip: Poker Edition is a  poker game available for download  on the PSN network.", 
+      "developers": [], 
+      "id": 24628, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13197/375612-gclxsibbyy.jpg", 
+      "name": "High Stakes on the Vegas Strip: Poker Edition", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Legends of Norrath is an online Collectible Card Game (CCG) developed by Sony Online Entertainment. It is based on the world of Norrath from EverQuest and EverQuest II.", 
+      "developers": [], 
+      "id": 24629, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4014/212204-lon.jpg", 
+      "name": "Legends of Norrath", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A downloadable trading card game based on the Stargate universe from Sony Online Entertainment.", 
+      "developers": [], 
+      "id": 24630, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1114335-stargate_online.jpg", 
+      "name": "Stargate Online Trading Card Game", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Vanguard: Saga of Heroes is a fantasy MMORPG set in the world of Telon. It is a seamless world without instancing. It has 19 races and 15 adventuring classes along with the harvesting and diplomacy spheres of gameplay. Originally created by Sigil Games and now run by Sony Online Entertainment. Vanguard is scheduled to close on July 31st, 2014.", 
+      "developers": [], 
+      "id": 24631, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1076773-vanguard.jpg", 
+      "name": "Vanguard: Saga of Heroes", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "SOE brings WizKids' tabletop strategy game online for the PC.  Build pirates ships and plunder the seas with friends, battle other players, and trade treasures.", 
+      "developers": [], 
+      "id": 24632, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1114330-piratescsg.jpg", 
+      "name": "Pirates: Constructible Strategy Game", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Untold Legends: Dark Kingdom is a hack and slash RPG game which was one of the launch titles on the PS3.", 
+      "developers": [], 
+      "id": 24633, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832173-box_uldk.png", 
+      "name": "Untold Legends: Dark Kingdom", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Champions: Return to Arms is a direct follow up to Champions of Norrath, a popular hack n' slash RPG for the Playstation 2.", 
+      "developers": [], 
+      "id": 24634, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275978-box_crta.png", 
+      "name": "Champions: Return to Arms", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Infantry is an online-only isometric view tactical war game, with game types ranging from capture the flag to football on hoverbikes.", 
+      "developers": [], 
+      "id": 24635, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13510/352603-infantry1.jpg", 
+      "name": "Infantry", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tanarus is a futuristic online tank warfare game. Set in a post apocalyptic time period, you and your team must coordinate to defeat your opponents utilizing an assortment of tanks, weapons and special abilities such as turbo boost, cloaking, etc.", 
+      "developers": [], 
+      "id": 24636, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13510/355877-tanarusbox.jpg", 
+      "name": "Tanarus", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japanese Indie Bullethell Shoot'em Up by Platine Depositif", 
+      "developers": [], 
+      "id": 24637, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/129083/2416978-hitogatahappa_wp_hd.jpg", 
+      "name": "Hitogata Happa", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PC version that features primarily categories of music trivia questions. ", 
+      "developers": [], 
+      "id": 24638, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31685/2347909-51a6vblzv6l.jpg", 
+      "name": "Rock and Roll Jeopardy!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "This canceled title from the creators of EverQuest intended on combining MMO with RTS.  After limited viewing at E3 2000, development was cancelled in 2001.", 
+      "developers": [], 
+      "id": 24639, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1071744-everquest01.jpg", 
+      "name": "Sovereign", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PS3 racing game by Eutechnyx.", 
+      "developers": [], 
+      "id": 24640, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14700/1452196-supercarchallengeboxartsm.jpg", 
+      "name": "Supercar Challenge", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Breakout variation played with two players", 
+      "developers": [], 
+      "id": 24641, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Block Wars", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This Game Boy and SNES spinoff of the Ultima series features action-adventure gameplay.", 
+      "developers": [], 
+      "id": 24642, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2745231-7572082731-46915.jpg", 
+      "name": "Ultima: Runes of Virtue II", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Kabuki-chou Reach Mahjong: Toupuusen\" is a mahjong game published by Pony Canyon in 1994. The game is sometimes referred to as \"Kabuki Machi Reach Mahjong\" or \"Kabuki Tyo Reach Mahjong\".", 
+      "developers": [], 
+      "id": 24643, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2601711-kabuki-chou+reach+mahjong+toupuusen.jpg", 
+      "name": "Kabuki Machi Reach Mahjong", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fighting game developed by Pony Canyon in 1993 that features martial artist Onita Atsushi and a fictionalized version of his fighting organization FMV, or Frontier Martial-arts Wrestling.", 
+      "developers": [], 
+      "id": 24644, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1293230-fmw.jpg", 
+      "name": "Onita Atsushi FMW", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An unconventional role-playing game starring intelligent animals, rather than humans.", 
+      "developers": [], 
+      "id": 24645, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1743104-570920_9594_front.jpg", 
+      "name": "Jungle Wars 2:  Kodai Mahou Atimos no Nazo", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ultima VII: The Forge of Virtue is an expansion pack for Ultima VII: the Black Gate.", 
+      "developers": [], 
+      "id": 24646, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/610996-ultima7fvbox_1_.jpg", 
+      "name": "Ultima VII: The Forge of Virtue", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Avatar returns to the world of Britannia to face a new threat from a mysterious cult and its enigmatic god known as the Guardian in the seventh game of the Ultima series.", 
+      "developers": [], 
+      "id": 24647, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2373798-ultima_vii_the_black_gate.jpg", 
+      "name": "Ultima VII: The Black Gate", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Released for the Game Boy in 1990 (Japan) and 1991 (North America). Based on the Japanese movie of the same title.", 
+      "developers": [], 
+      "id": 24648, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2263777-tasmania_monogatari.jpg", 
+      "name": "Tasmania Story", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "DragonStrike is part of the Advanced Dungeons &amp; Dragons series.", 
+      "developers": [], 
+      "id": 24649, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361111-nes_adddragonstrike.jpg", 
+      "name": "DragonStrike", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third parrt in SSI's series set in the Forgotten Realms see the heroes from Pool of Radiance and Curse of the Azure Bonds suddenly summoned to the far north, to New Verdigris. There, an ancient evil has begun to awaken and only they can hope to stop it.", 
+      "developers": [], 
+      "id": 24650, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608743-564787_45790_front_1_.jpg", 
+      "name": "Secret of the Silver Blades", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }
+  ]
+}

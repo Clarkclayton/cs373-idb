@@ -1,0 +1,1418 @@
+{
+  "games": [
+    {
+      "deck": "Spitfire '40 is a combat flight simulator by Novotrade, set during WWII.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2766903-3303240462-29078.jpg", 
+      "name": "Spitfire '40", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16736, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "U.S.S. Stinger", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A multicart featuring 15 American Video Entertainment games.", 
+      "developers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ], 
+      "id": 16737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1778272-giant_bomb_sub_3.jpg", 
+      "name": "Maxivision 15\u2013in\u20131", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An unlicsensed poker game released by American Video Entertainment.", 
+      "developers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ], 
+      "id": 16738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1778235-giant_bomb_sub_2.jpg", 
+      "name": "Blackjack", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An unlicensed tennis game for the NES", 
+      "developers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ], 
+      "id": 16739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1778413-giant_bomb_sub.jpg", 
+      "name": "Rad Racket", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sliding puzzle game for the NES.", 
+      "developers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ], 
+      "id": 16740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1501248-puzzle_front.jpg", 
+      "name": "Puzzle", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "F-15 City War is an air combat game for the NES in the style of Thunder Blade.", 
+      "developers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ], 
+      "id": 16741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361713-nes_f15citywar.jpg", 
+      "name": "F-15 City War", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A game where you play as face-like characters on you're quest to find treasure.", 
+      "developers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ], 
+      "id": 16742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361690-nes_dudeswithattitude.jpg", 
+      "name": "Dudes with Attitude", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ], 
+      "id": 16743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1501447-tiles_front.jpg", 
+      "name": "Tiles of Fate", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2744890-0546521625-logo..jpg", 
+      "name": "Vamwolf Cross", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16745, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Otoko Yuukaku", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Game based on the Ro-Kyu-Bu! franchise, about a high school student who is tasked with coaching a grade school girl's basketball team.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2613866-3817091081-vljs00065_jacket", 
+      "name": "Ro-Kyu-Bu! Naisho no Shutter Chance", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second PSP game in the Ro-Kyu-Bu franchise.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2649643-rkbhimitsucvr.jpg", 
+      "name": "Ro-Kyu-Bu! Himitsu no Otoshimono", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Otome game released by D3Publisher.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/163622/2270799-customdrive.jpg", 
+      "name": "Custom Drive", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first of two PSP games released in Japan based on the Ro-Kyu-Bu! light novel/anime franchise.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2649637-rkb-pspcover.jpg", 
+      "name": "Ro-Kyu-Bu!", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Visual novel based on the Nichijou anime series", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/107275/2522374-4416831216-nichi.jpg", 
+      "name": "Nichijou: Uchuujin", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Japanese romance game (otome, \u4e59\u5973\u30b2\u30fc\u30e0) where the player controls a female protagonist in high-school.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/64555/1530769-stormlover.jpg", 
+      "name": "Storm Lover", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Lucky Star: Ryouou Gakuen Outousai is a visual novel featuring characters from the four-panel manga and anime Lucky Star.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/631326-front_cover.jpg", 
+      "name": "Lucky Star: Ryouou Gakuen Outousai", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Shin Lucky Star Moe Drill: Tabidachi is the second trivia game featuring characters from the four-panel manga and anime Lucky Star.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/631316-front_cover.jpg", 
+      "name": "Shin Lucky Star Moe Drill: Tabidachi", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A visual novel with RPG elements based on the lightnovel/anime/manga of the same name.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16754, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/573040-boxart.jpg", 
+      "name": "Shakugan no Shana", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A visual novel based on the Girls Bravo anime and manga franchise.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2693112-8699550746-517HF.jpg", 
+      "name": "Girls Bravo Romance15's", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A visual novel based on the DearS manga by Peach-Pit.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16757, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2693102-2031746706-51Q7Y.jpg", 
+      "name": "DearS", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A simulation game for the original PlayStation where the player must help seven spirits learn about the human world.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2466545-3794291922-58445.jpg", 
+      "name": "Evergreen Avenue", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An idol-management sim in which you must turn one of the Lucky Star girls into the biggest idol in Akiba.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11512/1229508-lucky_star_net.jpg", 
+      "name": "Lucky Star: Net Idol Meister", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1831575-guru.jpg", 
+      "name": "Guru Logic", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Celebration of a Classic Compile'd in a New Way.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/310254-zanacxzanacjapfront7xs.jpg", 
+      "name": "Zanac X Zanac", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }, 
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puyo Puyo Box is a compilation game that features ports of the first two games in the series, an RPG mode, and the ability to play using any of the prior games' rulesets. It is the final Compile-developed Puyo Puyo title.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/365371-puyopuyoboxjapfront0mghv0.jpg", 
+      "name": "Puyo Puyo Box", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arle no Bouken: Mahou no Jewel is a monster-collecting RPG featuring characters from the Puyo Puyo series.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/475330-577044_17434_front.jpg", 
+      "name": "Arle no Bouken: Mahou no Jewel", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Puyo Puyo dancing spinoff.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/405068-puyo_puyo_da.jpg", 
+      "name": "Puyo Puyo Da!", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puyo Puyo~n was the first \"main series\" Puyo Puyo game to be exclusive to consoles. It introduces character-specific abilities.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/384423-puyo.jpg", 
+      "name": "Puyo Puyo~n", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final game in the Madou Monogatari series, featuring the classic characters most players are probably more familiar with from the \"Puyo Puyo\" series and featuring the Lovecraftian deity Yog Sothoth as the primary antagonist.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1693783-madoumonogatariboxfront.jpg", 
+      "name": "Madou Monogatari", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/434002-madoumono.jpg", 
+      "name": "Madou Monogatari: Hanamaru Daiyouchienji", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Madou Monogatari A is a first person dungeon crawler. It is a port of the first chapter of Madou Monogatari ARS.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/405981-madou.jpg", 
+      "name": "Madou Monogatari A: DokiDoki Bake~shon", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game in the Puyo Puyo series. This game, exclusive to the SNES, also mixes in RPG elements with the traditional puzzle style of the series.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/2164980-581938_21877_front.jpg", 
+      "name": "Super Nazo Puyo: Rulue no Roux", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Kirby's Avalanche is a puzzle game that fuses the gameplay of Puyo-Puyo with a distinct Kirby theme.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363907-snes_kirbysavalanche.jpg", 
+      "name": "Kirby's Avalanche", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Puyo Puyo 2, also known as \"Puyo Puyo Tsu\", is the second game in the Puyo Puyo series of tile-matching games.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/2195107-puyo_puyo2_box_jp.jpg", 
+      "name": "Puyo Puyo 2", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }, 
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the Puyo Puyo's challenge-based spinoff series introduces an adventure mode.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/406901-nazo_puyo.jpg", 
+      "name": "Nazo Puyo: Arle no Roux", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dr. Robotnik's Mean Bean Machine is a Sonic the Hedgehog-based reskin of competitive puzzle title Puyo Puyo. Players battle the mad doctor and twelve of his underlings in order to save the denizens of Beanville.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1870221-box_drmbm.png", 
+      "name": "Dr. Robotnik's Mean Bean Machine", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Power Strike II has you shoot down ski pirates for bounties to clean up the skies once again", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3691/1757366-power_strike2_box_eu.jpg", 
+      "name": "Power Strike II", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Madou Monogatari ARS, like Madou Monogatari 1-2-3, is a trio of first-person dungeon crawlers. Each chapter is devoted to a different playable character.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2408584-madouarsbox.jpg", 
+      "name": "Madou Monogatari ARS", 
+      "platforms": [
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nazo Puyo 2 is yet another expansion on the Game Gear Puyo Puyo's mission mode.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2374487-nazopuyo2.jpg", 
+      "name": "Nazo Puyo 2", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sylphia is a 2D shooter released on the Turbografx-CD.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2328015-b.png", 
+      "name": "Sylphia", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Nazo Puyo is a spinoff of the Game Gear port of Puyo Puyo that focuses exclusively on challenge missions.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2374485-nazopuyo.png", 
+      "name": "Nazo Puyo", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game (story-wise) in the Madou Monogatari series, in which 6-year-old Arle Nadja must scale a dangerous tower. The Mega Drive remake was the last official Mega Drive game to be released in Japan.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16779, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2370705-madou1gg.jpg", 
+      "name": "Madou Monogatari I", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball game developed by Compile and published by Naxat for the Super Famicom in 1992. The game is the third entry in Compile's \"Crush\" series of highly acclaimed 16-bit pinball games, and is considerably more obscure than its predecessors due to being Japan-exclusive.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2273044-naxat_super_pinball_jaki_hakai.jpg", 
+      "name": "Naxat Super Pinball: Jaki Hakai", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Puyo Puyo is a competitive puzzle game. Pieces drop from above a la Tetris and players must connect four contiguous pieces to for them to pop.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16781, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2409275-puyopuyomd.jpg", 
+      "name": "Puyo Puyo", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }, 
+        {
+          "id": 108, 
+          "name": "Bothtec"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Space Megaforce is another game in the massive vertical scrolling shoot 'em up genre. Also called Super Aleste in Europe and Japan, Space Megaforce gives players groups of enemies to fight through, 8 different weapons that can be powered up, and a whole lot of explosions.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16782, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364766-snes_spacemegaforce.jpg", 
+      "name": "Space Megaforce", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In this portable vertical-scrolling shooter, players must guide young Ellinor through hordes of enemy machines.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/407430-ggaleste.jpg", 
+      "name": "GG Aleste", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puyo Puyo is a puzzle game in which the player matches four or more \"Puyo\" of the same color together. This game is the precursor to an identically-titled arcade release.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16784, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/555203-924345_58416_front.jpg", 
+      "name": "Puyo Puyo", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Gun-Nac is a top-down vertically scrolling shooter for the Nintendo Entertainment system. It is notable for the frequency with which it awards powerups to the player.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/216122-gun_nac.jpg", 
+      "name": "Gun-Nac", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

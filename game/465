@@ -1,0 +1,1281 @@
+{
+  "games": [
+    {
+      "deck": "Aero Fighters is a vertical-scrolling shooter. The player gets to pick which nation they want to fight as and then proceeds to fight an onslaught of enemies and bosses.", 
+      "developers": [], 
+      "id": 23195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/457484-aero_fighters.jpg", 
+      "name": "Aero Fighters", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo's World Cup series heads to the Turbo CD.", 
+      "developers": [], 
+      "id": 23196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582969-4205431560-91613.jpg", 
+      "name": "Tecmo World Cup Super Soccer", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Captain Tsubasa VS is a soccer sim released on the Game Boy.", 
+      "developers": [], 
+      "id": 23197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1745990-ct1.jpg", 
+      "name": "Captain Tsubasa VS", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Strike Gunner S.T.G is a vertical shoot 'em up released for the Arcade and SNES.", 
+      "developers": [], 
+      "id": 23198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/229960/2709260-snes_sag_strike+gunner+stg.jpg", 
+      "name": "Strike Gunner S.T.G", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this game you are in a race car trying to collect the iteams on the track before the other car hits you. It was released in 1990 on the Game Boy.", 
+      "developers": [], 
+      "id": 23199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5779/290031-585859_38690_front.jpg", 
+      "name": "Power Racer", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Squeaks have stolen Kirby's cake. It's time to get it back.", 
+      "developers": [], 
+      "id": 23200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1865076-box_kss.png", 
+      "name": "Kirby: Squeak Squad", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platformer for the Famicom Disk System published by HAL Laboratory. It was developed by Live Planning.", 
+      "developers": [], 
+      "id": 23201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/1704271-fire_bam_front.jpg", 
+      "name": "Fire Bam", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A murder mystery graphic adventure game for the Famicom. It was never released outside of Japan.", 
+      "developers": [], 
+      "id": 23202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2330990-satsui_no_kaisou_fc_box.jpg", 
+      "name": "Satsui no Kaisou: Power Soft Satsujin Jiken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the original Ninja-Kid (Ninja-kun), Ninja-Kid II is a side-scrolling platformer action game for Arcades. It is also known as Rad Action and JT-104, and was later ported to the NES in Japan only.", 
+      "developers": [], 
+      "id": 23203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2344117-ninja_kun___ashura_no_shou_coverart.png", 
+      "name": "Ninja-Kid II", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23204, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Snake It", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23205, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Kick It", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the 2013 fantasy DRPG.", 
+      "developers": [], 
+      "id": 23206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/2807452-demongazelogo.jpg", 
+      "name": "Demon Gaze II", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The definitive version of arcade-style shoot-'em-up Darius Burst, containing the enhancements from the Another Chronicle EX arcade version as well as new content.", 
+      "developers": [], 
+      "id": 23207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/166681/2802061-cuowcbiucaqelyx.jpg", 
+      "name": "Darius Burst: Chronicle Saviours", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dungeon RPG from Experience and Kadokawa Games.", 
+      "developers": [], 
+      "id": 23208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2825586-6111637300-71qXI.jpg", 
+      "name": "Stranger of Sword City", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kantai Collection is a online free to play card battle game, where the players build and manage fleets of WWII-era warships anthropomorphized as cute girls.", 
+      "developers": [], 
+      "id": 23209, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Kantai Collection", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy RPG based on the Horizon in the Middle of Nowhere anime.", 
+      "developers": [], 
+      "id": 23210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2431251-horizon_cover_crop.jpg", 
+      "name": "Kyoukaisen no Horizon Portable", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "More RPG makin' fun for the PC.", 
+      "developers": [], 
+      "id": 23211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2470019-img-06_thum.png", 
+      "name": "RPG Maker VX Ace", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "SoniComi (Sonico Communication) is a new visual novel game that based on Nitroplus mascot character, Soniko.", 
+      "developers": [], 
+      "id": 23212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/80630/1858693-872b62fd.jpg", 
+      "name": "SoniComi", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Toaru Majutsu no Index is a fighting game based on the light novel series of the same name.", 
+      "developers": [], 
+      "id": 23213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2607764-3278689884-15585.jpg", 
+      "name": "Toaru Majutsu no Index", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A dungeon crawler RPG game set in future Tokyo. Originally released for the PC, it has since been ported to the Xbox 360 and PlayStation Vita.", 
+      "developers": [], 
+      "id": 23214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2442621-labyxbloodpc.jpg", 
+      "name": "Labyrinth Cross Blood", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A visual novel developed by sprite for the PC and the PlayStation Portable. The story follows Oojima Yuuki, a student who decides to run for student council president when the front runner for the position declares she intends to shut down all the school clubs.", 
+      "developers": [], 
+      "id": 23215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2693448-71lienqhazl._aa1396_.jpg", 
+      "name": "Koi to Senkyo to Chocolate", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "3-way Standaoff is a PSP adventure game by Kadokawa Games and ASCII Media Works, released on Sept 22nd 2010. It is based on the popular anime 'Durarara!!'.", 
+      "developers": [], 
+      "id": 23216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/1847977-drrr_box.jpg", 
+      "name": "Durarara!! 3-way Standoff", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metal Max 3 is the newest game in the Metal Max series, released over 15 years after its numbered predecessor.", 
+      "developers": [], 
+      "id": 23217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1356703-613zk2neigl._sl550.jpg", 
+      "name": "Metal Max 3", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed and published by Japanese game company Experience, this dungeon RPG follows a group of students out to slay a demon lord, a hundred years after another group of heroes failed to defeat it.", 
+      "developers": [], 
+      "id": 23218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31223/1651392-00111.jpg", 
+      "name": "Students of the Round", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }, 
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG creator for DS.", 
+      "developers": [], 
+      "id": 23219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2469970-ds.jpg", 
+      "name": "RPG Tkool DS", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Gentle Bite\" is a dating simulation game.", 
+      "developers": [], 
+      "id": 23220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/238/955435-amagami.png", 
+      "name": "Amagami", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A crossover action RPG featuring female characters from light novels serialized in Dengeki Bunko.", 
+      "developers": [], 
+      "id": 23221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/771810-front.jpg", 
+      "name": "Dengeki Gakuen RPG: Cross of Venus", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fate/Hollow ataraxia is the sequel to Fate/stay night. The word \"ataraxia\" in the title is a Greek term for \"tranquility\", giving the title the combined meaning of \"empty tranquility\".", 
+      "developers": [], 
+      "id": 23222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1679/1372809-hollow_ataraxia.jpg", 
+      "name": "Fate/hollow ataraxia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 535, 
+          "name": "Kadokawa Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kinect game focused on kicking virtual training partners in the gonads.", 
+      "developers": [], 
+      "id": 23641, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525241-box_sdtc.png", 
+      "name": "Self-Defense Training Camp", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first of a series of episodic content downloads. El Shaddai for Android is a side-scrolling game in the world of El Shaddai.", 
+      "developers": [], 
+      "id": 23223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2464461-elshaddai.jpg", 
+      "name": "El Shaddai for Android Vol. 1", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Keep your eponymous mercury intact by tilting the environment and solving puzzle in this game from UTV Ignition.", 
+      "developers": [], 
+      "id": 23224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1967518-box_mhg.png", 
+      "name": "Mercury Hg", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Risk meets Scrabble in this downloadable word game from Denki.", 
+      "developers": [], 
+      "id": 23225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106400-box_quarrel.png", 
+      "name": "Quarrel", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tornado incorporates a unique gameplay mechanic that has players transforming into tornadoes so that they may collect stolen items from Earth and return them to their proper locations.", 
+      "developers": [], 
+      "id": 23226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199432-box_tornado.png", 
+      "name": "Tornado", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Breakdancing game for the Nintendo DS inspired by the competition of the same name.", 
+      "developers": [], 
+      "id": 23227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199423-box_rbbco.png", 
+      "name": "Red Bull BC One", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Teenage Zombies is a platform game where players must use the unique abilties of three characters to make their way through levels.", 
+      "developers": [], 
+      "id": 23228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199435-box_tzom.png", 
+      "name": "Teenage Zombies: Invasion of the Alien Brain Thingys", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game featuring the character George of the cartoons and movie George of the Jungle.", 
+      "developers": [], 
+      "id": 23229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/319864-georgeofthejungleds.jpg", 
+      "name": "George of the Jungle and the Search for the Secret", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The concept and gameplay of the mercury-based puzzle game on the PSP has been Wii-ified to include very handy Wii controls.", 
+      "developers": [], 
+      "id": 23230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199361-box_mmr.png", 
+      "name": "Mercury Meltdown Revolution", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade pinball based DS Game.", 
+      "developers": [], 
+      "id": 23231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2320316-flippercritters.png", 
+      "name": "Flipper Critters", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Using a small blob of mercury, you must roll, squeeze, and transform your way through a series of progressively harder, obstacle-filled levels.", 
+      "developers": [], 
+      "id": 23232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199360-box_mm.png", 
+      "name": "Mercury Meltdown", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Elf Bowling 1 & 2 is a compilation of two minigames, identical to their free Internet counterparts, yet it costs cash monies for the privilege of playing them on your Nintendo DS.", 
+      "developers": [], 
+      "id": 23233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2582735-box_ebowling.png", 
+      "name": "Elf Bowling 1 & 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23234, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/649642-animaniacslight.jpg", 
+      "name": "Animaniacs: Lights, Camera, Action!", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Yakko, Wakko and Dot are out from the confines of the Warner Bros. tower once more, in this late sixth-gen title.", 
+      "developers": [], 
+      "id": 23235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803103-box_animtgeh.png", 
+      "name": "Animaniacs: The Great Edgar Hunt", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Control a little blob of mercury through mind-bending puzzles by changing your color, splitting into pieces, and beating the clock.", 
+      "developers": [], 
+      "id": 23236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837503-box_mercury.png", 
+      "name": "Archer Maclean's Mercury", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Archer Maclean Presents: Pool Paradise is a pool game with Jimmy White.", 
+      "developers": [], 
+      "id": 23237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6562/301541-pool_paradise_back.jpg", 
+      "name": "Pool Paradise", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down arcade racer.", 
+      "developers": [], 
+      "id": 23238, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/326713-579453_20841_front.jpg", 
+      "name": "Demon Driver: Time to Burn Rubber!", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Multi-platform Lotus licensed racing game from Kuju interactive, most notable for it's attempt at an innovative control system.", 
+      "developers": [], 
+      "id": 23239, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796987-box_lotus.png", 
+      "name": "Lotus Challenge", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Faxion is a free-to-play MMORPG that takes place in a purgatory between heaven and hell.", 
+      "developers": [], 
+      "id": 23240, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1735305-faxion.jpg", 
+      "name": "Faxion", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Designed both as a Blu-ray movie and a video game, WarDevil is a long-in-development action game built for next-generation systems.", 
+      "developers": [], 
+      "id": 23241, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7168/214782-276_163_657_150_a.jpg", 
+      "name": "WarDevil: Unleash the Beast Within", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23242, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/781589-1083126160_00.png", 
+      "name": "Monster! Bass Fishing", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed by Headlock and originally published in Japan by Goldsky Digital Technology, Arcadia Saga is a MMORPG set 50,000 years in the future that focuses on humans rebuilding a Utopia.", 
+      "developers": [], 
+      "id": 23243, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1799950-arcadiasagalogo01.jpg", 
+      "name": "Arcadia Saga", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 540, 
+          "name": "InnoGames GmbH"
+        }
+      ]
+    }
+  ]
+}

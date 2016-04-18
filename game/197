@@ -1,0 +1,1584 @@
+{
+  "games": [
+    {
+      "deck": "It's a pirate's life for me! Set on a tropical island during the golden age of piracy, Tropico 2: Pirate Cove appoints you as pirate king in this free-form management game.", 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/955066-tropico2.jpg", 
+      "name": "Tropico 2: Pirate Cove", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An RTS that focuses on building an army by collecting and cross-breeding animals.", 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2587897-240px-genewars_-_cover_art.jpg", 
+      "name": "Gene Wars", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A point-and-click adventure game, featuring Christopher Walken, Burgess Meredith, John Rhys-Davies, Karen Allen, Jimmie Walker, and the music of Blue \u00d6yster Cult.", 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30521/2127182-ripper.jpg", 
+      "name": "Ripper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }, 
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sci-fi strategy game developed by Take Two Interactive", 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19013/2426995-millenia.jpg", 
+      "name": "Millennia: Altered Destinies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bureau 13 is a adventure game released by Take-Two Interactive in 1995", 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/720908-g009717w2b7.jpg", 
+      "name": "Bureau 13", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A dark cyberpunk point-and-click adventure that will take you to the depths of Hell.", 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365907-3do_hell.jpg", 
+      "name": "Hell: A Cyberpunk Thriller", 
+      "platforms": [
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }, 
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The popular collectible card game goes free-to-play.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9792, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2765543-icon175x175.jpg", 
+      "name": "Magic Duels: Origins", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Carmageddon: Reincarnation is a downloadable reboot of the controversial 90's vehicular combat series.  It was partially funded through a successful Kickstarter campaign.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9793, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/90792/2144211-reincarnation_1_header.png", 
+      "name": "Carmageddon: Reincarnation", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "2014's entry in the Magic: The Gathering franchise.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9794, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2661199-0259348715-magic.jpg", 
+      "name": "Magic 2015", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth entry in the Duels of the Planeswalkers series from Stainless Games. The biggest addition this year is the Sealed Decks", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9795, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/130684/2503270-magic_2014+.jpg", 
+      "name": "Magic: The Gathering - Duels of the Planeswalkers 2014", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Magic: The Gathering - Duels of the Planeswalkers 2013 (named Magic 2013 on the iOS app store) is the 3rd game in Magic The Gathering's ongoing annual digital game series, and adds new decks, new challenges, more deck customization, and a new game type: Planechase.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222520-box_mtg2013.png", 
+      "name": "Magic: The Gathering - Duels of the Planeswalkers 2013", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magic: The Gathering - Duels of the Planeswalkers 2012 is the second downloadable game in the CCG series offers new game modes, Planeswalker opponents, decks, and puzzle challenges.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817070-box_mtgdotp2012.png", 
+      "name": "Magic: The Gathering - Duels of the Planeswalkers 2012", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Humans, Felines, Robots, Zombies, and Yeti collide in the 2010 downloadable adapation of the classic board game Risk.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1836597-box_riskf.png", 
+      "name": "RISK: Factions", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magic: The Gathering - Duels of the Planeswalkers is a streamlined, user-friendly, version of the popular trading card game.  Take one of eight decks and engage in a battle of wits against the computer or online opponents.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841444-box_mtgdotp.png", 
+      "name": "Magic: The Gathering - Duels of the Planeswalkers", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Scrabble is a staple of casual videogaming, and has appeared on almost every console. Players assemble words on a board from seven random tiles. ", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/882835-scrabblepsp.jpg", 
+      "name": "Scrabble", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A remake of the 1990 PC flight simulator Red Baron for the PlayStation Netowrk, comprising 36 missions, 20 World War I aeroplanes and eight-player online dogfights.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/608614-red_baron_arcade_490.jpg", 
+      "name": "Red Baron Arcade", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A puzzle action game based on the Flash cartoon series Happy Tree Friends.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1857996-box_htffa.png", 
+      "name": "Happy Tree Friends False Alarm", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of the classic Battlezone for Xbox Live Arcade.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860092-box_bzone.png", 
+      "name": "Battlezone", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Atari Classics Evolved was released for the PSP on December 19, 2007. Features updated versions of 11 classics, as well as emulated ports of over 50 Atari 2600 titles.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35156/1099140-atari_classics_evolved.jpg", 
+      "name": "Atari Classics Evolved", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Xbox Live Arcade release combines both Asteroids and Asteroids Deluxe into one release, and also offers an \"evolved\" mode with altered graphics and gameplay.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860079-box_aad.png", 
+      "name": "Asteroids and Asteroids Deluxe", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860094-box_centimilli.png", 
+      "name": "Centipede / Millipede", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860115-box_ndrome.png", 
+      "name": "Novadrome", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Follow-up to Carmageddon, continuing the vehicular mayhem. Insanely over the top \"racing\" game where you drive around large open levels and get points for winning the race....or taking out opponents, and people, and cows, and elephants. With a huge spring shooting out of your vehicle, amongst other things.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2130/629107-carma2.jpg", 
+      "name": "Carmageddon II: Carpocalypse Now", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Carmageddon is an infamous racing game that puts the 'laughter' into the phrase 'vehicular manslaughter.'", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2250492-1281953641_00.jpg", 
+      "name": "Carmageddon", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }, 
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }, 
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 482, 
+          "name": "SCi Games Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Expansion Pack to the critically acclaimed Carmageddon", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3478/460792-carmageddonspboxart.jpg", 
+      "name": "Carmageddon Splat Pack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 482, 
+          "name": "SCi Games Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/120355/2349865-529.jpg", 
+      "name": "Ecstatica II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "4-player paddle-based game for the Atari 2600.  Has since come out in various versions, few of which still utilize the paddle.", 
+      "developers": [
+        {
+          "id": 335, 
+          "name": "Stainless Games Ltd."
+        }
+      ], 
+      "id": 9813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367845-a2600_warlords.jpg", 
+      "name": "Warlords", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Super Dodgeball for the Neo\u2022Geo is notable for minimized team sizes, shorter matches and the ability to customize your team with captains of squads you defeat.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/98709/1848460-0014.png", 
+      "name": "Super Dodge Ball", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Neo Geo fighting game from Technos Japan Corporation, developers of the Double Dragon franchise.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1342370-gowcaizer_cover.jpg", 
+      "name": "Voltage Fighter Gowcaizer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Double Dragon is a 2D fighter based in the Double Dragon universe. Based on the film of the same name, Double Dragon includes a variety of characters from the series' history.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/427815-double_dragon.jpg", 
+      "name": "Double Dragon", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }, 
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }, 
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Geom Cube is a puzzle game which could be best described as Tetris from a top down view.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9817, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2340110-geom_cube_cover.jpg", 
+      "name": "Geom Cube", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Super Famicom adaptation of a board game with a fantasy theme and RPG elements. The sequel (or enhanced remake) to the Famicom game Sugoro Quest.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2372031-box.png", 
+      "name": "Sugoro Quest++ Dicenics", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Pancrase-themed MMA/wrestling game, published by Technos Japan, which was released in Japan in 1994.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2181629-funaki_masakatsu___hybrid_wrestler.jpg", 
+      "name": "Funaki Masakatsu: Hybrid Wrestler", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Popeye and his friends play volleyball. On a beach.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2469351-beach.jpg", 
+      "name": "Popeye Beach Volley Ball", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only Popeye game for the Super Famicom. It combines platformer stages, board game elements and mini-games.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2751151-5273404219-30696.jpg", 
+      "name": "Popeye Ijiwaru Majo: Sea Hag no Maki", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A volleyball game with all the usual Kunio-kun hijinks. It's the only game in the franchise centered around said sport.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4879/487021-569845_7668_front.jpg", 
+      "name": "Nekketsu! Beach Volley da yo Kunio-kun", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Puyo Puyo and Columns type puzzle game with Kunio-kun characters.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1093316-box_sfc_kunio_no_oden.jpg", 
+      "name": "Kunio no Oden", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Kunio-kun and co. take on the world in this two-on-two basketball tournament. It spices things up by adding three hoops and some violence into the mix.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/515683-street_basket_box_front.jpg", 
+      "name": "Nekketsu Street Basket: Ganbare Dunk Heroes", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball game with the Kunio-kun cast that spices up the action with some drop kicks and special attacks.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/293870-571007_9505_front.jpg", 
+      "name": "Downtown Nekketsu Baseball Monogatari", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only Super Famicom sequel to Super Dodge Ball. It adds the ability to customize the player's team and characters.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1374151-580453_20382_front.jpg", 
+      "name": "Kunio-kun no Dodge Ball da yo: Zenin Shuugo", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Kunio-kun no Nekketsu Soccer League (Goal 3) is a arcade soccer game with dynamic weather elements and special moves.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1374100-5b8cb56d87d940eca0ad3540ddc65664.jpg", 
+      "name": "Kunio-kun no Nekketsu Soccer League", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A four player fighting tournament featuring the Kunio-kun characters.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/519971-nekketsu.box_front.jpg", 
+      "name": "Nekketsu Kakut\u014d Densetsu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Double Dragon is the fourth Double Dragon game in the series.  It is also the first Double Dragon game that is not a port of an arcade game.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2593789-box_sdd.png", 
+      "name": "Super Double Dragon", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "High school delinquents vacation in Osaka in this River City Ransom psuedo-prequel.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2293296-shodai_nekketsu_kouha_kunio_kun.jpg", 
+      "name": "Shodai: Nekketsu Kouha Kunio-kun", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "This gang themed Olympics game features five tough teams competing across five different sports.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/212290-crash__n_the__boys_street_challenge.jpg", 
+      "name": "Crash 'N the Boys: Street Challenge", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }, 
+        {
+          "id": 383, 
+          "name": "Arc System Works Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade-style ice hockey game that was only released in Japan.  A US version was in development but was cancelled.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9832, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/527976-crash_ice.jpg", 
+      "name": "Ike Ike! Nekketsu Hockey-bu: Subete Koronde Dairantou", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Game Boy version of Double Dragon II is completely different from its console equivalents. Instead of an arcade port, this game is a conversion of a Japanese brawler.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9833, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1726256-screen_shot_2011_03_06_at_1.18.17_am.png", 
+      "name": "Double Dragon II", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan only Game Boy sequel to Super Dodge Ball.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9834, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2135714-dsc05479.jpg", 
+      "name": "Nekketsu Koukou Dodgeball Bu Kyouteki! Toukyuu Senshi no Maki", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sort-of sequel to River City Ransom set in feudal Japan. You travel the lands with the help of an AI partner.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9835, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/529012-downtown_special_box.jpg", 
+      "name": "Downtown Special: Kunio-kun no Jidaigeki da yo - Zenin Shuugou!", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the spectacular WWF Superstars arcade. Wrestlefest is another classic arcade wrestling game.", 
+      "developers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ], 
+      "id": 9836, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4544/345935-wwf_wrestlefest_marquee.jpg", 
+      "name": "WWF Wrestlefest", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }
+  ]
+}

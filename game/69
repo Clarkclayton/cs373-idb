@@ -1,0 +1,2184 @@
+{
+  "games": [
+    {
+      "deck": "A Football game. The fourth game in the FIFA series.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266512-box_fifa97.png", 
+      "name": "FIFA Soccer 97", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA Sports' NBA game for the 1996 Season.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371272-genesis_nbalive96.jpg", 
+      "name": "NBA Live 96", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based off the popular animated movie of the same name.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3394, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1124915-586557_46808_front.jpg", 
+      "name": "Disney's Toy Story", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A polygonal motocross game exclusive to the Atari Jaguar.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365462-jag_supercross3d.jpg", 
+      "name": "Supercross 3D", 
+      "platforms": [
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Madden NFL 96 is the 1995 edition of the yearly EA football franchise. It was the first version to feature create-a-player.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1089121-m9.jpg", 
+      "name": "Madden NFL 96", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "When a powerful, banished mummy is about to break through to this dimension and take over the world, the only hope for humanity is none other than... Shaquille O'Neal?", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3397, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492922-box_shaqfu.png", 
+      "name": "Shaq Fu", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A football game that has all the features of Madden NFL '94 and more.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371201-genesis_madden95.jpg", 
+      "name": "Madden NFL '95", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game based on the 1994 FIFA World Cup tournament hosted by the USA.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1481626-916011_88090_front.jpg", 
+      "name": "World Cup USA '94", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An Olympics sports game developed to coincide with the 1994 Winter Olympics in Lillehammer, featuring ten different Olympic events.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3400, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389654-genesis_winterolympicgameslillehammer94.jpg", 
+      "name": "Winter Olympics: Lillehammer '94", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first entry in the popular gaming franchise about the most popular sport in the world. Staring only international teams it is virtually unrecognizable compared to the modern FIFA games.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370559-genesis_fifainternationalsoccer_au.jpg", 
+      "name": "FIFA International Soccer", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1993 for the Sega Genesis.  Published by Domark and developed by Tiertex Design Studios.  Marketed and sold in North America by Tengen.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12682/1138247-mig29fighterpilot.jpg", 
+      "name": "MiG-29 Fighter Pilot", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Based on the movie of the same name, Die Hard 2: Die Harder pits action hero John McClane against an army of terrorists holding an airport hostage.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/859922-die_hard_2___front.jpg", 
+      "name": "Die Hard 2: Die Harder", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "It's 2142 and the player is Conrad B. Hart, an agent for the Galaxia Bureau of Investigation. He must recover his lost memories to save Earth before it's too late.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3163/235655-flashback.jpg", 
+      "name": "Flashback: The Quest for Identity", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Strider made by British developer U.S. Gold in 1990 under license from Capcom USA. Platforms include Sega Genesis, Game Gear and Master System.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2374585-genesis_striderreturns.jpg", 
+      "name": "Strider Returns", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "England Championship Special is a football game in which you must propel the England football team to glory.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2418550-england_championship_special_front.jpg", 
+      "name": "England Championship Special", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The one-on-one arcade fighting game that kicked off the \"fighting game revolution\" of the 1990s. Play as one of eight martial artists and travel the world to knock your opponents out of the tournament!", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2768048-box_sf2ww.jpg", 
+      "name": "Street Fighter II: The World Warrior", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An Arcade brawler based on the Three Kingdoms period of Ancient China. The player can choose between Liu Bei, Zhang Fei, Guan Yu or Zhao Yun and fights hordes of Yellow Turban rebels while on horseback.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/869112-dynastywars_st_front.jpg", 
+      "name": "Dynasty Wars", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A co-op stealth game where players control two thieves as they go around stealing treasures from well-guarded locations.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369749-genesis_bonanzabros_eu.jpg", 
+      "name": "Bonanza Bros.", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertically-scrolling shoot 'em up with a land-based vehicle. Players need to take down enemies while avoiding pits and the walls of the course, though they are also capable of leaping over obstacles.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2414054-last_duel_front.jpg", 
+      "name": "Last Duel: Inter Planet War 2012", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Human Killing Machine was a spiritual sequel to the home computer version of Street Fighter 1 developed by Tiertex.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2343374-hkm.jpg", 
+      "name": "Human Killing Machine", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An 80's fighting game from Capcom that laid the framework for one of the most popular fighting game franchises of all time, as well as the traditional fighting game genre in general.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2703246-sf.jpg", 
+      "name": "Street Fighter", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/835163-561621_35585_front.jpg", 
+      "name": "Galidor: Defenders of the Outer Dimension", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Scrapped educational Sonic game from early in the hedgehog's existence.", 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2422203-edu.png", 
+      "name": "Sonic's Edusoft", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 100, 
+          "name": "Tiertex Design Studios"
+        }
+      ], 
+      "id": 3415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6763/401316-s_worldclassfussballsoccer_8.png", 
+      "name": "World Class Soccer", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Need for Speed: The Run has drivers racing coast to coast across the USA, speeding through a variety of environments along the way.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2392938-3.jpg", 
+      "name": "Need for Speed: The Run", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Need for Speed World is the first massively multiplayer online action-driving game in the Need for Speed franchise. Fans of the previous Need for Speed: Carbon and Most Wanted will recognize the familiar streets of Palmont and Rockport cities.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1394940-957705_119555_front.jpg", 
+      "name": "Need for Speed World", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Skee-Ball is an iPhone game developed by Freeverse.", 
+      "developers": [
+        {
+          "id": 107, 
+          "name": "Freeverse, Inc."
+        }
+      ], 
+      "id": 3606, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1334052-sblogo.jpg", 
+      "name": "Skee-Ball", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 107, 
+          "name": "Freeverse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Skate 3 features a cooperative career mode, new tricks, a robust set of community features, and a suite of creation tools for logos, films, and skate parks.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1887907-box_skate3.png", 
+      "name": "Skate 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Need for Speed game developed by Slightly Mad Studios. \"Shift\" is an attempt at the simulation sub-genre of racing games, promising a sense of speed with new realistic effects and a new crash mechanic.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1891352-box_nfsshift.png", 
+      "name": "Need for Speed: SHIFT", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Skate 2 adds additional trick modifiers, a wide-open career mode, and a host of new multiplayer content to the original Skate formula.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897554-box_skate2.png", 
+      "name": "Skate 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Need for Speed: Undercover returns the franchise to the arcade-style open world gameplay found in NFS: Most Wanted and NFS: Carbon.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897547-box_nfsu.png", 
+      "name": "Need for Speed: Undercover", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2007 release of the Need for Speed series and the 11th installment of the popular racing game franchise.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3422, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1790553-nfs_ps_cover.jpg", 
+      "name": "Need for Speed: ProStreet", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Electronic Arts' Skate, you create a skater and complete various photo and video challenges to get sponsors and become well known in the skating world as you appear on magazines such as Skateboard Mag and Thrasher.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897553-box_skate.png", 
+      "name": "skate.", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The successor to Need for Speed: Most Wanted brought a continued storyline and new race types, but now with a lesser focus on police chases.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897544-box_nfsc.png", 
+      "name": "Need for Speed: Carbon", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cruise the streets of Rockport City, keep away from the cops, and defeat the wily Razor Callahan in this open-street racing game from EA Black Box.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12813/832771-need_for_speed_most_wanted.jpg", 
+      "name": "Need for Speed: Most Wanted", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "EA's Need for Speed series returns for it's second iteration of illegal street racing in Underground 2. New to this game is the ability to roam around an open-world city,newer racing modes like Street X and URL and much deeper customisation.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897549-box_nfsug2.png", 
+      "name": "Need for Speed Underground 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL 2005 is the 14th game in the EA Sports NHL franchise.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276025-box_nhl05.png", 
+      "name": "NHL 2005", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Need for Speed Underground is considered to be one of the best NFS games, and one of the best selling ones, selling 15 million copies world wide.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897548-box_nfsug.png", 
+      "name": "Need for Speed Underground", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A solid step forward for the NHL Franchise, NHL 2004 improved the game's graphics and puck physics.  The Addition of Dynasty mode, selecting when to fight, new Stanley Cup celebrations, made this game one of the most innovative in the series.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276024-box_nhl04.png", 
+      "name": "NHL 2004", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Need for Speed: Hot Pursuit 2 is the sequel to the 1998 blockbuster racing game, NFS III. Like its predecessor, it features high-speed police chases in exotic cars around a variety of locales around the world.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897545-box_nfshp2.png", 
+      "name": "Need for Speed: Hot Pursuit 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL Hitz 20-03 is the second release of Midway's arcade style hockey series.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276058-box_nhlhitz03.png", 
+      "name": "NHL Hitz 20-03", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL Hitz 20-02 is an arcade hockey game with an emphasis on fast, high-scoring, hard-hitting gameplay.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276057-box_nhlhitz02.png", 
+      "name": "NHL Hitz 20-02", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL 2K was the first game in the long running 2K Sports hockey series.", 
+      "developers": [
+        {
+          "id": 101, 
+          "name": "EA Black Box"
+        }
+      ], 
+      "id": 3433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2123/235944-g03855x18gx.jpg", 
+      "name": "NHL 2K", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Go behind the visor as players take the role of RoboCop, clearing the streets of Neo Detroit from crime.", 
+      "developers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ], 
+      "id": 3434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285686-box_robocop.png", 
+      "name": "RoboCop", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "3D Pool All Stars is a billiards game for the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ], 
+      "id": 3435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1882453-3d_pool_all_stars.jpg", 
+      "name": "3D Pool All Stars", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ], 
+      "id": 3436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/310484-virtual.jpg", 
+      "name": "Virtual Kasparov", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "Similar to the Legend of Zelda series, Xena: Warrior Princess for Game Boy Color has Xena fighting the forces of evil.", 
+      "developers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ], 
+      "id": 3437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/25631/1379172-xenagbc.jpg", 
+      "name": "Xena: Warrior Princess", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The N64 Superman title is universally considered one of the worst videogames ever made, due to poor choices made in every aspect of its design.", 
+      "developers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ], 
+      "id": 3438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803982-box_sman64.png", 
+      "name": "Superman", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play chess on the N64 with Virtual Chess 64.", 
+      "developers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ], 
+      "id": 3439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/468638-199208_28084_front.jpg", 
+      "name": "Virtual Chess 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }
+      ], 
+      "id": 3440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17557/1131963-rival_realms_front.jpg", 
+      "name": "Rival Realms", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

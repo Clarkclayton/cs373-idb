@@ -1,0 +1,1346 @@
+{
+  "games": [
+    {
+      "deck": "Wiiware title", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/920513-large.jpg", 
+      "name": "Harvest Moon Series: Ranch Store", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 106, 
+          "name": "Marvelous Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Two worlds. 13 Riders. Two games' worth of fighting action based on the 4Kids TV hit.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2484704-box_krdk.png", 
+      "name": "Kamen Rider Dragon Knight", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A farming/dating/cooking/fishing/mining simulator where you have to collect stones to create new islands", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2249, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139792-box_hmdssi.png", 
+      "name": "Harvest Moon: Sunshine Islands", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Harvest Moon: Frantic Farming is an all-new action-puzzle game set in the world of Harvest Moon.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2250, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139793-box_hmff.png", 
+      "name": "Harvest Moon: Frantic Farming", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Reel Fishing Challenge", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2251, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1068241-reelfishing.jpg", 
+      "name": "Reel Fishing Challenge", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Globs of Doom is an action adventure game featuring 10 playable characters from the Nickelodeon universe.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2252, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285696-box_sbsqftngod.png", 
+      "name": "SpongeBob SquarePants featuring Nicktoons: Globs of Doom", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Omega Five is an old-school 2D-style horizontal shump by Hudson for Xbox Live Arcade.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860116-box_ofive.png", 
+      "name": "Omega Five", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game based on the Harvest Moon series.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139806-box_pdhm.png", 
+      "name": "Puzzle de Harvest Moon", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as your favorite Nickelodeon cartoon characters as you take on the evil toy bots.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222546-box_ntaottb.png", 
+      "name": "Nicktoons: Attack of the Toybots", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fullmetal Alchemist: Dual Sympathy is a video game for the Nintendo DS. ", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2256, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193290-box_fmads.png", 
+      "name": "Fullmetal Alchemist: Dual Sympathy", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A bizarre, forgettable series of plot devices conspire to bring together the main characters of the most popular animated programs made by Nicktoons circa 2006.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222547-box_ntbfvi.png", 
+      "name": "Nicktoons: Battle for Volcano Island", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The only Captain Tsubasa game released for the PlayStation 2.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2258, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2239539-captain_tsubasa___front.jpg", 
+      "name": "Captain Tsubasa", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "You take on the Role as Ruff Trigger a bounty hunter, sent to rescue Piglots. RPG", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2259, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2341982-box_rtrigger.png", 
+      "name": "Ruff Trigger: The Vanocore Conspiracy", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The latest installment in the Family Tennis series.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/701642-0477.jpg", 
+      "name": "Family Tennis Advance", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game based off the DICE TV show.  DICE is ready for action!", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2261, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "DICE - DNA Intergrated Cybernetic Enterprises", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Experience Space Patrol Delta as Zords.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2262, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367518-box_prspd.png", 
+      "name": "Power Rangers: S.P.D.", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "An North American-exclusive fighting game that is based on Mobile Suit Gundam SEED. It is a heavily-modified version of an action game that did not see an international release.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2263, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421654-box_ba3.png", 
+      "name": "Battle Assault 3 featuring Gundam SEED", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "THQ brings 4-player wrestling to the GBA.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2264, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139902-box_wwess.png", 
+      "name": "WWE Survivor Series", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Side scrolling Power Rangers game set in the Dino Thunder time period.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2265, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367513-box_prdt.png", 
+      "name": "Power Rangers: Dino Thunder", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Medabots Infinity turns the long-running RPG series into a 3D action game.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9058/227794-medabots__infinity.jpg", 
+      "name": "Medabots Infinity", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade style fishing comes to the PS2.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2267, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1102364-markdavis.jpg", 
+      "name": "Mark Davis Pro Bass Challenge", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Japan-exclusive game is the first to be based on the Gundam SEED franchise. It is a 2.5D action game that faithfully follows the plot of the show.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2268, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1375791-seedps2.jpg", 
+      "name": "Mobile Suit Gundam SEED", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A free to play game from Sony and Q Entertainment.", 
+      "developers": [
+        {
+          "id": 73, 
+          "name": "Q Entertainment"
+        }
+      ], 
+      "id": 2647, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2610754-large.jpg", 
+      "name": "Destiny of Spirits", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take control of Buffy the Vampire Slayer in this side-scrolling beat em' up", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2269, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2268449-835141-561971_23045_front.jpg", 
+      "name": "Buffy the Vampire Slayer: Wrath of the Darkhul King", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese \"power ranger\" genra game. Brawler/fighter with a mix of live action cut-scenes.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2270, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11099/391045-582917_23145_front.jpg", 
+      "name": "Ninpu Sentai Hurricanger", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A monster battling RPG released in two versions. It was released to coincide with the then-airing Medabots anime.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2271, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/28/553954-505905_post_33293_1199463528_thumb.jpg", 
+      "name": "Medabots: Rokusho/Metabee", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "A wrestling game released on the Game Boy Advance.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2272, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139895-box_wwertwm18.png", 
+      "name": "WWE Road to WrestleMania X8", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Side scrolling Power Rangers game set in the Wild Force time period.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2273, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367520-box_prwf.png", 
+      "name": "Power Rangers: Wild Force", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fighter for the PlayStation featuring over 30 playable characters from the hit anime series.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421658-box_gba2.png", 
+      "name": "Gundam Battle Assault 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Medabots AX: Rokusho Version puts players in a not so distant future were people of all ages compete in a tournament called the World Robattle Tournament held every four years.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2275, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/28/553967-485050_medabotsax_super.jpg", 
+      "name": "Medabots AX: Rokusho/Metabee", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Medarot G is a platformer/fighter. The game is closely related to the North American-exclusive Medabots AX; both games were derived from the same engine, but while AX is based on the anime, G is a sequel to Medarot 5.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1898618-924989_59945_front.jpg", 
+      "name": "Medarot G Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Monster capture/battle sequel", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2277, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2362135-telefang_2_logo.gif", 
+      "name": "Keitai Denjuu Telefang 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final Medarot/Medabots game on the Game Boy Color and the last canon RPG game until Medarot DS nearly a decade later. It features a new protagonist.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1777669-medarot_5.jpg", 
+      "name": "Medarot 5: Susutake Mura no Tenkousei Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Hyakujuu Sentai GaoRanger is a 3D Brawler based on the Super Sentai Series GaoRanger", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4629/643305-hyakujuusentaigaoranger1alternk9.jpg", 
+      "name": "Hyakujuu Sentai GaoRanger", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wrestling game released for the Game Boy Advance.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222558-box_wwfrtwm.png", 
+      "name": "WWF Road to WrestleMania", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "This spin-off was the first Medarot game for the GBA. ", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2281, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1777651-medarotnavi.jpg", 
+      "name": "Medarot Navi Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Return of the Ninja is a Game Boy Color game from Natsume. It is a long overdue follow up to Shadow of the Ninja, released a decade earlier for the NES.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2282, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2593012-3718700366-57922.jpg", 
+      "name": "Return of the Ninja", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth game in the Medarot/Medabots series, and the last to feature Ikki Tenryou as the protagonist.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1390432-medarot4.jpg", 
+      "name": "Medarot 4 Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on the Hasbro action figure.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2284, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3083/1078676-actionman.jpg", 
+      "name": "Action Man: Search for Base X", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "This side game lets players harvest Medaparts to use in Medarot 3.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2285, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1781306-3_parts_collection.jpg", 
+      "name": "Medarot 3 Parts Collection: Z Kara no Chousenjou", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Gundam mechs go one-on-one in a fighting game.  The first in a series of Battle Assault games.  The gameplay is in the same vein as Street Fighter.\nThe game is a part of the Gundam: Battle Assault series.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421657-box_gba.png", 
+      "name": "Gundam Battle Assault", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A monster catching/battling RPG for the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2362095-telefang.png", 
+      "name": "Keitai Denjuu Telefang", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lightspeed Rescue is a different game on all three of its platforms. The N64 version is considered by many to be one of the worst games of all time.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367514-box_prlr.png", 
+      "name": "Power Rangers: Lightspeed Rescue", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Hokuto no Ken game for the original PlayStation, where the player controls Kenshiro through his journey of the manga/anime. ", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/24785/2241394-hnk.jpg", 
+      "name": "Hokuto no Ken: Seiki Matsukyu Seishi Densetsu", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A snow sports game.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/233/403092-mu_box_jpn_front.jpg", 
+      "name": "Big Mountain 2000", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 23, 
+          "name": "SouthPeak Interactive, LLC"
+        }, 
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Dance is a Breakout style game for the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2291, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2019868-cover.jpg", 
+      "name": "Dragon Dance", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Medarot/Medabots series follows more of Ikki Tenryou's adventures. It also introduces Medachange, which allows players to transform their Medarots during battle.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1390425-medarot3.jpg", 
+      "name": "Medarot 3 Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A snowboarding game for the Game Boy Color\n", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2293, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/148570/2226544-trick_boarder.jpg", 
+      "name": "Trick Boarder", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side game based on Medarot R.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1781307-r_parts_collection.jpg", 
+      "name": "Medarot R Parts Collection", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Medarot Card Robottle is a card game based on the Medarot/Medabots series of RPGs.", 
+      "developers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ], 
+      "id": 2295, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1783071-card_robottle.jpg", 
+      "name": "Medarot Card Robottle Kabuto/Kuwagata", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }
+  ]
+}

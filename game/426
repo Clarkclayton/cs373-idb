@@ -1,0 +1,1302 @@
+{
+  "games": [
+    {
+      "deck": "A cyberpunk RPG for the Commodore Amiga.", 
+      "developers": [], 
+      "id": 21241, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/378/2636553-perihelion-frontcover-ukamiga.jpg", 
+      "name": "Perihelion: The Prophecy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Agony is a side-scrolling shooter, where the player controls an owl. The owl went on to form part of the logo for Psygnosis. the company that published the game.", 
+      "developers": [], 
+      "id": 21242, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/1303157-agony.jpg", 
+      "name": "Agony", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Motorcycle racing simulation.", 
+      "developers": [], 
+      "id": 21243, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1254078-redzone_amiga_front.jpg", 
+      "name": "Red Zone", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Compete at the very top of athletics.", 
+      "developers": [], 
+      "id": 21244, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Carl Lewis Challenge", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game for PC.", 
+      "developers": [], 
+      "id": 21245, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/1626072-964763016_00.gif", 
+      "name": "Creepers", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21246, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Air Support", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person RPG-adventure originally published by Psygnosis Software. Originally released on the Amiga, PC and Atari ST, it later saw a Super Nintendo port.", 
+      "developers": [], 
+      "id": 21247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1744152-obitus_box_front.jpg", 
+      "name": "Obitus", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down shoot-'em-up where the player is tasked with rescuing the citizens of planets from a dangerous alien infection across ten levels.", 
+      "developers": [], 
+      "id": 21248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1686192-amnios.jpg", 
+      "name": "Amnios", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game where you build molecules with the atoms you're provided with.", 
+      "developers": [], 
+      "id": 21249, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/699462-atominof.jpg", 
+      "name": "Atomino", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21250, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7804/2494068-barbarian+2.jpg", 
+      "name": "Barbarian II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stranded in a unknown time period with a time machine that has no fuel.", 
+      "developers": [], 
+      "id": 21251, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/821761-chronoquestii.gif", 
+      "name": "Chrono Quest II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Not to be mistaken for the 8-bit home computer game from Hewson.  This sideways scrolling shooter with it's left and right movement and it's looping levels make it similar to Defender and it's sequel Revenge of Defender (StarRay in Europe).", 
+      "developers": [], 
+      "id": 21252, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/679442-anarchyf.jpg", 
+      "name": "Anarchy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Your father has been murdered and you're the prime suspect.  Search the mansion for clues to the location of the murder.  Find the time machine and go hunting through the ages.", 
+      "developers": [], 
+      "id": 21253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/1303198-chrono_front.jpg", 
+      "name": "Chrono Quest", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "As the Time Warriors' leader, players must find the pieces to the war machine, destroy Baal and his minions.", 
+      "developers": [], 
+      "id": 21254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/629306-baal___front.jpg", 
+      "name": "Baal", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dungeon Master launched a genre into the mainstream - the real-time dungeon RPG. An elaborate mix of combat and puzzles, the game was incredibly popular the world over. The player took control of a party of up to four adventurers on a quest to retrieve the firestaff and destroy Lord Chaos.", 
+      "developers": [], 
+      "id": 21255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/640638-948166_104764_front_1_.jpg", 
+      "name": "Dungeon Master", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Daffy Duck, PI - The Case Of Missing Letters is a Puzzle game, developed by RSP and published by Psygnosis, which was released in 1991 for the PC.", 
+      "developers": [], 
+      "id": 21256, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/88692/2438103-daffy+duck%2C+pi+-+the+case+of+missing+letters_1.png", 
+      "name": "Daffy Duck, P.I.: The Case of the Missing Letters", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Prime Mover is a European only motorcycle racing game for the Amiga.", 
+      "developers": [], 
+      "id": 21257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/654102-prime_mover_01.jpg", 
+      "name": "Prime Mover", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21258, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bob's Bad Day", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21259, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "X-It", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A futuristic sports game from Psygnosis.", 
+      "developers": [], 
+      "id": 21260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1427736-riot.jpg", 
+      "name": "Riot", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21261, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Triad Volume 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21262, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ork", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Platformer where you controlled a purple blob  which  jumped about and stuck to any surface it hit.", 
+      "developers": [], 
+      "id": 21263, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2628/411775-globdule_04.png", 
+      "name": "Globdule", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21264, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "3D Lemmings Winterland", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21265, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/1303176-nevermind.jpeg", 
+      "name": "Never Mind", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2517304-tod.jpg", 
+      "name": "Theatre of Death", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down shooter from Lunatic Software, Cytron stars a titular robot investigating a research facility ravaged by malfunctioning robots.", 
+      "developers": [], 
+      "id": 21267, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1739778-242145_cytron_amiga_screenshot_title_screen.png", 
+      "name": "Cytron", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Actually the third game in the Power Soccer series, but the first one developed by Shen Studios", 
+      "developers": [], 
+      "id": 21268, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/676149-powersoccer2.jpg", 
+      "name": "Power Soccer 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [], 
+      "id": 21269, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1797750-dang.jpg", 
+      "name": "Nancy Drew Dossier: Resorting to Danger", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Major League Baseball is back with 2K Sports MLB 2K8, featuring new pitching controls and swing stick 2.0.", 
+      "developers": [], 
+      "id": 21270, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2146367-box_mlb2k8.png", 
+      "name": "Major League Baseball 2K8", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "For the 2008 edition of the 2K series, Jason Spezza of the Ottawa Senators was cover athlete.", 
+      "developers": [], 
+      "id": 21271, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222541-box_nhl2k8.png", 
+      "name": "NHL 2K8", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The MLB 2K series returns for the 2007 season with this installment.", 
+      "developers": [], 
+      "id": 21272, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2146366-box_mlb2k7.png", 
+      "name": "Major League Baseball 2K7", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL 2K7 was the seventh game in the series released on Xbox, Xbox360, PlayStation2, and PlayStation3.", 
+      "developers": [], 
+      "id": 21273, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222540-box_nhl2k7.png", 
+      "name": "NHL 2K7", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Video game tie-in to 2006 Winter Olympic Games in Torino.", 
+      "developers": [], 
+      "id": 21274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803675-box_torino2006.png", 
+      "name": "Torino 2006", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL 2K6 was the first NHL game to hit next-gen consoles with a release on the Xbox360.", 
+      "developers": [], 
+      "id": 21275, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222539-box_nhl2k6.png", 
+      "name": "NHL 2K6", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "(T)Raumschiff Surprise - Periode 1 is a point-and-click adventure game for Windows based on the German comedy film of the same name.", 
+      "developers": [], 
+      "id": 21276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13790/1562990-traum.jpg", 
+      "name": "(T)Raumschiff Surprise - Periode 1", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21277, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Emergency 2: The Ultimate Fight for Life (Deluxe Edition)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Piglet's Big Game puts the character of Piglet on center stage in A.A Milne's world of 'Winnie the Pooh'.", 
+      "developers": [], 
+      "id": 21278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/32849/1630860-piglet_s_big_game.jpg", 
+      "name": "Piglet's Big Game", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179498-box_soac.png", 
+      "name": "Spec Ops: Airborne Commando", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/863585-big_bass_fishing_cover.jpg", 
+      "name": "Big Bass Fishing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Kiss Pinball, I can find 2 things wrong with that title.", 
+      "developers": [], 
+      "id": 21281, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/364814-kiss.jpg", 
+      "name": "KISS Pinball", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Myth series of real-time tactical video games, Myth III: The Wolf Age, developed by MumboJumbo, takes place a thousand years before the previous games, telling the tale of Connacht the Wolf and his meteoric rise to prominence during the latter days of the Wind Age.", 
+      "developers": [], 
+      "id": 21282, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1702/1154831-myth3box.jpg", 
+      "name": "Myth III: The Wolf Age", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hex-based strategy game covering the Arab-Israeli conflict post WWII.", 
+      "developers": [], 
+      "id": 21283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2610768-51g6eve6v4l.jpg", 
+      "name": "Divided Ground: Middle East Conflict", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This GBA game mimics the gameplay of Solomon's Key.  Players are tasked with creating and destroying blocks to collect items and reach stage exits.  ", 
+      "developers": [], 
+      "id": 21284, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1323842-524285_44442_front.jpg", 
+      "name": "Tang Tang", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "MTV Total Request Live Trivia is a trivia game released for PC.", 
+      "developers": [], 
+      "id": 21285, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1478324-533011_44554_front.jpg", 
+      "name": "MTV Total Request Live Trivia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7242/1354690-520517_44420_front.jpg", 
+      "name": "Green Berets", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": " \"A City on the Brink of Disaster\" welcomes heroic helicopter pilots as they rescue survivors, fight towering infernos, chase down fleeing felons, and take on the ultimate challenge: natural disasters.\n", 
+      "developers": [], 
+      "id": 21287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428385-box_cc.png", 
+      "name": "City Crisis", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Outlive is an RTS where two races known as the human and robot forces clash with each other in order to eradicate the opposite faction.", 
+      "developers": [], 
+      "id": 21288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2168482-outlive_coverart.png", 
+      "name": "Outlive", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A water racing game published by Take-Two Interactive.", 
+      "developers": [], 
+      "id": 21289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/2430092-aqua_gt_pal_dc_front.jpg", 
+      "name": "Aqua GT", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Formula One 2000 is a racing game for the Playstation and Game Boy Color.", 
+      "developers": [], 
+      "id": 21290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/365204-formula_one_2000_pal.jpg", 
+      "name": "Formula One 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1413 @@
+{
+  "games": [
+    {
+      "deck": "In the first installment of the Dark Castle series, Prince Duncan must test his stamina and dexterity against the traps and henchmen of the Black Knight in order to escape the fortress.", 
+      "developers": [], 
+      "id": 23495, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370491-genesis_darkcastle.jpg", 
+      "name": "Dark Castle", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Strike Force Harrier is a combat flight simulator developed by H&H Software and published by Mirrorsoft in 1986.", 
+      "developers": [], 
+      "id": 23496, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9450/1232289-strikeforceharrier.png", 
+      "name": "Strike Force Harrier", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "First in the series of \"Dynamite Dan\" platformers from Mirrorsoft.", 
+      "developers": [], 
+      "id": 23497, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2605784-dynamite+dan+cover.jpg", 
+      "name": "Dynamite Dan", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23498, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366017-a5200_boulderdashii.jpg", 
+      "name": "Boulderdash II: Rockford's Revenge", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23499, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Sorcerer Lord", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Become the new boxing champ!", 
+      "developers": [], 
+      "id": 23500, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1032647-box_boxing.jpg", 
+      "name": "TV Sports: Boxing", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Action game involving underwater exploration of Loch Ness for the C64 and Spectrum. Used a literal \"Hands on\" approach to controlling a diving bell.", 
+      "developers": [], 
+      "id": 23501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1358798-terror_of_the_deep___c64___cockpit1_.jpg", 
+      "name": "Terror of the Deep", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1315595-caesars_travels___ingame1.jpg", 
+      "name": "Caesar's Travels", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23503, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Waterloo", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1314723-biggles_title.jpg", 
+      "name": "Biggles", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 32-player online action game, set in an alternate version of the early 20th century where gunpowder has been banned. It is published by Bethesda, and will be free to play.", 
+      "developers": [], 
+      "id": 23505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2638274-2129769722-bc_wp.jpg", 
+      "name": "Battlecry", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Fallout series continues in a post-apocalyptic Boston, Massachusetts.", 
+      "developers": [], 
+      "id": 23506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2795700-2356006370-64616.jpg", 
+      "name": "Fallout 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "A stand-alone prequel to Wolfenstein: The New Order developed by MachineGames for the PC, Xbox One and PlayStation 4.", 
+      "developers": [], 
+      "id": 23507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2731835-wolftob.jpg", 
+      "name": "Wolfenstein: The Old Blood", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "While investigating a mass murder, Detective Sebastian Castellanos descends into a gruesome, nightmarish world. This third-person survival horror game marks the debut of Tango Gameworks, a studio headed by Resident Evil progenitor Shinji Mikami.", 
+      "developers": [], 
+      "id": 23508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10354/2603369-the_evil_within_boxart.jpg", 
+      "name": "The Evil Within", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest entry in the venerable shooter franchise takes place in a version of the 1960s in which the Nazis have established a global empire after winning World War II. Protagonist B.J. Blazkowicz fights for an underground resistance movement, outnumbered and outgunned by high-tech Nazi forces.", 
+      "developers": [], 
+      "id": 23509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2634599-wolfenstein+-+the+new+order.jpg", 
+      "name": "Wolfenstein: The New Order", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "An MMORPG set in the world of Nirn, focusing on the familiar continent of Tamriel, taking place a thousand years before The Elder Scrolls: Skyrim.", 
+      "developers": [], 
+      "id": 23510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2617761-box_teso.jpg", 
+      "name": "The Elder Scrolls Online", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth installment in Bethesda's Elder Scrolls franchise is set in the eponymous province of Skyrim, where the ancient threat of dragons, led by the sinister Alduin, is rising again to threaten all mortal races. Only the player, as the prophesied hero the Dovahkiin, can save the world from destruction.", 
+      "developers": [], 
+      "id": 23511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3661/1895988-skyrim.png", 
+      "name": "The Elder Scrolls V: Skyrim", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Bethesda's first-person revival of the classic post-apocalyptic RPG series, the player is forced to leave Vault 101 and venture out into the irradiated wasteland of Washington D.C. to find his or her father.", 
+      "developers": [], 
+      "id": 23512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1974388-box_fallout3.png", 
+      "name": "Fallout 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "First released on PlayStation 2 as a budget title and later ported to the Wii; Star Trek: Conquest is a strategy game that uses several races from Star Trek as its playable factions, though no specific characters from the universe make an appearance.", 
+      "developers": [], 
+      "id": 23513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284715-box_stc.png", 
+      "name": "Star Trek: Conquest", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Enter the Shivering Isles, the lands ruled by the Daedric Prince of Madness, Sheogorath. Battle your way through the twisted landscape, become the champion of Sheogorath, and help save the isles from the destructive Greymarch.", 
+      "developers": [], 
+      "id": 23514, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2167117-box_tes4si.png", 
+      "name": "The Elder Scrolls IV: Shivering Isles", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first full-on expansion for The Elder Scrolls IV: Oblivion.", 
+      "developers": [], 
+      "id": 23515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20995/2073206-esiv_expansion.jpg", 
+      "name": "The Elder Scrolls IV: Knights of the Nine", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Trek: Encounters is a dual joystick shooter for the PS2, whose missions span across all Star Trek shows.", 
+      "developers": [], 
+      "id": 23516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284716-box_ste.png", 
+      "name": "Star Trek: Encounters", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "A character-action game based on the events of the movie \"Pirates of the Caribbean: The Curse of the Black Pearl.\"", 
+      "developers": [], 
+      "id": 23517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34651/1862781-legendsparrow.jpg", 
+      "name": "Pirates of the Caribbean: The Legend of Jack Sparrow", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Travel the continent of Tamriel, defend the land against Oblivion's Daedra hordes,  and help fill the empty throne of Cyrodiil in the fourth installment of the Elder Scrolls series.", 
+      "developers": [], 
+      "id": 23518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280495-box_oblivion.png", 
+      "name": "The Elder Scrolls IV: Oblivion", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horse racing simulation game.", 
+      "developers": [], 
+      "id": 23519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839400-928476_67549_front.jpg", 
+      "name": "Breeders' Cup World Thoroughbred Championships", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1830779-wind.jpg", 
+      "name": "Echelon: Wind Warriors", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game that tries to capture the thrill and excitement of drag racing.", 
+      "developers": [], 
+      "id": 23521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797968-box_ihradr2004.png", 
+      "name": "IHRA Drag Racing 2004", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second expansion for The Elder Scrolls III: Morrowind, takes place in the Nordic territory of Solstheim, featuring werewolves, a new joinable guild, and an independent storyline.", 
+      "developers": [], 
+      "id": 23522, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/610615-589642_front_1_.jpg", 
+      "name": "The Elder Scrolls III: Bloodmoon", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first of two expansions of The Elder Scrolls III: Morrowind", 
+      "developers": [], 
+      "id": 23523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/610606-914491_front_1_.jpg", 
+      "name": "The Elder Scrolls III: Tribunal", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in Bethesda's series of expansive first-person role-playing games. Arriving on the island of Vvardenfell as a prisoner, the player character is caught up in an ancient prophecy, as well as a power struggle between factions, races, and gods incarnate.", 
+      "developers": [], 
+      "id": 23524, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/610334-morrowind_title.jpg", 
+      "name": "The Elder Scrolls III: Morrowind", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1294154-img_1_th.jpg", 
+      "name": "Magic & Mayhem: The Art of Magic", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23526, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/1252753-ihra_cover.jpg", 
+      "name": "IHRA Motorsports Drag Racing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1721521-272662_gromada_revenge_windows_screenshot_two_fire_mouths_are_usually.jpg", 
+      "name": "Gromada Revenge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23528, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Gromada", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "An investigation into the death of a scientist on a research base leads to more questions than answers. As information about the SATIN project on the base slowly unravels, so does the sanity of all those on the station. An adventure game known for its deep characters and storyline.", 
+      "developers": [], 
+      "id": 23529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2593/258880-cz2.jpg", 
+      "name": "Zero Critical", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Race super powered experimental and concept cars around winding race tracks with dozens of racers on the track at once.", 
+      "developers": [], 
+      "id": 23530, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "XCar: Experimental Racing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "A card game based on the Elder Scrolls franchise.", 
+      "developers": [], 
+      "id": 23531, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2758486-the_elder_scrolls_legends_logo_1434321049.jpg", 
+      "name": "The Elder Scrolls: Legends", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG originally in the works for the Playstation Portable to be released in 2007, but has since been presumed on hold, or even canceled, since no more information has been revealed.", 
+      "developers": [], 
+      "id": 23532, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20011/1772860-ob_mobile_logo.jpg", 
+      "name": "The Elder Scrolls Travels: Oblivion", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23533, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Symbiocom", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Amy is a survival horror game where the goal is to survive alongside the eponymous little girl Amy.", 
+      "developers": [], 
+      "id": 23534, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2204852-box_amy.png", 
+      "name": "Amy", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 555, 
+          "name": "Lexis Num\u00e9rique"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dracula 5 The Blood Legacy is a direct sequel of Dracula 4: Shadow of the Dragon.", 
+      "developers": [], 
+      "id": 23535, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2575560-5381430209-Dracu.jpg", 
+      "name": "Dracula 5 The Blood Legacy", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the critically acclaimed Still Life, Still Life 2 picks up the story of Victoria McPherson 3 years later, investigating a new series of murders in Maine.", 
+      "developers": [], 
+      "id": 23536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/886713-9168.jpg", 
+      "name": "Still Life 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ski park manager.", 
+      "developers": [], 
+      "id": 23537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2264893-2264892-cover.jpg", 
+      "name": "Val d'Is\u00e8re Ski Park Manager: Edition 2003", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to F1 World Grand Prix.", 
+      "developers": [], 
+      "id": 23538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2806825-warm+up%21+cover+ps+eu+front.jpg", 
+      "name": "Warm Up!", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840119-531882_6384_front.jpg", 
+      "name": "Master Rallye", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ski park manager.", 
+      "developers": [], 
+      "id": 23540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2264864-547938_7826_front.jpg", 
+      "name": "Val d'Is\u00e8re Ski Park Manager", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Fish Files is an adventure game for the Game Boy Color.", 
+      "developers": [], 
+      "id": 23541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1805096-fish_files__the__europe___en_fr_de_es_it_.png", 
+      "name": "The Fish Files", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "Far Gate is a 3D RTS in the vein of Homeworld. It is notable for it's colourful pallete, unique art design. It featured 3 different factions, a map editor, and a 20 mission campaign. Unfortunately, it failed to recieve commercial or critical success due to its direct competition with Homeworld.", 
+      "developers": [], 
+      "id": 23542, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Far Gate", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23543, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Messenger", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "Times of Conflict is a Sci-Fi RTS game developed by Eugen Systems.", 
+      "developers": [], 
+      "id": 23544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2369857-timesofconflict.jpg", 
+      "name": "Times of Conflict", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1467 @@
+{
+  "games": [
+    {
+      "deck": "A side-scrolling space shooter that takes place in the post-apocalyptic setting of 2777. It was released on the NES by Hudson Soft and co-developed by Atlus.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9686, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362630-nes_xexyz.jpg", 
+      "name": "Xexyz", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second game in the Megami Tensei franchise and the last to appear on the Nintendo Famicom.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9687, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31838/1167570-digital_devil_story_megami_tensei_ii.jpg", 
+      "name": "Digital Devil Monogatari: Megami Tensei II", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dungeon Explorer is a top-down action-adventure RPG developed by Atlus and published by Hudson Soft in 1989.  Up to five players can join in the quest to recover the Ora stone from the mighty Natas.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9688, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/846509-588955_58106_front.jpg", 
+      "name": "Dungeon Explorer", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NFL Football is a 1989 american football game released for the NES. It is notable for being the first football game to use the official NFL teams and logos.\n\nGameplay modes included an NFC or AFC game type, Interconference, or Super Bowl Mode.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9689, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362085-nes_nflfootball.jpg", 
+      "name": "NFL Football", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Atlus-developed, Acclaim-published, block-pushing puzzle game for the original Game Boy. The game is known as Puzzle Boy in Japan.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9690, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26763/1125832-box_scan024.jpg", 
+      "name": "Kwirk", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Friday the 13th puts players in the shoes of one of six counselors at Camp Crystal Lake and tasks them with using any weapon they can find to save the children hiding in cabins spread out across the camp grounds from Jason's murderous rampage. An early open-world survival horror title released in 1989.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9691, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361746-nes_fridaythe13th.jpg", 
+      "name": "Friday the 13th", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A NES strategy game developed by Atlus and published by Namco. It was only released in Japan.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9692, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2360818-king_of_kings_fc.jpg", 
+      "name": "King of Kings", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An NES adventure game by Namco was only released in Japan on September 27th 1988.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9693, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2419323-erika_to_satoru_no_yume_bouken.jpg", 
+      "name": "Erika to Satoru no Yume Bouken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the first extreme sports games released for consoles that included both surfing and skateboarding.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9694, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362325-nes_tandcsurfdesigns.jpg", 
+      "name": "Town & Country Surf Designs: Wood & Water Rage", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Karate Kid was a game published by LJN for the NES. It is loosely based on The Karate Kid, Part II.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9695, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361918-nes_karatekid.jpg", 
+      "name": "The Karate Kid", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A futuristic soldier goes back in time to save the world in this NES action-adventure game by Atlus. It was never released outside of Japan, though an English localized version was close to completion before being cancelled.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9696, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/566607-bio_senshi_dan_increaser_tono_tatakai_box_front.jpg", 
+      "name": "Bio-Senshi Dan: Increaser to no Tatakai", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The original game in the Megami Tensei franchise. Based on a novel by Aya Nishitani, it introduced many of the elements the series is known for such as demon bartering and fusing.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9697, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31838/1057714-mtjapan.png", 
+      "name": "Digital Devil Monogatari: Megami Tensei", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure game based on the Jim Henson movie Labyrinth, published in Japan in 1987 for the Famicom by Tokuma Shoten.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9698, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2466978-labyrinth_fc.jpg", 
+      "name": "Labyrinth: Maou no Meikyuu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A mahjong game for the PC Engine CD and Sega Genesis with Ladies.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9699, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2112812-gbox.png", 
+      "name": "Jantei Monogatari", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A spin-off of the Power Instinct series, starring Clara. Unlike the main series which were fighters, Prikura Daisakusen is an isometric action/shooter.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9700, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1738825-purikura_daisakusen__j__front_back.jpg", 
+      "name": "Prikura Daisakusen", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/771841-despiria_ntscjp.jpg", 
+      "name": "deSpiria", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Driving game developed by Atlus in 1995.", 
+      "developers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ], 
+      "id": 9702, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1144631-kat_run.jpg", 
+      "name": "Kat's Run: Zennihon K Car Senshuken", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Kingdoms of Amalur: Reckoning is an open-world singleplayer RPG with combo-based action and the trappings of an MMORPG. Reckoning is set in Amalur, the same setting as 38 Studios' planned MMO codenamed \"Copernicus.\"", 
+      "developers": [
+        {
+          "id": 330, 
+          "name": "Big Huge Games"
+        }
+      ], 
+      "id": 9703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2121648-box_koar.png", 
+      "name": "Kingdoms of Amalur: Reckoning", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second expansion pack released for Age of Empires III. It centers around Asian civilizations and introduces a variety of new multiplayer modes, campaigns, and units. ", 
+      "developers": [
+        {
+          "id": 330, 
+          "name": "Big Huge Games"
+        }
+      ], 
+      "id": 9704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/654352-aoeiiitadboxart.jpg", 
+      "name": "Age of Empires III: The Asian Dynasties", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest in Big Huge Games' well-received Rise of Nations series, Rise of Legends introduces a new 3D engine, some gameplay innovations, and three unique factions: the steam-powered Vinci, the desert Alin, and the mysterious Mayan-like Cuotl. The game combines elements from both traditional RTS and turn-based strategy games.", 
+      "developers": [
+        {
+          "id": 330, 
+          "name": "Big Huge Games"
+        }
+      ], 
+      "id": 9705, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2891/608231-misc_boxart.jpg", 
+      "name": "Rise of Nations: Rise of Legends", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Catan, based on the popular board game \"Settlers of Catan\", is a game of production, trading, and building in which players compete to develop the most successful colony on the island.", 
+      "developers": [
+        {
+          "id": 330, 
+          "name": "Big Huge Games"
+        }
+      ], 
+      "id": 9706, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841432-box_catan.png", 
+      "name": "Catan", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rise of Nations: Thrones and Patriots adds six new nations as well as new wonders, buildings and campaigns.", 
+      "developers": [
+        {
+          "id": 330, 
+          "name": "Big Huge Games"
+        }
+      ], 
+      "id": 9707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1249818-riseofnation.jpg", 
+      "name": "Rise of Nations: Thrones & Patriots", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Build a nation and watch it progress through the ages in this real-time strategy game from Big Huge Games.", 
+      "developers": [
+        {
+          "id": 330, 
+          "name": "Big Huge Games"
+        }
+      ], 
+      "id": 9708, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/926245-10888_forside.jpg", 
+      "name": "Rise of Nations", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Colony Wars III: Red Sun is a space simulation video game for the PlayStation developed by Psygnosis in 2000.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9709, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1198913-cwrs_cover.jpg", 
+      "name": "Colony Wars III: Red Sun", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An installation in the Lemmings franchise where players control lemmings within cylindrical environments.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9710, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117897/1655829-lemmings_revolution_coverart.png", 
+      "name": "Lemmings Revolution", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players attempt to fend off an alien invasion in this flight simulator / shooter from Psygnosis.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9711, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/647770-foto_tellurian_defense.jpg", 
+      "name": "Tellurian Defense", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade style WWII flight combat game", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2597286-g0216264bq6.jpg", 
+      "name": "Nations: WWII Fighter Command", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23550, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366209-a5200_mrdoscastle.jpg", 
+      "name": "Mr. Do!'s Castle", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 558, 
+          "name": "Parker Brothers"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third release of Psygnosis's seminal anti-grav racing series, and also the last game from the series to appear on the original PlayStation.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9713, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210281-box_wout3.png", 
+      "name": "WipEout 3", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9714, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1430728-gpwoj_pal_cover.jpg", 
+      "name": "G-Police: Weapons of Justice", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game involving \"Hoverdeks\" and a villain named Krakken. For some reason, a sequel was never developed.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/2005767-psy2.jpg", 
+      "name": "Psybadek", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Colony Wars game.  Once again a war is raging between the League of Free Worlds and the Colonial Navy.  However, this time, you fight for the Navy.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1199179-cwv_pal_cover.jpg", 
+      "name": "Colony Wars: Vengeance", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players are stranded in an unknown area where they must find a magic pearl to return to their homeland.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/825694-odtntscfrontoj6.jpg", 
+      "name": "O.D.T. - Escape... Or Die Trying", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Nintendo 64 version of the acclaimed futuristic racing series. This version is a mixture of the original Wipeout and Wipeout XL with full analog control as well as rumble and memory pack options.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210282-box_wout64.png", 
+      "name": "WipEout 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 1998 version of Psygnosis' soccer series.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1316173-aps98_cover.jpg", 
+      "name": "Adidas Power Soccer 98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28240/1386867-198136_42613_front.jpg", 
+      "name": "Newman Haas Racing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9721, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Zombieville", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A war is raging between the League of Free Worlds and the Colonial Navy. You are a League fighter pilot. It's time to fight!", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9722, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/776538-colonywars_manual.png", 
+      "name": "Colony Wars", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 152, 
+          "name": "Artdink"
+        }, 
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Known as Overboard! in Europe, Shipwreckers is a top down action game where you play as a Pirate Ship.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9723, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/776341-shipwreckers.png", 
+      "name": "Shipwreckers!", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "G-Police, a vehicle-based action shooter that tasked players to maintain governmental order in a futuristic society, was developed by Psygnosis and released for the Sony PlayStation and PC in 1997. It was later re-released for the Sony PlayStation 3 and PSP in 2008 via the PlayStation Network.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/776561-gpolice_front.png", 
+      "name": "G-Police", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9725, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19674/1047899-city_of_lost_children_front.png", 
+      "name": "The City of Lost Children", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Manx TT SuperBike is the port of the arcade game of the same name. The conversion duties were handled by Psygnosis, Perfect Entertainment and Tantalus Interactive Play.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1262898-sb.jpg", 
+      "name": "Manx TT SuperBike", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person shooter for the PlayStation and PC.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/91408/1429634-196945_50224_front.jpg", 
+      "name": "Codename: Tenka", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person adventure game for PlayStation and PC.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771392-sentient.jpg", 
+      "name": "Sentient", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Krazy Ivan is a first person mech combat game by Psygnosis and Tantalus Media", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1673255-krazy_ivan_box_front.jpg", 
+      "name": "Krazy Ivan", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally released as Wipeout 2097 in Europe, this is the sequel to the game that defined Playstation as cool. This game upped the ante with a refined and more forgiving play mechanic, more visual effects, and an increased selection of licensed music.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210285-box_woutxl.png", 
+      "name": "WipEout XL", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Reach for the goal in Psygnosis Limited's Soccer simulator in adidas Power Soccer for the Playstation and PC.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9731, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/714824-adidaspowersoccer.jpg", 
+      "name": "Adidas Power Soccer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pilots duke it out in a full 3D atmosphere to win in this futuristic, and now renowned, racing game set in the year 2052. Originally released in 1995.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210280-box_wout.png", 
+      "name": "WipEout", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365929-3do_novastorm.jpg", 
+      "name": "Novastorm", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "The evil wizard Wicked Wainwright has captured the four elders and it's up to Flink, a wizard's apprentice, to set them free.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370566-genesis_flink_eu_cropped.jpg", 
+      "name": "The Misadventures of Flink", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }
+  ]
+}

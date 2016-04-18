@@ -1,0 +1,1708 @@
+{
+  "games": [
+    {
+      "deck": "Standard first person shooter set in the alien universe.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1967506-box_alient.png", 
+      "name": "Alien Trilogy", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Jam Extreme features 60 hidden characters and special teams, such as a team of '90s basketball stars.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1400, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1536643-nbajamex_box.png", 
+      "name": "NBA Jam Extreme", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The successor to WWF WrestleMania: The Arcade Game, WWF in Your House used the same style digitized sprite graphics and fast paced, over the top action.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139908-box_wwfiyh.png", 
+      "name": "WWF In Your House", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the 1996 comedy film (of the same name) tying Looney Tunes to the real-life antics of NBA superstars, Space Jam pits players in a NBA Jam-esque basketball match as either the Monstars or the Tune Squad.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811179-box_spacejam.png", 
+      "name": "Space Jam", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is a page for Wayne Gretzky and the NHLPA All Stars released on the Super Nintendo and Sega Genesis in 1995. Released in the year of the NHL Lockout this game featured only the NHLPA license, with no NHL teams or logos.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2123/364878-87_8.jpg", 
+      "name": "Wayne Gretzky and the NHLPA All Stars", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Throw reality out the window as you fight for the gold in WWF WrestleMania: The Arcade Game.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5166/1559062-wwf_wrestlemania_the_arcade_flyer.jpg", 
+      "name": "WWF WrestleMania: The Arcade Game", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Join the Looney Tunes cast as they shoot some whacky street ball hoops!", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363933-snes_looneytunesb_ball.jpg", 
+      "name": "Looney Tunes B-Ball", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to WWF Royal Rumble, and ended LJN's 16-bit WWF trilogy.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389668-genesis_wwfraw.jpg", 
+      "name": "WWF Raw", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A real-time simulator/strategy game based on the SeaQuest DSV TV show.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1771/938415-585887_49833_front.jpg", 
+      "name": "SeaQuest DSV", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The last game of the Super Star Wars platform franchise for the SNES.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364848-snes_superreturnofthejedi.jpg", 
+      "name": "Super Star Wars: Return of the Jedi", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bart Simpson travels through a series of six virtual worlds after visiting Martin's virtual reality exhibition.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389646-genesis_virtualbart.jpg", 
+      "name": "Virtual Bart", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Rex Ronan's job is to save the life of Jake Westboro, by shrinking down to near microscopic size and removing the effects of his smoking habit.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364629-snes_rexronanexperimentalsurgeon.jpg", 
+      "name": "Rex Ronan: Experimental Surgeon", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1412, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Jack Nicklaus' Unlimited Golf & Course Design", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer/football video game released for Super Nintendo Entertainment System in 1993. This game is named after US goalkeeper Tony Meola, who was the American goalkeeper during the 1994 FIFA World Cup.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2669681-tonymeolasidekicks_snesus.jpg", 
+      "name": "Tony Meola's Sidekicks Soccer", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A hockey game licensed by the NHL employing a unique 3D-perspective.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364493-snes_nhlstanleycup_ca.jpg", 
+      "name": "NHL Stanley Cup", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platform action game for the SNES released in 1993 that follows the events of the second Star Wars film, Episode V: The Empire Strikes Back.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364849-snes_superempirestrikesback.jpg", 
+      "name": "Super Star Wars: The Empire Strikes Back", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Compete as some of the greatest legends in boxing history in this 16-bit boxing game.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363665-snes_boxinglegendsofthering.jpg", 
+      "name": "Boxing Legends of the Ring", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second installment of one of the most violent fighting game franchises of all time, providing a smoother fighting system while adding double the fighters and double the Fatalities.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1338358-mk2_vert.png", 
+      "name": "Mortal Kombat II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "WWF Royal Rumble is a wrestling themed video game featuring WWF Stars from the 1990s.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1773102-rrgen.jpg", 
+      "name": "WWF Royal Rumble", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A golf sim for the SNES and Game Boy published by Tradewest, developed by Sculptured Software and released in 1992 in the US and Europe. It features the name and likeness of golfer Jack Nicklaus.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2551685-jack_nicklaus_golf_snes_us.jpg", 
+      "name": "Jack Nicklaus Golf", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as any of the NBA teams in this basketball game for the Super Nintendo and Genesis/Mega Drive. The sequel to Tecmo NBA Basketball.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389497-genesis_tecmosupernbabasketball.jpg", 
+      "name": "Tecmo Super NBA Basketball", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Star Wars is an action platformer (including vehicular combat levels) for the Super Nintendo Entertainment System based on the 1977 film Star Wars Episode IV: A New Hope.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364847-snes_superstarwars.jpg", 
+      "name": "Super Star Wars", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Learn about diabetes in this educational platformer by assuming control of a diabetic superhero, whose task it is to save the mayor from alien abductors.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1422, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363677-snes_captainnovolin.jpg", 
+      "name": "Captain Novolin", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "By combining digitized character graphics and extreme violence, Midway's 1992 fighter revolutionized the U.S. fighting game genre, spawned a long-running series, and helped create controversy regarding video game violence.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1338360-mk_vert.png", 
+      "name": "Mortal Kombat", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bart falls asleep while doing his homework and has a nightmare featuring many amusing mini games.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364758-snes_simpsonsbartsnightmare.jpg", 
+      "name": "The Simpsons: Bart's Nightmare", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball game bearing Roger Clemens' name. Released on multiple platforms.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/137417/2364224-588627_58216_front.jpg", 
+      "name": "Roger Clemens' MVP Baseball", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Followup to the first game on Game Boy, still published by LJN.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2218/1332437-563307_92519_front.jpg", 
+      "name": "WWF Superstars 2", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Clue is a video game adaptation of the popular board game it shares a name with.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370462-genesis_clue.jpg", 
+      "name": "Clue", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 558, 
+          "name": "Parker Brothers"
+        }
+      ]
+    }, 
+    {
+      "deck": "A basketball game for the SNES featuring real college teams and Mode 7 graphics.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1029816-588517_40313_front.jpg", 
+      "name": "NCAA Basketball", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Thrilla Gorilla's girlfriend has been kidnapped by an African Witchdoctor. Thrilla must skate and surf through multiple stages to rescue her.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20645/1333514-town__country_ii_thrillas_surfari_frontcover_large_6mbuekpfmbwyj4s.jpg", 
+      "name": "Town & Country 2: Thrilla's Surfari", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A wrestling game based on WWF (now WWE) and the first of the LJN-trilogy of WWF games in the 16-bit era.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389669-genesis_wwfsuperwrestlemania.jpg", 
+      "name": "WWF Super Wrestlemania", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Luke Skywalker as you fight your way through the Battle of Hoth, travel through the swamps of Dagobah, and explore Cloud City", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362259-nes_starwarstheempirestrikesback.jpg", 
+      "name": "Star Wars: The Empire Strikes Back", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 558, 
+          "name": "Parker Brothers"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Boggle Plus is a game for the Game Boy based on the popular board game.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1730878-boggleplus.jpg", 
+      "name": "Boggle Plus", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dr. David Livingstone has disappeared into one of the darkest corner of Africa. It is up to Henry Morton Stanley to find the good doctor and explore one of the last few uncharted areas of Africa.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/237480-stanley.jpg", 
+      "name": "Stanley: The Search for Dr. Livingston", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Steel Cage action, released to NES, Sega Master System, and Game Gear in 1992 by LJN.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363106-ms_wwfwrestlemaniasteelcagechallenge_eu_2.jpg", 
+      "name": "WWF WrestleMania: Steel Cage Challenge", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/213965-eliminator_boat_duel.jpg", 
+      "name": "Eliminator Boat Duel", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as the most un-British Robin Hood ever in this movie tie-in RPG-esque action adventure for the NES and Game Boy.\nThe game features a topside isometric view for the most time, but it occasionally changes to a side view perspective for the one on one duels.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362158-nes_robinhood_de.jpg", 
+      "name": "Robin Hood: Prince of Thieves", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An arcade basketball game endorsed by Earvin \"Magic\" Johnson Jr.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/220042-magic_johnson_s_fast_break.jpg", 
+      "name": "Magic Johnson's Fast Break", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }, 
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A golf game for multiple systems licensed by professional golfer Jack Nicklaus. Play the greatest 18 holes in Championship Golf as chosen by Nicklaus.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1122277-jack_nicklaus___greatest_18_holes_of_major_championship_golf___front.jpg", 
+      "name": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dark Chambers is an Atari dungeon crawler.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1425984-darkchambers_front.jpg", 
+      "name": "Dark Chambers", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A James Bond game released for numerous 1980s computer systems.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1441, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/653927-the_living_daylights_loading_screen.png", 
+      "name": "James Bond 007 in The Living Daylights: The Computer Game", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1442, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/748875-ninja.jpg", 
+      "name": "Ninja", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "SWAT (also known as Los Angeles Swat) is an action game released in 1986", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1443, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10026/672744-los_angeles_swat.jpg", 
+      "name": "SWAT", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1444, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1908629-567538_8184_front.jpg", 
+      "name": "Slam-Dunk", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1445, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361639-nes_daydreamindavey.jpg", 
+      "name": "Day Dreamin' Davey", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In the sequel to the infamous Beach Head, the player fights it out as either the dictator himself or the invading allies.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1446, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/623430-beach_head_2_1_.jpg", 
+      "name": "Beach Head II: The Dictator Strikes Back!", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 391, 
+          "name": "Access Software, Inc."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "BMX Air Master is a late-release video game for the Atari 2600 VCS.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1447, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82221/1276301-584590_37555_front.jpg", 
+      "name": "BMX Air Master", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1448, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11839/2321765-sfmtitlescreen.gif", 
+      "name": "Street Fighting Man", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1449, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "4th & Inches Team Construction Disk", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "MetalMech is a game where a human pilots a mech through a destroyed city. The pilot can exit the mech to reach areas the mech can not reach. It is considered by some to be a cheap knock-off of Blaster Master.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1450, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362062-nes_metalmech.jpg", 
+      "name": "MetalMech: Man & Machine", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

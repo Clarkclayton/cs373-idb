@@ -1,0 +1,1761 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/759688-cyberun.jpg", 
+      "name": "Cyberun", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/888525-tranzam.jpg", 
+      "name": "Tranz Am", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "John Elway's Quarterback is a vertical-scrolling Football sim that features the former Denver Broncos quarterback's likeness. Originally released in Arcades, it was later ported to various home systems.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361911-nes_johnelwaysquarterback.jpg", 
+      "name": "John Elway's Quarterback", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An isometric adventure game from Rare Ltd., back when they were still called Ultimate. ", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10201/375600-947593_104156_front.jpg", 
+      "name": "Knight Lore", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3747, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Staff of Karnath", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Classic platforming action on the NES from Rare.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371422-digger_t_rock_fr_ntsc.png", 
+      "name": "Digger T. Rock: Legend of the Lost City", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Project Dream was an unreleased game developed by Rare for the SNES. Development was eventually moved to the Nintendo 64, but the game was eventually redeveloped as Banjo-Kazooie, with most characters being re-used.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128387/1842106-project_dream.png", 
+      "name": "Project Dream", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A cancelled sequel to Conker's Bad Fur Day.", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3750, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Conker's Other Bad Fur Day", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Blackwyche is an action-sidescroller for the Commodore 64", 
+      "developers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ], 
+      "id": 3751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1132429-blackwyche_title.png", 
+      "name": "Blackwyche", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13362/619664-870_00763500.jpg", 
+      "name": "Heist", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Side-scrolling platformer for the Atari Jaguar. Battle against a corrupt corporate army through 20 futuristic levels.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117445/1651207-b_hyperforce_front.jpg", 
+      "name": "Hyper Force", 
+      "platforms": [
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Queensr\u00ffche's Promised Land is an adventure game for the PC and Mac.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3754, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1767337-qp.jpg", 
+      "name": "Queensr\u00ffche's Promised Land", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A licensed formula one driving game that was developed by Sega and Bell Corporation, while published by Sega and Virgin Interactive(US only).", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128081/2314155-sega.jpg", 
+      "name": "F1 Challenge", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Flight Unlimited was a more action-based flight game", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1032728-flight.jpg", 
+      "name": "Flight Unlimited", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 215, 
+          "name": "Looking Glass Studios, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D platformer based on the 1967 animated Disney movie and released on multiple platforms. It was one of four Virgin Interactive platformers based on Disney movies, along with The Lion King, Aladdin and Pinocchio.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3757, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370671-genesis_junglebook_cropped.jpg", 
+      "name": "Walt Disney's The Jungle Book", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fast playing soccer game by Dino Dini, published by Virgin in 1994.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2368572-dino_dini_goal_ami.png", 
+      "name": "Dino Dini's Soccer", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighter game based on Rob Cohen's motion picture depicting a semi-fictional retelling of Bruce Lee's life.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370504-genesis_dragonthebruceleestory_eu.jpg", 
+      "name": "Dragon: The Bruce Lee Story", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Disney's Aladdin was the title of several different games from different developers based on the classic Disney film, Aladdin. As the titular character, players venture through many levels inspired by events and locations in the movie.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361667-nes_disneysaladdin_de.jpg", 
+      "name": "Disney's Aladdin", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "RoboCop clashes with Terminator in this side-scrolling action game.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/672010-rvstmg0f.jpg", 
+      "name": "RoboCop Versus the Terminator", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Explore the world as Spot, the tiny mascot of the 7 Up brand of soft drinks, and rescue its fellow Spots in this 2D platformer.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2551666-2066011846-recor.jpg", 
+      "name": "Cool Spot", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Monopoly Deluxe published by Virgin Games, Inc. in 1992.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1526547-564965_29800_front.jpg", 
+      "name": "Monopoly Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This pool game uses the same game engine as the awesome Jimmy White's Whirlwind Snooker.  The three different versions offered are 8 ball UK, 8 ball US and 9 ball.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/683431-archermacleanspool.gif", 
+      "name": "Archer Maclean's Pool", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "M.C. Kids is the tale of Mic and Mac who find themselves in McDonaldland on a quest to retrieve Ronald McDonald's magic bag from the Hamburglar.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362018-nes_mckids.jpg", 
+      "name": "M.C. Kids", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platformer with an environmentally-friendly theme, in which players fight pollution monsters through four different worlds, guided by Ronald McDonald.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370585-genesis_globalgladiators.jpg", 
+      "name": "Global Gladiators", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This side scroller was based on the 1984 science fiction blockbuster of the same name.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/206621-the_terminator_1.jpg", 
+      "name": "The Terminator", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pot the reds then screw back for the yellow, green, brown, blue, pink and black in this classic snooker simulator created by Archer Maclean.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/658759-jimmy_white_s_whirlwind_snooker_eu_box_art.jpg", 
+      "name": "Jimmy White's Whirlwind Snooker", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Spot is a 7up themed version of the board game \"Ataxx\".", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362252-nes_spot.jpg", 
+      "name": "Spot: The Video Game", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The computer version of the classic Parker Brothers board game.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/833385-risk.gif", 
+      "name": "The Computer Edition of Risk: The World Conquest Game", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Silkworm is a game in which the player can control either a helicopter or jeep. The game also has a two-player mode in which one player is able to control the helicopter and the other is able to control the jeep.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2375914-silk_worm_fr.png", 
+      "name": "Silkworm", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game that takes place in a castle-like maze.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4560/502014-gates_of_dawn.jpg", 
+      "name": "Gates of Dawn", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players explore a robot factory that has been overtaken by vengeful aliens in this game from Virgin Games.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/668875-1133984695_00.png", 
+      "name": "Strange Loop", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "You are one of the last remaining great sorcerers.  The other three have been kidnapped and it's up to you to rescue them.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/98041/1520545-sorcery_01.gif", 
+      "name": "Sorcery", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Falcon Patrol was a Video Game for the Commodore 64 by Virgin Games in 1983.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1457575-533_1.jpg", 
+      "name": "Falcon Patrol", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3776, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Deluxe Scrabble for Windows", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A humorous simulation game based around the mundane workings of the music industry for the ZX Spectrum.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/156597/2608146-2137899307-the-b.jpg", 
+      "name": "The Biz", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3778, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Falcon Patrol II", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3779, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Falcon: The Renegade Lord", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Demolition Man has the player assume the role of John Spartan in his quest to hunt down madman Simon Phoenix.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371433-demolition_man_final.jpg", 
+      "name": "Demolition Man", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3781, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Starfire", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3782, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Snoopy's Campfire Stories", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game where the player must help their chosen character become the Shogun of Japan. Based on the 1975 novel by James Clavell.", 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4560/501518-shogun__mastertronic_.jpg", 
+      "name": "Shogun", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ], 
+      "id": 3784, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Omni-Play Basketball", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A historical action game following a blonde haired, blue eyed samurai pitted in the battlefields of 16th century Japan. First shown off at Sony's E3 2005 press conference, news on the game came came to a halt after TGS 2006, but as of TGS 2010 is back in development.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1094808-gb.png", 
+      "name": "Ni-Oh", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third title in the Dead or Alive Xtreme series, which is currently only planned for release in Japan and Asian territories.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2830904-doax3.jpg", 
+      "name": "Dead or Alive Xtreme 3: Fortune", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Dissidia series comes to arcades with major overhauls, including 3 versus 3 battles, roster additions, wide open arenas, and more. It is being developed by Taito and Square Enix.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2726293-6192478688-Dissi.jpg", 
+      "name": "Dissidia: Final Fantasy", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The final update to Dead or Alive 5 brings the game to PlayStation 4 and Xbox One. Last Round features more characters, stages, and costumes than any other Dead or Alive game to date.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2706228-81d47iejwdl._sl1500_.jpg", 
+      "name": "Dead or Alive 5 Last Round", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Omega Force, Team Ninja and Nintendo team up for this crossover between the Zelda franchise and the long-running Warriors hack-n-slash series. The game pits Link and friends against hordes of familiar enemies in the signature Warriors fashion.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2679258-hwboxupdate.jpg", 
+      "name": "Hyrule Warriors", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the many ninja henchmen slain by Ryu Hayabusa is back for blood in this Ninja Gaiden spinoff. The project is directed by Keiji Inafune of Dead Rising fame, and jointly developed by Inafune's company Comcept, Team Ninja and Spark Unlimited.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2584187-box_yaibangz.png", 
+      "name": "Yaiba: Ninja Gaiden Z", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Third-person arena shooter with a hand drawn art style from David Jaffe.", 
+      "developers": [
+        {
+          "id": 116, 
+          "name": "SCE Studios San Diego"
+        }
+      ], 
+      "id": 3898, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2706842-9462312548-15339.jpg", 
+      "name": "Drawn to Death", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Upgraded release of Dead or Alive 5, including: DOA5+ feature integration, more characters, stages, costumes and BGM customization options.", 
+      "developers": [
+        {
+          "id": 112, 
+          "name": "Team Ninja"
+        }
+      ], 
+      "id": 3791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525167-box_doa5u.png", 
+      "name": "Dead or Alive 5 Ultimate", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }
+  ]
+}

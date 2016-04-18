@@ -1,0 +1,1693 @@
+{
+  "games": [
+    {
+      "deck": "Run your own video arcade and try to keep your token machines filled in this frantic action game from Br\u00f8derbund.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8937, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Spare Change", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Take control of a robot and attempt to save children and animals from monsters in Drol.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8938, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4511/1154094-300px_drol__broderbund___disk__front_cover.jpg", 
+      "name": "Drol", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Lode Runner is a 2D platform/Puzzle game from 1983 created by Douglas Smith. It is one of the first games to include a level editor tool for players to create their own levels.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8939, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361995-nes_loderunner.jpg", 
+      "name": "Lode Runner", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }, 
+        {
+          "id": 145, 
+          "name": "Sony SMC-777", 
+          "short": "SMC7"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "David's Midnight Magic is one of a series of early digital pinball simulations that was originally released on the Apple II.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8940, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/615997-atxe_midnight.jpg", 
+      "name": "David's Midnight Magic", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Originally developed by Dan Gorlin of Br\u00f8derbund, Choplifter!, which claims to be the computer! game of the year, focuses on the simple mechanics of avoiding fire while ferrying hostages from their capture bunkers to a home base.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8941, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365965-a7800_choplifter.jpg", 
+      "name": "Choplifter!", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }, 
+        {
+          "id": 145, 
+          "name": "Sony SMC-777", 
+          "short": "SMC7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }, 
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Apple Panic is a clone of the arcade game, Space Panic.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8942, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63758/2081632-439px_applepanic_cover.jpg", 
+      "name": "Apple Panic", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the book by Kevin Henkes.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8943, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/1133498-sheilarae.gif", 
+      "name": "Sheila Rae the Brave", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8944, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/692/705039-1152240047_03.png", 
+      "name": "Stealth", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8948, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Galleons of Glory: The Secret Voyage of Magellan", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8949, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Seafox", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8950, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/885701-1115662843_00.png", 
+      "name": "Centauri Alliance", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8951, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Little Monster at School", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8952, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Space Quarks", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mario &amp; Luigi collides with Paper Mario in this 3DS RPG that uses elements from both franchises.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8953, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2790577-mlpj.jpg", 
+      "name": "Mario & Luigi: Paper Jam", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth entry in the Mario and Luigi RPG series has Mario traversing dreams within Luigi's mind. Players will have to interact with Luigi on the bottom screen to provoke certain events within his dreams.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8954, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2491700-mldreamteam.png", 
+      "name": "Mario & Luigi: Dream Team", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Animcal Crossing-esque game with the added bit of pet simulation using the popular Japanese characters from the PostPet universe. From game designer Kenichi Nishi.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8955, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1392851-b001idygd0.jpg", 
+      "name": "PostPet DS", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mario &amp; Luigi: Bowser's Inside Story is the third installment in the whimsical Mario &amp; Luigi franchise by AlphaDream &amp; Nintendo. Mario and Luigi must save the Mushroom Kingdom from the evil doings of Fawful, with the unknowing help of King Bowser.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8956, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2491714-mlbis.jpg", 
+      "name": "Mario & Luigi: Bowser's Inside Story", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "another cute Natsume title, this time aimed for an entirely different audience.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8957, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6142/328650-929450_108240_front.jpg", 
+      "name": "Hi! Hamtaro: Ham-Ham Challenge", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "A quiz game starring Hamtaro and the Ham-Hams", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8958, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2505234-hamtaroq.jpg", 
+      "name": "Tottoko Hamtaro Nazo Nazo Q Kumonoue no ? Jou", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "Partners in Time is the second in the Mario &amp; Luigi series. In this game, Mario, Luigi, Baby Mario, and Baby Luigi travel back and forth through time to save the Mushroom Kingdom. It features a battle engine similar to that of Paper Mario.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8959, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2108506-box_malpit.png", 
+      "name": "Mario & Luigi: Partners in Time", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hamtaro and friends compete in 15 different sporting events.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8960, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1101969-hamham.jpg", 
+      "name": "Hamtaro: Ham-Ham Games", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mario &amp; Luigi: Superstar Saga is an RPG for the Game Boy Advance featuring the famous brothers in an adventure to save both the Mushroom and Beanbean Kingdoms. The game is well-known for its comedy and colorful graphics.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8961, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2108507-box_malss.png", 
+      "name": "Mario & Luigi: Superstar Saga", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rainbow Rescue is the fourth Hamtaro game, with a plot centered around finding differently colored objects around the world to create a rainbow for Prince Bo. The game focuses greatly on the themes of teamwork and friendship.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8962, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/715068-front.jpg", 
+      "name": "Hamtaro: Rainbow Rescue", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "From AlphaDream and Graphic Research, Tomato Adventure is an RPG released only in Japan. Taking place in a kingdom with tomatoes abound, the gameplay is similar to that of the Mario & Luigi series.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8963, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/177502-tomatoadventureboxart.jpg", 
+      "name": "Tomato Adventure", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game developed by AlphaDream, it was released on the Game Boy Color in Japan only.", 
+      "developers": [
+        {
+          "id": 308, 
+          "name": "AlphaDream Corporation, Ltd."
+        }
+      ], 
+      "id": 8964, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1119229-kotobattleboxart.jpg", 
+      "name": "Koto Battle: Tengai no Moribito", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Terminator Salvation is a cover-based third-person shooter that focuses on events leading up to the film by the same name.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8965, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1110143-gb.png", 
+      "name": "Terminator Salvation", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 449, 
+          "name": "Raw Thrills"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bionic Commando is the follow-up to the NES classic of the same name. The game revolves around the protagonist's bionic arm used for swinging, and combat.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8966, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824020-box_bioniccom.png", 
+      "name": "Bionic Commando", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Wanted: Weapons of Fate is a follow-up to the 2008 film which was loosely based on a graphic novel.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8967, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/896590-wasted.jpg", 
+      "name": "Wanted: Weapons of Fate", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bionic Commando Rearmed is a remake of the classic NES game, Bionic Commando. Although it was designed mainly as a marketing tie-in to the 360 and PS3 game also called Bionic Commando, it was actually far, far better received by critics than the real console game.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8968, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1019608-gb.png", 
+      "name": "Bionic Commando Rearmed", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tom Clancy's Ghost Recon: Advanced Warfighter 2 puts the player back into the action as a member of the Ghost squad as they try to stop prevent the Mexican Civil war from spilling over into the USA", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8969, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1783139-box_graw2.png", 
+      "name": "Tom Clancy's Ghost Recon: Advanced Warfighter 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Ghost Recon team must enter Mexico City and prevent a coup d'\u00e9tat led by rebel Mexican forces.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8970, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2215045-box_graw.png", 
+      "name": "Tom Clancy's Ghost Recon: Advanced Warfighter", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Equip some rocket launchers, drive in to the wasteland and blow other cars to bits in this vehicle action game from GRIN.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8971, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2130/639260-bandits.jpg", 
+      "name": "Bandits: Phoenix Rising", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ballistics - The Fastest Racing Game on Earth.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8972, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23724/813665-ballisticscover.jpg", 
+      "name": "Ballistics", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action game set in the Ivalice universe from the Final Fantasy series. The project was originally in development at GRIN but has since been moved to a different yet-undisclosed studio.", 
+      "developers": [
+        {
+          "id": 309, 
+          "name": "GRIN"
+        }
+      ], 
+      "id": 8973, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1170626-fortress__13_.jpg", 
+      "name": "Fortress (working title)", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The seventeenth entry in the Atelier series of RPGs by Gust.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8974, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2799216-81xfv6ovbol._sl1256_.jpg", 
+      "name": "Sophie no Atelier: Fushigi na Hon no Renkinjutsushi", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG for PlayStation platforms set in a world where no-one sleeps.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8975, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2799941-untitled.jpg", 
+      "name": "Nights of Azure", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A RPG from Gust, about a group of teenagers transported to a world where humans no longer exist.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8976, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2515605-5758624372-13739.jpg", 
+      "name": "Chronos Materia", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ], 
+      "id": 9518, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Galletron", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in Dusk sub-series of the Atelier franchise, features two female protagonists both nicknamed Shallie.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8977, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9778/2727341-4829228742-11182.jpg", 
+      "name": "Atelier Shallie: Alchemists of the Dusk Sea", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi role-playing game developed by Gust that ties together the Surge Concerto and Ar Tonelico series.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8978, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2605451-4175106278-bljm61150_jacket", 
+      "name": "Ar Nosurge: Ode to an Unborn Star", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }, 
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of Atelier Rorona, featuring updated gameplay and graphics more in line with the latter Arland games.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8979, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2642247-box_arp.jpg", 
+      "name": "Atelier Rorona Plus: The Alchemist of Arland", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifteenth game in the the long running Atelier series by Gust and the second installment in the \"Dusk Trilogy.\"", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8980, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2584174-box_aealaotds.png", 
+      "name": "Atelier Escha & Logy: Alchemists of the Dusk Sky", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourteenth installment in Gust's Atelier series and the beginning of the Dusk Trilogy.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8981, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417183-box_aataod.png", 
+      "name": "Atelier Ayesha: The Alchemist of Dusk", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }, 
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first entry in GUST's Surge Concerto series.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8982, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2189869-cover.jpg", 
+      "name": "Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final game of the Arland Alchemist trilogy and another entry in the long running Atelier franchise. Atelier Meruru revolves around Meruru's quest to develop the Arls Kingdom to match Arland's prestigious status with the use of alchemy.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8983, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171258-box_amtaoa.png", 
+      "name": "Atelier Meruru: The Apprentice of Arland", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third game in the Ar tonelico series, and the first on PlayStation 3.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8984, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2154866-box_artq.png", 
+      "name": "Ar tonelico Qoga: Knell of Ar Ciel", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Atelier Rorona and another installment of the Atelier franchise. In Atelier Totori, the story revolves around a girl named Totori, who plans to become an adventurer in hopes to find her mother who went missing years ago.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8985, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1906701-box_attaoa.png", 
+      "name": "Atelier Totori: The Adventurer of Arland", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third DS installment in the Atelier series.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8986, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2194170-box.png", 
+      "name": "Lina no Atelier: Strahl no Renkinjutsushi", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second DS iteration in GUST's long-running Atelier series. It is notable for being the first of what are considered the main Atelier series to be released in North America.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8987, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2154858-box_aaaosi.png", 
+      "name": "Atelier Annie: Alchemists of Sera Island", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Trinity Universe is a PlayStation 3 role-playing game developed by Idea Factory, Gust Corporation and Nippon Ichi Software.\n\nTrinity Universe is in full 3D featuring dungeons, battles and two plot lines: Goddess and Devil King. Gust Corporation created the storyline for Goddess, while NIS created the Devil King story.", 
+      "developers": [
+        {
+          "id": 310, 
+          "name": "GUST Co., Ltd."
+        }
+      ], 
+      "id": 8988, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832933-box_trinityu.png", 
+      "name": "Trinity Universe", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

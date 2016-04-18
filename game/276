@@ -1,0 +1,1242 @@
+{
+  "games": [
+    {
+      "deck": "A pinball machine made in 1969 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1260584-1.jpg", 
+      "name": "Moon Shot", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085262-astronaut.jpg", 
+      "name": "Astronaut", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pirate Gold is a pinball machine made in 1969 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1794159-1.jpg", 
+      "name": "Pirate Gold", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1968 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13731, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1242977-1.jpg", 
+      "name": "Gun Smoke", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1968 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1231485-image_12.jpg", 
+      "name": "All Stars", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1967 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1233684-1.jpg", 
+      "name": "Bullseye Baseball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1967 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1232171-1.jpg", 
+      "name": "Beatniks", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1966 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1240843-1.jpg", 
+      "name": "Festival", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1966 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1249079-1.jpg", 
+      "name": "Kicker", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "Par Golf is a pinball machine made in 1965 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1642094-1.jpg", 
+      "name": "Par Golf", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1965 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1249076-1.jpg", 
+      "name": "Hula-Hula", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1965 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1232504-1.jpg", 
+      "name": "Big League Baseball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1965 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13740, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Double Play", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1964 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1260587-1.jpg", 
+      "name": "Mustang", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1231122-387f1.jpg", 
+      "name": "Bronco", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1963 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1241011-1.jpg", 
+      "name": "Fire Cracker", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1962 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1231484-image_11.jpg", 
+      "name": "All Star Baseball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1958 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1231808-1.jpg", 
+      "name": "Batter Up", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1956 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1238773-1.jpg", 
+      "name": "Capri", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1956 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1232509-1.jpg", 
+      "name": "Blondie", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1954 by Chicago Coin. It is one of five different pinball machines made by Chicago Coin named Home Run. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1248394-1.jpg", 
+      "name": "Home Run", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A pinball machine made in 1952 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1232202-1.jpg", 
+      "name": "Big Hit", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1951 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1249084-1.jpg", 
+      "name": "King Pin", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1951 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1232518-1.jpg", 
+      "name": "Bomber", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A pinball machine made in 1951 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13752, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Hit Parade", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play Ball is a pinball machine made in 1951 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2121517-1.jpg", 
+      "name": "Play Ball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1951 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13754, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Four Player Derby", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1950 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1240847-1.jpg", 
+      "name": "Fighting Irish", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pin-Bowler is a pinball machine made in 1949 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1786688-1.jpg", 
+      "name": "Pin-Bowler", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1949 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13757, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Basketball Champ", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1949 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13758, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bowling Alley", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1949 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1241022-1.jpg", 
+      "name": "Football", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A pinball machine made in 1949 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1242925-1.jpg", 
+      "name": "Golden Gloves", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1949 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1238784-1.jpg", 
+      "name": "Champion", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1949 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1255043-1.jpg", 
+      "name": "Majors of '49", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1949 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1242927-1.jpg", 
+      "name": "Grand Award", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1948 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1248381-1.jpg", 
+      "name": "Holiday", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1948 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1239308-1.jpg", 
+      "name": "Crazy Ball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1948 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1238778-1.jpg", 
+      "name": "Catalina", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1948 by Chicago Coin. Only 250 units were ever produced. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13767, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bermuda Roll Down", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1948 by Chicago Coin. Only one unit was ever produced for use in the motion picture \"The Time Of Your Life\".", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1231476-image_1.jpg", 
+      "name": "1776", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1947 by Chicago Coin. It was the first pinball machine made by the company that contained flippers. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1232172-1.jpg", 
+      "name": "Bermuda", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1947 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1231763-1.jpg", 
+      "name": "Baseball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }, 
+        {
+          "id": 533, 
+          "name": "SSD Company Limited"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1947 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1242865-1.jpg", 
+      "name": "Gold Ball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "Playboy is a flipper-less pinball machine made in 1947 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2121519-1.jpg", 
+      "name": "Play Boy", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1947 by Chicago Coin. The name is based off the popular American World War II military folklore \"Kilroy\" from the phrase \"Kilroy was here\". ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1249080-1.jpg", 
+      "name": "Kilroy", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1947 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13774, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Basketball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A pinball machine made in 1942 by Chicago Coin.", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1242840-1.jpg", 
+      "name": "Gobs", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made in 1941 by Chicago Coin. It is one of five different pinball machines made by Chicago Coin named Home Run. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13776, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Home Run", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A pinball machine made in 1941 by Chicago Coin. ", 
+      "developers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ], 
+      "id": 13777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45471/1252152-chicago_coin_hockey.jpg", 
+      "name": "Hockey", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }
+  ]
+}

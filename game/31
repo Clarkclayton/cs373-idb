@@ -1,0 +1,1481 @@
+{
+  "games": [
+    {
+      "deck": "A gore filled game involving 4 knights trying to obtain ultimate power by obtaining the mystical Moonstone.\n", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/748031-3360.2.jpg", 
+      "name": "Moonstone: A Hard Days Knight", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An expansion for the original Wing Commander set between Wing Commander 1 and 2. The crew of the Tiger's Claw is sent to destroy a Kilrathi superweapon.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364703-snes_wingcommanderthesecretmissions.jpg", 
+      "name": "Wing Commander: The Secret Missions", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A driving game based on the post-apocalypse franchise of the same name.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1503, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362023-nes_madmax.jpg", 
+      "name": "Mad Max", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wing Commander is one of the most famous early forays into the space simulation genre. Originally released as a PC game, it spawned three full sequels and was emulated heavily during much of the 1990s.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/787283-wingcommander.jpg", 
+      "name": "Wing Commander", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Willow is a game based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362610-nes_willow.jpg", 
+      "name": "Willow", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battleship is a video game rendition of the popular board game of the same name.  Two players place ships in squares on their sides of the board then take turns choosing squares blindly attempting to locate and destroy the opponent's fleet.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2833697-battleship_nes_2_1_us.jpg", 
+      "name": "Battleship", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bad Street Brawler is a side-scrolling beat-em-up released for several home computer systems such as the Commodore 64 as well as the NES. The NES version is notable for being one of two games specifically designed for use with the Power Glove accessory.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371421-bad_street_brawler_fr_ntsc.png", 
+      "name": "Bad Street Brawler", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/896702-574109_33883_front.jpg", 
+      "name": "Indiana Jones in the Lost Kingdom", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1509, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Legions", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The ultimate music quiz game", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1226717-beat_the_intro_wii_uk_final_box_shot_2d.jpg", 
+      "name": "Beat The Intro", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Rayman Designer is an expansion of the original installment with new levels that can be created or downloaded online.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/23/236800/2653086-raymandesignerbox.jpg", 
+      "name": "Rayman Designer", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ready, Steady Cook for the Wii and DS is based on the popular British TV show, featuring celebrity chief, Ainsley Harriot.", 
+      "developers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ], 
+      "id": 1512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15044/1115430-readysteadycookthegameswii.jpg", 
+      "name": "Ready, Steady, Cook: The Game", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Street Vol. 2 is the second game in the NBA Street series. It continues the over-the-top ridiculous style of the first one while adding a few new aspects to the game play.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246601-box_nbastr2.png", 
+      "name": "NBA Street Vol. 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "EA's 2003 iteration of its college basketball series. ", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1514, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246604-box_ncaamm03.png", 
+      "name": "NCAA March Madness 2003", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 2002 entry in the college basketball franchise.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2582042-ncaa+march+madness+2002+cover.jpg", 
+      "name": "NCAA March Madness 2002", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Street is the first in a successful series of three-on-three arcade-style basketball games.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246600-box_nbastr.png", 
+      "name": "NBA Street", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Live is a Basketball Simulator with arcade-like gameplay, featuring Antoine Walker of the Boston Celtics on the cover.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811147-box_nbalive99.png", 
+      "name": "NBA Live 99", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Baseball game featuring some of old time Baseballs biggest stars.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2412963-aaron_vs._ruth.jpg", 
+      "name": "Aaron vs. Ruth: Battle of the Big Bats", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The 1996 version of Electronic Arts' seminal golfing franchise adds a variety of graphical and gameplay changes.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1742423-586381_38994_front.jpg", 
+      "name": "PGA Tour 96", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Surf Ninjas was created as a tie-on for the 1993 New Line Cinema movie of the same name. It features an evil military leader that seeks to kill the last heirs of the throne to the Patusani Kingdom.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/24439/1879540-surf_ninjas.jpg", 
+      "name": "Surf Ninjas", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball game that came out at the height of M\u00f6tley Cr\u00fce's career, when their album  Dr. Feelgood was at the top of the charts.  Instrumentals of the songs \"Dr. Feelgood\", \"Live Wire\", and \"Home Sweet Home\" were the only tunes featured in this game.", 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370484-genesis_crueball.jpg", 
+      "name": "Cr\u00fce Ball", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 45, 
+          "name": "NuFX, Inc."
+        }
+      ], 
+      "id": 1522, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "PGA Tour 98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Dissidia series comes to arcades with major overhauls, including 3 versus 3 battles, roster additions, wide open arenas, and more. It is being developed by Taito and Square Enix.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2726293-6192478688-Dissi.jpg", 
+      "name": "Dissidia: Final Fantasy", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Left 4 Dead: Survivors is an Arcade game that will be release in Japan.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1524, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2680758-l4d+arcade.jpg", 
+      "name": "Left 4 Dead: Survivors", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Casual RPG starring a cavalcade of female fighters.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2502811-agentangels.png", 
+      "name": "Agent Angels", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Elevator Action returns in this deluxe downloadable for XBLA and PSN.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1526, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1872361-robot01_19066.png", 
+      "name": "Elevator Action Deluxe", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Browser-based Bust-A-Move MMO released in Korea. Discontinued on 4/27/2012.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2365665-puzzlelogo.jpg", 
+      "name": "Puzzle Bobble Online", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "This iOS rhythm game was developed by the Taito team behind Space Invaders Infinity Gene.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1850434-screen_shot_2011_07_30_at_11.19.49_am.png", 
+      "name": "Groove Coaster", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Puzzle Bobble series makes its first appearance on the Nintendo 3DS system.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1845404-box_bamu.png", 
+      "name": "Bust-A-Move Universe", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced HD port of the Taito developed shoot 'em up, RayStorm, containing new ships and modes.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1530, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1363553-cboxraystormhd.jpg", 
+      "name": "RayStorm HD", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A convenience store simulator for DS.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1531, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1210339-conv01.jpg", 
+      "name": "Minna no Konbini", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Darius Burst is a PSP entry in the Darius series.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1532, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1219809-db02.jpg", 
+      "name": "Darius Burst", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "QIX++ is a 2009 remake of the 1981 Taito arcade game QIX.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1533, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1858009-box_qixpp.png", 
+      "name": "QIX++", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1534, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/1190686-siez_title.jpg", 
+      "name": "Space Invaders Extreme Z", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Space Invaders Extreme 2 is the sequel to the cult favorite redux of Taito's arcade classic. Players once again take down the iconic invaders with a slew of weapons set to various techno songs, along with new gameplay features and tweaks not seen in the original.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1535, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5911/1099408-space.jpg", 
+      "name": "Space Invaders Extreme 2", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841426-box_baml.png", 
+      "name": "Bust-A-Move Live!", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A WiiWare version of the classic game Arkanoid.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28533/1102924-arkanoid_plus.png", 
+      "name": "Arkanoid Plus!", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new Bubble Bobble.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841427-box_bbneo.png", 
+      "name": "Bubble Bobble Neo!", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1696, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Amiga Champions", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "First iOS version of the series, with a story mode and Bluetooth vs.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2365668-971905_138709_thumb.jpg", 
+      "name": "Bust-A-Move", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An evolution of the Space Invaders series, released on Xbox Live Marketplace, PSN, and iOS devices.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1633141-box_spaceinvig.png", 
+      "name": "Space Invaders Infinity Gene", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of the classic Bust-A-Move, or Puzzle Bobble, is now available for WiiWare with updated graphics, 135 all new levels, and head-to-head multi-player bubble popping action.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28533/1076221-_jap__cover.jpg", 
+      "name": "Bust-A-Move Plus!", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A WiiWare action game.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1542, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1389045-risland_box.png", 
+      "name": "Rainbow Islands: Towering Adventure", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of the classic Bubble Bobble with updated graphics and 4 player co-op on Wiiware", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/960681-bubblebobbleplus.jpg", 
+      "name": "Bubble Bobble Plus!", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Action RTS that has players use the Wii Remote to draw runes and cast spells.  The game also supports online multiplayer.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2614650-taktofmagic.jpg", 
+      "name": "Takt of Magic", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "First appearing in the 1980\u2019s as a new style block-breaking game, ARKANOID, appears on Xbox LIVE Arcade having accomplished even further evolution. Enjoy Arkanoid in high-definition with beautifully choreographed background movies and background music. Loaded with 120 stages in all and colorful cooperative and versus modes.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1857981-box_anoidlive.png", 
+      "name": "Arkanoid Live!", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A zoo keeper sim for DS.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1546, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/890912-front.jpg", 
+      "name": "Minna no Doubutsuen", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A spin-off of the Cooking Mama franchise, this game puts Mama in the role of a gardener. Gardening Mama is the first Gardening game for the Nintendo DS.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/915733-gardening_mama_cover.jpg", 
+      "name": "Gardening Mama", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/959173-front_cover.jpg", 
+      "name": "My Pet Shop", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kangaeru Exit is the sequel to the original PSP title Exit, which has you saving people from various building disasters.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1549, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1383786-exit2_box.png", 
+      "name": "Exit 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }
+  ]
+}

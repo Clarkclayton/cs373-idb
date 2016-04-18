@@ -1,0 +1,1692 @@
+{
+  "games": [
+    {
+      "deck": "A PS3 sequel to the original of the same name, released on the PlayStation Network in 2009.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8885, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1114934-smash_cars_logo_300x300.jpg", 
+      "name": "Smash Cars", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Advance Wars-like game for iPhone and other portable platforms.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8886, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62664/1345027-img_0006.png", 
+      "name": "Mecho Wars", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magic Ball has been renamed MagicOrbz.  MagicOrbz/Magic Ball is a Breakout-style game released on PSN where instead of destroying bricks you break everything.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8887, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1448361-magic_ball.png", 
+      "name": "Magic Ball", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Playstation Network title, developed and published by TikGames / Creat Studios.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8888, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1684/969701-mahjongtales.jpg", 
+      "name": "Mahjong Tales: Ancient Wisdom", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cuboid is a game that involves maneuvering a 3D rectangular block through a series of mazes, with various obstacles placed throughout each level in order to make things much more difficult to get from point A to point B.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8889, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2292990-cuboid.jpg", 
+      "name": "Cuboid", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "A motion controlled DS game, Tony Hawk's Motion will continue the with series standard skateboarding, while also adding in snowboarding sections. The game is bundled with Hue Pixel Painter, and a motion control peripheral for the DS.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8890, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106405-box_thm.png", 
+      "name": "Tony Hawk's Motion and Hue Pixel Painter", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Insecticide follows the story of Chrys Liszt and Roachy Caruthers, two detectives of the Insecticide division of Precinct 17. ", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8891, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452889-box_icide.png", 
+      "name": "Insecticide", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Aliens have landed on Earth at the Stylesville Adventure Planet and one of their alien devices fell into the wrong hands and transformed the Babyz into Super Heroz! With their newfound Super Powers, the Babyz use their abilities to help the citizens of Stylesville and battle the evil invading aliens.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8892, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1101678-bratzsb_us_ds_front.jpg", 
+      "name": "Bratz: Super Babyz", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Aqua Teen Hunger Force: Zombie Ninja Pro-Am is a golf-action-racing game starring the cast of the Adult Swim cartoon. The game's quality is so poor that it's been suggested that it was released that way intentionally to keep in line with the show's bizarre sense of humor.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8893, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106393-box_athfznpa.png", 
+      "name": "Aqua Teen Hunger Force: Zombie Ninja Pro-Am", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the PlayStation Portable first person shooter", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8894, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525157-box_cac.png", 
+      "name": "Coded Arms: Contagion", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 440, 
+          "name": "Konami Digital Entertainment, Inc."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2006 PlayStation 2 game developed by Creat Studios.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8895, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/771904-front_cover.jpg", 
+      "name": "Biker Mice from Mars", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8896, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1801413-box_achopper2.png", 
+      "name": "American Chopper 2: Full Throttle", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8897, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1801411-box_achopper.png", 
+      "name": "American Chopper", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "RC Cars is a RC Car racing game developed by Creat Studio, released on the 11th of December, 2003.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8898, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1230128-rccars.jpg", 
+      "name": "RC Cars", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Smash Cars is a racing game where you take control of an RC car and try to finish first, all while staying in one piece. The game also features a trick system, but it is a bit inconsistent.", 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8899, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3316/937205-smashcarsba.jpg", 
+      "name": "Smash Cars", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ], 
+      "id": 8900, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1990114-racer.jpg", 
+      "name": "Millennium Racer: Y2K Fighters", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "No number on this one... just another adorable smiling Mavis.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8901, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341203-mavisplatinum.jpg", 
+      "name": "Mavis Beacon Teaches Typing: Platinum Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A young Mavis Beacon stars in this Facebook game.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8902, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341180-mavismoviemayhem.png", 
+      "name": "Mavis Beacon: Movie Mayhem", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Special anniversary edition of the best-selling typing tutor.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8903, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341176-mavisbeacon25.jpg", 
+      "name": "Mavis Beacon Teaches Typing Platinum: 25th Anniversary Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Typing instructors for grown-ups and kids in one pack!", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8904, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341205-mavissponge.jpg", 
+      "name": "Mavis Beacon Teaches Typing Version 17 with Spongebob Squarepants Typing", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Seventeenth edition of Mavis Beacon.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8905, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341204-mavis17.jpg", 
+      "name": "Mavis Beacon Teaches Typing Version 17", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Miss Beacon switches gears to teach us how to use Office.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8906, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341199-mavisoffice.png", 
+      "name": "Mavis Beacon Teaches Microsoft Office", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mavis 16", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8907, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341212-mavis16.jpg", 
+      "name": "Mavis Beacon Teaches Typing Version 16", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Kid Pix is an art program for children, remembered mostly for it's quirky stamps and \"oh no\" button. ", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8910, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7572/489131-kidpixdvdfront.jpg", 
+      "name": "Kid Pix Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Learning adventures with Dr. Seuss characters.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8911, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2478332-kinder.jpg", 
+      "name": "Dr. Seuss Kindergarten", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8912, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/948115-1111.png", 
+      "name": "Rugrats Adventure Game", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8913, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/560627-carword.jpg", 
+      "name": "Carmen Sandiego Word Detective", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Carmen has stolen the Chronoskimmer from the ACME Detective Agency! Chase her and her henchmen through 18 historically significant time periods, bringing them to justice and setting history straight.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8914, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15063/2247135-carchase.jpg", 
+      "name": "Carmen Sandiego's Great Chase Through Time", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Darby accidently shrinks his sister using a magic wand, and aims to bring her back to size.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8915, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/354756-cover.jpg", 
+      "name": "Darby the Dragon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A math/logic game from Broderbund.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8916, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2772377-math+workshop+original.jpg", 
+      "name": "Math Workshop", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8917, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27215/1719127-2.jpg", 
+      "name": "Where in the U.S.A. is Carmen Sandiego? (Deluxe Edition)", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8918, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/561076-24931.jpg", 
+      "name": "Carmen Sandiego: Junior Detective Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Gregory and his pet lizard named Newt crash land in a carnival and have to collect items to get back home.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8919, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/354860-coverg.jpg", 
+      "name": "Gregory & the Hot Air Balloon", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Shadow and The Flame is the sequel to Jordan Mechner's classic platform game, featuring many new locations filled with traps and other dangers.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8920, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2891/802963-pop2.jpg", 
+      "name": "Prince of Persia 2: The Shadow & The Flame", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8921, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Backyard", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8922, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2271702-1161098658_00.jpg", 
+      "name": "Where in Space is Carmen Sandiego? (Deluxe Edition)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Enhanced version of the original game \"Where in the USA is Carmen Sandiego?\".", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8923, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2271669-1308692018_00.jpg", 
+      "name": "Where in the USA is Carmen Sandiego? (Enhanced)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8924, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/2606271-102713597.06.01.lg.jpg", 
+      "name": "The Treehouse", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players join pepper the Mouse, as the game teaches players typing, spelling, and time-telling.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8925, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56420/1182442-1075170239_00.gif", 
+      "name": "The Playroom", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A high-concept sequel in the educational Carmen Sandiego franchise in which players are tasked with traveling through time and around the world to locate and capture a number of criminals.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8926, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30086/1037874-387_1.jpg", 
+      "name": "Where in Time is Carmen Sandiego?", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8927, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/561987-7891_1.jpg", 
+      "name": "Where in America's Past is Carmen Sandiego?", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8928, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15063/2247190-img_0026.jpg", 
+      "name": "Where in the World is Carmen Sandiego? Deluxe Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Prince of Persia is the original Persian adventure by Jordan Mechner and the first game in a multi-million dollar franchise.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8929, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2891/801317-pop_boxart.jpg", 
+      "name": "Prince of Persia", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An air hockey game set in space that pits the unseen protagonist against various alien characters.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8930, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1539544-shufflepuck_cafe_front.jpg", 
+      "name": "Shufflepuck Cafe", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Educational game in which you need to follow clues in order to find Carmen Sandiego. \nYou will visit a lot of different locations all over the world.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8931, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1378890-carworld.jpg", 
+      "name": "Where in the World is Carmen Sandiego?", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 558, 
+          "name": "Parker Brothers"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8932, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2271703-917079_41124_front.jpg", 
+      "name": "Where in Europe is Carmen Sandiego?", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A tool for customizing and printing out designs for real-life scale models.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8933, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2746548-9662917346-37775.jpg", 
+      "name": "The Toy Shop", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8934, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/610161-carusa.gif", 
+      "name": "Where in the USA is Carmen Sandiego?", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A version of Lode Runner with a much harder collection of levels, intended for \"champion\" players. Some versions were exclusive to Japan, where Lode Runner was considerably more popular.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8935, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/960282-2276680436_7fb08aaa88.jpg", 
+      "name": "Championship Lode Runner", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D game with an overhead view, the player pilots a helicopter and attempts to destroy the factories of the Bungeling Empire.", 
+      "developers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ], 
+      "id": 8936, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1318507-raid_on_bungeling_bay_cover.jpg", 
+      "name": "Raid on Bungeling Bay", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }
+  ]
+}

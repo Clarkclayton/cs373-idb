@@ -1,0 +1,1461 @@
+{
+  "games": [
+    {
+      "deck": "A puzzle shooter game that features a player controlled gondola that shoots various shapes at holes of the same shapes in effort to stop buildings from sinking into the waterways of Venice,Italy", 
+      "developers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ], 
+      "id": 6540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/32741/1210038-venice_menu.jpg", 
+      "name": "Venice Deluxe", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "PopCap's quirky take on solitaire is available on Facebook.", 
+      "developers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ], 
+      "id": 6541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2178888-solitaire_blitz_logo.jpg", 
+      "name": "Solitaire Blitz", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ], 
+      "id": 6542, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1156/220798-chuzzle3.jpg", 
+      "name": "Chuzzle Deluxe", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure game about a pirate who tries to avenge the death of his family.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2800606-5591460778-heade.jpg", 
+      "name": "Vendetta: Curse of Raven's Cry", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on the movie Iron Sky.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/130684/2384348-thumbnail_iron_sky_invasion_boxart_tall_296x346.jpg", 
+      "name": "Iron Sky Invasion", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A gem grid puzzler with 6 different game modes. It can use your camera to rotate the view based on your head's angle.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/2200465-header_292x136.jpg", 
+      "name": "3SwitcheD", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Castle defense set in the Two Worlds II world.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6546, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1816841-header_292x136.jpg", 
+      "name": "Two Worlds II Castle Defense", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sequel to the cult hit action RPG Two Worlds, Two worlds II takes place years after the original and follows the story of the character from the first Two Worlds as he continues his struggle to defeat Lord Gandohar.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1828917-box_tw2.png", 
+      "name": "Two Worlds II", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Two Worlds is an Action Role Playing Game in which you explore the world of Antaloor, solving quests and making choices that affect the world around you.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814909-box_tworlds.png", 
+      "name": "Two Worlds", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6549, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2243062-earthuniversescreen3.jpg", 
+      "name": "Earth Universe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "After the collapse of humanity on Earth, the three global factions (Eurasian Dynasty, United Civilised States, and Lunar Corporation)turn their sights to the red planet, Mars. ", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6550, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4656/1073733-earth2160.jpg", 
+      "name": "Earth 2160", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }, 
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2003 sequel to Polish RTS game \"Polanie.\" It features a highly fictionalised, fantasy version of the struggle between Slavic tribes. Uncanny enough, the game's main resource is milk produced by cows. Also known as \"Once Upon a Knight\" and \"Polanie II\" in Poland.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6551, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/36107/1331972-polanie_lolololol.jpg", 
+      "name": "KnightShift", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RTS game for the PC, released in 2003", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6552, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171939/2626578-1320652788-65138.jpg", 
+      "name": "Once Upon a Knight", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }, 
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "War has broken out. The oil fields are running dry. Play as USA, Russia or Iraq in this Real Time Strategy game and help secure the remaining resources for your respective nations.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6553, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1247887-460178.jpg", 
+      "name": "World War III: Black Gold", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Two Worlds: The Temptation was to be the sequel to Two Worlds, but has since been canceled and replaced with Two Worlds II, which uses an all-new engine.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6554, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9532/240410-two_worlds_the_temptation.jpg", 
+      "name": "Two Worlds: The Temptation", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 23, 
+          "name": "SouthPeak Interactive, LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6555, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Heli Heroes", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A survival horror game from the creators of Two Worlds.", 
+      "developers": [
+        {
+          "id": 220, 
+          "name": "REALITY PUMP Sp. z o.o."
+        }
+      ], 
+      "id": 6556, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2231624-007730.jpg", 
+      "name": "Sacrilegium", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A real-time strategy game by Petroglyph, an indie developer founded by ex-employees of Westwood Studios. It aims to emphasize broad \"macro\" strategy over micromanagement, emulating the design of early RTS games like the Command &amp; Conquer series.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6557, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2722294-7594790952-50342.jpg", 
+      "name": "Grey Goo", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rise of Immortals is a MOBA game created by Petroglyph.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6558, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2380500-roibfg.png", 
+      "name": "Rise of Immortals", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mytheon is a micro-transaction based MMO game. It features a mix of action, strategy and RPG game-play elements, with a major focus on combat and collectible items. Initially set within the world of Greek mythology, it promises to expand into other realms of legend.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6559, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1048/941160-mytheon_logo.jpg", 
+      "name": "Mytheon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This is a newly developed game in the Panzer General series for Xbox Live Arcade.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6560, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1858005-box_pgaa.png", 
+      "name": "Panzer General: Allied Assault", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi themed real time strategy game for the PC and Xbox 360, featuring a structure of 3 unique factions (Ala Starcraft), and cross-platform multiplayer. ", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6561, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817086-box_uawea.png", 
+      "name": "Universe at War: Earth Assault", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expansion for Star Wars: Empire at War, adding a new faction, the Zaan Consortium, and new units and abilities to existing factions.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6562, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787532-box_sweawfoc.png", 
+      "name": "Star Wars: Empire at War - Forces of Corruption", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as either the Empire or the Rebellion in a conflict spanning the entire galaxy, lead your forces in battles on space and land, and unleash hero units against your enemies.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6563, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/616437-eaw_keyart.jpg", 
+      "name": "Star Wars: Empire at War", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "The PC companion to the board game by Petroglyph games. Set in an original fantasy world where powerful creatures vie for control of the floating islands of Graxia.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6564, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1048/1380376-graxia_logo.jpg", 
+      "name": "Guardians of Graxia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "End of Nations was a free to play \"tactical\" MOBA developed by Trion Worlds. It's development was put on hold in 2013.", 
+      "developers": [
+        {
+          "id": 221, 
+          "name": "Petroglyph Games Inc."
+        }
+      ], 
+      "id": 6565, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2306283-eon_box.jpg", 
+      "name": "End of Nations", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 414, 
+          "name": "Trion Worlds"
+        }
+      ]
+    }, 
+    {
+      "deck": "Midnight Race Club: Supercharged! is a racing game by Stellar Stone.\n", 
+      "developers": [
+        {
+          "id": 222, 
+          "name": "Stellar Stone LLC"
+        }
+      ], 
+      "id": 6566, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Midnight Race Club: Supercharged!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ultimate Civil War Battles: Robert E. Lee vs. Ulysses S. Grant is a civil war game by Stellar Stone\n", 
+      "developers": [
+        {
+          "id": 222, 
+          "name": "Stellar Stone LLC"
+        }
+      ], 
+      "id": 6567, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/961641-932027_73624_front.jpg", 
+      "name": "Ultimate Civil War Battles: Robert E. Lee vs. Ulysses S. Grant", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Big Rigs: Over The Road Racing is an infamous truck racing title developed by Stellar Stone LLC, and is widely regarded as the worst video game ever made. Since its release in 2003, the game has developed a cult-like following, mostly due to Alex Navarro's review for GameSpot.", 
+      "developers": [
+        {
+          "id": 222, 
+          "name": "Stellar Stone LLC"
+        }
+      ], 
+      "id": 6568, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/54/188200-big_rigs_boxart.jpg", 
+      "name": "Big Rigs: Over the Road Racing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Remington Big Buck Trophy Hunt is a hunting game by Stellar Stone\n", 
+      "developers": [
+        {
+          "id": 222, 
+          "name": "Stellar Stone LLC"
+        }
+      ], 
+      "id": 6569, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/961634-943616_96811_front.jpg", 
+      "name": "Remington Big Buck Trophy Hunt", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Gettysburg: Civil War Battles is a PC strategy game.", 
+      "developers": [
+        {
+          "id": 222, 
+          "name": "Stellar Stone LLC"
+        }
+      ], 
+      "id": 6570, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/962023-untitled.jpg", 
+      "name": "Gettysburg: Civil War Battles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "'Taxi Racer' also known as 'Taxi: Without the Brakes' is a high paced taxi-based racing game developed by Stellar Stone LLC in 2001.", 
+      "developers": [
+        {
+          "id": 222, 
+          "name": "Stellar Stone LLC"
+        }
+      ], 
+      "id": 6571, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7637/1097367-taxiracer.jpg", 
+      "name": "Taxi Racer", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A compilation containing Sniper Elite: Nazi Zombie Army 1 and 2, plus the previously unreleased Zombie Army 3.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6572, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2715381-rcvf.jpg", 
+      "name": "Zombie Army Trilogy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Sniper Elite III, players once again take on the role of World War II sniper Karl Fairburne, this time as he travels to Northern Africa to uncover a secret Nazi plot.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6573, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14876/2607255-sniperelite3-clean.jpg", 
+      "name": "Sniper Elite III", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to a spin-off of Sniper Elite.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6574, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2566613-9866369841-81B-A.jpg", 
+      "name": "Sniper Elite: Nazi Zombie Army 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stand alone co-op expansion in the Sniper Elite series.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6575, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2446744-nza_box_reduced%281%29.jpg", 
+      "name": "Sniper Elite: Nazi Zombie Army", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ]
+    }, 
+    {
+      "deck": "Judge Dredd fights off zombies in this downloadable app game.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6576, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/2460075-img_02741.jpeg", 
+      "name": "Judge Dredd vs. Zombies", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sniper Elite V2 is a reboot to the tactical third person shooter Sniper Elite.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6577, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2681591-sev2.jpg", 
+      "name": "Sniper Elite V2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this brutal action game from the creators of Alien vs. Predator, players become Bryce Boltsman, a demon hunter cursed with immortality five hundred years ago, who can survive being violently dismembered by his enemies as long as his head isn't swallowed whole.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6578, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2103139-box_neverdead.png", 
+      "name": "NeverDead", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the popular AvP franchise. Players are be able to control one of the three deadly species in a fight for survival.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6579, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1871433-box_avp.png", 
+      "name": "Aliens vs. Predator", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rogue Trooper: The Quartz Zone Massacre is an updated Wii port of the original Rogue Trooper game.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6580, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/101427/1440103-1608pt0df9d0a.jpg", 
+      "name": "Rogue Trooper: The Quartz Zone Massacre", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Step into the shoes of real-life Navy SEAL legend Dick Marcinko in this foul-mouthed first-person shooter from Rebellion and Bethesda Softworks.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6581, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1208746-gb.png", 
+      "name": "Rogue Warrior", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "A single-player action game exploring the Star Wars universe made for PSP and DS.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6582, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1784838-box_swbfes.png", 
+      "name": "Star Wars Battlefront: Elite Squadron", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shellshock 2: Blood Trails is the sequel to Guerrilla Game's Shellshock: Nam '67. It shifts the perspective to first-person and the genre to \"survival horror.\" It takes place in Cambodia during the time of the Vietnam Conflict.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817670-box_ss2bt.png", 
+      "name": "Shellshock 2: Blood Trails", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Playstation 2 exclusive companion piece to World at War, featuring unique missions, engagements and challenges.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875213-box_codwawff.png", 
+      "name": "Call of Duty: World at War Final Fronts", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "It's acid-blooded facehuggers against honor-bound alien hunters with explosives on their arm in this movie-based PSP game.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6585, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285626-box_avpr.png", 
+      "name": "Aliens vs. Predator: Requiem", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "LucasArts' Battlefield-like multiplayer Star Wars series goes portable with Renegade Squadron on the PSP.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6586, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1784840-box_swbfrs.png", 
+      "name": "Star Wars Battlefront: Renegade Squadron", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Team up as Homer, Marge, Bart, and Lisa as you enter a strange and vast video game world, with parodies of popular series like EverQuest, Medal of Honor, and Grand Theft Auto. Popluar video-game characters such as Sonic and Mario have their own parodies too.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6587, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/270942-939421_87440_front.jpg", 
+      "name": "The Simpsons Game", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free Running is the first extreme sports game that focuses on parkour. Players can race, perform tricks or work to reach a difficult spot in the various urban arenas, all the while trying to keep up the flow of their movements.", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6588, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9456/552072-free_running_ps2.jpg", 
+      "name": "Free Running", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Gun showdown is the PSP port of the game 'Gun'. New modes and missions are added in this version not seen in other versions", 
+      "developers": [
+        {
+          "id": 223, 
+          "name": "Rebellion"
+        }
+      ], 
+      "id": 6589, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/801287-front_cover.jpg", 
+      "name": "Gun: Showdown", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

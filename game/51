@@ -1,0 +1,1774 @@
+{
+  "games": [
+    {
+      "deck": "Nazi Zombies for the iOS. Features the Black Ops maps.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2495, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/148570/2211846-zombies_bo.jpg", 
+      "name": "Call of Duty: Black Ops Zombies", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The seventh installment of the long-running action franchise, Call of Duty: Black Ops puts players into the early era of the Cold War (including the Vietnam War) as a member of the United States black operations unit known as the SOG.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2496, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824029-box_codbo.png", 
+      "name": "Call of Duty: Black Ops", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Electro Man seeks revenge against the robots which wronged him.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2555, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2630054-electroman.jpg", 
+      "name": "Electro Man", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Treyarch ports Infinity Ward's insanely popular shooter Call of Duty 4: Modern Warfare to the Nintendo Wii, adding Wiimote aiming and motion controls to the game, as well as co-op play.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2497, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1784889-box_codmwre.png", 
+      "name": "Call of Duty: Modern Warfare Reflex Edition", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Treyarch takes the famous series back sixty years, with the first Call of Duty game set in the Pacific Theatre, against the Imperial Japanese in World War II.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2498, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2009746-box_codwaw.png", 
+      "name": "Call of Duty: World at War", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Quantum of Solace is a first-person/third-person shooter based on the James Bond films Casino Royale and its sequel, Quantum of Solace.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2499, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841798-box_qosolace_.png", 
+      "name": "Quantum of Solace", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spider-Man: Web Of Shadows sees Spider-Man facing off against nemesis Venom and his army of Symbiotes with the help of both Marvel heroes and villains.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2500, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/824177-spidey_cover.jpg", 
+      "name": "Spider-Man: Web of Shadows", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The web-slinging, joke cracking, Spider-Man is back. The third game in the movie tie-in series sees Spider-Man battle more foes than ever and even get a new makeover, and of course,  it offers plenty of swinging around the city. ", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1982787-box_sman3.png", 
+      "name": "Spider-Man 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Call of Duty 3 is a World War II-themed first-person shooter developed by Treyarch and published by Activision.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875204-box_cod3.png", 
+      "name": "Call of Duty 3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Big Red One is the second game in the Call of Duty series developed by Treyarch, and is not similar to Call of Duty 2.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2503, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875203-box_cod2bro.png", 
+      "name": "Call of Duty 2: Big Red One", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as both Spider-Man and Venom in this cel-shaded open-world action-adventure game with story written by comic writer Brian Michael Bendis.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280536-box_usm.png", 
+      "name": "Ultimate Spider-Man", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spider-Man 2 is a sandbox game based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280509-box_sm2.png", 
+      "name": "Spider-Man 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow the story of John Anderton in this action game loosely based on the events of the feature film.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285673-box_mrer.png", 
+      "name": "Minority Report: Everybody Runs", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL 2K3 is the third game in 2K's long running NHL series, and featured Philadelphia Flyer Jeremy Roenick on the cover.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222536-box_nhl2k3.png", 
+      "name": "NHL 2K3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A spin off of the Tony Hawk Pro Skater series and part of Activision's O2 line of extreme sports games, Kelly Slater's Pro Surfer is a surfing game in which allows players experience the thrill of riding the waves from the comfort of their living room.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3498/611822-kelly_slater_27s_pro_surfer_coverart.png", 
+      "name": "Kelly Slater's Pro Surfer", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on Marvel's superhero and on the first movie of the Spider-Man franchise. It also featured many villains that did not appear in the movie.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280510-box_sman.png", 
+      "name": "Spider-Man: The Movie", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "This was the second release in the NHL 2K series, and also the final game to be released on the Dreamcast.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222535-box_nhl2k2.png", 
+      "name": "NHL 2K2", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Following on from the success of THPS2, the original Tony Hawks Pro Skater 2 saw a re-release on the Xbox with additional content and unlockable bonuses, including five new levels and improved graphics.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106407-box_thps2x.png", 
+      "name": "Tony Hawk's Pro Skater 2x", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Max Steel goes Covert-Opp's to find out the location of Dread.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1030059-914325_47404_front.jpg", 
+      "name": "Max Steel: Covert Missions", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A baseball game from Treyarch and EA Sports.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261152-box_tpb.png", 
+      "name": "Triple Play Baseball", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A action-adventure game based on the Spider-Man comics, featuring narration from Stan Lee. Nearly all of Spider-Man's enemies make appearances in the game.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2514, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284711-box_sm.png", 
+      "name": "Spider-Man", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EA Sports' 2001 entry into their Triple Play Baseball franchise.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261147-box_tp01.png", 
+      "name": "Triple Play 2001", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Draconus: Cult of the Wyrm is a hack and slash game developed by Treyarch and published by Crave Entertainment for the Dreamcast. Draconus, or Dragon Blood as it was named in Europe, is considered a spiritual sequel to Treyarch's swordfighting PC game Die by the Sword.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1018038-32f.jpg", 
+      "name": "Draconus: Cult of the Wyrm", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 16, 
+          "name": "Crave Entertainment"
+        }, 
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2000 edition of the Triple Play Baseball franchise from EA Sports.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261145-box_tp00.png", 
+      "name": "Triple Play 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion of the Die by the Sword game", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1625743-1021243220_00.jpg", 
+      "name": "Die by the Sword: Limb from Limb", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A third-person hack 'n' slash action game best known for enabling the player to use a variety of different sword swings to chop off limbs, heads and arms of opponents.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5911/764239-dieby.jpg", 
+      "name": "Die by the Sword", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Olympic Hockey '98 was the first ever Olympic based Hockey game to be released at that time. The game received poor reviews from many game sites.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/838284-198232_27975_front.jpg", 
+      "name": "Olympic Hockey 98", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "This survival horror title was cancelled two months after it was unveiled at E3 2004.", 
+      "developers": [
+        {
+          "id": 67, 
+          "name": "Treyarch"
+        }
+      ], 
+      "id": 2521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2593224-deadrush.jpg", 
+      "name": "Dead Rush", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Epic Games plans to release something called \"Paragon\" on the PC and PS4 in 2016.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2522, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2795355-fullcolor_paragonlogo_withbackground.jpg", 
+      "name": "Paragon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In this new game from the creators of the Unreal franchise, players must construct a safehouse during the day to protect them from the horrific creatures which roam the world at night.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2080188-vlcsnap_2011_12_11_05h05m54s255.png", 
+      "name": "Fortnite", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Epic Games is bringing Unreal Tournament back as a community-driven, free-to-play game for PC, Mac, and Linux.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2524, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2630546-ut_blog_banner-770x250-1341445875.jpg", 
+      "name": "Unreal Tournament", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Latest installment from Infinity Blade franchise featuring cooperative gameplay.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2545247-1215584156-30171.jpg", 
+      "name": "Infinity Blade III", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The developers of Shadow Complex and Infinity Blade have teamed with Rock the Vote to create a goofy new fighting game centered around the upcoming election.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93998/2299080-vote_debatestage_02.jpeg", 
+      "name": "VOTE!!!! The Game", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }, 
+        {
+          "id": 406, 
+          "name": "Chair Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chair's followup to their wildly popular Punch-Out-inspired action RPG, Infinity Blade.\n\n", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1969455-ib2.png", 
+      "name": "Infinity Blade II", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third and final installment in the Marcus Fenix trilogy. Taking place on the apocalyptic planet Sera, 18 months after the ending of Gears of War 2, players will once again take control of C.O.G. soldier Marcus Fenix as he takes on the Locust threat and their Lambent rivals.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/1717934-gow3cover_insert.jpg", 
+      "name": "Gears of War 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Infinity Blade is the first iOS game to use the Unreal Engine. The game pits players against a variety of massive foes on a quest to slay the God King.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2530, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1654253-infinity.jpg", 
+      "name": "Infinity Blade", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Epic Citadel is an application that showcases the technical capabilities of the award-winning Unreal Engine 3 on iOS devices.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2531, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7734/1497777-epic_citadel_logo.png", 
+      "name": "Epic Citadel", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A modern expansion of the Metroidvania concept, Shadow Complex is a downloadable side-scrolling action-adventure platformer set in the near future, where reluctant hero Jason Fleming must investigate a mysterious and dangerous organization to rescue his new girlfriend.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2532, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1087721-gb.png", 
+      "name": "Shadow Complex", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }, 
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join Delta Squad once more in the fight against the Locust Horde, in this \"bigger, better and more badass\" sequel to the 2006 smash hit.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2533, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1970480-box_gow2.png", 
+      "name": "Gears of War 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Unreal Tournament III is a fast-paced arena-based shooter, introducing the world to Unreal Engine 3 while including a story-based single-player campaign that mixes the Liandri Tournament with all-out war.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2534, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417202-box_ut3.png", 
+      "name": "Unreal Tournament 3", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gears of War is a tactical cover-based sci-fi shooter from Epic Games. The player controls Marcus Fenix, a COG soldier who fights the Locust aliens defending their home planet from the encroaching Human invaders.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2535, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1970470-box_gow.png", 
+      "name": "Gears of War", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Classic first-person arena shooting crosses paths with fast-paced third-person melee combat in this unique Xbox-exclusive spin-off of Unreal Tournament 2004.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139885-box_uc2.png", 
+      "name": "Unreal Championship 2: The Liandri Conflict", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Unreal Tournament 2004 is a fast-paced arena-based shooter and enhanced version of Unreal Tournament 2003, adding a slew of new content including vehicular combat and the return of the mission-based Assault game mode.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837522-box_ut2k4.png", 
+      "name": "Unreal Tournament 2004", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Unreal Tournament 2003 is a fast-paced multiplayer-based first-person shooter and the second game in the Unreal Tournament franchise, bringing the arena combat into a brand new game engine.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837520-box_ut2k3.png", 
+      "name": "Unreal Tournament 2003", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Jazz2 add-on that introduced Lori as a new playable character and featured a number of new environments.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/1287134-jj2tsf.png", 
+      "name": "Jazz Jackrabbit 2: The Secret Files", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A spin-off of the original Unreal, Unreal Tournament is a fast-paced multiplayer first-person shooter for up to 16 players in six different game modes (from the standard Deathmatch to the mission-based Assault).", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34737/1032074-ut_front.jpg", 
+      "name": "Unreal Tournament", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A turn-based strategy game often compared to Heroes of Might and Magic", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2288619-1300441882_48bx2pkzrqxcyen.jpeg", 
+      "name": "Age of Wonders", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 256, 
+          "name": "Triumph Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jazz Jackrabbit is back in his second adventure, this time accompanied by his brother Spaz.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2542, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/1097164-25178_boxshot_1.jpg", 
+      "name": "Jazz Jackrabbit 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A first-person shooter where the player is stranded on the alien world Na Pali, ruled by the oppressive Skaarj, and must find a way off the planet.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15405/746709-unreal_coverart.png", 
+      "name": "Unreal", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "7th Legion is a real-time strategy game released in 1997.", 
+      "developers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ], 
+      "id": 2544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/127673/2000043-7thlegion_box_art.jpg", 
+      "name": "7th Legion", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 68, 
+          "name": "Epic Games"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1547 @@
+{
+  "games": [
+    {
+      "deck": "Mario Kart's first foray into 3D and the second game in the series, featuring an assortment of various power-ups and characters with a distinct Mario vibe.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10032, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261111-box_mk64.png", 
+      "name": "Mario Kart 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the early titles released on the Nintendo 64, Wave Race combines challenging courses, realistic water effects, and stunt modes into an aquatic racing experience that still stands as the best the genre has to offer.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10033, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810181-box_waverace64.png", 
+      "name": "Wave Race 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game in which Muddy Mole makes his way through obstacle courses to rescue his family from the farmer Jinbe.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10034, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2714/587784-molemania.jpg", 
+      "name": "Mole Mania", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Mario 64 takes the Mario franchise into polygonal worlds, setting numerous standards for 3D game design along the way.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10035, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543572-box_sm64.png", 
+      "name": "Super Mario 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take control of Yoshi as he escorts Baby Mario to Baby Bowser's lair and save Baby Luigi.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10036, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364715-snes_yoshis_island.jpg", 
+      "name": "Super Mario World 2: Yoshi's Island", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An updated version of Super Mario All-Stars bundled for a short period of time with the Super Nintendo Entertainment System from December 1994, featuring the inclusion of Super Mario World.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10037, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2193420-mario_all_stars_world1box.jpg", 
+      "name": "Super Mario All-Stars & Super Mario World", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A new version Donkey Kong that featured all four levels of the original arcade game... And then 97 more. It went on to inspire the Mario vs Donkey Kong series on the GBA and DS.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10038, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2267442-946928-donkey_kong_94.jpg", 
+      "name": "Donkey Kong", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A SNES-exclusive racing game that utilizes the Super FX chip to bring stylized vehicles to life in polygonal 3D.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10039, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364799-snes_stuntracefx.jpg", 
+      "name": "Stunt Race FX", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth game in the Legend of Zelda series and the first one to appear on a handheld. Link is trapped on Koholint Island, and to escape he must wake the Wind Fish by finding the Eight Instruments of the Sirens.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10040, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2267401-zla.jpg", 
+      "name": "The Legend of Zelda: Link's Awakening", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mario's 8-bit adventures were compiled and enhanced for the Super Nintendo on a single cartridge. This was the world debut of \"The Lost Levels\", originally sold as Super Mario Bros. 2 only in Japan.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10041, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364822-snes_supermarioallstars.jpg", 
+      "name": "Super Mario All-Stars", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "As the leader of an elite squad of anthropomorphic animal pilots, fly throughout the Lylat star system in the prototype Arwing spacecraft to prevent the galactic conquest of a mad scientist in this 3D shooter for the SNES (with real-time polygonal graphics powered by the new Super FX chip).", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10042, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2702198-box_starfox.jpg", 
+      "name": "Star Fox", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first installment in the long-running Mario Kart franchise features eight iconic characters from the Mario universe.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10043, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2611969-9464302886-TM_Wi.png", 
+      "name": "Super Mario Kart", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wave Race is the first game in the Wave Race series. Players can compete in several different types of events.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10044, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810180-box_waverace.png", 
+      "name": "Wave Race", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third installment in the Zelda series makes a return to the top-down 2D gameplay found in the first game. This time around, Link needs to travel between the light and dark world in order to set things straight in the kingdom of Hyrule.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10045, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2831954-legend_of_zelda_3_-_snes_-_album_art.jpg", 
+      "name": "The Legend of Zelda: A Link to the Past", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A non-corporeal protagonist meets historical figures while travelling through time trying to recover his body from an evil demon in this Famicom Disk System adventure game.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10046, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/151939/2165617-time_twist_boxarts.png", 
+      "name": "Time Twist: Rekishi no Katasumi de...", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pilotwings is a game in which players take on a variety of flight-based challenges", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10047, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2832012-pilotwings.jpg", 
+      "name": "Pilotwings", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the few launch titles of the SNES (and bundled with the system in North America), the fifth main game in the Super Mario series brings the Mario brothers into the mysterious Dinosaur Land. It marks the first appearance of Mario's dinosaur companions, known as Yoshi.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10048, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364833-snes_supermarioworld.jpg", 
+      "name": "Super Mario World", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Nintendo's flagship futuristic racing game (for the Super Nintendo Entertainment System), featuring the raw new power of \"Mode 7\" technology, which gives players the illusion of dangerous high-speed racing at over 200 mph!", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10049, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1419250-fzerojpg.jpg", 
+      "name": "F-Zero", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first installment in the highly acclaimed SimCity franchise by Maxis' Will Wright. The gameplay centers around developing and managing a city in a variety of scenarios using a combination of different zones and buildings.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10050, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7622/643387-simcity.jpg", 
+      "name": "SimCity", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A text adventure from Nintendo and Pax Softnica that retells the classic tale Journey to the West.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10051, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/151939/2133456-yuyuki_boxarts.png", 
+      "name": "Famicom Mukashi Banashi: Yuyuki", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mario and his friends find themselves in the mysterious world of Sub-Con, where they must fight new enemies (with new techniques) to stop the master plans of the evil toad king, Wart.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10052, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362269-nes_supermariobros2.jpg", 
+      "name": "Super Mario Bros. 2", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Shin Onigashima is a two disk adventure game released on the Famicom Disk System. Despite being first-party software, it was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10053, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1750807-1.png", 
+      "name": "Famicom Mukashi Banashi: Shin Onigashima", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-exclusive 1987 release produced by Nintendo in conjunction with a television event. The game was later converted into Super Mario Bros. 2.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10054, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364870-fds_dokidokipanic_2_jp.jpg", 
+      "name": "Yume Kojo: Doki Doki Panic", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Famicom Disk System golf game featuring Mario.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10055, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364876-fds_famicomgolfjapancourse_2_jp.jpg", 
+      "name": "Golf: Japan Course", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zelda II: The Adventure of Link is the second entry in the ground-breaking Zelda franchise. This controversial follow-up ditches the original's top-down perspective for 2D side-scrolling exploration and combat. The 2D towns, dungeons and combat arenas are tied together by a top-down overworld.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10056, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362640-nes_legendofzeldaadevntureoflink.jpg", 
+      "name": "Zelda II: The Adventure of Link", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "All Night Nippon Super Mario Bros. is a version of the game based on the Japanese radio show All Night Nippon.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10057, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/875068-allnightnipponmariofg6.jpg", 
+      "name": "All Night Nippon Super Mario Bros.", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The true sequel to Super Mario Bros., originally exclusive to Japan as Super Mario Bros. 2, significantly boosted the game's difficulty.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10058, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2381303-cover_large.jpg", 
+      "name": "Super Mario Bros.: The Lost Levels", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Zelda-like action-adventure game published by Nintendo for the Famicom Disk System.  Samurai apprentice Takamaru must infiltrate Murasame Castle after it's taken over by an alien presence.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10059, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364889-fds_nazonomurasamejou_jp.jpg", 
+      "name": "The Mysterious Murasame Castle", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A young boy explores a huge overworld filled with enemies and dungeons to find and rescue Princess Zelda from the evil Ganon.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10060, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/10169-legendofzelda-goldbox.png", 
+      "name": "The Legend of Zelda", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Focusing on a humble plumber and his brother setting out to rescue a Princess who has been kidnapped by a vile lizard king, Super Mario Bros. is a platformer created by Shigeru Miyamoto, published by Nintendo, and is one of the best-selling video games of all time.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10061, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362267-nes_supermariobros.jpg", 
+      "name": "Super Mario Bros.", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A golf game for the Nintendo 64DD. Players can connect to Radnet to play against each other. This is the most expensive and rare 64DD game.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10062, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/148570/2214593-398px_lynx_lynx2.jpg", 
+      "name": "Japan Pro Golf Tour 64", 
+      "platforms": [
+        {
+          "id": 87, 
+          "name": "Nintendo 64DD", 
+          "short": "64DD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ]
+    }, 
+    {
+      "deck": "This title was shown as part of the 20  game line-up for the Wii at E3 2006.  The rumor was that it would become a Pilotwings title.  Many aspects of the game were later implemented in Wii Sports Resort.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10063, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1103454-wiiair.jpg", 
+      "name": "Wii Sports Airplane", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The title was planned as a stand-alone release.  A modified version of the game, called Navi's Trackers, was included in Four Swords Adventures.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10064, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1096816-tetra.jpg", 
+      "name": "The Legend of Zelda: Tetra's Trackers", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Revealed to Eurogamer in July 2015 out of the blue by Miyamoto, Pikmin 4 is in development and \"very close to completion.\" No further details such as platform or release window are known.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10065, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Pikmin 4", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Fox 2 was fully developed but never released. Speculation points to Nintendo wanting to hold off on any more 3D titles until the N64. Later installments in the Star Fox franchise would implement Star Fox 2's mechanical and story elements as their own.", 
+      "developers": [
+        {
+          "id": 340, 
+          "name": "Nintendo EAD"
+        }
+      ], 
+      "id": 10066, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/219930-starfox2_snes_game_box.png", 
+      "name": "Star Fox 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An app similar to the Pok\u00e9dex 3D games, but purchasable in installments.", 
+      "developers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ], 
+      "id": 10067, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2387352-saved_quote_image_5783.png", 
+      "name": "Pok\u00e9dex for iOS", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based tactical RPG for the Nintendo DS. Pok\u00e9mon set in the world of Nobunaga's Ambition.", 
+      "developers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ], 
+      "id": 10068, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171279-box_pkmncon.png", 
+      "name": "Pok\u00e9mon Conquest", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free rhythm game featuring Pok\u00e9mon Trading Card Game cards. The first official Pok\u00e9mon product available on iPhone and Android.", 
+      "developers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ], 
+      "id": 10069, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2290449-pokemontap.jpg", 
+      "name": "Pok\u00e9mon ie TAP?", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pok\u00e9mon Trading Card Game Online was a browser based card game with online multiplayer, that has been scrapped and turned into a stripped down downloadable client.", 
+      "developers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ], 
+      "id": 10070, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2106392-tcgologo.png", 
+      "name": "Pok\u00e9mon Trading Card Game Online", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Though you may have never heard of this little app in the US, Pok\u00e9Park Fishing Rally is a downloadable fishing minigame for the Nintendo DS, which was only available at the Pok\u00e9Park in Japan.", 
+      "developers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ], 
+      "id": 10071, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13301/404294-n05_0516_fishingds12.gif", 
+      "name": "Pok\u00e9Park Fishing Rally DS", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Third in the Makeruna! Makendou series; this one's an RPG.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10072, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2404711-pcfx.jpg", 
+      "name": "Makeruna! Makendou Z", 
+      "platforms": [
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Zelda-styled action game following the adventures of a young girl named Luru.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10073, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2545444-box.png", 
+      "name": "Community Pom", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ]
+    }, 
+    {
+      "deck": "An all-girl 2D fighter in the Asuka 120% Burning Fest. series for the Sega Saturn published by Kodansha.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10074, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4087/246148-574557_46126_front.jpg", 
+      "name": "Asuka 120% Limited Burning Fest.", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 2.5D Brawler very similar to Guardian Heroes.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10075, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1713197-panzer_bandit_box_front.jpg", 
+      "name": "Panzer Bandit", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Special Burning Fest. marks the first time the Asuka 120% series appeared on the PlayStation.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10076, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1706979-asuka_120_special_ps_a.jpg", 
+      "name": "Asuka 120% Special Burning Fest.", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Versus fighting game released in 1995 by Datam Polystar for the Super Famicom and PlayStation. Re-released for the PlayStation Network in 2010.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10077, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2556593-untitled.png", 
+      "name": "Makeruna! Makendou 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Anime-based board game published by Video System in 1995.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10078, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1293549-kiteretsu_daihyakka.jpg", 
+      "name": "Kiteretsu Daihyakka: Choujikuu Sugoroku", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Neural Gear is a rail shooter for the Sharp X68000 where you play as future soldier, Emi T. Fonon, in the years after World War IV.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2225563-neuralgear.png", 
+      "name": "Neural Gear", 
+      "platforms": [
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An Asuka 120% game for the TurboCD.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10084, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1713193-asuka_120__maxima_burning_fest.jpg", 
+      "name": "Asuka 120% Maxima Burning Fest.", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action game developed by Fill-In-Cafe for the Sharp X68000.", 
+      "developers": [
+        {
+          "id": 342, 
+          "name": "Fill-in-Cafe"
+        }
+      ], 
+      "id": 10085, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2545606-untitled.png", 
+      "name": "Metal Sight", 
+      "platforms": [
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

@@ -1,0 +1,1682 @@
+{
+  "games": [
+    {
+      "deck": "A third-person, 4-player co-op shooter set in a spooky version of the late 19th century US.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6141, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2640311-8911644731-hunt-.jpg", 
+      "name": "Hunt: Horrors of the Gilded Age", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Collectables is a free to play shooter game by Crytek.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6142, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2579104-1166584252-colle.jpg", 
+      "name": "The Collectables", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in ancient Rome circa 68 A.D, this third-person action game follows Marius Titus as he sets out to avenge his fallen family. Developed by Crytek as an exclusive Xbox One launch game.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6143, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2575471-box_rysesor.png", 
+      "name": "Ryse: Son of Rome", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }, 
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play, online first-person shooter developed and published by Crytek.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6144, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/49846/1701836-warface_logo.jpg", 
+      "name": "Warface", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }, 
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 414, 
+          "name": "Trion Worlds"
+        }, 
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mysteriously resurrected Prophet fights his way through the now literal jungles of the fallen New York City, continuing the fight against the malevolent Ceph alien invaders.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6145, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417187-box_crysis3.png", 
+      "name": "Crysis 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mobile and iPad game developed by Crytek.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6146, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2187633-fibble.png", 
+      "name": "Fibble \u2013 Flick \u2018n\u2019 Roll", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set three years after the original Crysis, an ambushed Marine named Alcatraz dons the famous Nanosuit and fights his way through an obliterated New York City to stop the alien invasion.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6147, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3661/1618079-81910_crys2genpftnorating_jpg_jpgcopy.jpg", 
+      "name": "Crysis 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A standalone expansion pack to Crysis, Warhead's campaign follows Sergeant Michael 'Psycho' Sykes, as he faces his own trials and challenges on the other side of the island, parallel to the events of the first game.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6148, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2090569-box_crysiswar.png", 
+      "name": "Crysis Warhead", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "As Nomad, an elite soldier outfitted in a state-of-the-art Nanosuit that gives him superhuman abilities, infiltrate a North Korean-held island to rescue captured scientists... and face a reawakening ancient evil that threatens the entire world. Crysis is well known for its high system requirements and top of the line graphics.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6149, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2392174-crysis_01_artwork.jpg", 
+      "name": "Crysis", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Far Cry is a first-person shooter PC game developed by Crytek Germany. Meet Jack Carver, who is having a rough day - they blew up his boat, they chased him into the jungle, and now they're shooting at him. Too bad they don't know Jack.", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897522-box_farcry.jpg", 
+      "name": "Far Cry", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Virtual reality climbing video game from Crytek", 
+      "developers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ], 
+      "id": 6151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/104355/2806356-0390712974-logor.jpg", 
+      "name": "The Climb", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 203, 
+          "name": "Crytek GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow the story of Rohn, a dragon rider, along his path of exploration as he discovers just what he is fighting for.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832145-box_lair.png", 
+      "name": "Lair", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Star Wars Rogue Squadron II: Rogue Leader. For the first time in the Rouge Squadron series, Rebel Strike lets the player leave their spaceships, and take on the empire by foot.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787541-box_swrs3.png", 
+      "name": "Star Wars: Rogue Squadron III - Rebel Strike", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars Rogue Leader: Rogue Squadron II was a sequel to the first Rogue Squadron on the Nintendo 64 and featured an expanded roster of playable ships, varied environments, and cutting edge graphics.  ", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787540-box_swrs2.png", 
+      "name": "Star Wars: Rogue Squadron II: Rogue Leader", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars Episode 1 - Battle For Naboo is a ship shooter released on the N64 and PC.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/898134-458716_44081_front.jpg", 
+      "name": "Star Wars: Episode I - Battle for Naboo", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this Action/Adventure/Platformer, Indy looks to find the pieces of the infernal machine before the Russians can rebuild it in their attempts to communicate with the Babylonian god, Marduk. Originally developed for the PC, the game was later ported to the N64 and the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6156, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5911/712133-infernal_poster.jpg", 
+      "name": "Indiana Jones and the Infernal Machine", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take to the skies with the Rebellion's finest fliers, the legendary Rogue Squadron, and complete all manner of aerial combat missions in the fight against the deadly Empire.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787607-box_swrs.png", 
+      "name": "Star Wars: Rogue Squadron", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rebel Assault II puts you in the flight suit of Rookie 1 as he assists the Rebel Alliance in uncovering information about a new TIE-Fighter prototype being tested by the Empire.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5258/279971-starwars.jpg", 
+      "name": "Star Wars: Rebel Assault II - The Hidden Empire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One of the most technically impressive games to be released on the SNES; the game featured liberal use of voice samples, mode 7 and even Dolby Surround.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/939029-news2_0.jpg", 
+      "name": "Super Turrican 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Super Nintendo game that recreates the classic Indiana Jones film trilogy. Players follow Indiana's steps from Raiders of the Lost Ark up until The Last Crusade in this platformer using Indy's famous whip as well as various guns and grenades.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363874-snes_indianajonesgreatestadventures.jpg", 
+      "name": "Indiana Jones' Greatest Adventures", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371215-genesis_megaturrican_eu_cropped.jpg", 
+      "name": "Mega Turrican", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A licensed platformer game released for both the SNES and the Genesis systems. Both games, although fairly different, allows the player to switch between the Warner Brothers (and Warner Sister) at will in order to overcome obstacles.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2368992-genesis_animaniacs_cropped.jpg", 
+      "name": "Animaniacs", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Turrican 3 is the last chapter of the Turrican series on Commodore Amiga. The game is partially based on the Genesis game Mega Turrican.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1639092-turrican3.jpg", 
+      "name": "Turrican 3", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A sci-fi side-scrolling shooter for the SNES, which is an updated version of the Amiga/Atari ST game Turrican. It is one of few SNES games to feature Dolby Surround.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364857-snes_superturrican_2.jpg", 
+      "name": "Super Turrican", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }, 
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as either Jimbo or Sully as you destroy aliens and ride missiles in this fast-paced, impossibly difficult shooter.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841702-box_contra3.png", 
+      "name": "Contra III: The Alien Wars", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6167, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Power Up", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Turrican II is an epic shooter featuring a ton of exploration, colorful graphics and a pumping synth soundtrack to boot.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6168, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1265245-turrican2_amiga_front.jpg", 
+      "name": "Turrican II: The Final Fight", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 127, 
+          "name": "Commodore CDTV", 
+          "short": "CDTV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6169, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Crash! Powertape July '91", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6170, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Light Force", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An early shooter platformer originally developed for European home computers, best known for its heavy metal soundtrack by Chris Huelsbeck.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1256262-turrican_genesis_front1.jpg", 
+      "name": "Turrican", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 2D side-scrolling shooter for the Commodore 64 and Amiga.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1250917-katakis_amiga.jpg", 
+      "name": "Katakis", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Superman game that was being developed by Rogue Squadron creator Factor 5, until the developer shut down in 2009.", 
+      "developers": [
+        {
+          "id": 204, 
+          "name": "Factor 5, LLC"
+        }
+      ], 
+      "id": 6173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19745/925350-superman_factor5_011.jpg", 
+      "name": "Factor 5's Superman Project", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An expanded version of MX vs. ATV Supercross with new content and updated graphics and gameplay.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2794860-2100984054-image", 
+      "name": "MX vs. ATV Supercross Encore", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Nordic Games brings back the MX vs. ATV franchise with this downloadable game.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6175, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14876/2695759-mxatvsupercross.jpg", 
+      "name": "MX vs. ATV Supercross", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A new entry in THQ's MX vs. ATV series. It is not a squad-based, class-based, tactical stealth action game.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210190-box_mxvsatva.png", 
+      "name": "MX vs. ATV Alive", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The MX vs. ATV series returns with new gameplay additions such as terrain deformation, dual stick control, a revamped trick system, and a wreck avoidance system.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210192-box_mxvsatvr.png", 
+      "name": "MX vs. ATV: Reflex", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Deadly Creatures is a Nintendo Wii-exclusive game. The player takes control of either a tarantula or scorpion depending on the level.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/885580-deadlywii.jpg", 
+      "name": "Deadly Creatures", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Race in realistic environments with ATVs or Monster Trucks.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210194-box_mxvsatvunt.png", 
+      "name": "MX vs. ATV Untamed", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game/minigame collection based vaguely on the 2006 Disney/Pixar movie Cars, and features the full movie voice cast. The game varies greatly between platforms, and features infamously blatant rubber banding from AI players.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284668-box_cars.png", 
+      "name": "Cars", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210191-box_mxvsatvote.png", 
+      "name": "MX vs. ATV: On the Edge", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210193-box_mxvsatvunl.png", 
+      "name": "MX vs. ATV Unleashed", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "MX Unleashed is a dirt-bike game that features races, a free-roam freestyle mode, and the ability to drive other vehicles.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/276/824131-unicover.jpg", 
+      "name": "MX Unleashed", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Splashdown: Rides Gone Wild is a jet-ski racing game and sequel to the 2001 PS2 and Xbox game, developed by Rainbow Studios and published by THQ.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213177-box_sdownrgw.png", 
+      "name": "Splashdown: Rides Gone Wild", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hop and bop your way through the second installment of the ATV Offroad Fury franchise.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275969-box_atvof2.png", 
+      "name": "ATV Offroad Fury 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mat Hoffman's Pro BMX 2 is the second game in the Mat Hoffman's Pro BMX series.\n", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133353-box_mhpbmx2.png", 
+      "name": "Mat Hoffman's Pro BMX 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars racing game, sequel to Star Wars Episode I: Racer", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285712-box_swrr.png", 
+      "name": "Star Wars: Racer Revenge", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Splashdown is a racing game for the Xbox and Playstation 2", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213176-box_sdown.png", 
+      "name": "Splashdown", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Action packed ATV racing.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275967-box_atvof.png", 
+      "name": "ATV Offroad Fury", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second installment in the Motocross Madness series, Motocross Madness 2 features improved graphics, larger maps and more gameplay features.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20737/762212-mcm2.jpg", 
+      "name": "Motocross Madness 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Motocross Madness is a moto-racing game released for the PC.", 
+      "developers": [
+        {
+          "id": 205, 
+          "name": "Rainbow Studios"
+        }
+      ], 
+      "id": 6192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/775257-motocrossmad_cover.jpg", 
+      "name": "Motocross Madness", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }
+  ]
+}

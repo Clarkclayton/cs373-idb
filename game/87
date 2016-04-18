@@ -1,0 +1,1781 @@
+{
+  "games": [
+    {
+      "deck": "Cruis'n World is an arcade driving game that lets you race around the globe.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543547-box_cruisnw.png", 
+      "name": "Cruis'n World", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Hangtime is essentially the sequel to NBA Jam Tournament Edition.  Midway continued the franchise after Acclaim took over the right to the Jam name.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1536641-nbaht_box.png", 
+      "name": "NBA Hangtime", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Return to Outworld with all the previous Mortal Kombat kombatants in this mashup of every previous MK title.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/395/190270-mktbox.jpg", 
+      "name": "Mortal Kombat Trilogy", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 64, 
+          "name": "Game.Com", 
+          "short": "GCOM"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Safe Cracker is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4291, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781371-sc.jpg", 
+      "name": "Safe Cracker", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade shooter with digitized sprites that was ported to the PC, Sega Saturn, and PlayStation.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/714860-area_51_pal_front.jpg", 
+      "name": "Area 51", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "War Gods is a fighting game by Midway that was very similar to the Mortal Kombat franchise.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4293, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193310-box_wgods.png", 
+      "name": "War Gods", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Considered one of the most competitive fighting games out of the entire franchise, Ultimate Mortal Kombat 3 is an update to the third installment that brings back masked ninjas while tweaking character balances.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1331194-umk3flyer.jpg", 
+      "name": "Ultimate Mortal Kombat 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Throw reality out the window as you fight for the gold in WWF WrestleMania: The Arcade Game.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4295, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5166/1559062-wwf_wrestlemania_the_arcade_flyer.jpg", 
+      "name": "WWF WrestleMania: The Arcade Game", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Indianapolis 500 is an Indy 500 themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781062-indianapolis_500.jpg", 
+      "name": "Indianapolis 500", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cruis'n USA is a racing game that takes you across many highways and popular locations in the USA!", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4298, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543545-box_cruisnusa.png", 
+      "name": "Cruis'n USA", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in a post-apocalyptic Earthrealm (invaded by Shao Kahn's army of Outworld), Mortal Kombat 3 is the third installment of one of the most violent fighting game franchises of all time.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4299, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1338362-mk3_vert.png", 
+      "name": "Mortal Kombat 3", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Shadow is a pinball machine based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4300, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781391-theshadow.jpg", 
+      "name": "The Shadow", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Corvette is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4301, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781469-corvette.jpg", 
+      "name": "Corvette", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Revolution X, music is the weapon in this bleak future where Aerosmith is on repeat. Shoot down government helicopters and hurl explosive CDs all during the most bitchin'est night of all time.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1655/2646922-aerosmith.jpg", 
+      "name": "Revolution X", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Popeye Saves the Earth is a pinball machine based on the Popeye cartoon.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4303, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781442-popeye.jpg", 
+      "name": "Popeye Saves the Earth", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Jam Tournament Edition is a two-on-two Arcade basketball game, adding updated rosters and new game modes to the original.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4304, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1535207-nbajamte_box.png", 
+      "name": "NBA Jam Tournament Edition", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second installment of one of the most violent fighting game franchises of all time, providing a smoother fighting system while adding double the fighters and double the Fatalities.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4305, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1338358-mk2_vert.png", 
+      "name": "Mortal Kombat II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Jam is an arcade basketball game developed by Midway in 1993. It gained fame for its rules-light take on basketball, its iconic announcer, and mysterious hidden characters.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4306, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1535202-nbajam_box.png", 
+      "name": "NBA Jam", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Creature from the Black Lagoon is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/521/1261985-creature_2.jpg", 
+      "name": "Creature from the Black Lagoon", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "By combining digitized character graphics and extreme violence, Midway's 1992 fighter revolutionized the U.S. fighting game genre, spawned a long-running series, and helped create controversy regarding video game violence.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4308, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1338360-mk_vert.png", 
+      "name": "Mortal Kombat", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Doctor Who is a pinball machine based on the classic British TV series.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4309, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781483-drwho.jpg", 
+      "name": "Doctor Who", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Black Rose is a pirate themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4310, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781671-br.jpg", 
+      "name": "Black Rose", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A bloody arcade shooter developed by Midway Games, which follows the exploits of two soldiers out to kill General Akhboob.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4311, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1410664-totalcarnage_front.jpg", 
+      "name": "Total Carnage", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An on-rails light-gun shooter produced for the Arcade by Midway, based on the 1991 film of the same name. The home versions were titled \"T2: The Arcade Game\" to distance themselves from the LJN/Ocean side-scroller action game.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4312, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/622670-1181242182241.png", 
+      "name": "Terminator 2: Judgment Day", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super High Impact is an arcade-style football game that is essentially the predecessor to NFL Blitz. It is the sequel to High Impact Football.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4313, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/843149-586504_39046_front.jpg", 
+      "name": "Super High Impact", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Party Zone is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1786551-the_party_zone.jpg", 
+      "name": "The Party Zone", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gilligan's Island is a pinball machine based on the TV show of the same name.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4315, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781459-gilligan_s_island.jpg", 
+      "name": "Gilligan's Island", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bugs Bunny's Birthday Ball is a Bugs Bunny themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4316, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781489-bugs_bunny_s_birthday_ball.jpg", 
+      "name": "Bugs Bunny's Birthday Ball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Video arcade football game by gaming legends Eugene Jarvis and Ed Boon.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4317, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4656/1528175-g06440eaufk.jpg", 
+      "name": "High Impact Football", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A predecessor to NBA Jam, Arch Rivals featured 2-on-2 non-traditional basketball action.  The player could customize their two-man squad from a roster of eight possible ballers, each with specific strengths.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4318, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2368999-genesis_archrivals.jpg", 
+      "name": "Arch Rivals", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dr. Dude is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4319, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1782896-dr._dude.jpg", 
+      "name": "Dr. Dude", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Radical! is a skateboarding themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781438-rad.jpg", 
+      "name": "Radical!", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pool Sharks is a billiards themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1782222-ps.jpg", 
+      "name": "Pool Sharks", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tournament Cyberball 2072 is an American-style arcade football game where the players are robots. It is set fifty years ahead of the original Cyberball in the Cyberball franchise timeline.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5028/2525081-tournamentcyberball2072.png", 
+      "name": "Tournament Cyberball 2072", 
+      "platforms": [
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mousin' Around! is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781682-mousin__around_.jpg", 
+      "name": "Mousin' Around!", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Elvira and the Party Monsters is an Elvira themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4324, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1782895-elvira_and_the_party_monsters.jpg", 
+      "name": "Elvira and the Party Monsters", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Transporter the Rescue is a Sci-Fi themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4325, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1782228-trans.jpg", 
+      "name": "Transporter the Rescue", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take aim and fire as you rescue humans from little alien ball-things in this 1988 Midway release.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4326, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2330999-blastedarcadeflyer.jpeg", 
+      "name": "Blasted", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Truck Stop is a trucker themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781914-truck_stop.jpg", 
+      "name": "Truck Stop", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Blackwater 100 is a motocross themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4328, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1786565-blackwater_100.jpg", 
+      "name": "Blackwater 100", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The arcade sequel to Spy Hunter. It appeared in arcades and is simultaneously playable by two players.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2331024-spy_hunter_2.jpg", 
+      "name": "Spy Hunter II", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A prequel to the well-received 2010 release Chaos Rings, from Square Enix and Media, Vision.", 
+      "developers": [
+        {
+          "id": 128, 
+          "name": "Media.Vision Entertainment Inc."
+        }
+      ], 
+      "id": 4398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2757014-chaos_rings_omega.jpg", 
+      "name": "Chaos Rings Omega", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "When hostile aliens take over a space station, it's up to you to make First Contact the only way you know how... with heavy firepower and extreme prejudice.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367847-a2600_xenophobe_none.jpg", 
+      "name": "Xenophobe", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dungeons & Dragons is a pinball machine based on the franchise of the same name.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781681-dd.jpg", 
+      "name": "Dungeons & Dragons", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Heavy Metal Meltdown is a music themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1784441-heavy_metal_meltdown.jpg", 
+      "name": "Heavy Metal Meltdown", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Party Animal is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781687-party_animal.jpg", 
+      "name": "Party Animal", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "City Slicker is a gangster themed pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4334, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1781680-cs.jpg", 
+      "name": "City Slicker", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Max RPM is a split-screen arcade racing game from Bally Midway.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4335, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2331288-max_rpm.jpg", 
+      "name": "Max RPM", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Special Force is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1784440-special_force.jpg", 
+      "name": "Special Force", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Motordome is a pinball machine.", 
+      "developers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ], 
+      "id": 4337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1786626-motordome.jpg", 
+      "name": "Motordome", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1538 @@
+{
+  "games": [
+    {
+      "deck": "As an alien in danger from human kidnappers the player must escape a spacecraft and find an escape pod to go home. ", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6640, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "I-Alien", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1980s text adventure based on the Bram Stoker Novel.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6641, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2255838-568956_32170_front.jpg", 
+      "name": "Dracula", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Explore the castle (as either Brad or Janet) to find pieces of the Medusa Machine so that you can free your partner.  Watch out for Riff Raff with his laser gun and Eddie on his motorbike.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6642, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/383471-938702_20080729_screen008.jpg", 
+      "name": "The Rocky Horror Show", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final game in the Berks saga", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6643, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2731556-ermahgerd.jpg", 
+      "name": "Berks 3: They're Angry!", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6644, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/107912/1628517-formulaone.jpg", 
+      "name": "Formula One", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Each territory must be cleared of the mindless Berks using the Terror Tank in this single screen shoot'em up written by Jon Williams.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6645, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2731352-berks_c16_1_1.jpg", 
+      "name": "Berks", 
+      "platforms": [
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A motorbike racing management simulation game published by CRL for Amstrad CPC and ZX Spectrum.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6646, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2726240-endurance_cpc_1_1.jpg", 
+      "name": "Endurance", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tau Ceti has the player controlling a ship to shut down a reactor and save the colony on the planet.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6647, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1364387-tauceti3.jpg", 
+      "name": "Tau Ceti", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6648, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/121483/1707008-565792_1447_front.jpg", 
+      "name": "Blade Runner", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In this action game written by Jon Williams the player takes the role of Major Blink, the creator of the Berks, who has now become a painter. All blocks must be painted from all sides by the Major while homing drones must be avoided and bears, who try to repaint the blocks, must be shot.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6649, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2731537-major_blink_c16_1_1.jpg", 
+      "name": "Major Blink: Berks 2", 
+      "platforms": [
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical shoot 'em up developed by Toaplan.", 
+      "developers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ], 
+      "id": 6934, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/2128999-out_zone_screenshot_1.jpg", 
+      "name": "Out Zone", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A action game developed by Zafarullah Karim and published by CRL Group PLC for ZX Spectrum.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6650, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2721852-handy_andy_spec_1_1.jpg", 
+      "name": "Handy Andy", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A shoot'em up developed by Richard Brisbourne and published by CRL Group PLC for ZX Spectrum.", 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6651, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2721746-galactic_patrol_spec_1_1.jpg", 
+      "name": "Galactic Patrol ", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6652, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Glug Glug", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6653, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Test Match + One Day Cricket", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6654, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Omega Run", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6655, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1770383-rten.jpg", 
+      "name": "Room Ten", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ], 
+      "id": 6656, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Terrahawks", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rocketbirds 2: Evolution is being developed by Ratloop Asia and is the sequel to Rocketbirds: Hardboiled Chicken.", 
+      "developers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ], 
+      "id": 6657, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139245/2441265-2013-02-21-010449.jpg", 
+      "name": "Rocketbirds 2: Evolution", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ratloop Asia's 3x IGF Finalist 2D action platformer features a chicken commando fighting back against an oppressive penguin regime.", 
+      "developers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ], 
+      "id": 6658, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2348367-cover.png", 
+      "name": "Rocketbirds: Hardboiled Chicken", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ]
+    }, 
+    {
+      "deck": "Helsing's Fire is a puzzle game for the iPhone, follows the adventures of Dr. Helsing and his assistant Raffton who set out to defeat the shadow blight and its minions once and for all.", 
+      "developers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ], 
+      "id": 6659, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35452/1443504-img_0018.png", 
+      "name": "Helsing's Fire", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In this platformer you create the levels and characters using pen and paper, print out the level, draw the solution and scan it back in.", 
+      "developers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ], 
+      "id": 6660, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/937669-mighter1.jpg", 
+      "name": "Mightier", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 227, 
+          "name": "Ratloop"
+        }
+      ], 
+      "id": 6661, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/1060945-cover.jpg", 
+      "name": "Malice for Quake", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Actua Pool is a pool game that is on the  Nintendo DS.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6662, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/826/354833-actuapool.jpg", 
+      "name": "Actua Pool", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6663, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1256511-6110ej5ztdl._ss500_.jpg", 
+      "name": "Actua Tennis", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6664, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1417091-actua_ice_hockey_2.jpg", 
+      "name": "Actua Ice Hockey 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An Ice Hockey game from the Actua Sports franchise. It has a sequel which was released in 1999.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6665, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15405/806851-actua_ice_hockey_coverart.png", 
+      "name": "Actua Ice Hockey", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game for PlayStation and PC.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6666, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1270695-as3_cover.jpg", 
+      "name": "Actua Soccer 3", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This 3D racer attempts to recapture the magic of RC Pro-Am for the NES by bringing licensed cars to the game.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6667, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/465773-teamlosi.jpg", 
+      "name": "Team Losi RC Racer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nitrous Oxide is a shooter from Gremlin Interactive Ltd. released for the PlayStation in 1998", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6668, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7564/393802-bt0649f.jpg", 
+      "name": "N\u2082O Nitrous Oxide", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game by Gremlin Interactive.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6669, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1095902-foxsportssoccer99.jpg", 
+      "name": "Fox Sports Soccer '99", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6670, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/972885-tn_fox_sports___golf_99_ntsc_front.jpg", 
+      "name": "Fox Sports Golf '99", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade style on-rails shooter", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6671, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19745/776713-g02625b7gtb.jpg", 
+      "name": "Judge Dredd", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Inproved and updated follow up to Actua Golf 2", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6672, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1270688-ag3_cover.jpg", 
+      "name": "Actua Golf 3", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Adam Randall is drawn to the Cornish village of Hellston to find the truth behind his father's death. When he arrives, he is quickly drawn into an occult conspiracy spanning worlds as the fate of both Good and Evil are placed into his hands.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6673, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20618/1286465-roth_box.jpg", 
+      "name": "Realms of the Haunting", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fragile Allegiance is an real-time strategy where the goal is to set up thriving mining colonies in an asteroid belt. Players can also bulid ships, hire personnel and interact with the other alien races.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6674, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/864/624123-fragile_allegiance.jpg", 
+      "name": "Fragile Allegiance", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Improved and updated follow up to Actua Golf.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6675, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/826/387609-actuagolf2frontsm9xa.jpg", 
+      "name": "Actua Golf 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the first fully 3D golf games made by the same team that gave us Actua Soccer.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6676, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1416946-big.jpg", 
+      "name": "Actua Golf", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Loaded with improved graphics and just as much violence and blood.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6677, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/811697-reloaded_ps_us.jpg", 
+      "name": "Re-Loaded", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6678, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1417089-actua_soccer_club_edition.jpg", 
+      "name": "Actua Soccer Club Edition", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6679, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1315443-tnnmshardcore4x4_us_ps_front.jpg", 
+      "name": "TNN Motor Sports Hardcore 4x4", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 30, 
+          "name": "Human Entertainment, Inc."
+        }, 
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Normality is a 3D adventure game where players control Kent Knutson, a teenager fighting for fun in an oppressive city.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6680, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4859/833593-normality_cover.jpg", 
+      "name": "Normality", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the earliest polygonal soccer games on the market and was intended to be a new soccer franchise, but never took off.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6681, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2587181-304124-vrsocc96_001.jpg", 
+      "name": "VR Soccer '96", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }, 
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Whiplash is an intense arcade racer, pitting you against over a dozen other cars at high speed, through loops and around corkscrews as you defy gravity and the laws of physics.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6682, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4859/723709-fatal_racing_coverart.png", 
+      "name": "Whiplash", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Interplay's infamous shoot em' up game that was released near the launch of the PlayStation", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6683, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/811605-loaded_ps_us.jpg", 
+      "name": "Loaded", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A football game developed by Gremlin Interactive, the first game in the Actua Sports franchise.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6684, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1255848-as_cover.jpg", 
+      "name": "Actua Soccer", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in the year 3000, this futuristic racer adds weapons and tracks from different planets to the Top Gear formula.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6685, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/680543-top_gear_3000_coverart.png", 
+      "name": "Top Gear 3000", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 38, 
+          "name": "Kemco"
+        }, 
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down action game and the sequel to The Way of the Tiger.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4076/330003-avengerfront_cover.jpg", 
+      "name": "Avenger", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Racing game for the original Gameboy. Two games in one, with one being a first person jeep race, and the second a top down racer simmilar to Mico Machines.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6686, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/37710/1083392-rd.jpg", 
+      "name": "Race Days", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An OutRun-style racing game for the Super Nintendo that presents two options for players: motorbikes or jetskis.", 
+      "developers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ], 
+      "id": 6687, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2135470-ftr.jpg", 
+      "name": "Full Throttle Racing", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }
+  ]
+}

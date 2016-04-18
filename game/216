@@ -1,0 +1,2173 @@
+{
+  "games": [
+    {
+      "deck": "The very first pinball machine, created by David Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/431/938376-baffleba.jpg", 
+      "name": "Baffle Ball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Strikes N' Spares is a bowling themed pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1785550-sns.jpg", 
+      "name": "Strikes 'N' Spares", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bank-A-Ball is a billiards themed pinball machine from 1965.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2284524-bank_a_ball.jpg", 
+      "name": "Bank-A-Ball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "El Dorado", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10737, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "El Dorado", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rocky", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1782240-rocky.jpg", 
+      "name": "Rocky", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 50s electro-mechanical pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2608071-lovely+lucy+flyer+front.jpg", 
+      "name": "Lovely Lucy", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early pinball game released in August 1941", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10740, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "A-B-C Bowler", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set 40 years after the events of Black Ops II, the twelfth installment of the Call of Duty series brings advanced robotics and biotic augmentations to the clandestine operations of the Black Ops storyline.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2794573-codblops3.jpg", 
+      "name": "Call of Duty: Black Ops III", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The next game in the Skylanders franchises adds air, sea, and land vehicles to the mix.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1749/2754633-0788094061-skyla.jpg", 
+      "name": "Skylanders SuperChargers", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 144, 
+          "name": "Apple TV", 
+          "short": "APTV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Trap the series' villains in physical traps and hold those traps up to your ear to hear the villains struggle in the latest Skylanders release.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2688699-3251519352-Trap_.jpg", 
+      "name": "Skylanders Trap Team", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Beenox-developed sequel to the open world web-slinging game. High Voltage Software is developing the 3DS version.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/95676/2594558-original.jpg", 
+      "name": "The Amazing Spider-Man 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797990-box_pitfalltle.png", 
+      "name": "Pitfall: The Lost Expedition", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Yank the top half of a Skylanders toy off of its base and connect it to a different bottom half to make new combinations in the third Skylanders game.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2575472-box_slsf.png", 
+      "name": "Skylanders SWAP Force", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Announced at NYCC 2011, The Amazing Spider-Man game is an original story told after the 2012 movie. The console versions are developed by Beenox, the company that created Shattered Dimensions and Edge of Time while the DS version was developed by Other Ocean Studios.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171297-box_tasm.png", 
+      "name": "The Amazing Spider-Man", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The spiritual sequel to \"Spider-Man: Shattered Dimensions\", Edge of Time has the player switching between Peter Parker, the Spider-Man of Today, and Miguel O'Hara, the Spider-Man of 2099, as they try to undo the circumstances that led Peter to his untimely death.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2484712-box_smeot.png", 
+      "name": "Spider-Man: Edge of Time", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spider-Man: Shattered Dimensions revolves around the pieces of a magical tablet, spanning four distinct dimensions and starring the Spider-Men therein.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/1438612-spidermansdfinalboxart.jpg", 
+      "name": "Spider-Man: Shattered Dimensions", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Transformers: Revenge of the Fallen is the video game tie-in to the movie of the same name.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/969089-transformers_revenge_of_the.jpg", 
+      "name": "Transformers: Revenge of the Fallen", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Guitar Hero: Smash Hits is a compilation of some of the most popular songs from previous titles. This time, all songs are master recordings, and there is full band support for each track.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/946229-guitar_her_sh_box.jpg", 
+      "name": "Guitar Hero: Smash Hits", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Movie tie-in based upon the film which was released on March 24th, 2009.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1820028-box_mva.png", 
+      "name": "Monsters vs. Aliens", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quantum of Solace is a first-person/third-person shooter based on the James Bond films Casino Royale and its sequel, Quantum of Solace.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841798-box_qosolace_.png", 
+      "name": "Quantum of Solace", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Kung Fu Panda tells the story of Po, a panda who is chosen to be the Dragon Warrior and the trials he faces on his hero's journey. This game features beat 'em- up elements as well as impressive graphics.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284677-box_kfp.png", 
+      "name": "Kung Fu Panda", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Based on the animated motion picture, Bee Movie Game allows you to play as Barry B. Benson in a sandbox gameplay setting.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10754, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/561/235729-bee_movie.jpg", 
+      "name": "Bee Movie Game", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Friend or Foe is a beat 'em up where Spider-Man teams up with his enemies to save the day and stop an unknown nemesis.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817080-box_smanfof.png", 
+      "name": "Spider-Man: Friend or Foe", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The web-slinging, joke cracking, Spider-Man is back. The third game in the movie tie-in series sees Spider-Man battle more foes than ever and even get a new makeover, and of course,  it offers plenty of swinging around the city. ", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1982787-box_sman3.png", 
+      "name": "Spider-Man 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take control of some of the most iconic superheroes of the Marvel Universe in this squad-based RPG. Form a well known group such as the Fantastic Four or create your own custom group of heroes to battle Dr. Doom and the Masters of Evil.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10757, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1982784-box_mua.png", 
+      "name": "Marvel Ultimate Alliance", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game/minigame collection based vaguely on the 2006 Disney/Pixar movie Cars, and features the full movie voice cast. The game varies greatly between platforms, and features infamously blatant rubber banding from AI players.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284668-box_cars.png", 
+      "name": "Cars", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284699-box_oth.png", 
+      "name": "Over the Hedge", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take the role of Wolverine, Iceman and Nightcrawler and use their superpowers through a series of missions.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280540-box_xmentog.png", 
+      "name": "X-Men: The Official Game", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "GUN is a third person action/adventure game setting you loose into 1800s America, where law is lost and crime runs rampant.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213160-box_gun.png", 
+      "name": "GUN", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Incredibles: Rise of the Underminer is a follow-up to THQ's action game starring Disney and Pixar's animated family of superheroes.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284720-box_tirotu.png", 
+      "name": "The Incredibles: Rise of the Underminer", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 510, 
+          "name": "Heavy Iron Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as both Spider-Man and Venom in this cel-shaded open-world action-adventure game with story written by comic writer Brian Michael Bendis.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280536-box_usm.png", 
+      "name": "Ultimate Spider-Man", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "When Apocalypse and his Four Horsemen threaten the safety of the world, and Magneto's position of power, the X-Men and the Brotherhood of Mutants must team-up in order to combat this threat and ultimately save the world.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/946764-xmenleg2_final_rgb4.jpg", 
+      "name": "X-Men: Legends II - Rise of Apocalypse", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Myst V: End of Ages is the latest and final chapter in this classic franchise. In traditional Myst style, players are tasked with solving puzzles and revealing the story through the discovery of journals, clues and the occasional narrative of NPCs.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19013/2427528-mystv.jpg", 
+      "name": "Myst V: End of Ages", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Evil Dead: Regeneration puts Ash into a non-canon world in which he never went back in time after Evil Dead II.  He also gets a half deadite sidekick. ", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139777-box_edr.png", 
+      "name": "Evil Dead: Regeneration", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fantastic Four is an action adventure game based on the 2005 film Fantastic Four. Players play as the characters of the Fantastic Four using combos and special attacks to fight their way through hordes of enemies and bosses.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280465-box_f4.png", 
+      "name": "Fantastic 4", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803141-box_mscar.png", 
+      "name": "Madagascar", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210193-box_mxvsatvunl.png", 
+      "name": "MX vs. ATV Unleashed", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2627058-0340970195-_-Shr.jpg", 
+      "name": "Shrek 2 Team Action", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Join Tony Hawk and his pro skater team as they try to beat Bam Margera's group of misfits in the over-the-top World Destruction Tour.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106411-box_thug2.png", 
+      "name": "Tony Hawk's Underground 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Immerse yourself in some of the greatest Star Wars Battles ever!", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525269-box_swbf.png", 
+      "name": "Star Wars: Battlefront", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Incredibles stars a family of people with superpowers who try to conceal them from the outside world for fear of prejudice. Bob Parr has superhuman strength, Dash has super speed, Violet can turn invisible and project force fields and Elastigirl can stretch.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284719-box_ti.png", 
+      "name": "The Incredibles", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 510, 
+          "name": "Heavy Iron Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action/adventure game based on the Lord of the Rings franchise released to coincide with the final film in the movie trilogy.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115765-box_lotrtrotk.png", 
+      "name": "The Lord of the Rings: The Return of the King", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Go from a local unknown to a superstar skater in the fifth installment of the Tony Hawk franchise, adding a new story mode, new tricks (including wallplanting and the ability to travel on foot), and enhanced character creation (including face mapping and trick creation).", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106410-box_thug.png", 
+      "name": "Tony  Hawk's Underground", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Railroad Tycoon 3 eliminates some of tedious micromanagement of previous games in the series, and is the first to use a 3d engine.  Arguably the definitive \"tycoon\" series, anybody interested in strategy games with a single-player focus should find something for them here.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1169/1327645-6381_1.jpg", 
+      "name": "Railroad Tycoon 3", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to Relic Entertainment's award-winning 1999 real-time strategy game, Homeworld 2 was released in 2003, and features gameplay and interface adjustments, enhanced visuals, and a new single-player campaign.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10779, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5370/1452190-hw2_us.jpg", 
+      "name": "Homeworld 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Angel of Darkness is the sixth game in the Tomb Raider series, and the first for the PlayStation 2. It features a lot of design differences and is widely considered the weakest game in the series.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1881092-box_traidertaod.png", 
+      "name": "Lara Croft Tomb Raider: The Angel of Darkness", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10781, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276111-box_wbu.png", 
+      "name": "Wakeboarding Unleashed featuring Shaun Murray", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth Pro Skater game changes up the single-player structure, while making some tweaks and additions to the established skating gameplay.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10782, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106409-box_thps4.png", 
+      "name": "Tony Hawk's Pro Skater 4", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 54, 
+          "name": "Zodiac", 
+          "short": "ZOD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A spin off of the Tony Hawk Pro Skater series and part of Activision's O2 line of extreme sports games, Kelly Slater's Pro Surfer is a surfing game in which allows players experience the thrill of riding the waves from the comfort of their living room.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3498/611822-kelly_slater_27s_pro_surfer_coverart.png", 
+      "name": "Kelly Slater's Pro Surfer", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tony Hawk's Pro Skater 3 brings the skateboarding franchise to the sixth generation of game consoles, bringing new levels, new skaters, new tricks (such as hidden trick variations and the Revert), and online multiplayer.", 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10784, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106408-box_thps3.png", 
+      "name": "Tony Hawk's Pro Skater 3", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}
