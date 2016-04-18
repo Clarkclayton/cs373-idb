@@ -181,13 +181,13 @@ def search(session):
 
         'pokemon': sum(
             [session.query(Pokemon).filter(Pokemon.name.like('%' + str('%'.join(c for c in q)) + '%')).all() for q in
-             refined], []) if len(refined) > 1 else [],
+             refined], []),
         'moves': sum(
             [session.query(Move).filter(Move.name.like('%' + str('%'.join(c for c in q)) + '%')).all() for q in
-             refined], []) if len(refined) > 1 else [],
+             refined], []),
         'type': sum(
             [session.query(Type).filter(Type.name.like('%' + str('%'.join(c for c in q)) + '%')).all() for q in
-             refined], []) if len(refined) > 1 else [],
+             refined], []),
         'search_terms': str(refined)
     }
 
