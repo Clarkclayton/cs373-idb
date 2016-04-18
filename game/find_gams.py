@@ -79,12 +79,19 @@ fs = [
 
 rows = []
 
+ids = []
+
+
 for fn in fs:
     fi = open(str(fn))
     d = json.load(fi)
     for gam in d["games"]:
         if "Pok" in gam["name"] and "mon" in gam["name"]:
-            prow = (gam["id"], fn, gam["name"])
-            rows.append(prow)
-print(tabulate(rows, headers=["Id", "Page", "Name"]))
+            #prow = (gam["id"], fn, gam["name"])
+            #rows.append(prow)
+            ids.append(str(gam["id"]))
+
+print("poke_game_ids = [" + ",".join(ids) + "]")
+
+#print(tabulate(rows, headers=["Id", "Page", "Name"]))
 
