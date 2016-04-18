@@ -1,0 +1,1552 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 368, 
+          "name": "Beenox Studios"
+        }
+      ], 
+      "id": 10785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2757539-pog_logo.gif", 
+      "name": "Pillars of Garendall", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "EVE: Valkyrie (formerly EVE-VR) is a multiplayer dogfighting shooter set in the EVE universe that uses virtual reality to give players the sense of being a real pilot in an EVE Online fighter.", 
+      "developers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ], 
+      "id": 10786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4344/2546886-eve+val+art+2.jpg", 
+      "name": "EVE: Valkyrie", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "DUST 514 is a free-to-play, persistent-world online competitive shooter focused on intense infantry combat augmented by powerful vehicles. It is set in and directly connected to the thriving player driven MMO universe of EVE Online.", 
+      "developers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ], 
+      "id": 10787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478656-box_ed514.png", 
+      "name": "Dust 514", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "EVE Online is a loosely structured science fiction MMORPG published by CCP Games in which players take on the role of a spaceship pilot exploring a colonized galaxy.", 
+      "developers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ], 
+      "id": 10788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/925023-eve2009.jpeg", 
+      "name": "EVE Online", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the supplementary PS Vita game to dust 514. In this game, Dust:514 players create and edit customized fittings (load-outs) with a huge variety of dropsuits, weapons, equipment, modules and vehicles.", 
+      "developers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ], 
+      "id": 10789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103891/2226799-img_0520.jpg", 
+      "name": "Dust 514: Neocom", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The new MMO from CCP, creators of Eve Online, based on the Vampire: The Masquerade setting. The game was officially canceled in April 2014.", 
+      "developers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ], 
+      "id": 10790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/33863/1536120-wodreveal.jpg", 
+      "name": "World of Darkness", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 369, 
+          "name": "CCP Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzle Quest 2 is the long awaited follow up to 2007's Puzzle Quest: Challenge of the Warlords.", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1383045-pq2_box.png", 
+      "name": "Puzzle Quest 2", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Puzzle Chronicles is a puzzle/RPG game in which a player matches gems. Originally released on PSP, it was added to XBLA in Spring 2010.", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10792, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1373244-pchronicles_box.png", 
+      "name": "Puzzle Chronicles", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Infinite Interactive attempts the puzzle scene again with Puzzle Kingdom, which brings you back to the land of Etheria. ", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10793, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6182/916637-puzzlekingdomswii.jpg", 
+      "name": "Puzzle Kingdoms", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take to the depths of space in this Sci-Fi-themed superior sequel to Puzzle Quest: Challenge of the Warlords.", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10794, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894716-box_pqg.png", 
+      "name": "Puzzle Quest: Galactrix", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Neopets and Puzzle Quest collide in this Othello-heavy mashup from Capcom.", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10795, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/30/448803-np_pa_title1.jpg", 
+      "name": "Neopets Puzzle Adventure", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Combining the addictive casual gameplay of puzzle game Bejeweled with a fantasy role-playing game, Puzzle Quest was an unexpected hit on every platform it touched.", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1389043-pquest_box.png", 
+      "name": "Puzzle Quest: Challenge of the Warlords", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Warlords Battlecry III is the third in this fantasy series of real-time strategy games with role-playing elements.", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/692036-box_l.jpg", 
+      "name": "Warlords: Battlecry III", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Warlords IV: Heroes of Etheria is a strategy game for the PC", 
+      "developers": [
+        {
+          "id": 370, 
+          "name": "Infinite Interactive Pty. Ltd."
+        }
+      ], 
+      "id": 10798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1823987-wl4.png", 
+      "name": "Warlords IV: Heroes of Etheria", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new open world RPG by Piranha Bytes, the creators of Gothic and Risen series.", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6162/2774615-8121888869-11692.jpg", 
+      "name": "ELEX", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third game in the Risen series, developed by Piranha Bytes.", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2642257-box_r3tl.jpg", 
+      "name": "Risen 3: Titan Lords", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Piranha Bytes' action-RPG Risen. This time, there be pirates.", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2107225-622499_199750_front.jpg", 
+      "name": "Risen 2: Dark Waters", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ], 
+      "id": 10928, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19154/683442-timegate.png", 
+      "name": "Time-Gate", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Risen is an action-RPG from Piranha Bytes. It takes place on a tropical island.", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1111874-risen_pc.jpg", 
+      "name": "Risen", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gothic 3 is an action RPG in which you can choose to side with Orcs or Humans, deciding the fate of the two races.", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/618107-920920_54699_front_1_.jpg", 
+      "name": "Gothic 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }, 
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gothic II is a computer role-playing game where you assume the role of the Nameless Hero from the original Gothic to save the Island Khorinis and the world of Myrtana.", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/618097-561413_front_1_.jpg", 
+      "name": "Gothic II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Expand the world of Gothic II and find out what happened to Raven and his gang. Explore a new part of Khorinis and learn more about the ancient race that lived there!", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/621961-ravena.jpg", 
+      "name": "Gothic II: Night of the Raven", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Gothic is an open world adventure inspired single player RPG. The game revolves around an unnamed prisoner and his journey through the lands contained in a magical barrier. On his journey he stumbles upon monsters, wizards, camps with lawless men and strange sects.", 
+      "developers": [
+        {
+          "id": 371, 
+          "name": "Pluto 13 GmbH"
+        }
+      ], 
+      "id": 10806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128291/1837361-gothic__cdcovers_cc__front.jpg", 
+      "name": "Gothic", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Fast Food Tycoon is an economic simulation game in which the player put in charge of a local pizzeria and must eventually build up a successful restaurant chain. In Europe it's known as Pizza Syndicate.", 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1247858-6182c4r2nql._ss400_.jpg", 
+      "name": "Fast Food Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2695571-swing+cover+eu.jpg", 
+      "name": "Swing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10809, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Swing Plus: Total Mindcontrol", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ]
+    }, 
+    {
+      "deck": "Build a nautical trading empire.  Based on the board game of the same name.  ", 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/99029/1832071-oceantrader.jpg", 
+      "name": "Ocean Trader", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy game for Amiga and DOS that focuses on the Age of Sail.", 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/803420-999352623_00.gif", 
+      "name": "Exploration", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10812, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/823910-1158653766_00.gif", 
+      "name": "Cubulus", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ]
+    }, 
+    {
+      "deck": "In the game Wild West World, you must build an economic empire during the Wild West. Buy farms and ranches and try and drive your competition out of business by whatever means possible.", 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/806253-1075483226_00.gif", 
+      "name": "Wild West World", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1503825-51m0w6pt0nl._sl500_aa300_.jpg", 
+      "name": "F1 Manager", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10815, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Total Football Management", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Fast Food Tycoon 2 uses the concepts of its predecessor of managing a small pizza business and growing it into an empire, this time as an international chain.", 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/116531/1640512-fastfoodtycoon2.jpg", 
+      "name": "Fast Food Tycoon 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ], 
+      "id": 10817, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Space Marines", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 372, 
+          "name": "Software 2000"
+        }
+      ]
+    }, 
+    {
+      "deck": "Playstation2 version of Quake III: Arena including the add-on Quake III: Team Arena.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2394929-quakeiii_revolution_front_us.jpg", 
+      "name": "Quake III: Revolution", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "SimCoaster is a theme park management simulator.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1503824-101083_sim_city_coaster_pbilimage1.jpg", 
+      "name": "SimCoaster", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quake III: Arena is a popular multiplayer focused first-person shooter from iD Software released in 1999.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2130/611427-q3box.jpg", 
+      "name": "Quake III Arena", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The long awaited sequel to Theme Park by Electronic Arts.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/1105068-themepark.jpg", 
+      "name": "Sim Theme Park", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"It's Good to be Bad\" in Bullfrog's real-time strategy game, Dungeon Keeper 2.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/864/643444-dungeon_keeper_2.jpg", 
+      "name": "Dungeon Keeper 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Populous: The Beginning is the third in Bullfrog's highly acclaimed RTS/God sim series. The first in the series to utilize 3D Graphics, the game places you in the shoes of a female Shaman. Guiding your people through battles against other tribes across multiple worlds.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17557/1131956-populous_front.jpg", 
+      "name": "Populous: The Beginning", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Undiscovered Worlds is the official expansion pack to Electronic Art's 1998 real time strategy game; this mission pack adds 12 new levels and follows the storyline on from Populous: The Beginning.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2864/272371-populous_cover.jpeg", 
+      "name": "Populous: The Beginning: Undiscovered Worlds", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Deeper Dungeons is an expansion to the original Dungeon Keeper that allowed players to return to Hell with a set of new levels and improved AI.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10066/1303144-deeper_dungeons.jpg", 
+      "name": "Dungeon Keeper: The Deeper Dungeons", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "With the tagline \"Evil is Good\", Dungeon Keeper invites players to channel their inner dungeon master by building and sustaining an underground lair replete with evil minions and devious traps, with the ultimate goal of overthrowing the sanctimonious Lords of the Land.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/118253/1699725-dkeeperboxart.png", 
+      "name": "Dungeon Keeper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Theme Hospital is a hospital management simulator designed by Bullfrog Productions, known for its tounge in cheek humour and innovative designs in their games.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/408/187069-theme_hospital.front_cover.jpg", 
+      "name": "Theme Hospital", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771572-syndplus_cover_dos_cdrom_classics_black_box_front_hq.jpg", 
+      "name": "Syndicate Plus", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A real-time strategy game from Bullfrog Productions.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2656718-7461321702-240px.jpg", 
+      "name": "Genewars", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Syndicate Wars is a squad based, futuristic real-time strategy game that has you control a group of four corporate peacekeepers with a variety of high-tech weapons.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8830/673686-syndicatewarsbox.png", 
+      "name": "Syndicate Wars", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hi-Octane is a futuristic racing game with hover cars, similar to the Wipeout games. It's developed by Bullfrog using their Magic Carpet 2 graphics engine.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1665927-hi_octane_the_track_fights_back__box_front.jpg", 
+      "name": "Hi-Octane", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tube is a prototype game made as an entry exam for a new hire at Bullfrog. It was released for free in 1995.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10832, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tube", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game that allows players to fly around environments on a Magic Carpet while gathering mana, casting spells on enemies, and building castles.", 
+      "developers": [
+        {
+          "id": 373, 
+          "name": "Bullfrog Productions, Ltd."
+        }
+      ], 
+      "id": 10833, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3265/653619-magiccii_screen001.jpg", 
+      "name": "Magic Carpet 2: The Netherworlds", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }
+  ]
+}

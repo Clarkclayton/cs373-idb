@@ -1,0 +1,1640 @@
+{
+  "games": [
+    {
+      "deck": "The Fast and the Furious comes to consoles to give users the experience of \"Tokyo Drift,\" which is based off the popular movie of the same name.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16934, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285721-box_tfatf.png", 
+      "name": "The Fast and the Furious", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hummer Badlands is an obscure budget-racing game for the Xbox and Playstation 2 consoles.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16935, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803959-box_hbadlands.png", 
+      "name": "Hummer: Badlands", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The clash of two American titans: the power of General Motors collides with Ford Motor Company in a battle for supremacy.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16936, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803631-box_fvc.png", 
+      "name": "Ford Vs. Chevy", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "More redneck truckers! More roadkill! More skinheads! More mullets! Big Mutha Truckers is back in the form of Big Mutha Truckers 2: Truck Me Harder, a driving/racing game developed by Eutechnyx.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16937, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797953-box_bmt2.png", 
+      "name": "Big Mutha Truckers 2: Truck Me Harder", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game with cars from the Ford company.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16938, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803124-box_fordmtll.png", 
+      "name": "Ford Mustang: The Legend Lives", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Street Racing Syndicate is an Import Tuner racing game that focuses on wowing the ladies", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16939, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1799379-box_srs.png", 
+      "name": "SRS: Street Racing Syndicate", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Total Drivin is an arcade driving game developed by Eutechnyx and released in 1997 for the Playstation.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16942, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/864655-total_drivin_cover.jpg", 
+      "name": "Total Drivin", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game for the Playstation. Official game of Car & Driver.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16943, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16859/547931-grand_tour_racing__ps1_.jpg", 
+      "name": "Car & Driver Presents: Grand Tour Racing '98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game for the PS1 and is also known as Max Power Racing.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16944, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1417162-c3_racing.jpg", 
+      "name": "C3 Racing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Activision's third entry in this racing franchise was shown at E3 '98, but was never released.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16945, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Grand Tour Racing '99", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16946, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/310714-f1worldgrandprix2000ntsel5.jpg", 
+      "name": "F1 World Grand Prix 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A snowboarding game for the PS1 that didn't get a US release.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16947, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1417265-phat_air_extreme_snowboatding.jpg", 
+      "name": "Phat Air: Extreme Snowboarding", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Legend of K-1 Grand Prix '96 is a Kickboxing game, published by Pony Canyon, which was released in Japan in 1997.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16948, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28122/1301461-577717_17664_front.jpg", 
+      "name": "Legend of K-1 Grand Prix '96", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Legend of K-1 The Best Collection is a Kickboxing game, published by Pony Canyon, which was released in Japan in 1997.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16949, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28122/1301467-me0001062714_2.jpg", 
+      "name": "Legend of K-1 The Best Collection", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A shogi game developed by Pony Canyon for the Super Famicom.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16950, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2665481-shogifurinkazansfc.jpg", 
+      "name": "Shogi Furinkazan", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Guide your bubble through the deepest and darkest of places.  Use your ever soft breath to keep the bubble from popping.  As a ghost, your soul will never be free until the bubble is freed.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16951, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1785157-giant_bomb_sub.jpg", 
+      "name": "Bubble Ghost", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Generically-named Shogi game from Pony Canyon.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16952, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2466410-gbshogi.jpg", 
+      "name": "Shogi", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A third shogi instructional game starring the expert player Tanigawa, this one was a Famicom exclusive.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16953, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2465757-3.jpg", 
+      "name": "Tanigawa Kouji no Shogi Shinan III", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Famicom Disk System adventure game where the player must save the big concert of their favorite Japanese rollerskating boy band.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16954, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2375220-hikari_genji_fds.jpg", 
+      "name": "Hikari Genji Roller Panic", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dr. Chaos is a 2D scrolling platformer/adventure game developed by Pony Canyon for the Famicom Disk System. It was later ported onto cart for its American NES release.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16955, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361678-nes_drchaos.jpg", 
+      "name": "Dr. Chaos", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Animal Attack Gakuen is a NES run-and-gun shooter that uses the Z-axis, similarly to Sega's Space Harrier. It was only released in Japan, on December 26th 1987.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16956, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/562629-animal_attack_gakuen_box.jpg", 
+      "name": "Attack Animal Gakuen", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An instructional Shogi game, that teaches the Japanese version of chess. It is hosted by Tanigawa Kouji, a top-tier Shogi player. It was released for the Famicom Disk System, NES and MSX. ", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16957, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364897-fds_tanigawakoujinoshogishinan2_jp.jpg", 
+      "name": "Tanigawa Kouji no Shogi Shinan II", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure platformer for the NES and a very loose remake of Pitfall II: Lost Caverns.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16958, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/238340-super_pitfall.jpg", 
+      "name": "Super Pitfall", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An instructional shogi game for the MSX.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16959, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2465755-1.jpg", 
+      "name": "Tanigawa Kouji no Shogi Shinan", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Back to the Future for the MSX", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16960, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2790069-6030265640-latest", 
+      "name": "Back to the Future", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Hacker is a time-based puzzle game developed in 1985 by activision in which the player hacks into a companies computer system called MAGMA Ltd.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16961, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/630261-948176_104774_front_1_.jpg", 
+      "name": "Hacker", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Help Thomas save the kidnapped Sylvia.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16962, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2414335-spartanx.jpg", 
+      "name": "Jackie Chan in Spartan X", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bard's Tale is a critically acclaimed party-based roleplaying game based loosely on the Dungeons &amp; Dragons rule set, with first-person navigation and text-based combat.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16963, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15437/440794-bards_ta.jpg", 
+      "name": "Bard's Tale", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Originally released on the SG-1000, Champion Soccer was later released on the MSX in 1984. The game is a simplistic soccer simulator.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16964, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1765721-951421_108888_front.jpg", 
+      "name": "Champion Soccer", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Golgo 13: \u014ckami no Su, also known as Golgo 13: Wolf Schanze (\"Golgo 13: Wolf's Lair\"), is adventure game, developed Pony Canyon and released in 1984.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16965, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173584-golgo13_ons_msx.png", 
+      "name": "Golgo 13: \u014ckami no Su", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A simplistic boxing game released on the SG-1000, MSX, and arcade, by Sega in 1983.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16966, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1765795-916301_116343_front.jpg", 
+      "name": "Champion Boxing", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Golgo 13: Moretti Ichizoku Zansatsu Jiken (Golgo 13: Moretti Family Murders) is an adventure game developed by Pony Canyon and released in 1983.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16967, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173585-golgo13_other_fm_7.jpg", 
+      "name": "Golgo 13: Moretti Ichizoku Zansatsu Jiken", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A simple puzzle game created in 1980 by Hiroyuki Imabayashi and published by Thinking Rabbit in 1982.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16968, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173599-sokoban_fm_7.jpg", 
+      "name": "Sokoban", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One of the first Japanese RPG's, and the first game based on the Mission: Impossible franchise. It was notable for replacing the fantasy setting of traditional RPG's with a modern setting.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16969, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2590330-5059933172-spy.j.jpg", 
+      "name": "Spy Daisakusen", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Lunar Pool clone for the MSX. Tracks are always changing and gravity effects the balls.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16970, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1744676-giant_bomb_sub_3.jpg", 
+      "name": "Lunar Ball", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Early and obscure game loosely based on the film \"Cannonball Run 2\". Heavily promoted with Jackie Chan's image in Japan.", 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16971, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2416776-cb2.png", 
+      "name": "Cannon Ball II", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ], 
+      "id": 16972, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/841573-917614_25736_front.jpg", 
+      "name": "Eizo Play: MEGUMI", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG-like legacy-based incremental game.", 
+      "developers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ], 
+      "id": 16973, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/213554/2797788-logo.png", 
+      "name": "The Timeless Battle", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jarokn Cricket 2 is the PC-based sequel to the Android cricket game Jarokn Cricket, both created by Jarokn Games.", 
+      "developers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ], 
+      "id": 16974, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/213554/2600023-jc2box.png", 
+      "name": "Jarokn Cricket 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Stadium Project is a simplistic stadium building game.", 
+      "developers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ], 
+      "id": 16975, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/213554/2600021-tspcover.png", 
+      "name": "The Stadium Project", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Android Cricket game.", 
+      "developers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ], 
+      "id": 16976, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2558962-cricket.png", 
+      "name": "Jarokn Cricket", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mobile game where players save a teddy bear from destruction by animals!", 
+      "developers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ], 
+      "id": 16977, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/213554/2558186-teddybanner.png", 
+      "name": "Don't Touch My Teddy Bear", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tic-tac-toe game with the ability to start your own club.", 
+      "developers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ], 
+      "id": 16978, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Jarokn Tic-Tac-Toe Club", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 602, 
+          "name": "Jarokn Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nightmares From The Deep: The Cursed Heart is a hidden objects game.", 
+      "developers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ], 
+      "id": 16979, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2365854-nightmares_from_the_deep_the_cursed_heart_1.jpg", 
+      "name": "Nightmares From The Deep: The Cursed Heart", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second game in the hidden object series.", 
+      "developers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ], 
+      "id": 16980, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2738174-grim+legends+2+song+of+the+dark+swan.jpg", 
+      "name": "Grim Legends 2: Song of the Dark Swan", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game and the second in the Enigmatis series.", 
+      "developers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ], 
+      "id": 16981, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2639061-enigmatis+the+mists+of+ravenwood.jpg", 
+      "name": "Enigmatis: The Mists of Ravenwood", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nightmares from the Deep 3: Davy Jones is a hidden objects game developed by Artifex Mundi.", 
+      "developers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ], 
+      "id": 16982, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/37609/2777908-davy+jones.jpg", 
+      "name": "Nightmares from the Deep 3: Davy Jones", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }, 
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grim Legends: The Forsaken Bride is a hidden-object game from Artifex Mundi.", 
+      "developers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ], 
+      "id": 16983, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2777800-grim+legends.jpg", 
+      "name": "Grim Legends: The Forsaken Bride", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }, 
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game and the sequel to Nightmares from the Deep: the Cursed Heart.", 
+      "developers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ], 
+      "id": 16984, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633509-nightmares+from+the+deep+the+sirens+call.jpg", 
+      "name": "Nightmares from the Deep 2: The Siren's Call", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A steam punk themed hidden objects game.", 
+      "developers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ], 
+      "id": 16985, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2625195-clockwork+tales+of+glass+and+ink+logo.jpg", 
+      "name": "Clockwork Tales: Of Glass and Ink", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1754 @@
+{
+  "games": [
+    {
+      "deck": "Released in 1981, Jump Bug was the first scrolling platformer.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3993, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2726611-3104151344-42185.jpg", 
+      "name": "Jump Bug", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 85, 
+          "name": "Arcadia 2001", 
+          "short": "A2K1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only Neo Geo Pocket Color game released in 1999.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3994, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1707711-916537_16488_front.jpg", 
+      "name": "Party Mail", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Exciting Soccer is an arcade game made by Alpha Denshi. It was released in 1983.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3995, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6234/1068617-771_1.png", 
+      "name": "Exciting Soccer", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Over Top for the Neo Geo", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3996, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Over Top", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }, 
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "RealSports Basketball was a cancelled installment in Atari's RealSports series. It has since appeared on Game Room and in compilations.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 3997, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/968090-bus.jpg", 
+      "name": "RealSports Basketball", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quiz game based on the popular quiz show Jeopardy! Hosted by Alex Trebek", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 3998, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/20/209593/2718298-1802589874-15074.jpg", 
+      "name": "Jeopardy!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bugs Bunny was a previously unreleased Atari 2600 game. It was finally published in 2002 by homebrewers.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 3999, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2657003-2979520371-BugsB.jpg", 
+      "name": "Bugs Bunny", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Combat Two was an unreleased prototype of a sequel to the popular launch game \"Combat\".", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4000, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14975/1341574-combatboxart3.jpg", 
+      "name": "Combat Two", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A compilation of two classic games, Asteroids and Missile Command, released in 1994 for the Atari Lynx. It was the last game ever released for the system.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4001, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1693534-1.jpeg", 
+      "name": "Super Asteroids & Missile Command", 
+      "platforms": [
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "The arcade follow-up to Pit Fighter, using the same distinctive visual style of digitized fighters in 2D environments. It was developed by Atari Games.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4002, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/68180/1857550-1181242121188.gif", 
+      "name": "Guardians of the 'Hood", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bill S. Preston, Esq., and Ted \"Theodore\" Logan must save the kidnapped princesses.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4003, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/722753-lynxboxfront.jpg", 
+      "name": "Bill & Ted's Excellent Adventure", 
+      "platforms": [
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play the classic lawn sport horse shoes in this Atari developed arcade game.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4004, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/68180/1549323-1181242168239.png", 
+      "name": "Shuuz", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Atari's answer to Sega's After Burner", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4005, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14975/1341634-radarboxart2.jpg", 
+      "name": "Radar Lock", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Games compilation for Atari 2600 and Atari 7800, only released in PAL regions.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4006, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2401694-32in1box.jpg", 
+      "name": "32 in 1 Game Cartridge", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bug Hunt (Atari Corp, 1987) was a light gun game bundled with the Atari XE and the XG-1 light gun peripheral. ", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4007, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117041/1823499-bhtitle.jpg", 
+      "name": "Bug Hunt", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi shooter in which the camera is placed behind the player ship as they shoot down the evil Zylons.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4008, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1357662-solaris_front.jpg", 
+      "name": "Solaris", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4009, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/580171-obelix_front.jpg", 
+      "name": "Obelix", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game adaption of the popular movie. Players have to capture all of the Mogwai.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4010, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366075-a5200_gremlins.jpg", 
+      "name": "Gremlins", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ahead of its time; I, Robot was the first arcade game to feature filled 3D polygons.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4011, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1414/268949-irobot.png", 
+      "name": "I, Robot", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "This shape-based Russian mind-bender set the stage for innumerable puzzle games to follow.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4012, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362306-nes_tetris.jpg", 
+      "name": "Tetris", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third and abruptly final game in the SwordQuest series of contest games.  Players walk around the rooms of the Chakra, gather clues, look up words in their comic book, and enter for a chance to win the $25,000 Crown of Life!", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4013, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8464/842737-b_swordquestwaterworld_silver_front.jpg", 
+      "name": "SwordQuest: WaterWorld", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A extra-rare prototype cartridge. Only one is known to exist.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4014, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/148570/2225810-5200_menu.png", 
+      "name": "5200 Menu", 
+      "platforms": [
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4015, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1357436-snoopyandtheredbaron_front.jpg", 
+      "name": "Snoopy and the Red Baron", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4016, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366224-a5200_realsportssoccer.jpg", 
+      "name": "RealSports Soccer", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Go around the edges of the screen to shoot up at the Captors, rescue Runts, and catch your bullets in this very difficult, and equally rare 2600 action/shooter.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4017, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8464/841919-585001_37945_front.jpg", 
+      "name": "Quadrun", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4018, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1357428-taz_front.jpg", 
+      "name": "Taz", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Krull is a game based on the movie of the same name. Was supposed to be on the Atari 5200, but because of poor sales it was released on the Atari 2600 insted.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4019, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1365994-ev120dqm.jpg", 
+      "name": "Krull", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4020, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27929/1360936-b_sorcerersapprentice_childrens_front.jpg", 
+      "name": "Sorcerer's Apprentice", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Classic arcade game where you, as Bentley Bear, must collect gems while avoiding enemies.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4021, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366060-a5200_crystalcastles.jpg", 
+      "name": "Crystal Castles", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Gun down TIE Fighters, shoot the tips off of towers, and blow up the Death Star in this vector-graphics Star Wars arcade game.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4022, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1252956-starwars1983.jpg", 
+      "name": "Star Wars", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade smurfs game for the Atari 2600.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4023, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/129508/1775947-smurfs_____.jpg", 
+      "name": "The Smurfs: Arcade Action", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4024, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/592621-2600pigsinspacesealedboxed.jpg", 
+      "name": "Pigs in Space", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Asterix for the Atari 2600 was the first video game that starred the popular French cartoon character.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4025, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/634372-box_front.jpg", 
+      "name": "Asterix", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4026, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367822-a2600_realsportstennis_au.jpg", 
+      "name": "RealSports Tennis", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "E.T. The Extra-Terrestrial is an adventure game based on the film of the same name. Its major commercial failure is considered an important factor of the Video Game Crash of 1983 and the collapse of Atari, Inc.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4027, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367692-a2600_ettheextraterrestrial.jpg", 
+      "name": "E.T. The Extra-Terrestrial", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Millipede is the 1982 sequel to Centipede, adding more enemies, ecology behavior, and more gameplay variations, as well as offensive options for the player", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4028, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367725-a2600_millipede_au.jpg", 
+      "name": "Millipede", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball game for the Atari 2600. Nothing more, nothing less.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4029, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366222-a5200_realsportsbaseball.jpg", 
+      "name": "RealSports Baseball", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "As the titular Black Widow, players defend themselves from waves of bugs in this Atari arcade game.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4030, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/89246/1551302-a80blackwidow_large.jpg", 
+      "name": "Black Widow", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Blow up seemingly defenseless seagoing vessels in this naval attack simulator.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4031, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/367167-sub.jpg", 
+      "name": "Submarine Commander", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second of the SwordQuest series, this time it revolves around the Tree of Life. You still complete mini-games to get into rooms to switch objects to get comic book clues to solve the puzzle.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4032, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/966437-sus.jpg", 
+      "name": "SwordQuest: FireWorld", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4033, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/967805-vus.jpg", 
+      "name": "RealSports Volleyball", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Demons to Diamonds is an Atari 2600 title that requires you to shoot a variety of targets in order to score points.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4034, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2488307-demons_to_diamonds.jpg", 
+      "name": "Demons to Diamonds", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players control a small man as he flips the colors on a giant cube.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4035, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/634602-b_atarivideocube_silver_front.jpg", 
+      "name": "Atari Video Cube", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gravitar is a video game released in the arcade in 1982 and ported to the Atari 2600 VCS in 1983.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4036, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/623296-b_gravitar_silver_front.jpg", 
+      "name": "Gravitar", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4037, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/426669-math.jpg", 
+      "name": "Math Gran Prix", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4038, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366223-a5200_realsportsfootball.jpg", 
+      "name": "RealSports Football", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first of the SwordQuest series : you win mini-games and shuffle objects around rooms with the help of the included comic book.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4039, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367839-a2600_swordquestearthworld_2.jpg", 
+      "name": "SwordQuest: EarthWorld", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Yars' Revenge is a popular Atari 2600 game in which the user controls a fly-like creature on a quest for revenge!", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4040, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367848-a2600_yarsrevenge.jpg", 
+      "name": "Yars' Revenge", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Adventure game based on the popular movie", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4041, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367807-a2600_raidersofthelostark.jpg", 
+      "name": "Raiders of the Lost Ark", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players navigate a haunted house in this Atari 2600 horror game.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4042, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367704-a2600_hauntedhouse.jpg", 
+      "name": "Haunted House", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }
+  ]
+}

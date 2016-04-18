@@ -1,0 +1,1334 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133346-box_dmfsbmx3.png", 
+      "name": "Dave Mirra Freestyle BMX 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Punch-Out!! clone for the GBA", 
+      "developers": [], 
+      "id": 24252, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171939/2619143-punch_king.jpg", 
+      "name": "Punch King", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Aggressive Inline takes the gameplay of the Tony Hawk series and applies it to inline skating, adding in an innovative skill progression system for good measure.", 
+      "developers": [], 
+      "id": 24253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133335-box_ainline.png", 
+      "name": "Aggressive Inline", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Headhunter was released for the Sega Dreamcast November 16th 2001, and the Sony PlayStation 2 May 9th 2002.  Headhunter takes place in a near future Los Angeles and tells the story of Jack Wade, a professional bounty hunter. ", 
+      "developers": [], 
+      "id": 24254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428397-box_hh.png", 
+      "name": "Headhunter", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "PlayStation 2 exclusive follow-up to the 1999 game based on the comic books of the same name.", 
+      "developers": [], 
+      "id": 24255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525255-box_sm2sc.png", 
+      "name": "Shadow Man: 2econd Coming", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The arcade-style NBA Jam debuts on the GBA.", 
+      "developers": [], 
+      "id": 24256, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250700-box_nbajam02.png", 
+      "name": "NBA Jam 2002", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pick a BMX rider and ride around 8 different levels to complete challenges or free ride to do crazy tricks.", 
+      "developers": [], 
+      "id": 24257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133345-box_dmfsbmx2.png", 
+      "name": "Dave Mirra Freestyle BMX 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A lacrosse games based on the National Lacrosse League (NLL) with a similar playstyle to games like NFL Blitz.  This game is fully licensed by the Professional Lacrosse Players' Association.", 
+      "developers": [], 
+      "id": 24258, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1221/742142-blast_lacrosse_coverart.jpg", 
+      "name": "Blast Lacrosse", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dave Mirra Freestyle BMX: Maximum Remix was released for the Playstation in 2001.", 
+      "developers": [], 
+      "id": 24259, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133347-box_dmfsbmxmr.png", 
+      "name": "Dave Mirra Freestyle BMX: Maximum Remix", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Do Mary-Kate and Ashley have what it takes to win? No they don't.", 
+      "developers": [], 
+      "id": 24260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1661844-mary_kate_and_ashley_winners_circle_box_front.jpg", 
+      "name": "Mary-Kate and Ashley: Winner's Circle", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Race Ducati super bikes, around the world at famous locations.", 
+      "developers": [], 
+      "id": 24261, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2646/532126-ducat.jpg", 
+      "name": "Ducati World Racing Challenge", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This game presumably involves some sort of detective work.", 
+      "developers": [], 
+      "id": 24262, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/475524-577428_35222_front.jpg", 
+      "name": "Mary-Kate and Ashley: Get a Clue!", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "You race against the clock and through traffic in this arcade style racing game which features a variety of cars from SUV's to Vipers and everything from a stunt mode to Swiss Alp Mountain racing.", 
+      "developers": [], 
+      "id": 24263, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/775363-vanpontcover.jpg", 
+      "name": "Vanishing Point", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24264, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/1252755-freestyle_cover.gif", 
+      "name": "Freestyle Motocross: McGrath vs Pastrana", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Boxing has never been this fun, why because you can fight with best from Roy Jones jr to greatest of all time Ali.", 
+      "developers": [], 
+      "id": 24265, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2646/531979-picturefff.jpg", 
+      "name": "HBO Boxing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pumuckls Abenteuer im Geisterschloss is a German Game Boy Color game based on a cartoon show titled Pumuckls Abenteuer.", 
+      "developers": [], 
+      "id": 24266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2475851-wtf.jpg", 
+      "name": "Pumuckls Abenteuer im Geisterschloss", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "As Dave Mirra and other BMX pros, players perform tricks to reach the top.", 
+      "developers": [], 
+      "id": 24267, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133344-box_dmfsbmx.png", 
+      "name": "Dave Mirra Freestyle BMX", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "In a future world were mankind and dolphins live together as equals, an alien force known as the Foe seeks to end this happy existence. The Foe damages the Earth's defense system, and alters history for the worse. One extraordinary dolphin, Ecco, must travel through time to set things right.", 
+      "developers": [], 
+      "id": 24268, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/779042-eccothedolphin.jpg", 
+      "name": "Ecco the Dolphin: Defender of the Future", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A South Park kart racing game. Race as a variety of characters from the animated series.", 
+      "developers": [], 
+      "id": 24269, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2104759-box_spr.png", 
+      "name": "South Park Rally", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Golf hits the Dreamcast!", 
+      "developers": [], 
+      "id": 24270, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1113764-to.jpg", 
+      "name": "Tee Off", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Shadow Man is loosely based on the Shadowman comic book series published by Valiant Comics.", 
+      "developers": [], 
+      "id": 24271, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525256-box_sman.png", 
+      "name": "Shadow Man", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pumuckls Abenteuer bei den Piraten is a German Game Boy Advance game starring Pumuckl.", 
+      "developers": [], 
+      "id": 24272, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2761906-pumuckls+abenteuer+bei+den+piraten+cover+front.jpg", 
+      "name": "Pumuckls Abenteuer bei den Piraten", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24273, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8134/409492-machines.jpg", 
+      "name": "Machines", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The last game in the Match Day series, published by Acclaim and released on the PC and Playstation.  It's original title, Match Day 3, was changed due to legal troubles.", 
+      "developers": [], 
+      "id": 24274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2673427-0514147967-30862.jpg", 
+      "name": "Super Match Soccer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Acclaim brings the world of dirt bike racing to the PlayStation.", 
+      "developers": [], 
+      "id": 24275, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1095679-jeremy98.jpg", 
+      "name": "Jeremy McGrath Supercross '98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Build homes, build facilities and crush your opponent using any means at hand in this building game.", 
+      "developers": [], 
+      "id": 24276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/725319-6727_boxshot_constructor.jpg", 
+      "name": "Constructor", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "a 3D brawler based on the Crow movie sequel.", 
+      "developers": [], 
+      "id": 24277, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/307553-df_8.jpg", 
+      "name": "The Crow: City of Angels", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the heavily-hyped but critically reviled game Rise of the Robots. This 2D fighter continued the story of the first game, adding new characters, and Mortal Kombat-style finishing moves. Brian May returned to provide some music for the game.", 
+      "developers": [], 
+      "id": 24278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2151947-box_r2r.png", 
+      "name": "Resurrection: Rise 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Magic: The Gathering - BattleMage is a real time strategy game for the PlayStation.  It uses the Magic: The Gathering license, but bears little resemblance to the collectible card game.", 
+      "developers": [], 
+      "id": 24279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1497241-magic_the_gathering_battlemage_ntsc_front.jpg", 
+      "name": "Magic: The Gathering - Battlemage", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Intercompany comic hero crossover.", 
+      "developers": [], 
+      "id": 24280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1982779-box_imxomihm.png", 
+      "name": "Iron Man / X-O Manowar in Heavy Metal", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24281, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2437066-box_dadiabwor.png", 
+      "name": "Iron & Blood: Warriors of Ravenloft", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24282, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Striker '96", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese turn-based strategy game published for the PlayStation in 1996.", 
+      "developers": [], 
+      "id": 24283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/105400/2636195-61-ekizznkl.jpg", 
+      "name": "CRW: Counter Revolution War", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bad Mojo is an adventure game where the player assumes the role of a man that has been transformed in to a cockroach. Gameplay consists of puzzles and exploration with a minimal number of threats.  Bad Mojo also contains several FMV sequences.", 
+      "developers": [], 
+      "id": 24284, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1431524-196680_41738_front.jpg", 
+      "name": "Bad Mojo", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Formula 1 racing with real teams and drivers from the '94 season.", 
+      "developers": [], 
+      "id": 24285, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/728177-1069514636_00.gif", 
+      "name": "F1 World Championship Edition", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game from Domark.", 
+      "developers": [], 
+      "id": 24286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1018477-571217_32794_front.jpg", 
+      "name": "Total Football", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighting game for the Sega Saturn.", 
+      "developers": [], 
+      "id": 24287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2750460-battle+monsters+us+cover+front.jpg", 
+      "name": "Battle Monsters", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/767361-the_itchy_and_sctachy_game.jpg", 
+      "name": "The Itchy & Scratchy Game", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Starfighter 3000, released as Star Fighter on the 3DO is an 3D shoot em up, originally for RISC OS/Acorn computers.", 
+      "developers": [], 
+      "id": 24289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2648950-3dostarfighter3000.jpg", 
+      "name": "Starfighter 3000", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24290, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Marko", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platformer featuring a kid and his magical soccer ball. Marko has to stop a mad scientist pumping any more dangerous mutation-causing sludge into the wildlife.", 
+      "developers": [], 
+      "id": 24291, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56971/2022071-586304_38946_front.jpg", 
+      "name": "Marko's Magic Football", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wolverine is on a mission to find out more about his past in this 16-bit superhero brawler from Bits Studio that covers multiple comic book arcs featuring the angriest (and Canadian-ist) member of the X-Men.", 
+      "developers": [], 
+      "id": 24292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389657-genesis_wolverineadamantiumrage.jpg", 
+      "name": "Wolverine: Adamantium Rage", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The last LJN produced WWF game for consoles.  WWF Raw is a wrestling title based on the WWF's flagship show, Monday Night Raw.", 
+      "developers": [], 
+      "id": 24293, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4600/374665-588867_40505_front.jpg", 
+      "name": "Monday Night Raw", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1993 soccer game for both the Sega Genesis and Super Nintendo. It features 32 national teams and features three separate endorsements for its European release: Ryan Giggs in the UK, Sepp Maier in Germany and the French team Paris Saint-Germain in France.", 
+      "developers": [], 
+      "id": 24294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1791363-champions_world_class_soccer__u_.jpg", 
+      "name": "Champions World Class Soccer", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "WWF Rage in the Cage was the first and only WWF game available on the Sega CD.", 
+      "developers": [], 
+      "id": 24295, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4544/340099-wwf_rage_in_the_cage.jpg", 
+      "name": "WWF Rage in the Cage", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ferrari Grand Prix Challenge is a Formula One game that was released for the NES, Genesis and Game Boy. Features the tracks from the 1991 Formula One season.", 
+      "developers": [], 
+      "id": 24296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370558-genesis_ferrarigrandprixchallenge.jpg", 
+      "name": "Ferrari Grand Prix Challenge", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This bizarre game depicts Bart Simpson's \"Bartman\" alter-ego, originally a throwaway gag on a single episode, as an actual superhero with genuine powers, who must save his idol Radioactive Man from the Limbo Zone, and defeat the evil Brain-O the Magnificent.", 
+      "developers": [], 
+      "id": 24297, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362227-nes_simpsonsbartvsradioactiveman.jpg", 
+      "name": "The Simpsons: Bartman Meets Radioactive Man", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Simpsons themed spoof of American Gladiators for the Game Boy.", 
+      "developers": [], 
+      "id": 24298, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1477594-26b73478c791649df260682dc23687b4_the_simpsons__bart_vs_the_juggernauts.jpg", 
+      "name": "The Simpsons: Bart vs. the Juggernauts", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow up of Bart vs the Space Mutants with improved controls and longevity.", 
+      "developers": [], 
+      "id": 24299, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362226-nes_bartvstheworld_eu.jpg", 
+      "name": "The Simpsons: Bart vs. the World", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "In this Game Boy game, the player must help Bart and Lisa Simpson escape the dreaded Camp Deadly.", 
+      "developers": [], 
+      "id": 24300, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/595/815383-campdeadly.jpg", 
+      "name": "Bart Simpson's Escape from Camp Deadly", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }
+  ]
+}

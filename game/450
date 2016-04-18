@@ -1,0 +1,1313 @@
+{
+  "games": [
+    {
+      "deck": "The sequel to the original Virtua Cop. It is a on rails style shooter and allows the use of peripherals, specifically the light gun.", 
+      "developers": [], 
+      "id": 22442, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1233670-virtua_cop_2_front.jpg", 
+      "name": "Virtua Cop 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22443, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1481606-cheese_cat_astrophe_starring_speedy_gonzales__front_eur_pal_.jpg", 
+      "name": "Cheese Cat-Astrophe starring Speedy Gonzales", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A wargame on the Sega Saturn. Choose to play either as the Americans, Germans, or Japanese and set out as a commander in World War 2 and possibly even change history.", 
+      "developers": [], 
+      "id": 22444, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/775454-iron_storm_us_front.png", 
+      "name": "Iron Storm", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mahou Kishi Rayearth 2: Making of Magic Knight is a Japanese only Game Gear game.", 
+      "developers": [], 
+      "id": 22445, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1728819-mkr2.jpg", 
+      "name": "Mahou Kishi Rayearth 2: Making of Magic Knight", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "X-Men 2: Clone Wars is a side-scrolling action-adventure sequel to the first X-Men game on the Genesis.", 
+      "developers": [], 
+      "id": 22446, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389675-genesis_xmen2clonewars_eu_cropped.jpg", 
+      "name": "X-Men 2: Clone Wars", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The player is called by a mysterious dragon to destroy an empire that is unlocking ancient powers it cannot comprehend.", 
+      "developers": [], 
+      "id": 22447, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2160111-box_pd.png", 
+      "name": "Panzer Dragoon", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An interactive collection of interviews and information about Ayrton Senna, released following his death.", 
+      "developers": [], 
+      "id": 22448, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1672993-ayrton_senna_personal_talk_message_for_the_future_box_front.jpg", 
+      "name": "Ayrton Senna Personal Talk: Message for the Future", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Data East's infamous fighting game Fighter's History makes a return for the Neo Geo in this fast-paced sequel.", 
+      "developers": [], 
+      "id": 22477, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1408690-karnovr_box.jpg", 
+      "name": "Karnov's Revenge", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 108, 
+          "name": "Zeebo", 
+          "short": "ZBO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This unique spin-off of the popular Sonic the Hedgehog franchise was only available in Japan when it was released in 1994 for the Game Gear, but North American and European gamers can find it as an unlockable in both Sonic Adventure DX and Sonic Gems Collection. The game features Sonic's first sidekick, Tails, in a battle to save an island from the evil Wendy Witchcart.", 
+      "developers": [], 
+      "id": 22449, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7383/2312022-tailsskypatrol.jpg", 
+      "name": "Tails' Skypatrol", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Virtual Hydlide is an action-adventure video game for the Sega Saturn console, developed by T&amp;E Soft. It is a remake of the original Hydlide, the first game in the series, but incorporates three-dimensional graphics.", 
+      "developers": [], 
+      "id": 22450, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9058/290323-virtual_hydlide_box_art.jpg", 
+      "name": "Virtual Hydlide", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Ghen War is first person shooter where you pilot a mech-like suit and traverse a multitude of environments to destroy every Ghen alien who turned on you and the rest of your human bretheren. This Sega Saturn exclusive is known for its dynamic soundtrack and landmark terrain deformation.", 
+      "developers": [], 
+      "id": 22451, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4746/612072-915874_54840_front.jpg", 
+      "name": "Ghen War", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"NiGHTS into Dreams...\" is a 3D flying game made by Sonic Team for the Sega Saturn. You play as Nights in order to stop the evil Wizeman and his minions.", 
+      "developers": [], 
+      "id": 22452, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115069-box_nid.png", 
+      "name": "NiGHTS into Dreams...", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22453, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/406537-bwu.jpg", 
+      "name": "Disney's Bonkers: Wax Up!", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22454, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1283962-pebblebeachgolflinks_au_front.jpg", 
+      "name": "Pebble Beach Golf Links", 
+      "platforms": [
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This redone, retextured version of Virtua Fighter was released in arcades an early 1995. Later that year, it was shipped out for free to all US Saturn owners.", 
+      "developers": [], 
+      "id": 22455, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791106-box_vf1r.png", 
+      "name": "Virtua Fighter Remix", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "All was swell for the comic book artist and part-time rock musician Sketch Turner until his apartment got struck by lightning and he gets sucked into his own comic, where he has to fight off mutants and other monstrosities to save himself, as well as \"the girl\".", 
+      "developers": [], 
+      "id": 22456, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370471-genesis_comixzone.jpg", 
+      "name": "Comix Zone", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cosmic Carnage is a 2-D fighting game that pits fugitive prisoners versus soldiers on a damaged ship in space. ", 
+      "developers": [], 
+      "id": 22457, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5578/840370-cosmic_carnage_for_sega_32x.jpg", 
+      "name": "Cosmic Carnage", 
+      "platforms": [
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sega Game Gear platformer starring Ronald, McDonald's spokesman. In Japan, it was called Donald no Magical World.", 
+      "developers": [], 
+      "id": 22458, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/660755-rongame.jpg", 
+      "name": "Ronald McDonald in Magical World", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A GP racing game for the Game Gear.", 
+      "developers": [], 
+      "id": 22459, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/976/1329434-gp_rider.jpg", 
+      "name": "GP Rider", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Virtua Racing Deluxe is a home port of the 1992 arcade hit and a Sega 32X launch title.", 
+      "developers": [], 
+      "id": 22460, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5578/840673-virtuaracingdeluxe32x.jpg", 
+      "name": "Virtua Racing Deluxe", 
+      "platforms": [
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released by Sega in 1994, this was the first 3D football/soccer game and the first texture-mapped 3D sports game, and was a huge success in the arcades.", 
+      "developers": [], 
+      "id": 22461, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/167058/2309636-virtua_striker_1994.jpg", 
+      "name": "Virtua Striker", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The world's leading bio chemist has been kidnapped somewhere in the middle east, and the kidnappers has forced him to come up with a toxic formula that can destroy the world. It's your job to go in and get him.", 
+      "developers": [], 
+      "id": 22462, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1050541-mr.jpg", 
+      "name": "Midnight Raiders", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Motocross Championship is a motocross racing game for the Sega 32X.", 
+      "developers": [], 
+      "id": 22463, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5578/840609-motocrosschampionship32x.jpg", 
+      "name": "Motocross Championship", 
+      "platforms": [
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Mansion of Hidden Souls is the sequel to the Sega CD game, Mansion of Hidden Souls. Although they share similar names in the United States, they are in fact, different games.", 
+      "developers": [], 
+      "id": 22464, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1780802-mansat.jpg", 
+      "name": "The Mansion of Hidden Souls", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This was the 1994 version of the RBI Baseball Series. ", 
+      "developers": [], 
+      "id": 22465, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/78531/1727364-images.jpg", 
+      "name": "R.B.I. Baseball '94", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mr. X returns, and this time he brought robots! It's up to Axel, Blaze, Skate, and the mysterious cyborg Dr. Zan to put an end to Mr. X's plans once and for all in the final installment of the Streets of Rage trilogy.", 
+      "developers": [], 
+      "id": 22466, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2224352-box_sor3.png", 
+      "name": "Streets of Rage 3", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Action/RPG for the Sega Genesis.", 
+      "developers": [], 
+      "id": 22467, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369737-genesis_beyondoasis.jpg", 
+      "name": "Beyond Oasis", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Virtua Fighter series from Sega's AM2, adding two new fighters to the roster as well as impressive graphics for the time.", 
+      "developers": [], 
+      "id": 22468, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2595079-16193501.jpg", 
+      "name": "Virtua Fighter 2", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Last Armageddon, released in Japan for Sega CD.", 
+      "developers": [], 
+      "id": 22469, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1673158-1232583851164501.jpg", 
+      "name": "After Armageddon", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Game Gear entry in the YuYu Hakusho series is a turn based boxing/fighting game.", 
+      "developers": [], 
+      "id": 22470, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2731376-2816466468-23821.jpg", 
+      "name": "YuYu Hakusho II: Gekitou! Nanakyou no Tatakai", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A light-gun shooter released by Sega in 1994. It was the first texture-mapped 3D shooter, and went on to have a lasting impact on the rail shooter and first-person shooter genres.", 
+      "developers": [], 
+      "id": 22471, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14444/421020-virtua_cop_cover.jpg", 
+      "name": "Virtua Cop", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": ".", 
+      "developers": [], 
+      "id": 22472, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2256746-ayapcboxart.jpg", 
+      "name": "A Year at Pooh Corner", 
+      "platforms": [
+        {
+          "id": 104, 
+          "name": "Sega Pico", 
+          "short": "PICO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jurassic Park: Rampage Edition is the sequel to the original Jurassic Park for the Sega Genesis. The game adopted an open format when choosing missions, as well as retained the ability to play as the Velociraptor or Grant from the first game.", 
+      "developers": [], 
+      "id": 22473, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370679-genesis_jurassicparkrampageedition_ca_cropped.jpg", 
+      "name": "Jurassic Park: Rampage Edition", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22474, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370496-genesis_desertdemolition.jpg", 
+      "name": "Desert Demolition Starring Road Runner and  Wile E. Coyote", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game Freak's pre-Pok\u00e9mon game, Pulseman is a Sonic the Hedgehog like platformer whose level designs emphasize the titular character's electrical abilities.", 
+      "developers": [], 
+      "id": 22475, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371362-genesis_pulseman_jp.jpg", 
+      "name": "Pulseman", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Masked Rider is a full motion video game based on the Japanese drama of the same name. It is notable for being released in the US a couple years before the series even hit America.", 
+      "developers": [], 
+      "id": 22476, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14975/1338289-the_masked_rider.jpg", 
+      "name": "The Masked Rider: Kamen Rider ZO", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bonkers stars Bonkers D. Bobcat, a policeman in training with dreams of becoming head of the police force.  Play in a variety of mini-games that are impossible to lose to ultimately help Bonkers reach his goal.", 
+      "developers": [], 
+      "id": 22478, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4908/286941-bonkerscover.jpg", 
+      "name": "Bonkers", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Formula One World Championship: Beyond the Limit is a F1 racing game for the Sega CD. Developed by Fuji Television Network and published by Sega in 1994. It follows the 1993 F1 season.", 
+      "developers": [], 
+      "id": 22479, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/479150-587949_88031_front.jpg", 
+      "name": "Formula One World Championship: Beyond the Limit", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth and final installment of the Monster World series.", 
+      "developers": [], 
+      "id": 22480, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3017/351046-monster_world_iv_01.jpg", 
+      "name": "Monster World IV", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A brawler for the Game Gear based on the popular anime.", 
+      "developers": [], 
+      "id": 22481, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2731373-5877943057-19977.jpg", 
+      "name": "YuYu Hakusho: Horobishi Mono no Gyakushuu", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Sega CD compilation contains some of the Phantasy Star II text adventures, which were previously released over Sega's MegaNet service.", 
+      "developers": [], 
+      "id": 22482, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2798369-7916919746-31377.jpg", 
+      "name": "Game no Kanzume Vol. 2", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "As bounty hunter Chaz you'll lead a group of adventurers to save your home planet of Motavia and eventually the whole solar system in this acclaimed RPG from Sega. The final game in the Phantasy Star series' canon.", 
+      "developers": [], 
+      "id": 22483, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371338-genesis_phantasystar4_eu_cropped.jpg", 
+      "name": "Phantasy Star IV: The End of the Millennium", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dinosaurs band together to appreciate firearms.", 
+      "developers": [], 
+      "id": 22484, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2235736-4hire.png", 
+      "name": "Tom Mason's Dinosaurs for Hire", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as your favorite NFL teams, as long as they're either the 49er's or Cowboys! Nevermind that play thing either because you really just watch plays! WATCH THE HIDDEN VIDEO!", 
+      "developers": [], 
+      "id": 22485, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1195630-jo.jpg", 
+      "name": "NFL's Greatest: San Francisco Vs. Dallas 1978-1993", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A beat-em-up based on the Mazinger anime and manga franchise.", 
+      "developers": [], 
+      "id": 22486, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371435-mazin_saga2.jpg", 
+      "name": "Mazin Saga Mutant Fighter", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first 3D fighter ever, Virtua Fighter was released by SEGA originally as an arcade title. Spawning 4 proper sequels, the game eventually made its way to home consoles, most notably with a haphazard 32X version. The game was influential in popularizing 3D polygon graphics across the video game industry.", 
+      "developers": [], 
+      "id": 22487, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791105-box_vf1.png", 
+      "name": "Virtua Fighter", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second installment in Sega's licensed football series following Sportstalk Football '93. The title was changed to the simpler NFL Football '94. Football '94 was endorsed by both the NFL and the NFLPA, as such the game contained over 800 players from all 28 teams based on the 1992 season.", 
+      "developers": [], 
+      "id": 22488, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371285-genesis_nflfootball94.jpg", 
+      "name": "NFL Football '94 Starring Joe Montana", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Action is basketball game released for the Sega Genesis in late 1993.", 
+      "developers": [], 
+      "id": 22489, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/264850-nba_action__94.jpg", 
+      "name": "NBA Action '94", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An air combat/racing game similar to Super Mario Kart. Blast your foes away with power ups and finish in a top spot to increase your point standing. Developed by Hammond & Leyland and published by Sega on the Sega CD.", 
+      "developers": [], 
+      "id": 22490, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1056803-ra.jpg", 
+      "name": "Racing Aces", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down Micro Machines clone developed by ASCII Entertainment for the Genesis/Mega Drive. Released in Europe, 1993.", 
+      "developers": [], 
+      "id": 22491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87242/1850613-double_clutch_boxart.jpg", 
+      "name": "Double Clutch", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }
+  ]
+}

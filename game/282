@@ -1,0 +1,1394 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 503, 
+          "name": "Bizarre Creations"
+        }
+      ], 
+      "id": 14034, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Monster Pack Volume 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A touch-based action game from the developers of Guacamelee.", 
+      "developers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ], 
+      "id": 14035, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2729218-screen+shot+2015-02-24+at+7.20.16+pm.jpg", 
+      "name": "Severed", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An upgraded version of Guacamelee!: Gold Edition, complete with all of the DLC, and new levels and abilities exclusive to this version. Known as the definitive version of Guacamelee", 
+      "developers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ], 
+      "id": 14036, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10354/2735073-guacamelee%21_stce_box_art.jpg", 
+      "name": "Guacamelee!: Super Turbo Championship Edition", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of the original Guacamelee!", 
+      "developers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ], 
+      "id": 14037, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/90628/2772306-header_image.jpg", 
+      "name": "Guacamelee! Gold Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Guacamelee! is a side-scrolling Metroidvania style game featuring a luchador on a quest through dual worlds to save El Presidente's daughter.", 
+      "developers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ], 
+      "id": 14038, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2421392-guacamelee_key_art_final.jpg", 
+      "name": "Guacamelee!", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Tales from Space series, this downloadable puzzle-platformer for Sony's PSV handheld sees the player as an ever-hungry blob who wishes to consume all matter on the planet Earth.", 
+      "developers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ], 
+      "id": 14039, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2132207-talesfromspacemutantblobsattackfeaturepic0001.jpg", 
+      "name": "Tales From Space: Mutant Blobs Attack", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "About a Blob is the first entry in the fledgling Tales From Space series. It's a puzzle-platformer about a race of Blobs that eat and grow along the way. Featuring a retro monster movie art style, it supports Single-player and Co-operative gameplay.", 
+      "developers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ], 
+      "id": 14040, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1048/1399999-aboutablobposterthumb.jpg", 
+      "name": "Tales from Space: About a Blob", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 504, 
+          "name": "DrinkBox Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Orion Trail is a single player choose-your-own-space-adventure.", 
+      "developers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ], 
+      "id": 14041, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/29/291401/2775039-6490638002-heade.jpg", 
+      "name": "Orion Trail", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gumtrix is a puzzle game from Schell Games.", 
+      "developers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ], 
+      "id": 14042, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2708015-6507243661-10382.jpg", 
+      "name": "Gumtrix", 
+      "platforms": [
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horizontal shoot 'em up with the ability to transform into enemy ships.", 
+      "developers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ], 
+      "id": 14043, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2628664-header_292x136.jpg", 
+      "name": "Enemy Mind", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rubik's Cube meets Lights Out in this delightful puzzle game.", 
+      "developers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ], 
+      "id": 14044, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341962-innercube1.png", 
+      "name": "Innercube", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tunnel Tail is an RPG where players control the members of the Mouse Tribe as they struggle against the influence of the wicked Lumini.", 
+      "developers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ], 
+      "id": 14045, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2291808-tunneltail.jpg", 
+      "name": "Tunnel Tail", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A new browser-based free-to-play MMO based on The Mummy film franchise.", 
+      "developers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ], 
+      "id": 14046, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1114/1392966-mummy.jpg", 
+      "name": "The Mummy Online", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tropical-themed puzzle game that takes place on a triangular board.", 
+      "developers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ], 
+      "id": 14047, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2288262-triazzleisland.png", 
+      "name": "Triazzle Island", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 505, 
+          "name": "Schell Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game featuring Sherlock Holmes.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14048, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2701429-box_shcap.jpg", 
+      "name": "Sherlock Holmes: Crimes and Punishments", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Magrunner: Dark Pulse is a first-person action puzzle game set in a cyberpunk reimagining of H.P. Lovecraft\u2019s Cthulhu Mythos.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14049, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2531063-box_mdp.png", 
+      "name": "Magrunner: Dark Pulse", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An installment in Frogwares' series of adventure games based on Arthur Conan Doyle's stories. The good detective begins acting very strangely, coming into conflict with the law and his long-time friend Dr. Watson.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14050, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280535-box_ttosh.png", 
+      "name": "The Testament of Sherlock Holmes", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A F2P RTS with MMO aspects. World of Battles features large battles similar to the Total War series. (This product has no relation to World of Warcraft or World of Tanks)", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14051, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/2200410-header_292x136.jpg", 
+      "name": "World of Battles: Morningstar", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sherlock Holmes and the Mystery of Osborne House is a hidden objects game for the DS featuring Sherlock Holmes.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14052, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2315964-sherlock_holmes_ds_and_the_mystery_of_osborne_house_cover.jpg", 
+      "name": "Sherlock Holmes and the Mystery of Osborne House", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A casual Hidden Object adventure where Sherlock Holmes learns time travel and Satanic rituals.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14053, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/2200413-header_292x136.jpg", 
+      "name": "Sherlock Holmes and the Hound of the Baskervilles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sherlock Holmes faces off against history's most notorious serial killer, Jack the Ripper, in an attempt to catch him and put an end to his vicious crimes.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14054, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1820039-box_shvsjtr.png", 
+      "name": "Sherlock Holmes vs. Jack the Ripper", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lead Professor Van Helsing through a story of adventure, romance, mystery and terror all in the name of poking you know who through his forlorn heart and in the end...get the girl, OH MY!", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14055, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29944/896378-drac_ori.jpg", 
+      "name": "Dracula Origin", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take the role of Sherlock Holmes and solve the murder of a young painter, found rolled up inside a Persian carpet.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14056, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18149/1672627-sherlock_holmes_the_mystery_of_the_persian_carpet_17870282.jpg", 
+      "name": "Sherlock Holmes: The Mystery of the Persian Carpet", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sir Arthur Conan Doyle's legendary detective Sherlock Holmes has met his greatest foe: French gentleman burglar Ars\u00e8ne Lupin. The game follows Maurice LeBlanc's penultimate creation as he continuously challenges England's finest to a duel of wits over the nation's most treasured assets.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14057, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35156/1050796-941694_92104_front.jpg", 
+      "name": "Sherlock Holmes: Nemesis", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sherlock Holmes comes across his strangest case yet, when a kidnapping leads him to bloody rituals and cultists set upon reawakening Cthulhu.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14058, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3564/624097-2331.jpg", 
+      "name": "Sherlock Holmes: The Awakened", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14059, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/664508-box_l.jpg", 
+      "name": "80 Days", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14060, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1378613-sherlocksilverpc.jpg", 
+      "name": "Sherlock Holmes: Secret of the Silver Earring", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Click and point style adventure game based on the classic Jules Verne novel \"Journey to the Centre of the Earth.\"", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14061, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/25966/1266769-journey_to_the_center_of_the_earth.jpg", 
+      "name": "Journey to the Center of the Earth", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }, 
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14062, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35156/1227028-sherlockholesvidgame293892.jpg", 
+      "name": "The Mystery of the Mummy", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A casual puzzle and hidden object game from Frogwares.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14063, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/378/2710854-department+42+the+mystery+of+the+nine.jpg", 
+      "name": "Department 42: The Mystery of the Nine", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A casual puzzle adventure game developed by Frogwares.", 
+      "developers": [
+        {
+          "id": 506, 
+          "name": "Frogwares Game Development Studio"
+        }
+      ], 
+      "id": 14064, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/378/2710852-journey+the+heart+of+gaia.jpg", 
+      "name": "Journey: The Heart of Gaia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take on opponents in ten different games with this sequel to Deca Sports.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14065, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250678-box_decasp2.png", 
+      "name": "Deca Sports 2", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Badminton, curling, and other random sporting events show up in Hudson's Deca Sports.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14066, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250677-box_decasp.png", 
+      "name": "Deca Sports", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Wind Island is an action/flight game on the Wii.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14067, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525283-box_wisland.png", 
+      "name": "Wing Island", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sky Odyssey is an action/adventure flight simulator developed by Cross and published by Activision for the Playstation 2. In the game, players fly through the levels in multiple types of aircraft collecting different items and performing certain challenges.\n", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14068, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/536390-sky_odyssey_eu_box_art.jpg", 
+      "name": "Sky Odyssey", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "An aquatic-themed adventure game by Hudson.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14069, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2338662-box.png", 
+      "name": "B.L.U.E. Legend of Water", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D mecha action game for the Sega Saturn.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14070, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1449863-cover.jpg", 
+      "name": "Bulk Slash", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An ultra rare top down shooter that is considered to be one of the most technically impressive games on the PC-Engine CD.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14071, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2338654-box.png", 
+      "name": "Ginga Fukei Densetsu Sapphire", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Hagane is a side-scrolling beat 'em up with a ninja/cyberpunk theme and setting.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14072, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2142838-hagane01.jpg", 
+      "name": "Hagane: The Final Conflict", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game published by Hudson in 1995, based on the popular manga series Kishin Douji Zenki of the early to mid 90's.", 
+      "developers": [
+        {
+          "id": 507, 
+          "name": "CAProductions Co. Ltd."
+        }
+      ], 
+      "id": 14073, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2228916-zsnes.png", 
+      "name": "Kishin Douji Zenki: Batoru Raiden", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Sci-fi MOBA game.", 
+      "developers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ], 
+      "id": 14074, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2728527-shards+of+war.jpg", 
+      "name": "Shards of War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Merc elite is free Moba co-op game.", 
+      "developers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ], 
+      "id": 14075, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2501968-merc+elite.jpg", 
+      "name": "Merc Elite", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play, browser-based MMO from Bigpoint Games based on the Battlestar Galactica television series", 
+      "developers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ], 
+      "id": 14076, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/46619/1402230-bgo.png", 
+      "name": "Battlestar Galactica Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Farmerama is a free to play browser based farming game similar to FarmVille, but it is not nearly as social heavy. The game has over 40 million registered users.", 
+      "developers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ], 
+      "id": 14077, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56742/2505647-farmerama-game-page-artwork-small.jpg", 
+      "name": "Farmerama", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi MMORPG play directly to web browsers.", 
+      "developers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ], 
+      "id": 14078, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2371749-dark_orbit.jpg", 
+      "name": "Dark Orbit", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play browser based MMO based on Game of Thrones.", 
+      "developers": [
+        {
+          "id": 508, 
+          "name": "Bigpoint Games"
+        }
+      ], 
+      "id": 14079, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2253977-got7k03.jpg", 
+      "name": "Game of Thrones: Seven Kingdoms", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In this PlayStation 4 horror game, eight teenagers are being hunted by a serial killer while they stay at a mountain retreat.", 
+      "developers": [
+        {
+          "id": 509, 
+          "name": "Supermassive Games"
+        }
+      ], 
+      "id": 14080, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2805496-until+dawn+v6.jpg", 
+      "name": "Until Dawn", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "An educational Wonderbook game based on the BBC show of the same name. Players use the PS Move to interact with and learn about dinosaurs.", 
+      "developers": [
+        {
+          "id": 509, 
+          "name": "Supermassive Games"
+        }
+      ], 
+      "id": 14081, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2584185-box_wbwwd.png", 
+      "name": "Walking With Dinosaurs", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed by Supermassive Games, The Eternity Clock has players mastering the complex art of time-travel while trying to save the Earth.", 
+      "developers": [
+        {
+          "id": 509, 
+          "name": "Supermassive Games"
+        }
+      ], 
+      "id": 14082, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2340137-doctor.png", 
+      "name": "Doctor Who: The Eternity Clock", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The stakes are raised in this second PlayStation Move-focused Start the Party release.", 
+      "developers": [
+        {
+          "id": 509, 
+          "name": "Supermassive Games"
+        }
+      ], 
+      "id": 14083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2067499-stp.png", 
+      "name": "Start the Party: Save the World", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }
+  ]
+}

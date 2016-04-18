@@ -1,0 +1,1573 @@
+{
+  "games": [
+    {
+      "deck": "In the sixth entry in the popular horror franchise, Leon S. Kennedy is sent to investigate when the President's daughter is kidnapped by terrorists with an unclear agenda. With the game receiving a complete overhauling from previous titles, and a story unrelated to the T-virus or the Umbrella Corporation, Resident Evil 4 is one of the most lauded action games ever made.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7939, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2566479-re4.jpg", 
+      "name": "Resident Evil 4", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced version of AEUG vs. Titans DX, Gundam vs. Zeta Gundam is the second and last \"Gundam vs\" game to see a Western release.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7940, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2421674-box_msggvzg.png", 
+      "name": "Mobile Suit Gundam: Gundam vs. Zeta Gundam", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Link dons a talking hat named Ezlo as he sets out on a quest to save Princess Zelda and defeat the evil wizard, Vaati.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7941, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2119736-box_tloztmc.png", 
+      "name": "The Legend of Zelda: The Minish Cap", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sci-Fi comedy video game developed by Capcom where players take on the role of the alien Cosmi and learn mischief by going to Earth and causing mass panic.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7942, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276108-box_uts.png", 
+      "name": "Under the Skin", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Hunter is a RPG for the PlayStation 2 in which you play as a Hunter who hunts monsters", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7943, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092599-box_mhunter.png", 
+      "name": "Monster Hunter", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only Mario Party game released for arcades. Up to sixteen players can use one machine simultaneously in various minigames. It is based on Mario Party 8, but includes many significant differences.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7944, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1099/1263858-capcome.jpg", 
+      "name": "Mario Party Fushigi no Korokoro Catcher", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7945, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452884-box_gr.png", 
+      "name": "Glass Rose", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Phoenix Wright: Ace Attorney - Trials and Tribulations is the third entry in Capcom's courtroom adventure series. Uncover the shocking past of Phoenix Wright and Mia Fey in this final courtroom showdown.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7946, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1836594-box_pwaa3.png", 
+      "name": "Phoenix Wright: Ace Attorney - Trials and Tribulations", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hyper Street Fighter II combines the best of the franchise in to one, as you can choose to play as any version of the characters in the series.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7947, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/797004-918998_27035_front.jpg", 
+      "name": "Hyper Street Fighter II: The Anniversary Edition", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gregory Horror Show is a game in which players take on the role of a boy or girl and collect souls from guests staying at a hotel in another dimension.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7948, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452883-box_ghs.png", 
+      "name": "Gregory Horror Show", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game of the \"Gundam vs\" series, AEUG vs. Titans covers the Gryps Conflict (the story of Mobile Suit Zeta Gundam).", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7949, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1041247-avt.jpg", 
+      "name": "Mobile Suit Zeta Gundam: AEUG vs. Titans", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Collect hundreds of borgs and battle them out to save the day! And no, this isn't Pokemon.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7950, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452882-box_gforce.png", 
+      "name": "Gotcha Force", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Disney's Hide and Sneak", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7951, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452877-box_dhas.png", 
+      "name": "Disney's Hide and Sneak", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game based on the popular Japanese mixed martial arts federation known as Pride. Published by Capcom in 2003.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7952, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28122/1259213-pridegp2003.jpg", 
+      "name": "Pride GP Grand Prix 2003", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Group S Challenge is a racing game published by Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7953, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797965-box_groups.png", 
+      "name": "Group S Challenge", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chaos Legion puts you in the role of a Knight of the Dark Glyphs, Seig Warheit, who has the power to summon monsters called Legions to aid him battle against hordes of enemies.\nSieg's goal is to stop his former best friend Victor Delacroix from destroying the world.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7954, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117014-box_clegion.png", 
+      "name": "Chaos Legion", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Onimusha Tactics is, as the name implies, a Strategy RPG based on the Onimusha franchise", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7955, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115771-box_onimushat.png", 
+      "name": "Onimusha Tactics", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Street Fighter + Street Fighter II: Championship Edition", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7956, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2343106-capclass1_en.jpg", 
+      "name": "Capcom Arcade Hits Volume 1", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Alyssa Hamilton must uncover the secrets of her family's bloodline while she is pursued by deranged killers throughout different time periods in this survival horror adventure.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7957, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860098-box_ctower3.png", 
+      "name": "Clock Tower 3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Control a massive Vertical Tank in this mech-game from Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7958, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2232814-box_sb.png", 
+      "name": "Steel Battalion", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth game in the Breath of Fire series. It is a... major departure from the series' standard turn-based JRPG roots, to say the least.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7959, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117013-box_bofdq.png", 
+      "name": "Breath of Fire: Dragon Quarter", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Ace Attorney franchise, you reprise your role as Phoenix Wright and take on new cases meeting characters new and old.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7960, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1836593-box_pwaa2.png", 
+      "name": "Phoenix Wright: Ace Attorney - Justice For All", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capcom vs. SNK is a fighting game published for the systems SEGA Dreamcast and PSone. It's an update of Capcom Vs SNK.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7961, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179473-box_cvsp.png", 
+      "name": "Capcom vs. SNK: Millennium Fight 2000 Pro", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Disney's Magical Mirror Starring Mickey Mouse is an adventure game developed by Capcom exclusively for the Nintendo GameCube.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7962, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452878-box_dmmsmm.png", 
+      "name": "Disney's Magical Mirror Starring Mickey Mouse", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japan-exclusive Beat-'Em-Up video game released by Capcom in 2002.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7963, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2134383-jojo.jpg", 
+      "name": "JoJo no Kimyou na Bouken: Ougon no Kaze", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game based on the Ashita no Joe anime.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7964, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2708978-5843910807-31327.jpg", 
+      "name": "Ashita no Joe 2: The Anime Super Remix", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sixth installment of the Mega Man X series (and the last 32-bit entry in the series), Mega Man X6 has the titular X investigating a new virus known as \"Nightmare\", supposedly caused by the \"ghost\" of Zero.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7965, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806102-box_mmx6.png", 
+      "name": "Mega Man X6", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second (and final) portable spin-off of the Mega Man X series improves vastly upon its predecessor, allowing players to play as either X or Zero to defeat their previous Maverick adversaries and uncover a plot involving the \"DNA Souls\" of fellow Reploids.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7966, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806110-box_mmxt2.png", 
+      "name": "Mega Man Xtreme 2", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Megaman strategy game released only in some parts of Asia. You play as Megaman and are tasked with defeating the 12 Constellation Droids.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7967, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1030446-rmslg_front.jpg", 
+      "name": "Rockman Strategy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Dante, son of the legendary dark knight Sparda, as he takes on the emperor of the demon world, Mundus. With help from the lovely Trish, the Force Edge and his guns, Ebony and Ivory.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7968, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2529764-dmc.jpg", 
+      "name": "Devil May Cry", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Phoenix Wright: Ace Attorney follows a young attorney as he struggles to find his footing and live up to the legacy his mentor left him. Along the way, he encounters a cast of eccentric characters and tough cases.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7969, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1836592-box_pwaa.png", 
+      "name": "Phoenix Wright: Ace Attorney", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7970, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452901-box_opm.png", 
+      "name": "One Piece Mansion", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Geomatrix is a fighting video game developed and published by Capcom for the SEGA Naomi and Dreamcast platforms.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7971, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452888-box_hmg.png", 
+      "name": "Heavy Metal Geomatrix", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capcom's final entry with their collaboration with SNK, completely revamping both the \"Ratio\" team building system (by removing character-specific strength ratings) and the \"Groove\" gameplay style system (by adding new Grooves and Groove-specific fighting mechanics).", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7972, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179472-box_cvs2.png", 
+      "name": "Capcom vs. SNK 2: Mark of the Millennium", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Street Fighter II: Turbo Revival is a port of Super Street Fighter II: Turbo released for the Game Boy Advance.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7973, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791312-box_ssf2tr.png", 
+      "name": "Super Street Fighter II: Turbo Revival", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Puzzle Fighter II X: For Matching Service is an online-enabled port of Capcom's puzzle fighting game with numerous bonus modes and features, exclusively for the Dreamcast.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7974, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/307055-pf2.jpg", 
+      "name": "Super Puzzle Fighter II X for Matching Service", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gaia Master Duel Card Attacks is a Japanese only Game Boy Color game.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7975, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2093674-cover.jpg", 
+      "name": "Gaia Master Duel Card Attacks", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Game Boy Advance version of the classic arcade beat'em up, Final Fight.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7976, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452881-box_ffo.png", 
+      "name": "Final Fight One", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Project Justice\" is an action/fighting video game developed and published by CAPCOM for the SEGA Dreamcast and SEGA Naomi (Arcade).", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7977, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452902-box_pj.png", 
+      "name": "Project Justice", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "When a massive space colony is on a collision course towards Earth, it's up to the Maverick Hunters in an attempt to prevent global destruction in the fifth installment of the Mega Man X series.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7978, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806101-box_mmx5.png", 
+      "name": "Mega Man X5", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mega Man 64 is port of the 3D Mega Man Legends that came out on PlayStation a year prior. It comes with new levels and added content, but at the same time lacks some features from the other iterations.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7979, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806076-box_mm64.png", 
+      "name": "Mega Man 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take a journey with Ryu and Fou-lu as they fight against each other in a world torn by war and watched over by mysterious dragons called 'the Endless'.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7980, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117012-box_bof4.png", 
+      "name": "Breath of Fire IV", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capcom's initial entry into their crossover fighting game series with rival SNK, pitting fighters from the Street Fighter and King of Fighters series together in an all-out team-based brawl.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7981, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179471-box_cvs.png", 
+      "name": "Capcom vs. SNK: Millennium Fight 2000", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the first Mega Man Legends.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7982, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806093-box_mml2.png", 
+      "name": "Mega Man Legends 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mega Man X goes portable in the first of two handheld installments of the Mega Man X series, bringing him into cyberspace to face his former Maverick adversaries and take down a mysterious group of hackers (the Shadow Hunters).", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7983, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806109-box_mmxt.png", 
+      "name": "Mega Man Xtreme", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spawn: In the Demon's Hand for the Sega Dreamcast is a 3d action/fighting game, with single player, co-op, and multiplayer modes. \n\n", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7984, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452913-box_sitdh.png", 
+      "name": "Spawn: In the Demon's Hand", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "As Dylan Morton and Regina, fight your through countless dinosaurs to uncover the mystery of how an island was to vanish from the face of the earth.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7985, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1790002-box_dinocr2.png", 
+      "name": "Dino Crisis 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Resident Evil: Survivor is a first person light-gun shooter developed by Capcom which makes use of the GunCon. The game departs from the traditional third person viewpoint used in past games in the series giving it a more arcade feel. GunCon functionality was removed for all of its Western releases.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7986, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1790023-box_resurv.png", 
+      "name": "Resident Evil: Survivor", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Power Stone 2 is a classic 3D fighting arena video game developed by Capcom for the Sega Dreamcast. It is a sequel of the Power Stone released in 1999.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7987, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/609648-frontpowerstone2.jpg", 
+      "name": "Power Stone 2", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Vampire Chronicle For Matching Service allows players to use all characters and fighting styles from the Darkstalkers franchise.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7988, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/402099-vcms.jpg", 
+      "name": "Vampire Chronicle For Matching Service", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }
+  ]
+}

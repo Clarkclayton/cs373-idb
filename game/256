@@ -1,0 +1,1691 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/897937-sw1gung.jpg", 
+      "name": "Star Wars: Episode I - The Gungan Frontier", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A fast paced Star Wars racing game featuring the Pods as seen in the movie Episode I: The Phantom Menace.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787604-box_swe1r.png", 
+      "name": "Star Wars: Episode I - Racer", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12731, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Zehn Adventures", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A LucasArts adventure game that follows skeletal travel agent Manny Calavera's four-year journey across the Land of the Dead in a film-noir-inspired tale of love, betrayal and corruption.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/595/2660822-gffinal+candidate.jpg", 
+      "name": "Grim Fandango", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The expansion to Jedi Knight: Dark Forces II, LucasArts' well-received 1997 Star Wars first-person shooter, Mysteries of the Sith revisits series protagonist Kyle Katarn five years later and introduces a second playable character, Mara Jade.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/607896-mots_box.jpg", 
+      "name": "Star Wars: Jedi Knight - Mysteries of the Sith", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "This expansion to the Lucas Arts' original X-wing game gives players a new campaign featuring the powerful B-wing assault fighter.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/897972-b_wingcover.jpg", 
+      "name": "Star Wars: X-Wing - B-Wing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Curse of Monkey Island is a point and click adventure game from LucasArts. It is the third game in the Monkey Island series and features the swashbuckling theme, eccentric puzzles, and humor that the series is known for.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609057-curse_of_monkey_island_box_front_6552x8298.jpg", 
+      "name": "The Curse of Monkey Island", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battle it out with classic Star Wars characters in classic Star Wars locales in this 3D weapon-based fighting game for the PlayStation.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787606-box_swmotk.png", 
+      "name": "Star Wars: Masters of Ter\u00e4s K\u00e4si", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12736, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Outlaws: Handful of Missions", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "The followup to 1995's Dark Forces, Star Wars Jedi Knight: Dark Forces II is a first-person shooter set within the Star Wars universe. Its story revolves around Kyle Katarn, who must discover his latent connection to the Force in order to combat seven powerful Sith Lords.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/608028-darkforces2box.jpg", 
+      "name": "Star Wars: Jedi Knight - Dark Forces II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A western first-person shooter developed by LucasArts, Outlaws follows the tale of James Anderson, a retired Marshall who returns to his gunslinging ways in order to save his daughter.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/913/663212-250px_outlawslucasartsboxcover.jpg", 
+      "name": "Outlaws", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars: Yoda Stories is an adventure game in which the player assumes control of a young Luke Skywalker and sticks out his lightsaber to adjacent cells.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/898127-39287_50114_front.jpg", 
+      "name": "Star Wars: Yoda Stories", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Afterlife is a city-building god game developed and published in 1996 by LucasArts for the PC and Mac. The game required players to build a functional and efficient version of both heaven and hell and featured a satirical take on concepts taken from western religions.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4/1104084-afterlife_pc_jc_f.jpg", 
+      "name": "Afterlife", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the earliest Nintendo 64 action games puts players into the role of mercenary Dash Rendar in this hybrid third-person shooter and flight combat game based on the Star Wars expanded universe project of the same name.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/610322-star_wars___shadows_of_the_empire_coverart.png", 
+      "name": "Star Wars: Shadows of the Empire", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Indiana Jones and His Desktop Adventures is a overhead 2D-action adventure game released on the PC and Macintosh by Lucas Arts in 1996. Arguably it's most notable feature is that the plot, map size, and item locations are randomly generated at the beginning of the game.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6357/198982-indianajonesandhisdesktopadventures.png", 
+      "name": "Indiana Jones and His Desktop Adventures", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Help defend humanity from the evil Space Slug forces in this 1996 adventure game for the SNES", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363659-snes_bigskytrooper.jpg", 
+      "name": "Big Sky Trooper", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rebel Assault II puts you in the flight suit of Rookie 1 as he assists the Rebel Alliance in uncovering information about a new TIE-Fighter prototype being tested by the Empire.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5258/279971-starwars.jpg", 
+      "name": "Star Wars: Rebel Assault II - The Hidden Empire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A classic sci-fi adventure game from LucasArts and Steven Spielberg, using the SCUMM engine.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609591-the_dig_box_front_6570x8280.jpg", 
+      "name": "The Dig", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "This post-apocalyptic adventure game from LucasArts follows a tough-as-nails biker named Ben, leader of the Polecats, a motorcycle gang.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609205-full_throttle_box_front_6552x8244.jpg", 
+      "name": "Full Throttle", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Metal Warriors is mech combat 2-d Side scroller in which the player pilots several mecha in either single player or 2 player versus player mode.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363974-snes_metalwarriors.jpg", 
+      "name": "Metal Warriors", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1995 first-person shooter by LucasArts, released for PCs and the PlayStation. It stars Imperial officer turned mercenary Kyle Katarn, who is hired by the Rebel Alliance to investigate and dismantle a secret Imperial weapons program.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/620573-dark_forces_box_cover_760874.jpg", 
+      "name": "Star Wars: Dark Forces", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12749, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "5 Pack Limited Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 1994 sequel to LucasArts' Zombies Ate My Neighbors. Join Zeke and Julie once again as another horrible evil is unleashed upon their town.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363850-snes_ghoulpatrol_eu.jpg", 
+      "name": "Ghoul Patrol", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The last game of the Super Star Wars platform franchise for the SNES.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364848-snes_superreturnofthejedi.jpg", 
+      "name": "Super Star Wars: Return of the Jedi", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Instruments of Chaos Starring Young Indiana Jones is an action/adventure game with platforming elements. In it you control the titular character through missions around the world.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6357/199500-instrumentsofchaos.jpg", 
+      "name": "Instruments of Chaos Starring Young Indiana Jones", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/897939-tie_fighter_defender.jpg", 
+      "name": "Star Wars: TIE Fighter - Defender of the Empire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tale about love, country-western music and bigfoots, Sam &amp; Max Hit the Road is a point-and-click adventure game from LucasArts.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12754, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609065-hit_the_road_box_front_6498x8205.jpg", 
+      "name": "Sam & Max Hit the Road", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platform action game for the SNES released in 1993 that follows the events of the second Star Wars film, Episode V: The Empire Strikes Back.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364849-snes_superempirestrikesback.jpg", 
+      "name": "Super Star Wars: The Empire Strikes Back", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Star Wars : Rebel Assault follows the story of Rookie One; a Rebel pilot in training, and his fight against the Empire. Both from the cockpit of a fighterplane and on foot.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/647288-swrebel1.jpg", 
+      "name": "Star Wars: Rebel Assault", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Zeke or Julie through 55 deadly levels of Zombies Ate My Neighbors! Destroy zombies with a squirt gun full of holy water!", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12757, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389680-genesis_zombiesatemyneighbors.jpg", 
+      "name": "Zombies Ate My Neighbors", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Day of the Tentacle is a point-and-click adventure game that follows Bernard Bernoulli, Laverne, and Hoagie as they try to prevent Purple Tentacle from taking over the world.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609071-day_of_the_tentacle_box_front_6534x8205.jpg", 
+      "name": "Maniac Mansion: Day of the Tentacle", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/897903-x_wing_imperial.jpg", 
+      "name": "Star Wars: X-Wing - Imperial Pursuit", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Star Wars is an action platformer (including vehicular combat levels) for the Super Nintendo Entertainment System based on the 1977 film Star Wars Episode IV: A New Hope.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364847-snes_superstarwars.jpg", 
+      "name": "Super Star Wars", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Indiana Jones follows an ancient medallion around the world to discover the secret of Atlantis before the Nazis can wield its terrible power in this classic LucasArts point-and-click adventure.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4364/217929-indiana_jones_atlantis_1.jpg", 
+      "name": "Indiana Jones and the Fate of Atlantis", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Luke Skywalker as you fight your way through the Battle of Hoth, travel through the swamps of Dagobah, and explore Cloud City", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362259-nes_starwarstheempirestrikesback.jpg", 
+      "name": "Star Wars: The Empire Strikes Back", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This game, based on Star Wars Episode IV: A New Hope, features both platforming and shooting segments.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362258-nes_starwars.jpg", 
+      "name": "Star Wars", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first game in the legendary Monkey Island series. Guybrush's desire to become a swashbuckling pirate gets him more adventure than he bargained for. ", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609632-secret_of_monkey_island_box_front_6588x8280.jpg", 
+      "name": "The Secret of Monkey Island", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 127, 
+          "name": "Commodore CDTV", 
+          "short": "CDTV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 2D platformer where the task is to keep a temperamental piece of factory equipment pumping out LucasFilm toys.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/714551-night_shift_uk_box_art.jpg", 
+      "name": "Night Shift", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A classic graphic adventure game from LucasArts. In Loom, classic point and click gameplay is combined with a musical interface.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609394-loom_box_front_6552x8262.jpg", 
+      "name": "Loom", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 127, 
+          "name": "Commodore CDTV", 
+          "short": "CDTV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Authentic WWII flight sim.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1543/533010-their_finest_hour.jpg", 
+      "name": "Their Finest Hour: The Battle of Britain", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Indiana Jones and The Last Crusade: The Graphic Adventure was developed by LucasArts and is a recreation of the third Indiana Jones film in adventure game form.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609329-last_crusade_box_front_6390x8118.jpg", 
+      "name": "Indiana Jones and The Last Crusade: The Graphic Adventure", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 127, 
+          "name": "Commodore CDTV", 
+          "short": "CDTV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the first publicly available virtual worlds, Club Caribe was a player-governed island resort available to subscribers of Quantum Link.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1715533-clubcarfront.gif", 
+      "name": "Club Caribe", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take on the role of an American or Japanese pilot in the Pacific during World War II.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/714266-bh1942_f.jpg", 
+      "name": "Battlehawks 1942", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Created by LucasArts in 1988, Zak McKraken and the Alien Mindbenders follows Zak in an attempt to meet girls and stop evil aliens.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2277758-zak.jpg", 
+      "name": "Zak McKracken and the Alien Mindbenders", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Strike Fleet is a naval military simulator in which the player commands a fleet of warships in real-time through a series of missions inspired by real-life conflicts.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12773, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Strike Fleet", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Maniac Mansion is a graphic adventure game originally released in 1987 by Lucasfilm Games. When the innocent Sandy is kidnapped by the maniacal Dr. Fred, it's up to her boyfriend Dave and his friends to  her from certain death!", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/609469-maniac_mansion_box_front_6570x8262.jpg", 
+      "name": "Maniac Mansion", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first graphical character-based interactive environment, supported up to 64 simultaneous players.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17724/1751933-habitat_cover.jpg", 
+      "name": "Habitat", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An adventure game based on the David Bowie film of the same name.", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9597/1080439-1.jpg", 
+      "name": "Labyrinth: The Computer Game", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12777, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "PHM Pegasus", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Explore caves in an alternate dimension in the mysterious Eidolon vehicle", 
+      "developers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ], 
+      "id": 12778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2238/457902-eidolon_msx_1.png", 
+      "name": "The Eidolon", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }
+  ]
+}

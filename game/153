@@ -1,0 +1,1477 @@
+{
+  "games": [
+    {
+      "deck": "Bizarre Breakout clone.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7590, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2347806-vbb.png", 
+      "name": "Vs Block Breaker", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A significantly upgraded version of Jackie Chan - The Kung-Fu Master, Fists of Fire is a 2-D fighting game starring digitized versions of Jackie Chan along with other competitors.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7591, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/510/1186596-picture_2.png", 
+      "name": "Jackie Chan in Fists of Fire", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Blood Warrior is a 1994 fighting game with digitized graphics. It served as a spiritual successor to their earlier Shogun Warriors game, and sports many similar characters and themes.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7592, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2485394-bwar.png", 
+      "name": "Blood Warrior", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Help the Cheetos mascot escape his imprisonment in the Four Corners Zoo by searching for motorcycle parts in this advergame platformer.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7593, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370449-genesis_chestercheetahtoocooltofool.jpg", 
+      "name": "Chester Cheetah: Too Cool to Fool", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second 16-bit game featuring Cheetos' mascot Chester Cheetah. A game that teaches us all about life, liberty, and the health benefits of orange, cheese flavored puffed corn treats.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7594, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370448-genesis_chestercheetahwildwildquest.jpg", 
+      "name": "Chester Cheetah: Wild Wild Quest", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Nexzr is a vertical shooter released in '92 for the TurboGrafx CD.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7595, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126310/2708422-6839610206-COVER.jpg", 
+      "name": "Nexzr", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 2D fighter where you play as the martial artist Joe against fighters from around the world in single-player or fight against your friends in the versus mode.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7596, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364622-snes_powermoves.jpg", 
+      "name": "Deadly Moves", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical-scrolling shoot 'em up and Star Soldier spin-off that satirizes the series in much the same way that Konami's Parodius satirizes their Gradius series. Playable characters include a giant winged Bomberman and a sentient PC Engine.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7597, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/293841-starp.jpg", 
+      "name": "Star Parodier", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game released by Simulmondo in 1991, 1000 Miglia - literally \"1000 Miles\" is a racing game based in Italy.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7598, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2109722-2.png", 
+      "name": "1000 Miglia", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7599, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30086/1044853-genkagekifistsofsteel.jpg", 
+      "name": "Ka\u2022Ge\u2022Ki: Fists of Steel", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19500, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1709554-143000075.jpg", 
+      "name": "Ch\u014d Aniki: Otoko no Tamafuda", 
+      "platforms": [
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "As meat-loving caveman Bonk, the player battles egg-headed enemies and dastardly dinosaurs on their quest to rescue Princess Za from the clutches of the villainous and tyrannosaurus King Drool.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7601, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365513-tg16_bonksadventure.jpg", 
+      "name": "Bonk's Adventure", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horizontal-scrolling Arcade shoot 'em up developed by Kaneko. It saw home conversions for the TurboGrafx-16 and Genesis (on the Genesis it is known as Air Buster).", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7602, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365508-tg16_aeroblasters.jpg", 
+      "name": "Aero Blasters", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Qix gets naughty in this bar-worthy arcade game.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7603, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1708074-gals_panic.jpg", 
+      "name": "Gals Panic", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical-scrolling shoot 'em up and part of the Star Soldier franchise.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7604, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2718857-3721940001-51907.jpg", 
+      "name": "Super Star Soldier", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling shoot 'em up for the Arcade and PC-Engine published by Taito in 1989. The player controls the eponymous Heavy Unit: a ship that can transform into a mecha.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7605, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15864/515670-heavy.jpg", 
+      "name": "Heavy Unit", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Jump Coaster is a platforming game on the MSX and Arcade.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7606, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1767265-jc.jpg", 
+      "name": "Jump Coaster", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "B. Rap Boys, created by Kaneko,  is a side scrolling beat-em' up  arcade game that was released in 1992.  It featured near CD quality music with vocals.   ", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7607, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3492/292003-b_rap.jpg", 
+      "name": "B. Rap Boys", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A canceled SNES game in which you played as Bill Clinton's cat, Socks. Although it was completed, it was never released because of political controversy.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7608, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/70266/1703775-42401.jpg", 
+      "name": "Socks the Cat Rocks the Hill", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7609, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1794848-heavy.jpg", 
+      "name": "Heavy Unit: Mega Drive Special", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Japan-only strategy game for the PS1.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7610, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97921/2303183-573103_13004_front_1_.jpg", 
+      "name": "Hiza no Ue no Partner: Kitty on Your Lap", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "DJ Boy is a side-scrolling Beat 'em up, released in 1989 by Kaneko for the Arcade, and later, Genesis.  The game features a uniquely Japanese take on mid-to-late 80s Hip-hop/Urban culture.  You play as DJ Boy, a rollerskater hoping to win the \"Rollergame\" fight-race competition in Cigaretch city.", 
+      "developers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ], 
+      "id": 7611, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370500-genesis_djboy_eu.jpg", 
+      "name": "DJ Boy", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Scribblenauts game that features DC Comics characters. About 2,000 characters in total, supposedly all of them. Also included is a Hero Creator that lets players make their own Hero and a procedural puzzle generator that makes a new puzzle every time a map is loaded.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7612, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2551488-scribunclean.jpg", 
+      "name": "Scribblenauts Unmasked: A DC Comics Adventure", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Scribblenauts Unlimited is the 4th game in the Scribblenauts franchise from 5th Cell and WB Games.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7613, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2711046-scribunl.jpg", 
+      "name": "Scribblenauts Unlimited", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "When an alien bacteria infects and takes over half the population of the Earth, the other half aren't going to go down without a fight. This online multiplayer shooter from 5th Cell depicts the war between the Variant alien-human hybrids and the Paladin, the remaining humans immune to the pathogen.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7614, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2232810-box_hybrid.png", 
+      "name": "Hybrid", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ]
+    }, 
+    {
+      "deck": "This iOS platformer features new levels updated weekly from developer 5th Cell.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7615, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2270/2099694-runroorun1.jpg", 
+      "name": "Run Roo Run", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ]
+    }, 
+    {
+      "deck": "A \"best of\" version of the Scribblenauts franchise, Scribblenauts Remix is a mobile-exclusive game in which players once again take on the role of Maxwell in order to solve various puzzles. With words!", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7616, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2505050-iconlarge5x5.png", 
+      "name": "Scribblenauts Remix", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Building upon the innovative Scribblenauts, the sequel brings adjectives, vastly improved controls, and deeper levels and puzzles. Adjectives modify game objects in realistic ways, allowing players to make use of Angry Fridges and Gentlemanly Raptors as they progress through over 100 levels.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7617, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1836600-box_ssnauts.png", 
+      "name": "Super Scribblenauts", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Sequel To the original Drawn To Life. The sequel is much like the original but it gives you more freedom on how your make your hero and objects. ", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7618, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291734-box_dtltnc.png", 
+      "name": "Drawn to Life: The Next Chapter", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed by 5th Cell Media, Scribblenauts is a puzzle-action game for the Nintendo DS in which players can spawn thousands of objects from a vast database to aid in solving puzzles and overcoming obstacles... or just dicking around in silly and hilarious ways. The choice is yours!", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7619, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1836599-box_snauts.png", 
+      "name": "Scribblenauts", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lock's Quest is a tower defense game for the NDS from 5th Cell Media, featuring real-time strategy, RPG and action game mechanics.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7620, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2267440-229650-lq_ds_fob_rgb.jpg", 
+      "name": "Lock's Quest", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Drawn To Life is a game that lets you create your character from scratch by drawing them with the DS stylus.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7621, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291733-box_dtl.png", 
+      "name": "Drawn to Life", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "D.N.A. is a puzzle game where you combine cells and proteins in order to make chain reactions and build cell structures.  There are also viruses that attack and contaminate your cell structures.", 
+      "developers": [
+        {
+          "id": 266, 
+          "name": "5th Cell Media"
+        }
+      ], 
+      "id": 7622, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1134788-dna_box.jpg", 
+      "name": "D.N.A.", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Using explosives, players must destroy enemies that are lurking within a computer.", 
+      "developers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ], 
+      "id": 7623, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/798542-1170833960_00.png", 
+      "name": "Bug Bomber", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ], 
+      "id": 7624, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Scrolling Walls", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fortress Underground is a sidescroller in which the player controls a chopper flying through an underground cave facing hostile cannons and units while avoiding a fuel shortage.", 
+      "developers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ], 
+      "id": 7625, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1665915-571338_915_front.jpg", 
+      "name": "Fortress Underground", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ], 
+      "id": 7626, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/277322-emerald_mines_cover.jpg", 
+      "name": "Emerald Mine", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ], 
+      "id": 7627, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34998/1493573-1812_1.jpg", 
+      "name": "Zaga Mission", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Horizontal scrolling shoot 'em up developed and released by Apogee in 1996. It has the distinction of being the last title published under the Apogee brand.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7628, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10906/1452516-stargunner_box.jpg", 
+      "name": "Stargunner", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fantasy platformer for DOS systems.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7629, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/368831-1158268971_07.png", 
+      "name": "Realms of Chaos", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade-style over-the-top spiritual sequel to Wolfenstein 3D that introduced various features to the first-person shooter genre.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7630, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525236-box_rottdw.png", 
+      "name": "Rise of the Triad: Dark War", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7631, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "ScubaVenture The Search For Pirate's Treasure", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 141, 
+          "name": "Softdisk Publishing"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this 1993 release, Duke Nukem returns for another side scrolling adventure where he must stop an alien invasion of earth.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7632, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/314481-duke2.jpg", 
+      "name": "Duke Nukem II", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D sci-fi side scrolling shooter, where Snake Logan is pitched against alien forces and must save the day.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7633, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/572137-bimepc001.jpg", 
+      "name": "Bio Menace", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror themed side-scrolling action game that stars Johnny Dash, who rescues animals and avoids monsters.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7634, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2339309-box_mbash.png", 
+      "name": "Monster Bash", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D vertical shooter for DOS from Apogee.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7635, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6056/1274460-majorstryker1.jpg", 
+      "name": "Major Stryker", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Secret Agent is a game developed and published by Apogee Software. Secret Agent was a series containing three shareware games; the first in the series was free, but two and three needed to be paid for.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7636, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/64555/1282074-screenshot640_secretagent3.png_.png", 
+      "name": "Secret Agent", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Nevada Smith, an adventurer searching for Viking treasure in the Arctic, in this four volume episodic game.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7637, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/1630771-76433_arctic_adventure_dos_screenshot_title_screen.gif", 
+      "name": "Arctic Adventure", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Help Mylo Steamwitz get enough money to cash in on the latest fad by plundering an abandoned, yet profitable series of crystal mines.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7638, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2713445-0996951878-fptqB.jpg", 
+      "name": "Crystal Caves", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A shareware puzzle game released by Apogee.", 
+      "developers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ], 
+      "id": 7639, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2360186-pagatitle.jpg", 
+      "name": "Paganitzu", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }
+  ]
+}

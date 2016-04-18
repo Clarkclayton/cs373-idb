@@ -1,0 +1,1490 @@
+{
+  "games": [
+    {
+      "deck": "As Shoko Ozoro, President of New Japan, players must pilot a futuristic mech suit in order to assault the vile enemy who took control of Japan and suppressed the will of the people.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3490, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2349930-image2.png", 
+      "name": "Liberation Maiden", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Gundam AGE is a Level-5 Action RPG based on the anime of the same name. The game is split into two versions, with each offering separate content based on other Gundam series.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2211165-gundamageuacd.jpg", 
+      "name": "Mobile Suit Gundam AGE: Universe Accel/Cosmic Drive", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A cinematic adventure game developed by Level-5 and Jiro Ishii, the man behind 428.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3492, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2759595-main2.jpg", 
+      "name": "Time Travelers", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced port for Nintendo 3DS of the original Danball Senki game, in which miniature mechs do battle in cardboard arenas. Nintendo released the game in NA on August 21, 2015 and is releasing it in EU on September 4, 2015.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3493, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2763721-lbx.jpg", 
+      "name": "LBX: Little Battlers eXperience", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Upcoming 3DS game from Level 5. Actually four games in one, each individual game has a very different design and direction. Suda 51, Yoshiyuki Hirai, Yoot Saito &amp; Yatsumi Matsuno are leading one project each.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3494, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2169417-guild01.png", 
+      "name": "Guild 01", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A social card role-playing video game in the Ni no Kuni franchise.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3495, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9536/2794902-6293140083-200px.png", 
+      "name": "Ni no Kuni: Daibouken Monsters", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Second Wii Inazuma Eleven offering.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3496, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2459946-inazuma2012.jpg", 
+      "name": "Inazuma Eleven Strikers 2012 Xtreme", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the fourth game in Level 5's successful soccer RPG series and the first to be released on the Nintendo 3DS. It's set 10 years after the events of the first trilogy and revolves around the new main character Tenma Matsukaze.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3497, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2778989-golight.jpg", 
+      "name": "Inazuma Eleven GO", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A role-playing game for the PlayStation 3 by Level-5 and animation studio Studio Ghibli.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3498, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2412937-box_nnk.png", 
+      "name": "Ni no Kuni: Wrath of the White Witch", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth installment in the Professor Layton franchise and the first part of the second trilogy is a prequel, set before the events of the first three games.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3499, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1967521-box_platls.png", 
+      "name": "Professor Layton and the Last Specter", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Level 5's PS3 exclusive, White Knight Chronicles. It was released in Japan in 2010, and in America in September  2011.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3500, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1881099-box_wkc2.png", 
+      "name": "White Knight Chronicles II", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Inazuma Eleven Strikers sees the Inazuma Eleven franchise expanding to the Wii.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2459490-11st.jpg", 
+      "name": "Inazuma Eleven Strikers", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Cardboard Senki is an upcoming PSP RPG from Level-5.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2162910-8df45802fc749a53b0c56e1a436395de.jpg", 
+      "name": "Danball Senki", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A prequel to the DS and PS3 Ni no Kuni games. An episodic role-playing video game developed and published by Level-5.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3503, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9536/2794893-0142747412-156px.jpg", 
+      "name": "Ni no Kuni: Hotroit Stories", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A role playing game from Level-5 and Studio Ghibli for the Nintendo DS.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2536457-ninokunicropped.jpg", 
+      "name": "Ni no Kuni: Shikkoku no Madoshi", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third installment in the Professor Layton series. A puzzle solving game that follows a unique storyline involving time travel.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1891357-box_platuf.png", 
+      "name": "Professor Layton and the Unwound Future", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third DS game in the Inazuma Eleven series.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2587942-untitled.png", 
+      "name": "Inazuma Eleven 3: Sekai e no Chousen", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "White Knight Chronicles is a mixture of traditional fantasy JRPG and good old fashioned mecha. The story features Leonard, a protagonist who can transform into the White Knight with the use of an ancient technology. The game also allows players to join forces over the internal multiplayer mode, Geonet.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832936-box_wkc.png", 
+      "name": "White Knight Chronicles: International Edition", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Inazuma Eleven 2 is a JRPG with a soccer (football) theme developed by Level-5 and published by Nintendo for the Nintendo DS.  Games in the Inazuma Eleven series are based on a popular but short-lived children's anime series of the same name.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13686/2165620-inazuma_eleven_2_firestorm_boxart_europe_1_.jpg", 
+      "name": "Inazuma Eleven 2: FireStorm/Blizzard", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second adventure for Professor Hershel Layton and his helpful assistant Luke.  They must solve riddles to reveal the mystery surrounding a box that seemingly kills whoever opens it.\nIn Europe, the game was released as \"Professor Layton and Pandora's Box\"\n", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1891356-box_platdb.png", 
+      "name": "Professor Layton and the Diabolical Box", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The most recent installment of the \"Dragon Quest\" franchise debuts exclusively on the DS.  It features 4 player co-op and turn-based combat.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875223-box_dq9sotss.png", 
+      "name": "Dragon Quest IX: Sentinels of the Starry Skies", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Inazuma Eleven is a soccer-themed RPG for the Nintendo DS by way of developer Level-5.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31223/1655473-ask_inazuma_eleven.jpg", 
+      "name": "Inazuma Eleven", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Professor Layton and the Curious Village is a point and click adventure puzzle game set in a charming village with enigmatic characters.  Solve over 120 puzzles given to you by the villagers to help you solve the mystery of the 'Golden Apple'.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1891355-box_platcv.png", 
+      "name": "Professor Layton and the Curious Village", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join a young woman named Jeanne as she tries to stop King Henry VI from conquering France in this fantasy re-imagining of the Hundred Years' War.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481857-box_jda.png", 
+      "name": "Jeanne d'Arc", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join Jaster, a young adventurer, as he is hired by space pirates to search the universe for Planet Eden, a world of untold riches and eternal life.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3514, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525235-box_rgalaxy.png", 
+      "name": "Rogue Galaxy", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "The eighth main entry in the Dragon Quest franchise. It was the first game in the series to utilize a full 3D environment and featured a cel-shaded graphics style which would become standard for all future games in the franchise.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875222-box_dq8jotck.png", 
+      "name": "Dragon Quest VIII: Journey of the Cursed King", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pick up your wrench and repair time in this charming, colorful tale where humanity is on the brink of collapse. Control Max, a young inventor, and Monica, a warrior princess from the future, as they fight their way through dungeons and train rides to save the world.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117020-box_dcloud2.png", 
+      "name": "Dark Cloud 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released early in the life of the Playstation 2, Dark Cloud is an RPG with tradional dungeon hack gameplay, mixed with the very unique Georama world construction system, and interesting weapon development mechanics.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117019-box_dcloud.png", 
+      "name": "Dark Cloud", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror-themed RPG by Level-5 where the player must take up the role of a Shinigami (Death God) and fulfill the final wishes of those nearing death. The title was being developed for the PSP with mobile phone ports planned later down the line but it has since been canceled.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/727256-ushiro_splash.jpg", 
+      "name": "Ushiro", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally announced as a 3DS game, Layton 7 is due to launch exclusively on mobile devices.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/30/302687/2804823-layton7.jpg", 
+      "name": "Layton 7", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second entry in Level-5's Atamari series. It is based upon the Atama no Taisou series of puzzle books, which is comprised of 23 books and has sold over 12 million copies.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3520, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Professor Tago's Mental Gymnastics", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The next game in the Guild series which features another set of unique games designed by various designers like Keji Inafune.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2338595-first_look_guild_02.jpg", 
+      "name": "Guild 02", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Ni no Kuni being developed for the PlayStation 4.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3522, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2802981-cvfhfqzuaaaumbt.jpg", 
+      "name": "Ni no Kuni II: Revenant Kingdom", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game based upon a book of lateral thinking puzzles co-authored by Paul Sloane and Des MacHale. Part of Level-5's Atamania series, which was not officially released outside of Japan.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16324/2417795-sloane_and_machale_mysterious_story.jpg", 
+      "name": "Sloane and MacHale\u2019s Mysterious Stories", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An MMORPG developed for the original Xbox that was cancelled during development.", 
+      "developers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ], 
+      "id": 3524, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2508/581812-logo.jpg", 
+      "name": "True Fantasy Live Online", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Epic Mickey goes multiplatform in this Disney-published sequel. The game includes co-op in which players can play as Oswald the Lucky Rabbit.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2368426-box_em2.png", 
+      "name": "Disney Epic Mickey 2: The Power of Two", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third game in the Yoostar franchise, focused entirely on MTV programming.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3526, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/49854/1989106-cover.jpg", 
+      "name": "Yoostar on MTV", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "SpongeBob's Surf & Skate Roadtrip is a Spongebob game that is based on the episode 'Road Trip' for the Nintendo DS and Xbox 360.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222553-box_ssasr.png", 
+      "name": "SpongeBob\u2019s Surf & Skate Roadtrip", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Michael Phelps: Push the Limit puts you in complete control of an up-and-coming swimmer entering the exciting and grueling world of competitive swimming in the hope of taking down Michael Phelps.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1988278-box_mpptl.png", 
+      "name": "Michael Phelps: Push the Limit", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "THQ is developing a game based off of the Shrek character, Puss in Boots. This will be released for the Wii, DS, PS3 and 360.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2160116-box_pib.png", 
+      "name": "Puss in Boots", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A pet simulator for Kinect on Xbox 360, developed by THQ.  Players choose from a dog, a cat, a horse or a lizard and customise from there...", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3530, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525184-box_fpets.png", 
+      "name": "Fantastic Pets", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A karaoke-type game that uses the Kinect for the Xbox 360 and the PlayStation Eye for the PlayStation 3 to replace actors from television shows & movies with players, who then act and recite the lines to \"put themselves in the movie.\"", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3531, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525287-box_yoostar2.png", 
+      "name": "Yoostar 2: In The Movies", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Developed exclusively for Kinect, the Biggest Loser includes new features, such as video diaries and online workout friends.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3532, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492925-box_tbluw.png", 
+      "name": "The Biggest Loser Ultimate Workout", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this Wii Game your hero (A young Karate master) can perform a myriad of moves to save his sensei. The player can use a wii-mote and a nunchuck or two wii-motes (With WiiMotion plus support)", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3533, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2218/1332948-988758_158274_front.jpg", 
+      "name": "All Star Karate", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Karaoke Revolution returns with new music, characters, and venues.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3534, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1825088-box_karrev.png", 
+      "name": "Karaoke Revolution", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Recreate skits from the show and add your own effects.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3535, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1150855-icarlywii.jpg", 
+      "name": "iCarly", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fitness and nutrition helper for Wii and DS. ", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1150249-biggestloserwii.jpg", 
+      "name": "The Biggest Loser", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the Karoke Revolution Presents: American Idol. Konami and Blitz Games' Karaoke Revolution Presents: American Idol Encore 2! features a new co-op head to head mode and 40 new hit songs from the 70s on.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1727548-516bbcttppl.jpg", 
+      "name": "Karaoke Revolution Presents American Idol Encore 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": ".", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2352273-box_tak4.png", 
+      "name": "Tak and the Guardians of Gross", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fox's ridiculously popular trivia game show on television adds yet another layer visual torture with a video game adaptation.", 
+      "developers": [
+        {
+          "id": 104, 
+          "name": "Blitz Games Studios"
+        }
+      ], 
+      "id": 3539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1555784-954032_113386_front.jpg", 
+      "name": "Are You Smarter Than A 5th Grader? Make the Grade!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }
+  ]
+}

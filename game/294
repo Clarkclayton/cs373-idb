@@ -1,0 +1,2089 @@
+{
+  "games": [
+    {
+      "deck": "Play as any of the NBA teams in this basketball game for the Super Nintendo and Genesis/Mega Drive. The sequel to Tecmo NBA Basketball.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14632, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389497-genesis_tecmosupernbabasketball.jpg", 
+      "name": "Tecmo Super NBA Basketball", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tecmo NBA Basketball was a basketball game released only on the NES. Tecmo developed a sequel for the SNES and Genesis later.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14633, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2375916-tecmo_nba_basketball_fr.png", 
+      "name": "Tecmo NBA Basketball", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Captain Tsubasa game released on the Super Famicom.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14634, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/2202260-captaintsubaba3boxshotsnes.jpg", 
+      "name": "Captain Tsubasa III: Koutei no Chousen", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Arcade-Only Action Platformer released by Tecmo in 1992. You play as a team of cacti (Saboten) that run around throwing bombs at enemies inside a house.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14635, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14982/2583165-sabotenb.png", 
+      "name": "Saboten Bombers", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ninja Gaiden: Shadow is the first and only Game Boy iteration of the famed franchise. In this particular adventure, players join Ryu Hayabusa as he attempts to take down Emperor Garuda, an evil emperor bent on conquering earth.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14636, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810956-box_ngaidens.png", 
+      "name": "Ninja Gaiden: Shadow", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fast-paced American Football game with all 28 teams from the National Football League circa 1991.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14637, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362295-nes_tecmosuperbowl.jpg", 
+      "name": "Tecmo Super Bowl", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The last of the NES Ninja Gaiden trilogy.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14638, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362089-nes_ninjagaiden3.jpg", 
+      "name": "Ninja Gaiden III: The Ancient Ship of Doom", 
+      "platforms": [
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Solomon's Club is a sequel to Solomon's Key. It was released on the Game Boy in 1991.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14639, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2763/184938-solomon_s_club.jpg", 
+      "name": "Solomon's Club", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo World Cup Soccer was an NES release in the Tecmo World Cup series.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14640, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582967-6762083220-58768.jpg", 
+      "name": "Tecmo World Cup Soccer", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Captain Tsubasa Vol. II: Super Striker is the second game in the titular franchise, a role-playing take on the sport of soccer.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14641, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6518/553515-captain_tsubasa_vol._ii___super_striker_coverart.png", 
+      "name": "Captain Tsubasa Vol. II: Super Striker", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Tecmo's action packed platformer, Ninja Gaiden II: The Dark Sword of Chaos improves upon the gameplay concept of the original by adding new features like the ability to scale walls and to create Shadow Clones.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14642, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362088-nes_ninjagaiden2.jpg", 
+      "name": "Ninja Gaiden II: The Dark Sword of Chaos", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo World Cup '90 is the first game in Tecmo's premiere soccer simulation.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14643, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582966-2383127143-Tecmo.png", 
+      "name": "Tecmo World Cup '90", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first home console professional wrestling game to feature a play by play announcer, Tecmo World Wrestling both borrowed from and improved on concepts from the Nintendo classic Pro Wrestling.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14644, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362297-nes_tecmoworldwrestling.jpg", 
+      "name": "Tecmo World Wrestling", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball game for the NES developed and published by Tecmo in the US only. Out of so many NES baseball games, ONLY ONE can be the most average.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14645, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/206293-tecmo_baseball.jpg", 
+      "name": "Tecmo Baseball", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Silkworm is a game in which the player can control either a helicopter or jeep. The game also has a two-player mode in which one player is able to control the helicopter and the other is able to control the jeep.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14646, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2375914-silk_worm_fr.png", 
+      "name": "Silkworm", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Step into the shoes of the ninja Ryu Hayabusa as he goes on a quest to avenge his father's unexpected death.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14647, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2344291-ninja.png", 
+      "name": "Ninja Gaiden", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "While the NES version may have become more famous, the original arcade version of Ninja Gaiden was an entirely different game, with more of a beat-'em-up feel.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14648, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/706195-ninja_gaiden_arcade_flyer.png", 
+      "name": "Ninja Gaiden", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tecmo Cup Soccer Game is a graphically westernized version of the first Captain Tsubasa game for the NES.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14649, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1338474-562938_80895_front.jpg", 
+      "name": "Tecmo Cup Soccer Game", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo Bowl was one of the most popular American football sims, and perhaps the most popular, back in the 1980s. Welcome to the game that started it all for Tecmo Inc. Welcome to Tecmo Bowl.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14650, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2696307-9840273512-41002.jpg", 
+      "name": "Tecmo Bowl", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sumo Wrestling simulation game developed by Tecmo for the Famicom. It is the first in a series and one of the earliest Sumo games.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14651, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2306202-tsuppari_oozumou_fc_box.jpg", 
+      "name": "Tsuppari Oozumou", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14652, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362167-nes_rygar.jpg", 
+      "name": "Rygar", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1986 sequel to the popular 1984 shoot 'em up Star Force, developed and published by Tecmo. It was only officially released in Japan.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14653, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16324/2414287-superstarforce_frontcover.png", 
+      "name": "Super Star Force", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fast-paced puzzle-platformer that debuted in arcades, and later moved to home gaming systems; including the Commodore 64, NES, and Nintendo's Virtual Console.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14654, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362245-nes_solomonskey.jpg", 
+      "name": "Solomon's Key", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A level-based side scrolling action game by Tecmo. This is the linear 1986 Arcade version, which was converted for the Commodore 64, Atari Lynx, Sega Master System and others.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14655, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/1032735-41206401.jpg", 
+      "name": "Rygar", 
+      "platforms": [
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A direct sequel/expansion to Armored Core V developed by FromSoftware for PlayStation 3 and Xbox 360.", 
+      "developers": [
+        {
+          "id": 538, 
+          "name": "FromSoftware, Inc."
+        }
+      ], 
+      "id": 14862, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525146-box_acvd.png", 
+      "name": "Armored Core: Verdict Day", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 538, 
+          "name": "FromSoftware, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platformer that takes place inside a pyramid. Collect bombs and treasure while avoiding enemies in search of the kidnapped royal family.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14656, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362067-nes_mightybombjack.jpg", 
+      "name": "Mighty Bomb Jack", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Force is a vertical scrolling shoot 'em up game for the Nintendo Entertainment System", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14657, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8627/1388079-starforce.jpg", 
+      "name": "Star Force", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A classic game in which you need to collect all the bombs.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14658, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/624741-bomb_jack__encore__uk_box_art.jpg", 
+      "name": "Bomb Jack", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 118, 
+          "name": "GamePark 32", 
+          "short": "GP32"
+        }, 
+        {
+          "id": 122, 
+          "name": "Mega Duck", 
+          "short": "DUCK"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Swimmer is an arcade game that has players guide a swimmer on his way to Treasure Island.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14659, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/1274399-swimmer_flyer.png", 
+      "name": "Swimmer", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A maze action game for the Arcade that was later brought to the Famicom as Route-16 Turbo.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14660, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2382861-route_16_usarcadeflyer.png", 
+      "name": "Route-16", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 85, 
+          "name": "Arcadia 2001", 
+          "short": "A2K1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pleiads is a spiritual successor to Phoenix.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14661, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2359406-pleiads_flyer.jpg", 
+      "name": "Pleiads", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A canceled/unreleased soccer game.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14662, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2343931-j.league_soccer_ole__supporters.jpg", 
+      "name": "J-League Soccer Ole! Supporters", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Senjyo is a Japanese arcade game developed by Tecmo. It has the player operating a turret to defeat aliens.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14663, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/1274394-senjyo.png", 
+      "name": "Senjyo", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Radia Senki: Reimeihen is a Tecmo-developed action RPG released for the Famicom exclusively in Japan. As an amnesiac, the player wanders around the game world with a party in tow as they fight monsters in real time and learn political secrets in the story.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14664, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/1846139-radiasenkibox.jpg", 
+      "name": "Radia Senki: Reimeihen", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An all-girl fighting game for Arcade, PlayStation and PSN.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14665, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1707827-angel_eyes.jpg", 
+      "name": "Touki Denshou Angel Eyes", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14666, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tecmo World Golf", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bad News Baseball is baseball game from Tecmo.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14667, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9279/277708-bad_news_cover.jpg", 
+      "name": "Bad News Baseball", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Lego brand's first foray into the burgeoning \"toys-to-life\" genre, Dimensions will include characters from properties like The Lord of the Rings, DC Comics, and The Wizard of Oz.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14668, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2741770-3144367231-irlk5.jpg", 
+      "name": "LEGO Dimensions", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A brand new Lego Batman game that takes Batman and Robin into an \"out of this world\" adventure.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14669, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2699660-lego-batman-3-cover-jpg.jpg", 
+      "name": "Lego Batman 3: Beyond Gotham", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Game based on the LEGO Ninjago series, developed for handhelds.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14670, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2662642-3822790317-81J1X.jpg", 
+      "name": "Lego Ninjago: Nindroids", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "LEGO returns to Middle-earth with this video game adaptation of the first two Hobbit movies.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14671, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2617757-box_legoth.jpg", 
+      "name": "LEGO The Hobbit", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An Action Adventure game based on The LEGO Movie and developed in the style of other TT Games' LEGO videogames.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14672, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2572143-9249670955-BZcz6lfCQAACHVk.jpg%3Alarge", 
+      "name": "The LEGO Movie Videogame", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Hang out with Olivia and her friends in Heartlake City.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14673, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/2626109-lego_friends.jpg", 
+      "name": "LEGO Friends", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The denizens of the Marvel Universe battle it out LEGO style.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14674, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2513533-lego-marvel-cover.jpg", 
+      "name": "LEGO Marvel Super Heroes", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "3DS prequel to Lego City Undercover. Follows the first adventures of Chase McCain as a rookie cop.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14675, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2457145-lgcucb.jpg", 
+      "name": "LEGO City Undercover: The Chase Begins", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lego City Undercover is an open world game for the Nintendo Wii U about Lego detective Chase McCain and his hunt for the villainous Rex Fury. It is frequently referred to as \"Grand Theft Auto with Legos\".", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14676, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2554381-lcu.jpg", 
+      "name": "LEGO City Undercover", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Traveller's Tales brings the LEGO treatment to The Lord of the Rings, following the events of all three movies.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14677, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5207/2303686-gaming_lego_lotr_box_art.jpg", 
+      "name": "LEGO The Lord of the Rings", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sequel to 2008's LEGO Batman, Batman and Robin are forced to work together alongside the likes of Superman, Wonder Woman and Green Lantern to help stop the combined tyranny of Lex Luthor and The Joker.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14678, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199357-box_lbm2.png", 
+      "name": "LEGO Batman 2: DC Super Heroes", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This second installment concludes TT Games' LEGO-based take on the Harry Potter heptalogy, offering more of the standard LEGO smashing, building, and collecting mayhem.", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14679, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284684-box_legohpy57.png", 
+      "name": "LEGO Harry Potter: Years 5-7", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The game follows the adventures of Captain Jack Sparrow and others from the movies. The title features characters and scenarios from all four films: The Curse of the Black Pearl, The Dead Man's Chest, At World's End and On Stranger Tides", 
+      "developers": [
+        {
+          "id": 530, 
+          "name": "TT Games"
+        }
+      ], 
+      "id": 14680, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1742539-lego_potc.jpg", 
+      "name": "LEGO Pirates of the Caribbean: The Video Game", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

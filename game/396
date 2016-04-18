@@ -1,0 +1,1308 @@
+{
+  "games": [
+    {
+      "deck": "Mr. Do! is an arcade style game similar to Dig Dug and Pac-Man, in which you play as a clown and are charged with the mission to either collect all cherries or kill all enemies.", 
+      "developers": [], 
+      "id": 19743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/570164-b_mrdo_front.jpg", 
+      "name": "Mr. Do!", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }, 
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }, 
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3568/506360-looping_arc_00.png", 
+      "name": "Looping", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early side scrolling shooter made by Universal", 
+      "developers": [], 
+      "id": 19745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5052/390321-cosmic_avenger1.png", 
+      "name": "Cosmic Avenger", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zip up all four mazes in this arcade-first release from Exidy.", 
+      "developers": [], 
+      "id": 19746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3568/527849-pepperii_arc_01.png", 
+      "name": "Pepper II", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Frenzy is a sequel to Berzerk. It features many new elements like destructible walls and ricocheting shots.", 
+      "developers": [], 
+      "id": 19747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1805115-frenzy.jpg", 
+      "name": "Frenzy", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Control Winky, shoot arrows, and steal treasure from snakes in this dungeon-filled game from Exidy.", 
+      "developers": [], 
+      "id": 19748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367842-a2600_venture_none.jpg", 
+      "name": "Venture", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lady Bug is an arcade game from 1981 that attempted to capitalize on the success of Pac-Man, but differentiated itself by adding revolving doors and a more structured bonus system. Its port for the Colecovision was one of the more popular games for that system.", 
+      "developers": [], 
+      "id": 19749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2788913-9768233662-48002.jpg", 
+      "name": "Lady Bug", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game often considered the first platformer, predating Donkey Kong.", 
+      "developers": [], 
+      "id": 19750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2683179-5955154330-48230.jpg", 
+      "name": "Space Panic", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 134, 
+          "name": "Casio PV-1000", 
+          "short": "PV1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19751, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Brain Strainers", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19752, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Telly Turtle", 
+      "platforms": [
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 230, 
+          "name": "Coleco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mahjong game developed by Syscom in 1995.", 
+      "developers": [], 
+      "id": 19753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1141427-jissen__mahjong_shinan.jpg", 
+      "name": "Jissen! Mahjong Shinan", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 232, 
+          "name": "ASK Co. Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A light hearted board game/RPG for the Famicom released in 1991.", 
+      "developers": [], 
+      "id": 19754, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "100 World Story", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 232, 
+          "name": "ASK Co. Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fantasy RPG with a comedic sensibility. It is based on a popular Japanese toyline of the same name from the 80s that was similar to M.U.S.C.L.E. and Monsters in My Pocket.", 
+      "developers": [], 
+      "id": 19755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2807385-5621522812-31675.jpg", 
+      "name": "Necros no Yousai", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 232, 
+          "name": "ASK Co. Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Air Ranger: Rescue Helicopter is a Flight Simulation game created by ASK.", 
+      "developers": [], 
+      "id": 19756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5434/1029725-cover_art.jpg", 
+      "name": "Air Ranger: Rescue Helicopter", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 232, 
+          "name": "ASK Co. Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Air Ranger 2: Rescue Helicopter is a Flight Simulation game by ASK.", 
+      "developers": [], 
+      "id": 19757, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5434/1029724-cover_art.jpg", 
+      "name": "Air Ranger 2: Rescue Helicopter", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 232, 
+          "name": "ASK Co. Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Cartoony free to play real time strategy game for PlayStation platforms.", 
+      "developers": [], 
+      "id": 19758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2645742-7268980078-logo..jpg", 
+      "name": "Guns Up!", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game centred around managing music festivals and promoting unsigned artists.", 
+      "developers": [], 
+      "id": 19759, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "BigFest", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dr. Doofenshmirtz is turning home appliances into dangerous robots and Phineas and Ferb must stop him in this 3D action adventure game for the PlayStation Vita.", 
+      "developers": [], 
+      "id": 19760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2796795-4464315122-22393.jpg", 
+      "name": "Phineas and Ferb: Day of Doofenshmirtz", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle platformer for the PlayStation Vita by Chilean developer IguanaBee.", 
+      "developers": [], 
+      "id": 19761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2738013-9674285823-16872.jpg", 
+      "name": "Monsterbag", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Up to 4 players shoot aliens (and possibly each other) with some help from above in this downloadable shooter for PS3, PS4, Vita and PC.", 
+      "developers": [], 
+      "id": 19762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/2532452-helldivers-promo-image-440x270.jpg", 
+      "name": "Helldivers", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A third-person shooter set in a steampunk-themed alternate timeline, with a dash of the supernatural. Developed by Ready at Dawn Studios for the PlayStation 4.", 
+      "developers": [], 
+      "id": 19763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2641978-the+order+1886+v1.jpg", 
+      "name": "The Order: 1886", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sackboy arrives on PlayStation 4 with some new friends.", 
+      "developers": [], 
+      "id": 19764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2703325-littlebigplanet+3+v3.jpeg", 
+      "name": "LittleBigPlanet 3", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "A LittleBigPlanet runner spin-off for the PlayStation Vita and mobile devices.", 
+      "developers": [], 
+      "id": 19765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2678931-9097163290-14946.jpg", 
+      "name": "Run SackBoy! Run!", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "2D side-scrolling action game in the vein of Flashback, with a 50s/60s Cold War setting.", 
+      "developers": [], 
+      "id": 19766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2480056-7357805749-87157.jpg", 
+      "name": "CounterSpy", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Entwined is a dual-stick action game where the player controls the souls of a fish and bird who are in love, and seek to unite as one.", 
+      "developers": [], 
+      "id": 19767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2643578-14385810592_6aee0f2b35_b.jpg", 
+      "name": "Entwined", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free to play match three spin-off of the Fat Princess franchise.", 
+      "developers": [], 
+      "id": 19768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2645755-3665329034-14364.jpg", 
+      "name": "Fat Princess: Piece of Cake", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"RPG/Simulation/Interactive Story\" with a large universe to explore and a significant social component.", 
+      "developers": [], 
+      "id": 19769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2578161-box_ddu.png", 
+      "name": "Doki-Doki Universe", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another Wonderbook title developed in association with J.K. Rowling's Pottermore, this time players get to try their hand at potion-making with the PS Move.", 
+      "developers": [], 
+      "id": 19770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2584184-box_wbbop.png", 
+      "name": "Wonderbook: Book of Potions", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Four critically-acclaimed PSN games on one disc for the PlayStation 3", 
+      "developers": [], 
+      "id": 19771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/38405/2545348-8811157617_0ba4998c3d.jpg", 
+      "name": "Best of PlayStation Network Vol. 1", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Augmented reality mini golf game for the PlayStation Vita.", 
+      "developers": [], 
+      "id": 19772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2462444-1107590092-85966.jpg", 
+      "name": "Table Mini Golf", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Overview", 
+      "developers": [], 
+      "id": 20255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5459/1109004-urbanassault_boxart.png", 
+      "name": "Urban Assault", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An app that lets one play supported PlayStation Home games on the Vita.", 
+      "developers": [], 
+      "id": 19773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2427697-pshomearcade.jpg", 
+      "name": "PlayStation Home Arcade", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "An AR game for the Vita, the game uses your real life location to \"Tag\" your surroundings like graffiti. ", 
+      "developers": [], 
+      "id": 19774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2479374-tag.jpg", 
+      "name": "t@g", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "When Vikings! Attack is a fast paced brawler from Clever Beans.", 
+      "developers": [], 
+      "id": 19775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2358110-wva_1024x1024_full_game_thumb_eng.png", 
+      "name": "When Vikings Attack", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sports Champions 2 expands it's appeal by adding a new set of events, in addition to a much-improved Archery mode.", 
+      "developers": [], 
+      "id": 19776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2348797-box_sc2.png", 
+      "name": "Sports Champions 2", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Honeyslug's manic Vita game is a free-to-play release, with more microgames to be available as paid downloads.", 
+      "developers": [], 
+      "id": 19777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2345983-frob.png", 
+      "name": "Frobisher Says!", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Augmented reality ice hockey game for the PS Vita.", 
+      "developers": [], 
+      "id": 19778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2358442-tableih.jpg", 
+      "name": "Table Ice Hockey", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free to play scifi ecology simulator for PlayStation Vita.", 
+      "developers": [], 
+      "id": 19779, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2333631-ecolibrium.jpg", 
+      "name": "Ecolibrium", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Acting as a metaphor for addiction and escaping a hard reality through imagination, this depressing, though poignant game combines environmental manipulation and AI interaction to create a story-driven puzzle experience.", 
+      "developers": [], 
+      "id": 19780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2554102-1903214966-480_6.jpg", 
+      "name": "Papo & Yo", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Paint Park is a sketchpad app for the PlayStation Vita.", 
+      "developers": [], 
+      "id": 19781, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/61603/2182358-7087241809_7906d7ba67_z.jpg", 
+      "name": "Paint Park", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free to play augmented reality soccer game for the PS Vita.", 
+      "developers": [], 
+      "id": 19782, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2358441-tablefootballar_hero_crop.jpg", 
+      "name": "Table Soccer", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Plop polygonal fighters down on your table or desk in this AR-enhanced fighting game.", 
+      "developers": [], 
+      "id": 19783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2119732-box_rfighters.png", 
+      "name": "Reality Fighters", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free to play augmented reality diving game for the PS Vita.", 
+      "developers": [], 
+      "id": 19784, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2358443-cliffdiving.jpg", 
+      "name": "Cliff Diving", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Poke the rear panel with your fingers to make land rise up on the screen in this PSV launch game.", 
+      "developers": [], 
+      "id": 19785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1863707-littledeviants9817ldvertical.jpg", 
+      "name": "Little Deviants", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Escape Plan is a side scrolling puzzle/survival game with black and white visuals and a dark humor tone.", 
+      "developers": [], 
+      "id": 19786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2578163-box_eplan.png", 
+      "name": "Escape Plan", 
+      "platforms": [
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nathan Drake pursues the legend of the Seven Cities of Gold in this PSV-exclusive prequel to Uncharted: Drake's Fortune.", 
+      "developers": [], 
+      "id": 19787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2100000-box_ucga.png", 
+      "name": "Uncharted: Golden Abyss", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A ground-up redesign of the original EyePet, this sequel will feature two EyePets simultaneously, along with expanded customization and socialization options.", 
+      "developers": [], 
+      "id": 19788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291736-box_epaf.png", 
+      "name": "EyePet & Friends", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The new dancing game from Sony, Everybody Dance utilized the Move Controller. ", 
+      "developers": [], 
+      "id": 19789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452880-box_ed.png", 
+      "name": "Everybody Dance", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gameloft's mobile first-person shooter series makes its debut on consoles in this ill-regarded downloadable PS3 release.", 
+      "developers": [], 
+      "id": 19790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1659197-moderncombatdomination.jpg", 
+      "name": "Modern Combat: Domination", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Announced at E3 2010, Eat Them! lets players build their own city-stomping sci-fi monsters from numerous parts and rampage through town eating people and causing as much damage as possible to unlock more parts and set record scores.", 
+      "developers": [], 
+      "id": 19791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/72276/1412853-eatthem1.jpg", 
+      "name": "Eat Them!", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }
+  ]
+}

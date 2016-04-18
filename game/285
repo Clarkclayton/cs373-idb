@@ -1,0 +1,1401 @@
+{
+  "games": [
+    {
+      "deck": "An action-adventure third person game from Keiji Inafune and some of the creators of Metroid Prime.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2758663-screen+shot+2015-06-15+at+1.12.20+pm.jpg", 
+      "name": "ReCore", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "KAIO - King of Pirates is Keiji Inafune's next new game in development for the Nintendo 3DS. It's a pirate action adventure game.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1970160-kaiopv009.jpg", 
+      "name": "KAIO - King of Pirates", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expanded rerelease of Sony's boss hunting game Soul Sacrifice, which adds new features and content - including a third character alignment.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2657602-6982990075-image", 
+      "name": "Soul Sacrifice Delta", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One of the many ninja henchmen slain by Ryu Hayabusa is back for blood in this Ninja Gaiden spinoff. The project is directed by Keiji Inafune of Dead Rising fame, and jointly developed by Inafune's company Comcept, Team Ninja and Spark Unlimited.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2584187-box_yaibangz.png", 
+      "name": "Yaiba: Ninja Gaiden Z", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A dark fantasy action-RPG for PlayStation Vita by Marvelous AQL and SCE Japan Studio, designed by Keiji Inafune. The player takes the role of a sorcerer who can choose to save or sacrifice allies and enemies in order to become more powerful.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478700-box_ss.png", 
+      "name": "Soul Sacrifice", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Game based around boiling eggs and collecting different types of eggs.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2621816-boilingeggsthumb.jpg", 
+      "name": "Boiling OSSAN Eggs!", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game developed by Keiji Inafune's Comcept studio and Level-5.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2470812-bugs.png", 
+      "name": "Bugs vs. Tanks!", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Side scrolling action game from Keiji Inafune's development studio Comcept.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2621698-jjrockets.jpg", 
+      "name": "J.J. Rockets", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 106, 
+          "name": "Marvelous Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "An otome visual novel starring Saki Inafune who defends her uncle's new theme park from the dastardly Count Hogstein. Developed with the help of Keiji Inafune, it features a fictionalized version of him and his niece.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525242-box_sfays.png", 
+      "name": "Sweet Fuse: At Your Side", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Social game developed by Keiji Inafune's development studio Comcept.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2621760-momo.jpg", 
+      "name": "The Island of Dr. Momo", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The next game in the Guild series which features another set of unique games designed by various designers like Keji Inafune.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2338595-first_look_guild_02.jpg", 
+      "name": "Guild 02", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A spiritual successor to the Mega Man Legends franchise by Comcept.", 
+      "developers": [
+        {
+          "id": 520, 
+          "name": "Comcept"
+        }
+      ], 
+      "id": 14196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28940/2763157-screenshot+2015-07-02+at+1.22.02+pm.jpg", 
+      "name": "Red Ash", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A game based on the Saekano: How to Raise a Boring Girlfriend franchise.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2726625-matome_016_cs1w1_569x800.jpg", 
+      "name": "Saenai Kanojo no Sodatekata", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 444, 
+          "name": "5pb."
+        }
+      ]
+    }, 
+    {
+      "deck": "Visual novel based on the The \"Hentai\" Prince and the Stony Cat. franchise, featuring a new story supervised by the original author.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2563724-8630699400-e97e4.jpg", 
+      "name": "Hentai Ouji to Warawanai Neko.", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Based on the light novel \"Ore no Imouto ga Konnani Kawaii Wake ga Nai\" (My Little Sister Can't Be This Cute), this PlayStation 3 visual novel expand the base story even further by allowing you, as Kyousuke Kousaka, to be a producer and life consultant for your little sister and her friends, as they becoming an idol.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/213060/2555711-tvg-ps3-1866.jpg", 
+      "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. HappyenD", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Game based on the My Teen Romantic Comedy SNAFU light novel series by Wataru Watari.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2502352-1986163301-38950.jpg", 
+      "name": "Yahari Game Demo Ore no Seishun Rabu Kome wa Machigatteiru.", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 444, 
+          "name": "5pb."
+        }
+      ]
+    }, 
+    {
+      "deck": "Accel World anime Series gets a PlayStation 3 and PSP follow-up.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2409134-accelworld2_cover.jpg", 
+      "name": "Accel World: Kasoku no Choten", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15143, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Shanghai: Mah-Jongg Essentials", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game adaptation of Reki Kawahara's Light Novel series.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2409129-accelworld_cover.jpg", 
+      "name": "Accel World: Ginyoku no Kakusei", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the first OreImo game picks up where the first one ended.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/150835/2213250-2895_ore_no_imouto_ga_konnani_kawaii_wake_ga_nai_portable_2_jpn_psp_bahamut.jpg", 
+      "name": "Ore no Imouto ga Konna ni Kawaii Iwake Ganai: Portable ga Tsudzuku Wake Ganai", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Suzumiya Haruhi adventure game for a next-gen machine. Announced for the PS3 and PSP to be released in 2011. The original story takes place directly following the recently released Suzumiya Haruhi movie.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/109270/1563954-tsuisou.png", 
+      "name": "Suzumiya Haruihi no Tsuisou", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A visual novel based on the light novel/anime series of the same name.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11512/1664984-oreimo_indexb.jpg", 
+      "name": "Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play minigames and take quizzes in this Golgo 13-themed game for the DS.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/944793-g13ooe.jpeg", 
+      "name": "Golgo 13: File G-13 o Oe", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "A visual novel based-off the Toradora franchise that tells a \"what if\" scenario where Ryuuji Takasu loses his memories.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2645533-untitled.jpg", 
+      "name": "Toradora! Portable", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Suzumiya Haruhi no Yakusoku is an adventure game for the PSP based on a popular manga and anime franchise. The title translates into 'The Promise of Haruhi Suzumiya'. \n\nThe game is based around the period of the Cultural Festival, and you play as Kyon.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2488/399912-suzumiya_haruhi_no_yakusoku_box_art.jpg", 
+      "name": "Suzumiya Haruhi no Yakusoku", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Orange Honey is a dating simulation game.", 
+      "developers": [
+        {
+          "id": 521, 
+          "name": "Guyzware"
+        }
+      ], 
+      "id": 14209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/680474-front_cover.jpg", 
+      "name": "Orange Honey: Boku wa Kimi ni Koishiteru", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 106, 
+          "name": "Marvelous Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game set in the 1970s by the creator of \"My Summer Vacation\".", 
+      "developers": [
+        {
+          "id": 522, 
+          "name": "Millennium Kitchen"
+        }
+      ], 
+      "id": 14210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2580383-3.png", 
+      "name": "Attack of the Friday Monsters! A Tokyo Tale", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 103, 
+          "name": "Level-5 Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A new installment in the Boku no Natsuyasumi series for PSP.", 
+      "developers": [
+        {
+          "id": 522, 
+          "name": "Millennium Kitchen"
+        }
+      ], 
+      "id": 14211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2252788-213241234123524354354.png", 
+      "name": "Boku no Natsuyasumi 4", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Experience a Japanese boy's traditional summer vacation set in the 20th century in Hokkaido. It is part of the Boku no Natsuyasumi series and was released in Japan on July 5, 2007.", 
+      "developers": [
+        {
+          "id": 522, 
+          "name": "Millennium Kitchen"
+        }
+      ], 
+      "id": 14212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2252787-untitled.png", 
+      "name": "Boku no Natsuyasumi 3: Hokkoku Hen: Chiisana Boku no Dai Sougen", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "A family raising simulation developed by Millennium Kitchen for the PlayStation 2.", 
+      "developers": [
+        {
+          "id": 522, 
+          "name": "Millennium Kitchen"
+        }
+      ], 
+      "id": 14213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2488449-box.png", 
+      "name": "Bokura no Kazoku", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game following the summer vacation of 9 year old Boku. It is the second game in the Boku no Natsuyasumi franchise.", 
+      "developers": [
+        {
+          "id": 522, 
+          "name": "Millennium Kitchen"
+        }
+      ], 
+      "id": 14214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2252770-569407_7610_front.jpg", 
+      "name": "Boku no Natsuyasumi 2: Umi no Dai Bouken", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed by Millennium Kitchen, it is the first game in the Boku no Natsuyasumi series. It is set in 1975 and chronicles a 9 year old boy's summer vacation in the Japanese countryside.", 
+      "developers": [
+        {
+          "id": 522, 
+          "name": "Millennium Kitchen"
+        }
+      ], 
+      "id": 14215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1803071-scps10088.jpg", 
+      "name": "Boku no Natsuyasumi", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "RedLynx takes their bike-platforming franchise to the future (and PlayStation) with the addition of a physics-based trick system.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/141373/2710530-6245312201-24448.jpg", 
+      "name": "Trials Fusion", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The raving rabbids are headed to space!", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7030/2544165-capture.jpg", 
+      "name": "Rabbids Big Bang", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A free-to-play mobile adaptation of the popular physics-driven bike racer on iOS and Android.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7030/2544171-capture.jpg", 
+      "name": "Trials Frontier", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mobile game based on racing across rollercoasters.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2625630-0912827304-24874.jpg", 
+      "name": "Nutty Fluffies", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The follow up to the best-selling hit Trials HD, Trials Evolution takes motorcycle platforming to a whole new level of ridiculousness.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117040-box_trialse.png", 
+      "name": "Trials Evolution", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "MotoHeroz is a 2D side-scrolling platform-racer being crafted by RedLynx, the dudes responsible for Trials HD.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2233120-motoheroz_website_banner.jpg", 
+      "name": "MotoHeroz", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "An iOS racing game that utilizes touch-based controls to maneuver through 3D environments.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4810/1835413-drawrace2_screenshot1.png", 
+      "name": "Draw Race 2: Racing Evolved", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An iOS game from the makers of Trials HD. Race from start to finish through a variety of ages and settings. With a new level each day, this game promises over two and a half years worth of playable content.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2200321-1000_heroz_logo.png", 
+      "name": "1000 Heroz", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally announced for Japan, the game is a compilation of three best-selling and critically acclaimed Xbox Live Arcade games: Limbo, Trials HD and 'Splosion Man.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/38405/1812904-xbla_triplepack.jpg", 
+      "name": "Xbox Live Hits Collection: Limbo,Trials HD and Splosion Man", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Revisit the history of Trials in Trials Legends, a new, free PC game that recaptures the classic gameplay of the original web and PC-based Trials experience from 2000 to 2005.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2182297-14256789.png", 
+      "name": "Trials Legends", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "An iOS game where you race obstacle courses using various monster trucks.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2625629-0174657638-15018.jpg", 
+      "name": "Monster Trucks Nitro II", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "Trials HD is a 3D, physics-based motorcycle racing/platforming game played out on a 2D plane exclusive to the Xbox 360 via the Xbox Live Marketplace.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1841455-box_thd.png", 
+      "name": "Trials HD", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "An iOS driving game developed by RedLynx.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2625628-4877092506-11803.jpg", 
+      "name": "DrawRace", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "Use your monster truck and lots of nitro boosts to fly, jump, and speed your way through many levels.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1261/877700-header.jpg", 
+      "name": "Monster Trucks Nitro", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Game developed by RedLynx for Nokia N-Gage", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2625534-7696497806-th", 
+      "name": "Reset Generation", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An indie motorcycle racing game developed by Redlynx.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4344/908184-trials_2_cover.png", 
+      "name": "Trials 2 Second Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 50, 
+          "name": "Valve Corporation"
+        }, 
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "Warhammer 40,000: Squad Command is a turn based tactical strategy game for the DS and PSP. It uses characters created by Games Workshop as part of a table-top, miniatures based game.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/826/639436-warhammer_40000_squad_command.jpg", 
+      "name": "Warhammer 40,000: Squad Command", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pathway to Glory: Ikusa Islands is a military turn-based strategy game for the N-Gage. It is a sequel to Pathway to Glory. The game system did not have any big changes compared to the prequel, the main difference being games focus on the Pacific campaign.", 
+      "developers": [
+        {
+          "id": 523, 
+          "name": "RedLynx Ltd"
+        }
+      ], 
+      "id": 14233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/939489-ptg_ikusa_front.png", 
+      "name": "Pathway to Glory: Ikusa Islands", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

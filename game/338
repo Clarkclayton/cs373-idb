@@ -1,0 +1,1700 @@
+{
+  "games": [
+    {
+      "deck": "Adventure game.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16836, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Sands of Egypt", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "It's 273BC and your a Roman senator with the aim of taking over the known world.  Go up against the other world super powers such as the Carthaginians, Vandals, Parthians and the Persians.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16837, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2860/491561-1120568309_00.png", 
+      "name": "Annals of Rome", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "As an Irish miner named Timothy O'Riley you must dig mines in search after valuable resources such as oil, diamonds and gold while you at the same time have to avoid evil creatures that dwell underground.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16838, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1468/266582-o_riley_s_mine__3_.png", 
+      "name": "O'Riley's Mine", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16839, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366054-a5200_clownsandballoons.jpg", 
+      "name": "Clowns & Balloons", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Take on South American drug cartels in the latest entry in the Ghost Recon franchise.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16840, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/2758824-grwildlands.jpg", 
+      "name": "Tom Clancy's Ghost Recon: Wildlands", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An online-only open-world shooter-RPG from Ubisoft Massive set in a chaotic New York City that is wrought by disease.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16841, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/95676/2643697-91pvshkpjfl._sl1500_+-+copy.jpg", 
+      "name": "Tom Clancy's The Division", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Grow Home is a climbing game starring B.U.D. (a Botanical Utility Droid) who is researching the elusive Star plant &amp; helping it bloom.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16842, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2723142-7042607860-27880.jpg", 
+      "name": "Grow Home", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A single-player and cooperative driving game that takes place throughout the United States, developed by Ivory Tower.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16843, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2671767-the+crew+v1.jpg", 
+      "name": "The Crew", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A third-person open-world game from Ubisoft, set in a dark alternate version of the US where corporations track and catalog all online behavior over a vast data network. A vigilante group called the Watch_Dogs hacks into this data, using it to hunt criminals.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16844, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2557095-wdclean.jpg", 
+      "name": "Watch Dogs", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Just Dance 4 is the next instalment of Ubisoft's popular franchise. You guessed it, it still doesn't contain the hit song the series is named after.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16845, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331125-box_jd4.png", 
+      "name": "Just Dance 4", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Just Dance 3 is Ubisoft's third main installment in the worldwide hit Just Dance series. In keeping with series tradition, despite the name obviously suggesting it, the game does not include the Lady GaGa song \"Just Dance\".", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16846, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1988275-box_jd3.png", 
+      "name": "Just Dance 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tanner returns in this new Driver sequel. Set in San Francisco, the game actually takes place inside his coma stricken brain. This allows him to bend the rules of the road... and reality!", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16847, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1885931-box_driversf.png", 
+      "name": "Driver: San Francisco", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster 4X4 is an arcade style racing game for the Wii.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16848, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1171960-monsterwii.jpg", 
+      "name": "Monster 4x4: Stunt Racer", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16849, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/387/225454-emergency_herso.jpg", 
+      "name": "Emergency Heroes", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Driver '76 is a prequel game to Driver: Parallel Lines", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16850, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1798092-box_driver76.png", 
+      "name": "Driver '76", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Driver parallel lines is the fourth game in the Driver video game series. The game features mostly vehicle-based gameplay, with a moderate amount of on-foot sections.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16851, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1885626-box_driverpl.png", 
+      "name": "Driver: Parallel Lines", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Driv3r is a 2004 action game released by Atari and Reflections. You play as Tanner as he tries to sneak himself into a gang of car thieves and take them down from the inside.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16852, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1885622-box_driver3.png", 
+      "name": "Driv3r", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stuntman is a game for the PS2 and GBA and is centered around the player starting a career as a Hollywood stunt man.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16853, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428431-box_stuntman.png", 
+      "name": "Stuntman", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Driver 2 is a sequel to the popular free-roaming driving game released on the PlayStation 1 and the GameBoy Advance.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16854, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1798090-box_driver2.png", 
+      "name": "Driver 2: The Wheelman is Back", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16855, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2203248-thunder_20truck_20rally_20_u__20_scus_94352__front.jpg", 
+      "name": "Thunder Truck Rally", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Destruction Derby 2 is the sequel to 1995's Destruction Derby.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16856, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3009/237957-destruction_derby_2_psone_boxart.jpg", 
+      "name": "Destruction Derby 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Destruction Derby is a racing-type game developed by Reflections. It was first released for PlayStation and PC in 1995, followed by a Sega Saturn version later on.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16857, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/837350-366676_69689_front.jpg", 
+      "name": "Destruction Derby", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16858, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17009/822508-brian_the_lion02.jpg", 
+      "name": "Brian the Lion", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16859, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1250145-shadowofthebeast3_amiga.jpg", 
+      "name": "Shadow of the Beast 3: Out of the Shadow", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16860, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1250134-shadowofthebeast2_amiga.jpg", 
+      "name": "Shadow of the Beast II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi game developed by Reflections Interactive and released in 1990.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16861, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/699720-awefron.jpg", 
+      "name": "Awesome", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down action game that depicts a future sport similar to pinball.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16862, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/703819-ballistix_f.jpg", 
+      "name": "Ballistix", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 157, 
+          "name": "Superior Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platform game, famous for being unfairly difficult, originally developed for the Commodore Amiga, and later ported to other systems.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16863, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2373870-genesis_shadowofthebeast.jpg", 
+      "name": "Shadow of the Beast", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16864, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Monster Pack Volume 1", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The original Driver is a classic driving game for the original Playstation.", 
+      "developers": [
+        {
+          "id": 598, 
+          "name": "Ubisoft Reflections"
+        }
+      ], 
+      "id": 16865, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1799358-box_driver.png", 
+      "name": "Driver", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "H1Z1: King of the Kill is a fast-paced shooter that uses Playerunknown's Battle Royale system in which players compete against eachother in a 100+ players battle. The objective is to be the last standing man.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16866, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/216166/2826746-headeadsadar.jpg", 
+      "name": "H1Z1: King of the Kill", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Broken Mirror is the twenty-second expansion to EverQuest.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16867, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2787293-screen+shot+2015-10-01+at+6.25.31+pm.png", 
+      "name": "EverQuest: The Broken Mirror", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "A post-apocalyptic MMO from the makers of EverQuest II and The Matrix Online. Set fifteen years after an initial horrifying outbreak, players must survive against the infected, wild animals, and other survivors.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16868, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/2631169-z2wyjfi.jpg", 
+      "name": "H1Z1: Just Survive", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Altar of Malice is the eleventh expansion for EverQuest II.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16869, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2670702-10516726_10152398367903127_6017658630167846462_n.jpg", 
+      "name": "EverQuest II: Altar of Malice", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Darkened Sea is the twenty-first expansion for EverQuest.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16870, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2670673-screen+shot+2014-08-14+at+11.49.03+pm.jpg", 
+      "name": "EverQuest: The Darkened Sea", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tears of Veeshan is the tenth expansion pack for EverQuest II.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16871, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2648625-tearsofveeshan_tinykeyart.jpg", 
+      "name": "EverQuest II: Tears of Veeshan", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Call of the Forsaken is the twentieth expansion pack for the original EverQuest.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16872, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2556739-eq_cof_launch_cofposter.png", 
+      "name": "EverQuest: Call of the Forsaken", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "EverQuest: Rain of Fear is the nineteenth expansion to the original EverQuest.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16873, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2311755-eqroflogo.png", 
+      "name": "EverQuest: Rain of Fear", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "PlanetSide 2 is the sequel to the 2003 MMOFPS PlanetSide from Sony Online Entertainment which remains one of the most notable and successful games in the genre.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16874, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371883-custom_2.png", 
+      "name": "PlanetSide 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chains of Eternity is the ninth expansion to EverQuest II.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16875, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2437908-eqii_coe_key_art_final.jpg", 
+      "name": "EverQuest II: Chains of Eternity", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "The eighth expansion to EverQuest II.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16876, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2078337-boxart.jpg", 
+      "name": "EverQuest II: Age of Discovery", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "The eighteenth expansion to EverQuest", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16877, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2078336-boxart.jpg", 
+      "name": "EverQuest: Veil of Alaris", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Destiny of Velious is the seventh expansion to EverQuest II.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16878, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1687135-destiny_of_velious_2011box.jpg", 
+      "name": "EverQuest II: Destiny of Velious", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sony online entertainment joins forces with Wizards of the Coast to bring us a new turn based strategy game based on the popular card game.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16879, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/573/1184600-magic_tactics.jpg", 
+      "name": "Magic: The Gathering - Tactics", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "An MMO for the PC and PlayStation 3 that allows you to fight for and alongside the forces of good or evil from the DC Comics Universe.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16880, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1683160-dcuo_pcbox.jpg", 
+      "name": "DC Universe Online", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "House of Thule is the seventeenth expansion for the popular MMORPG franchise, EverQuest.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16881, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11660/1462077-eq_hot_keyart_final_small.jpg", 
+      "name": "EverQuest: House of Thule", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the sixth expansion pack of EverQuest II. ", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16882, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1254911-eq2sf.jpg", 
+      "name": "EverQuest II: Sentinel's Fate", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Underfoot is the sixteenth expansion for the popular MMORPG, EverQuest.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16883, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2078342-boxart.jpg", 
+      "name": "EverQuest: Underfoot", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take on the role of a redneck driving an 18 wheeler.", 
+      "developers": [
+        {
+          "id": 600, 
+          "name": "Eutechnyx Limited"
+        }
+      ], 
+      "id": 16940, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1797951-box_bmt.png", 
+      "name": "Big Mutha Truckers", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free Realms is a free-to-play MMOG designed to be played by players of all ages. The game is scheduled to shut down on March 31st, 2014.", 
+      "developers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ], 
+      "id": 16884, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8845/797170-freerealms.jpg", 
+      "name": "Free Realms", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }
+  ]
+}

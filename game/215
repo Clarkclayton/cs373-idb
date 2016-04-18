@@ -1,0 +1,1356 @@
+{
+  "games": [
+    {
+      "deck": "Touchdown is a football themed pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10683, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1782256-touchdown.jpg", 
+      "name": "Touchdown", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Krull is a game based on the movie of the same name. Was supposed to be on the Atari 5200, but because of poor sales it was released on the Atari 2600 insted.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10684, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1365994-ev120dqm.jpg", 
+      "name": "Krull", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This 1983 video arcade game from Gottlieb cast the player as a spaceship commander desperately trying to escape from a system of vicious planets bent on destruction.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10685, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3568/514286-madplanets_arc_00.png", 
+      "name": "Mad Planets", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Q*Bert's goal is to hop around an isometric pyramid structure in order to change all the colors of the pyramid's surfaces to the same color.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10686, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367804-a2600_qbert_none.jpg", 
+      "name": "Q*Bert", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 50, 
+          "name": "Odyssey 2", 
+          "short": "ODY2"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }, 
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Striker is a soccer themed pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10687, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1782242-striker.jpg", 
+      "name": "Striker", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Reactor is a trackball video game originally released in arcades by Gottlieb, which has you attempting to bump particles into the walls of a growing nuclear reactor.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10688, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367813-a2600_reactor_none.jpg", 
+      "name": "Reactor", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }, 
+        {
+          "id": 558, 
+          "name": "Parker Brothers"
+        }
+      ]
+    }, 
+    {
+      "deck": "Black Hole is a 1981 Gottlieb table notable for having the first embedded interior playfield, and for charging a default price of 50 cents per play.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10689, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2177993-blackhole.jpg", 
+      "name": "Black Hole", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Spider-Man-themed pinball table from Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10690, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/955886-flyer2.jpg", 
+      "name": "The Amazing Spider-Man", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Charlie's Angels pinball machine", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10691, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Charlie's Angels", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Joker Poker is a poker themed pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10692, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2586861-joker+poker+flyer.jpg", 
+      "name": "Joker Poker", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A science fiction themed pinball machine released by Gottlieb in 1978, this cabinet has a variety of features typical to machines of the time. Around 675 of these machines were produced.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10693, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1762101-2397f1.jpg", 
+      "name": "Gottlieb's Strange World", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gridiron is an American football themed pinball game from Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10694, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2680146-6096246736-GRIDI.jpg", 
+      "name": "Gridiron", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball table based on the Canda Dry soft drink brand", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10695, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62600/1823924-canadadry.jpg", 
+      "name": "Canada Dry", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Surf Champ is an electro-mechanical pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10696, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2577157-surf+champ+flyer.jpg", 
+      "name": "Surf Champ", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bank Shot", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10697, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085267-bankshot.jpg", 
+      "name": "Bank Shot", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pinball game released by Gottlieb in 1975", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10698, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1757262-acd.jpg", 
+      "name": "Abra Ca Dabra", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"300\" is a bowling themed pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10699, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1084175-300pinball.jpg", 
+      "name": "300", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Atlantis is a 1970s era pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10700, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085264-atlantis.jpg", 
+      "name": "Atlantis", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }, 
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2 player pinball machine produced by Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/99029/1833571-duotron.jpg", 
+      "name": "Duotron", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magnotron is an early 70s pinball machine by Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10702, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2214458-flyer.jpg", 
+      "name": "Magnotron", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine by Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2570925-big+indian+flyer.jpg", 
+      "name": "Big Indian", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A billiards themed pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2691358-big+shot+flyer.jpg", 
+      "name": "Big Shot", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early 70s pinball machine from Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10706, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2598096-king+kool+flyer.jpg", 
+      "name": "King Kool", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pinball machine made by Gottlieb in 1972", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2594548-2228360584-pin_b.JPG", 
+      "name": "Outer Space", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magic Wizard is a pinball machine released in December 1971.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10708, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Magic Wizard", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gottlieb released this electromechanical pinball machine in November of 1971.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10709, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2433825-drop-a-card.jpg", 
+      "name": "Drop-A-Card", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Astro", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10710, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085260-image_1.jpg", 
+      "name": "Astro", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "4 Square pinball machine", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10711, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085243-940f1.jpg", 
+      "name": "4 Square", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "2001 is an electro-mechanical pinball machine from 1971.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085236-2697f1.jpg", 
+      "name": "2001", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Aquarius", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10713, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085255-aqua.jpg", 
+      "name": "Aquarius", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Flip A Card", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10714, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/99029/1833520-flipacard.jpg", 
+      "name": "Flip A Card", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A late 60s electro-mechanical pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2656723-skipper.jpg", 
+      "name": "Skipper", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A late 60s gambling themed pinball machine from Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2599940-spin-a-card+flyer+front.jpg", 
+      "name": "Spin A Card", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A late 60s pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2656722-sing+along.jpg", 
+      "name": "Sing Along", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A gambling themed pinball machine from the late 60s.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2598327-king+of+diamonds+flyer+front.jpg", 
+      "name": "King of Diamonds", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hurdy Gurdy is an add-a-ball machine manufactured in June 1966 by Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2596528-hurdy+hurdy+flyer.jpg", 
+      "name": "Hurdy Gurdy", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Central Park is a 60's era pinball machine from Gottlieb.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2570929-central+park+flyer.jpg", 
+      "name": "Central Park", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Buckaroo is a 1960s pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10721, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2571676-buckaroo+flyer.jpg", 
+      "name": "Buckaroo", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }, 
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kings &amp; Queens (stylized on the table as Gottlieb's Kings &amp; Queens) is an electro-mechanical pinball machine, released by Gottlieb in March 1965. It is a burlesque, Wild West themed table with a maximum score of 1,999.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10722, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Kings & Queens", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Happy Clown is a 60's era electro-mechanical pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10723, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2570827-happy+clown+flyer.jpg", 
+      "name": "Happy Clown", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "North Star is a 60's era electro-mechanical pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2570507-north+star+flyer.jpg", 
+      "name": "North Star", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Slick Chick is an early 60's electro-mechanical pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10725, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2570515-slick+chick+flyer.jpg", 
+      "name": "Slick Chick", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Aloha", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085253-aloha.jpg", 
+      "name": "Aloha", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early 60s circus themed pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2598664-flipper+parade+flyer.jpg", 
+      "name": "Flipper Parade", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Criss Cross is a pinball machine.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1796805-cc1.jpg", 
+      "name": "Criss Cross", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "4 Belles is a wooden pinball machine from 1954. It has a nautical theme.\n", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085238-image_6.jpg", 
+      "name": "4 Belles", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1953 pinball machine released by Gottlieb and designed by Wayne Neyens. Around 1200 units were produced.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1761925-image_7.jpg", 
+      "name": "Quintette", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Queen of Hearts was a pinball machine game.  ", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10731, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Queen of Hearts", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "All-Star Basketball", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1085251-allstgar.jpg", 
+      "name": "All-Star Basketball", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }, 
+    {
+      "deck": "Humpty Dumpty was the first pinball machine to have flippers.", 
+      "developers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ], 
+      "id": 10733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/35517/1662334-humpty_dumpty_flyer.jpg", 
+      "name": "Humpty Dumpty", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 367, 
+          "name": "Gottlieb"
+        }
+      ]
+    }
+  ]
+}

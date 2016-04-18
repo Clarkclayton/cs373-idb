@@ -1,0 +1,1261 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20293, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft Caribbean", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Undead Labs' Zombie MMO", 
+      "developers": [], 
+      "id": 20294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/134083/1909268-zombieheart.jpg", 
+      "name": "Class4 (working title)", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20295, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "TetraVex", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Purble Place is a collection of 3 minigames included with Windows Vista", 
+      "developers": [], 
+      "id": 20296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/902718-purble_place.jpg", 
+      "name": "Purble Place", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Loondon from Flip N Tale", 
+      "developers": [], 
+      "id": 20297, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Loondon", 
+      "platforms": [
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20298, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Beyond the Limit: Ultimate Climb", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20299, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Microsoft International Soccer 2000", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "JRPG based around a restaurant sim. ", 
+      "developers": [], 
+      "id": 20300, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2508/581891-box_all.jpg", 
+      "name": "Bistro Cupid", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mixed Matrix Slingo is one of the many Bing games that uses your Xbox Live account for leaderboard information.", 
+      "developers": [], 
+      "id": 20301, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mixed Matrix Slingo", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1804083-zoo.jpg", 
+      "name": "Zoo Tycoon 2: Zookeeper Collection", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20303, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bicycle Casino Games", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play skee-ball in your browser and mar your Xbox Live profile with its presence forever and ever!", 
+      "developers": [], 
+      "id": 20304, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Carniball", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20305, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Taipei", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mahjong Titans is a solitaire game played with tiles, matching pairs until all tiles are removed from the board.", 
+      "developers": [], 
+      "id": 20306, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57233/1688470-mahjong_titans.png", 
+      "name": "Mahjong Titans", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Atari ST, PC and Amiga versions where handled by the Synergistic team whilst the C64, Spectrum and Amstrad versions where done by Maelstrom.", 
+      "developers": [], 
+      "id": 20307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2266257-jrrtwimeboxart.jpg", 
+      "name": "J.R.R. Tolkien's War in Middle Earth", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20308, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/628420-aaargh____front.jpg", 
+      "name": "AAARGH!", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A graphic adventure from the '80s.  Featuring super-hero Redhawk.", 
+      "developers": [], 
+      "id": 20309, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/70/522713-kwah.gif", 
+      "name": "Kwah", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20310, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9450/1359309-starion_front.jpg", 
+      "name": "Starion", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20311, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2786378-4847829995-10614.jpg", 
+      "name": "Mordon's Quest", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fighting Warrior is a melee / weapon based beat em up game released", 
+      "developers": [], 
+      "id": 20312, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10026/672735-fighting_warrior.jpg", 
+      "name": "Fighting Warrior", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sir Lancelot is an action platforming game where the player must navigate 24 levels and collect all the necessary items in order to win.", 
+      "developers": [], 
+      "id": 20313, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2814881-8798923162-45636.jpg", 
+      "name": "Sir Lancelot", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gyroscope is a Marble Madness clone where the players take control of a gyroscope as opposed to a marble. It is presented in a 3D isometric perspective and has similar hazards as seen in Marble Madness. ", 
+      "developers": [], 
+      "id": 20314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/538837-gyroscopecpc.png", 
+      "name": "Gyroscope", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20315, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Roadwars", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20316, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Wiz", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20317, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Red Hawk", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20318, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Throne of Fire", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Goal is to achieve Hampstead, not reach it.", 
+      "developers": [], 
+      "id": 20319, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Hampstead", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2-D fighting game featuring digitized actors and starring legendary Hong Kong film star, Jackie Chan.", 
+      "developers": [], 
+      "id": 20320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/510/1204360-0030.png", 
+      "name": "Jackie Chan - The Kung-Fu Master", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1992 and following Street Fighter II's footsteps, Shogun Warriors is a fighting game set in ancient Japan.", 
+      "developers": [], 
+      "id": 20321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/71010/1213610-shogunwarriors_arcadeflyer.png", 
+      "name": "Shogun Warriors", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 265, 
+          "name": "Kaneko Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2519392-nietoom.jpg", 
+      "name": "Die Sage von Nietoom", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pot Panic is a game released in 1991 for Amiga, Commodore 64, and DOS.", 
+      "developers": [], 
+      "id": 20323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/804897-1127464024_00.png", 
+      "name": "Pot Panic", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kingsoft released this spacier sequel to Space Pilot in 1985.", 
+      "developers": [], 
+      "id": 20324, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Space Pilot II", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20325, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/661731-1179864738_01.png", 
+      "name": "Fire Galaxy", 
+      "platforms": [
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20326, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tiebreaker", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "A private detective investigating a a case of industrial espionage encounters strange, mysterious creatures under an old factory.  Take on this alien army alone and discover the deadly secret deep underground.", 
+      "developers": [], 
+      "id": 20327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1414779-hidden.jpg", 
+      "name": "The Hidden Below", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20328, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Gravity Force", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 267, 
+          "name": "Kingsoft GmbH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Insane weapons, crazy power-ups, and ludicrous gibs return in this modern reboot of the 1994 over-the-top arcade-style first-person shooter of the same name.", 
+      "developers": [], 
+      "id": 20329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2489843-box_rott.png", 
+      "name": "Rise of the Triad", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1804070-riding.jpg", 
+      "name": "Riding Star 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "Duke Nukem: Critical Mass was to be the first in a new Duke Nukem trilogy for the PSP and the Nintendo DS, but the rest of the trilogy was cancelled.", 
+      "developers": [], 
+      "id": 20330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285643-box_dncm.png", 
+      "name": "Extraction Point: Alien Shootout", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }, 
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Eight alien fighters from seven different planets (there are two humans) are beamed to a massive starship to participate in a tournament to the death. A 2-D fighting game with pre-rendered 3-D characters.", 
+      "developers": [], 
+      "id": 20331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8960/1790044-xenophage.jpg", 
+      "name": "Xenophage: Alien BloodSport", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Baron Baldric returns in this sequel to \"Baron Baldric: A Grave Adventure\".", 
+      "developers": [], 
+      "id": 20332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/1129543-towers.jpg", 
+      "name": "Mystic Towers", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Blake Stone: Aliens of Gold has futuristic secret agent Blake Stone infiltrating an abandoned training facility on the planet Selon, where elusive mad scientist Dr. Goldfire is believed to be creating a dangerous mutant army in a final attempt to conquer humanity.", 
+      "developers": [], 
+      "id": 20333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1085509-565008_29835_front.jpg", 
+      "name": "Blake Stone: Planet Strike", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A kart racing game featuring a variety of anthropomorphic animals.", 
+      "developers": [], 
+      "id": 20334, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2672825-0153827120-1b680.jpg", 
+      "name": "Wacky Wheels", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Hocus Pocus is a side-scrolling action-adventure game in which the titular Hocus must prove his worth to a Wizard Council by completing an arduous quest.", 
+      "developers": [], 
+      "id": 20335, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7642/330379-g00853cc0cc.jpg", 
+      "name": "Hocus Pocus", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Alien Carnage, also known as Halloween Harry, is a cartoon-style game featuring the titular Halloween Harry in a quest to rid the world of aliens.", 
+      "developers": [], 
+      "id": 20336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721892-23832_boxshot_1.jpg", 
+      "name": "Alien Carnage", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }, 
+        {
+          "id": 344, 
+          "name": "3D Realms Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "When a rogue scientist plans to enslave humanity in the 22nd century (using soldiers, robots, aliens, and mutants), it's up to British secret agent Blake Stone to infiltrate his facilities and sabotage his plans.", 
+      "developers": [], 
+      "id": 20337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2423344-blakestone_v2.jpg", 
+      "name": "Blake Stone: Aliens of Gold", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Aquanoid is an Arkanoid clone that was released on DOS.", 
+      "developers": [], 
+      "id": 20338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1836692-an.jpg", 
+      "name": "Aquanoid", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Math Rescue is an educational video game that teaches children math.", 
+      "developers": [], 
+      "id": 20339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2772363-math+rescue.jpg", 
+      "name": "Math Rescue", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }, 
+        {
+          "id": 344, 
+          "name": "3D Realms Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this four-part episodic game, players control an astronaut looking to find out what happened to the crew members of previous manned missions to Mars.", 
+      "developers": [], 
+      "id": 20340, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/1400129-mars1_011.png", 
+      "name": "Monuments of Mars", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Jumpman game released for DOS computers.", 
+      "developers": [], 
+      "id": 20341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/1713227-jumpman_lives_2.png", 
+      "name": "Jumpman Lives!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 268, 
+          "name": "Apogee Software, Ltd."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1655 @@
+{
+  "games": [
+    {
+      "deck": "A mech real-time combat game that allowed the player, as an eponymous MechWarrior, to fight other mechs from a first-person perspective. It is based on the Battletech wargaming franchise and was followed by many sequels.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7490, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363963-snes_mechwarrior.jpg", 
+      "name": "MechWarrior", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "NES game based on the movie franchise of the same name. This game features a top-down view in which you play as the main character, Marty Mcfly. Guide Marty through four key moments in the past in order to fix the future, and get back home to 1985.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2325918-nes_backtothefuture.jpg", 
+      "name": "Back to the Future", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Battle Chess brings each piece to life by adding comical animations to them.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7492, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/1293119-battle_chess_box_art.jpg", 
+      "name": "Battle Chess", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 2D fighting game and a rehash of the original game \"The Way Of The Exploding Fist\" with two opponents to fight this time.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7493, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2683552-exploding_fist_plus_spec_1_1.jpg", 
+      "name": "Exploding Fist +", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pilot the baddest helicopter this side of the Pacific in this game based on the hit television series, Airwolf.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7494, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361128-nes_airwolf.jpg", 
+      "name": "Airwolf", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second game in the Last Ninja series, this time set in modern-day New York.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7495, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/648937-last_ninja_2_back_with_a_vengance__the_hit_squad__uk_box_art.jpg", 
+      "name": "Last Ninja 2: Back with a Vengeance", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Shadows of Mordor is a text adventure game.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7496, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1769090-som1.jpg", 
+      "name": "The Shadows of Mordor", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Samurai Warrior was a computer game based on the Usagi Yojimbo comic book.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7497, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2482491-usagi.jpg", 
+      "name": "Samurai Warrior: The Battles of Usagi Yojimbo", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Barbarian is a side-scrolling platformer that gives the player the ability to control a sword-wielding barbarian.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7498, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9979/1121009-513px_barbarianpsygnosis.jpg", 
+      "name": "Barbarian", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }, 
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bad Street Brawler is a side-scrolling beat-em-up released for several home computer systems such as the Commodore 64 as well as the NES. The NES version is notable for being one of two games specifically designed for use with the Power Glove accessory.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7499, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371421-bad_street_brawler_fr_ntsc.png", 
+      "name": "Bad Street Brawler", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An isometric third person action adventure game that mixes melee combat, platforming elements and puzzle solving. Its control scheme is notorious.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7500, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/37765/1098403-ln1commadorebox.jpg", 
+      "name": "The Last Ninja", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 149, 
+          "name": "Commodore"
+        }, 
+        {
+          "id": 157, 
+          "name": "Superior Software"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1370271-mugsysrevenge3.jpg", 
+      "name": "Mugsy's Revenge", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ardok the Barbarian is the US release of the game Asterix and tha Magic Cauldron. Since the comic character Asterix is mainly known in Europe, the main character was turned into a Barbarian for this release, but the plot remained the same.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/797932-1195295375_00.png", 
+      "name": "Ardok the Barbarian", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A cartoony Green Beret clone. You play as Bazooka Bill. A wide array of weapons are at your disposal and you can switch freely between them. ", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7503, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/47149/1396709-bazooka_bill_01.gif", 
+      "name": "Bazooka Bill", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "You play a wanted criminal who has busted out of an experimental lab.  The game is well known for it's music by composer Rob Hubbard.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/2393742-knuckle_busters__melbourne_house____copy.jpg", 
+      "name": "Knuckle Busters", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to The Way of the Exploding Fist brings more 2D martial arts action to the C-64 and ZX Spectrum, this time in a free-roaming game world rather than isolated one-on-one fights.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1169324-fist_2___the_legend_continues__alt_.jpg", 
+      "name": "Fist II: The Legend Continues", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Based on the French comic heroes Asterix &amp; Obelix, the game is a side-scrolling beat-em up developed by Krome Studios in 1986", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1120461-asterix_and_the_magic_cauldron_coverart.png", 
+      "name": "Asterix and the Magic Cauldron", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Way of the Exploding Fist is a martial arts fighting game featuring one-on-one Karate bouts. The object is to defeat each opponent under the shobu nihon kumite scoring system which requires either two glancing blows or one fully landed finishing blow.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1167747-explodingfist.jpg", 
+      "name": "The Way of the Exploding Fist", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released as a sequel to The Hobbit, this game was released outside of North America as Lord of the Rings: Game One.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2686821-0332287391-31411.jpg", 
+      "name": "The Fellowship of the Ring", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 51, 
+          "name": "Dragon 32/64", 
+          "short": "DRAG"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Step into the shoes of the Master Detective, and abuse Watson in whatever way you see fit in this text adventure", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4656/896444-566134_30396_front.jpg", 
+      "name": "Sherlock", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A ground breaking text-adventure video game based on J.R.R. Tolkien's The Hobbit.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/731972-2062422162_4cea141472.jpg", 
+      "name": "The Hobbit", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 51, 
+          "name": "Dragon 32/64", 
+          "short": "DRAG"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first game to feature the character Horace.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13349/892339-1161640308_01.png", 
+      "name": "Hungry Horace", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 51, 
+          "name": "Dragon 32/64", 
+          "short": "DRAG"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Horace and The Spiders is the third ZX Spectrum game in the Horace series", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1347608-horacespidersgame3.png", 
+      "name": "Horace & The Spiders", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/661768-1117211194_02.png", 
+      "name": "Penetrator", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7516, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Marble Madness Deluxe Edition", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2616672-7781261914-m_kbu.jpg", 
+      "name": "Bop'N Wrestle", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Originally a generic Rampage clone, Beam Software struck a deal with confectionary giant Leaf UK to incorporate their Chewits mascot known as 'The Muncher' into the game.\nWhile the mascot's promotional images and brand name were used, the game's giant monster bares little if any resemblance. It served more as a marketing strategy than an essential part of the game.\n", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/687/1101546-themuncher_01.jpg", 
+      "name": "The Muncher", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1360362-doc_the_destroyer.jpg", 
+      "name": "Doc the Destroyer", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Choose your team and lead it to the to the world cup. ", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7473/275677-00110417.jpg", 
+      "name": "Cricket 97", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Master short-term memory skills in this Concentration-style game for PCs and the NES.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361733-nes_fisherpriceicanremember.jpg", 
+      "name": "Fisher-Price: I Can Remember", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Marble Madness Construction Set is a home computer version of Marble Madness with a level editor.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7522, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62571/1364496-marblemadnessconstructionset3.jpg", 
+      "name": "Marble Madness Construction Set", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "HOWZAT!? Melbourne-based development studio Beam Software's (eventually becoming Krome Studios Melbourne) first dip into the leg-bye laden world of cricket, released on the NES only in Australia.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117006/2196673-578653_109158_front.jpg", 
+      "name": "International Cricket", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Punch-Out!! clone featuring a cast of alien boxing opponents released for the NES.  Its history as a game that almost starred Mike Tyson is more interesting than the game itself.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7524, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362127-nes_powerpunch2.jpg", 
+      "name": "Power Punch 2", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/161318/2245873-cricket96.jpg", 
+      "name": "Cricket 96", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7526, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Terrormolinos", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/36683/1021805-mugsy_s.gif", 
+      "name": "Mugsy", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Inspector Gadget and the Circus of Fear is a video game based on the television show of the same name.", 
+      "developers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ], 
+      "id": 7528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2260116-inspector_gadget_and_the_circus_of_fear.jpg", 
+      "name": "Inspector Gadget and the Circus of Fear", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "An online-only open-world shooter-RPG from Ubisoft Massive set in a chaotic New York City that is wrought by disease.", 
+      "developers": [
+        {
+          "id": 262, 
+          "name": "Ubisoft Massive"
+        }
+      ], 
+      "id": 7529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/95676/2643697-91pvshkpjfl._sl1500_+-+copy.jpg", 
+      "name": "Tom Clancy's The Division", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third installment in the series sees a reluctant victim battling nature, pirates, and the island's insanity-inducing jungle to rescue his friends and family from an island paradise gone horribly wrong.", 
+      "developers": [
+        {
+          "id": 262, 
+          "name": "Ubisoft Massive"
+        }
+      ], 
+      "id": 7530, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367497-box_fc3.png", 
+      "name": "Far Cry 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "World in Conflict: Soviet Assault is the first expansion to World in Conflict which adds a soviet campaign taking place concurrently with the first game.", 
+      "developers": [
+        {
+          "id": 262, 
+          "name": "Ubisoft Massive"
+        }
+      ], 
+      "id": 7531, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1212657-sovietpc.jpg", 
+      "name": "World in Conflict: Soviet Assault", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "World in Conflict puts the player into a Cold War scenario in which the Soviets mount a full scale invasion on Europe and America. ", 
+      "developers": [
+        {
+          "id": 262, 
+          "name": "Ubisoft Massive"
+        }
+      ], 
+      "id": 7532, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139889-box_wic.png", 
+      "name": "World in Conflict", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ground Control II is a futuristic real-time strategy game that does away with resources and focuses on the tactics. Points are gained from occupying control points in the map, these points can be used to call in reinforcements.", 
+      "developers": [
+        {
+          "id": 262, 
+          "name": "Ubisoft Massive"
+        }
+      ], 
+      "id": 7533, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1517085-fileground_control_2_box.jpg", 
+      "name": "Ground Control II: Operation Exodus", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ground Control is a game that takes away resource management and base building and focuses on protecting your units while completing your objectives.", 
+      "developers": [
+        {
+          "id": 262, 
+          "name": "Ubisoft Massive"
+        }
+      ], 
+      "id": 7534, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12575/679470-ground_control_box.jpg", 
+      "name": "Ground Control", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "An amiibo-centric spiritual successor to the Mario and Donkey Kong series developed by NST.", 
+      "developers": [
+        {
+          "id": 263, 
+          "name": "Nintendo Software Technology Corporation"
+        }
+      ], 
+      "id": 7535, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2831864-ccqaev5uaaawiva.jpg", 
+      "name": "Mini Mario & Friends: amiibo Challenge", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Guide the Minis through levels by interacting with the levels via the touch screen. Mario vs Donkey Kong: Tipping Stars features cross-platform level sharing through Miiverse.", 
+      "developers": [
+        {
+          "id": 263, 
+          "name": "Nintendo Software Technology Corporation"
+        }
+      ], 
+      "id": 7536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2729938-mkpackv2clean.jpg", 
+      "name": "Mario vs. Donkey Kong: Tipping Stars", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A two-pack of two download-only Mario and/vs Donkey Kong games, released exclusively in Europe in a retail box with download codes inside.", 
+      "developers": [
+        {
+          "id": 263, 
+          "name": "Nintendo Software Technology Corporation"
+        }
+      ], 
+      "id": 7537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2728080-mdkfront.jpg", 
+      "name": "Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again!", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Minis on the Move is the first entry of the puzzle-oriented Mario vs DK series on the Nintendo 3DS.", 
+      "developers": [
+        {
+          "id": 263, 
+          "name": "Nintendo Software Technology Corporation"
+        }
+      ], 
+      "id": 7538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2432783-screen+shot+2013-02-14+at+11.49.39+am.png", 
+      "name": "Mario and Donkey Kong: Minis on the Move", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A crosswords game from Nintendo, it features many different modes. ", 
+      "developers": [
+        {
+          "id": 263, 
+          "name": "Nintendo Software Technology Corporation"
+        }
+      ], 
+      "id": 7539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/151939/2351316-crosswords.png", 
+      "name": "Crosswords Plus", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Celebrate the 20th anniversary of the little pink puff ball (known as Kirby) in this six-game compilation for the Wii.", 
+      "developers": [
+        {
+          "id": 263, 
+          "name": "Nintendo Software Technology Corporation"
+        }
+      ], 
+      "id": 7540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2672589-kirbydreamcoll.jpg", 
+      "name": "Kirby\u2019s Dream Collection Special Edition", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Control a cadre of Mario miniatures to battle Mario's nemesis, Donkey Kong. It's more focused on creating a path this time.", 
+      "developers": [
+        {
+          "id": 263, 
+          "name": "Nintendo Software Technology Corporation"
+        }
+      ], 
+      "id": 7541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2211867-box_mvdkmlm.png", 
+      "name": "Mario vs. Donkey Kong: Mini-Land Mayhem", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }
+  ]
+}

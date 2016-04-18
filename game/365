@@ -1,0 +1,1239 @@
+{
+  "games": [
+    {
+      "deck": "Take control of your own hotels and aim to satisfy the customers.", 
+      "developers": [], 
+      "id": 18189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/843537-51m7c8r2mbl._ss400_.jpg", 
+      "name": "Hotel Giant", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Trevor Chan's Capitalism II is an in-depth business strategy game which covers almost every aspect of a real world business.", 
+      "developers": [], 
+      "id": 18190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8807/819952-box_shot.jpg", 
+      "name": "Trevor Chan's Capitalism II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A HOG developed by Casual Arts Twisted takes the classic Christmas tale and adds a new slant to it.  You take the role of Jacob Marley and you begin the game just as you are murdered. ", 
+      "developers": [], 
+      "id": 18191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/133382/1828358-screen01.jpg", 
+      "name": "Twisted: A Haunted Carol", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Adventure game", 
+      "developers": [], 
+      "id": 18192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2680757-committed+mystery+at+shady+pines.jpeg", 
+      "name": "Committed: Mystery at Shady Pines", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Second game of Redemption cemetery series.", 
+      "developers": [], 
+      "id": 18193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2675131-redemption-cemetery-childrens-plight.jpg", 
+      "name": "Redemption Cemetery: Children\u2019s Plight", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fifth and last game of Redemption cemetery series.", 
+      "developers": [], 
+      "id": 18194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2675134-redemption-cemetery-bitter-frost_feature.jpg", 
+      "name": "Redemption Cemetery: Bitter Frost", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fourth game of Redemption cemetery series.", 
+      "developers": [], 
+      "id": 18195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2675133-rc4.jpg", 
+      "name": "Redemption Cemetery: Salvation of the Lost", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Third game of Redemption cemetery series.", 
+      "developers": [], 
+      "id": 18196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2675132-rc3.jpg", 
+      "name": "Redemption Cemetery: Grave Testimony", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Japanese only sequel to Paladin's Quest.", 
+      "developers": [], 
+      "id": 18197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/431446-lennus_2_box.jpg", 
+      "name": "Lennus II: Fuuin no Shito", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the Dokapon series of RPG styled boardgames.", 
+      "developers": [], 
+      "id": 18198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2512746-box.png", 
+      "name": "Dokapon Gaiden: Honoo no Audition", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "World War 2 strategy game developed by Dual in 1995 and the final game in the Koutetsu no Kishi trilogy. Take control of the Axis or Allies in tank battles across Europe.", 
+      "developers": [], 
+      "id": 18199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2331786-koutetsu_no_kishi_3.jpg", 
+      "name": "Koutetsu no Kishi 3: Gekitotsu Europe Sensen", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players take control of Drake Edgewater as he drives his heavily-armed checkered cab, taking fares and delivering packages around KEMO city.", 
+      "developers": [], 
+      "id": 18200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365933-3do_quarantine.jpg", 
+      "name": "Quarantine", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }, 
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1994 horseracing game for the Super Famicom. It was followed with a sequel in 1995.", 
+      "developers": [], 
+      "id": 18201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2737726-5800633829-30691.jpg", 
+      "name": "Derby Jockey: Kishou e no Michi", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "World War 2 turn-based strategy game developed by Dual in 1994 for the Super Famicom. It is the second game in the Koutetsu no Kishi (Steel Knight) franchise of tank-oriented strategy games.", 
+      "developers": [], 
+      "id": 18202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2331785-koutetsu_no_kishi_2.jpg", 
+      "name": "Koutetsu no Kishi 2: Sabaku no Rommel Shougun", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Combat flight simulator video game released in 1993 for the SNES. Known in Japan and Europe as \"Super Air Diver\".", 
+      "developers": [], 
+      "id": 18203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363932-snes_lockon.jpg", 
+      "name": "Lock On", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }, 
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 436, 
+          "name": "Vic Tokai"
+        }
+      ]
+    }, 
+    {
+      "deck": "SNES exclusive entry to Microprose's F15 Strike Eagle series of jet fighter simulators.", 
+      "developers": [], 
+      "id": 18204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2627084-super_strike_eagle_sfc.jpg", 
+      "name": "Super Strike Eagle", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Paladin's Quest is a role-playing game for the SNES. Chezni, a boy attending magic school, activates an ancient machine on a dare and unknowingly releases a powerful evil being. His task is to defeat it before it can destroy the world.", 
+      "developers": [], 
+      "id": 18205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364527-snes_paladinsquest.jpg", 
+      "name": "Paladin's Quest", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }, 
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "D-Force, also known as Dimension Force, is an Asmik-published top-down vertical shoot 'em up for the SNES. Players control a helicopter-like ship that has the ability to alter its altitude to avoid or attack air and land targets.", 
+      "developers": [], 
+      "id": 18206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363714-snes_dforce.jpg", 
+      "name": "D-Force", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japan-only sequel to Boomer's Adventure in ASMIK World.", 
+      "developers": [], 
+      "id": 18207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2465421-asmik2.jpg", 
+      "name": "Asmik-kun World 2", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "WW2 strategy game released for the NEC PC-9801 and Super Famicom. It follows the perspective of the Axis forces, rather than the Allies.", 
+      "developers": [], 
+      "id": 18208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2331784-koutetsu_no_kishi.jpg", 
+      "name": "Koutetsu no Kishi", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Build a monumental empire (that can stand the test of time) in this turn-based strategy game by MicroProse.", 
+      "developers": [], 
+      "id": 18209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/625325-575160_34191_front_1_.jpg", 
+      "name": "Sid Meier's Civilization", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cutie Suzuki no Ringside Angel is an all-female pro-wrestling game.", 
+      "developers": [], 
+      "id": 18210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370488-genesis_cutiesuzukinoringsideangel_jp.jpg", 
+      "name": "Cutie Suzuki no Ringside Angel", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Deep Dungeon IV: Kuro no Youjutsushi is a Japanese only role-playing game for the Nintendo Famicom.", 
+      "developers": [], 
+      "id": 18211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/545069-deep_dungeon_iv_kuro_no_youjutsushi_box.jpg", 
+      "name": "Deep Dungeon IV: Kuro no Youjutsushi", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Air Diver is an action flight sim exclusively for the Genesis.", 
+      "developers": [], 
+      "id": 18212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2368947-genesis_airdiver.jpg", 
+      "name": "Air Diver", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An racing game from Yu Suzuki, featuring a full 360\u00b0 axis. It was the first kart racer, setting the template for more popular kart racers such as the Mario Kart series.", 
+      "developers": [], 
+      "id": 18213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1741426-power_drift.jpg", 
+      "name": "Power Drift", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in T&amp;E Soft's Hydlide series of action RPGs, released on various home computers and consoles. Originally released in 1987, a graphically enhanced version was released in 1989, called Super Hydlide on the Mega Drive / Genesis console and Hydlide 3: Special Version on computers.", 
+      "developers": [], 
+      "id": 18214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2747467-2117741114-48196.jpg", 
+      "name": "Hydlide 3", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japan-exclusive game released in 1995 for the Super Famicom. Sequel to Super Air Diver (known as Lock On in the US).\n", 
+      "developers": [], 
+      "id": 18215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2168931-super_air_diver_2.jpg", 
+      "name": "Super Air Diver 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 43, 
+          "name": "Asmik Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crasher is a online multiplayer battle game. Up to 5 vs. 5 players. Developed by Punchers Impact.", 
+      "developers": [], 
+      "id": 18216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/90792/1733465-crasher.jpg", 
+      "name": "Crasher", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This fearless farmyard freedom fighter has decided to gain some revenge on the crafty wolf that's been hanging around the sty - and this is one ham-fisted pork product that plays dirty! Crazy Pig needs your help to clean up the farm and drive that nasty wolf away!", 
+      "developers": [], 
+      "id": 18217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/61169/1455828-pig_box.jpg", 
+      "name": "Crazy Pig", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Ultimate Red Ball Challenge is based on the British TV show Total Wipeout, which also inspired the American version known simply as Wipeout. This Nintendo Wii adaptation amounts to a minigame collection themed after the show.", 
+      "developers": [], 
+      "id": 18218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481881-box_turbc.png", 
+      "name": "The Ultimate Red Ball Challenge - BBC's Total Wipeout", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A karaoke singing game for the Wii.", 
+      "developers": [], 
+      "id": 18219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/1226997-974052_141020_front.jpg", 
+      "name": "U-Sing", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Set within a unique post-apocalyptic fantasy universe, The Chronicles of Spellborn provides an immersive combat system along with a well fleshed out and unique storyline.", 
+      "developers": [], 
+      "id": 18220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/961394-the_chronicles_of_spellborn_pc.jpg", 
+      "name": "The Chronicles of Spellborn", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2736239-9947101054-10524.jpg", 
+      "name": "Hot Dish", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/1227001-scooter_war3z.jpg", 
+      "name": "Scooter War3z", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A block-breaking game from Magnussoft; the sequel to Barkanoid.", 
+      "developers": [], 
+      "id": 18223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/94457/1370263-barkanoid_2_2004_cover.jpg", 
+      "name": "Barkanoid 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror themed first-person action game.", 
+      "developers": [], 
+      "id": 18224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2625194-nosteratu+the+wrath+of+malachi+cover.jpg", 
+      "name": "Nosteratu: The Wrath of Malachi", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "First-person shooter survival horror game about a man that finds his family imprisoned in a large castle by a vicious vampire count named Malachi.", 
+      "developers": [], 
+      "id": 18225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62890/1424421-nosferatu_wrath_of_malachi_cover.jpg", 
+      "name": "Nosferatu: The Wrath of Malachi", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2168011-o.r.b___off_world_resource_base.png", 
+      "name": "O.R.B.: Off-World Resource Base", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29460/892240-cc4.jpg", 
+      "name": "Close Combat IV: The Battle of the Bulge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Rat Attack allows players to fervently chase and kill rats through many different colorful levels.", 
+      "developers": [], 
+      "id": 18228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/384477-rat_attack__pal___front_.jpg", 
+      "name": "Rat Attack", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1834528-ring_the_legend_of_the_nibelungen.jpg", 
+      "name": "Ring: The Legend of the Nibelungen", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Playstation exclusive home console version of the Chessmaster series.", 
+      "developers": [], 
+      "id": 18230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1266610-1.jpg", 
+      "name": "Chessmaster II", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Creatures 3 was the final installment of the Creatures franchise for about 11 years.", 
+      "developers": [], 
+      "id": 18231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2891/1729898-c3.png", 
+      "name": "Creatures 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Creatures 2 is the second installment in the Creatures trilogy.", 
+      "developers": [], 
+      "id": 18232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73108/1795707-creatures_2_front.jpg", 
+      "name": "Creatures 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Circuit Breakers is a micro car racing game that allows you to compete against up to four players.", 
+      "developers": [], 
+      "id": 18233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/42/288738-circuitbreakers.jpg", 
+      "name": "Circuit Breakers", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18234, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Team Apache", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Steel Panthers, Modern Battles introduces a slew of new units and warfighting technologies, as well upping the scale of scenarios from company-sized scrums to battalion-sized battles.", 
+      "developers": [], 
+      "id": 18235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19255/845558-_steel_panthers_2_pc.jpg", 
+      "name": "Steel Panthers II: Modern Battles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1796708-spcover.jpg", 
+      "name": "Steel Panthers III: Brigade Command (1939-1999)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/853751-catz_ii_your_virtual_petz.jpg", 
+      "name": "Catz II: Your Virtual Petz", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18238, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Advanced Dungeons & Dragons Masterpiece Collection", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }
+  ]
+}

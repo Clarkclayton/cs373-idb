@@ -1,0 +1,1554 @@
+{
+  "games": [
+    {
+      "deck": "Madden NFL 2005 was one of the better years of the Madden series with improved features, physics, presentation and graphics.", 
+      "developers": [
+        {
+          "id": 211, 
+          "name": "Exient Entertainment"
+        }
+      ], 
+      "id": 6390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250689-box_madden05.png", 
+      "name": "Madden NFL 2005", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 54, 
+          "name": "Zodiac", 
+          "short": "ZOD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "It's a soccer game!", 
+      "developers": [
+        {
+          "id": 211, 
+          "name": "Exient Entertainment"
+        }
+      ], 
+      "id": 6391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266499-box_fifa03.png", 
+      "name": "FIFA Soccer 2003", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "NHL Hitz 20-03 is the second release of Midway's arcade style hockey series.", 
+      "developers": [
+        {
+          "id": 211, 
+          "name": "Exient Entertainment"
+        }
+      ], 
+      "id": 6392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276058-box_nhlhitz03.png", 
+      "name": "NHL Hitz 20-03", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A European exclusive Gameboy Advance game developed by Exient Entertainment and published by Ubisoft.", 
+      "developers": [
+        {
+          "id": 211, 
+          "name": "Exient Entertainment"
+        }
+      ], 
+      "id": 6393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/23/234975/2768152-5724382049-31406.jpg", 
+      "name": "Total Soccer Manager", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rigs is an arena combat game featuring agile mechs. It is designed for Morpheus VR on PS4, and will be part of its launch games lineup.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6394, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2758944-screen+shot+2015-06-16+at+2.26.55+am.jpg", 
+      "name": "Rigs: Mechanized Combat League", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "PS Vita-exclusive Killzone title from Guerilla Games Cambridge. A side-story to the original Killzone trilogy.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2536365-box_kzm.png", 
+      "name": "Killzone Mercenary", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "TV Superstars is a PlayStation Move title that has players competing for ultimate TV stardom by putting you through a series of interactive game & television show scenarios.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1554710-5075799577_752c175781_b.jpg", 
+      "name": "TV Superstars", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on LittleBigPlanet for the PS3, developed for the PSP. It features most of the same platforming gameplay, creation tools, and sharing abilities.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6397, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1794117-box_lbppsp.png", 
+      "name": "LittleBigPlanet", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "24: The Game is a third-person shooter for the PlayStation 2 based on the hit television series 24, as Jack Bauer and the rest of the Counter Terrorist Unit try to foil terrorist attacks in Los Angeles.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2120430-box_24.png", 
+      "name": "24: The Game", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Be awakened from the dead and fight to save Gallowmere from the evil Zarok.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837504-box_mevilr.png", 
+      "name": "MediEvil Resurrection", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ghosthunter is a horror themed third person shooter which has you cast as newly appointed ghost hunter Lazarus Jones. Having unwittingly released hundreds of ghosts from a special vault, Lazarus must explore a myriad of haunted locales to fix his mistake and save his abducted partner.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6400, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/815853-front_cover.jpg", 
+      "name": "Ghosthunter", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jennifer Tate enters a dark world of magic and demons as she journeys to find her boyfriend. Her companion on this journey is a noble-sounding gargoyle named Scree. Along the way, Jennifer undergoes a myriad of physical and emotional transformations as she ventures from one world to the next.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115774-box_primal.png", 
+      "name": "Primal", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action/shooter/puzzle game set in a post-apocalyptic Earth in which aliens have invaded to strip the world of carbon and all carbon based life-forms. You play as an English soldier with a bionic eye.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2022682-box_c12fr.png", 
+      "name": "C-12: Final Resistance", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "MediEvil II, or MediEvil 2 in its PAL release, is the follow-up to the original PlayStation release MediEvil.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2372460-box_medievil2.png", 
+      "name": "MediEvil II", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Step back in time to the mystical land of Gallowmere and assume the role of Sir Daniel Fortesque as he attempts to stop the return of the evil sorceror Zarok.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2372459-box_medievil.png", 
+      "name": "MediEvil", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Frogger 3D is a video game remake of the classic arcade game with 3D graphics and new maps.", 
+      "developers": [
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ], 
+      "id": 6405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9288/828184-froggercover.png", 
+      "name": "Frogger", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This two game bundle features both Resident Evil: The Umbrella Chronicles and Resident Evil: The Darkside Chronicles in high-definition with PlayStation Move support.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2421020-biochrhd.jpg", 
+      "name": "Resident Evil: Chronicles HD Collection", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nothing is as it seems. Nier must travel the world in search of a cure for his daughter who has been infected with the deadly \"Black Scrawl\" virus. How far will you go to save someone you love?", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2112211-box_nier.png", 
+      "name": "Nier", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nier Replicant is an alternate version of Nier, released only in Japan for the Playstation 3.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/65194/1716346-nier_replicant_jaquette_japonaise.jpg", 
+      "name": "Nier Replicant", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Resident Evil: The Darkside Chronicles is an on-rails shooter for the Wii and a follow-up to Resident Evil:  The Umbrella Chronicles. The story of Resident Evil 2, Resident Evil Code: Veronica, as well as a prequel to Resident Evil 4, make up the games three scenarios.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1790024-box_retdc.png", 
+      "name": "Resident Evil: The Darkside Chronicles", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the Fate/Stay Night visual novel/anime series from Type-Moon. The PSP version is based on the arcade/PS2 version, with various enhancements like simplified controls, balance adjustments, new Reflect Dash move, new costumes and ad-hoc versus mode.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2392931-fate_cover.jpg", 
+      "name": "Fate/Unlimited Codes", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "With the help of Korg, a replica of the MS-20 is being made for the DS.  Originally only slated for a Japanese release, it was released in North America in November 2008.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14036/843828-korg_cover.jpg", 
+      "name": "Korg DS-10", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the 3D fighting game based on the popular visual novel Fate/stay night.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1679/1373207-tiger_colosseum_upper.jpg", 
+      "name": "Fate/tiger colosseum Upper", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Resident Evil: The Umbrella Chronicles is a light-gun shooter from Capcom. The game takes place over the events of Resident Evil 0, 1 &amp; 3, with some original elements as well.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1790025-box_retuc.png", 
+      "name": "Resident Evil: The Umbrella Chronicles", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fate/Tiger Colosseum is a 3D fighting game based off of the popular visual novel, Fate/Stay Night.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1679/302088-front_cover.jpg", 
+      "name": "Fate/tiger colosseum", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Naruto Uzumaki Chronicles sub series. Play as Naruto and other Ninja's as you battle enemies on many different levels.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2215072-box_narutouc2.png", 
+      "name": "Naruto: Uzumaki Chronicles 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bullet Witch is an action-adventure third-person shooter, which follows a young witch as she tries to save humanity from a demon army.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133339-box_bwitch.png", 
+      "name": "Bullet Witch", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }, 
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2232768-935710_80245_front.jpg", 
+      "name": "Zegapain NOT", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Naruto: Uzumaki Chronicles lets the player take control of Naruto and various other characters in the franchise to do missions to grow stronger and become hokkage.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2215071-box_narutouc.png", 
+      "name": "Naruto: Uzumaki Chronicles", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An anime mech action game.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2232767-932347_74183_front.jpg", 
+      "name": "Zegapain XOR", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Help the Crisis Response Team stop a nuclear weapon named Project Poseidon with the sequel to Winback.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1804009-box_winback2.png", 
+      "name": "WinBack 2: Project Poseidon", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A prequel to Dragon Quest VIII featuring Yangus as the main character.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/520293-931217_72295_front.jpg", 
+      "name": "Dragon Quest: Shounen Yangus to Fushigi no Dungeon", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set eighteen years after the original Drakengard, the young warrior Nowe and Legna, the dragon that raised him, are pulled into a conflict when a group of rebels threaten the seals that hold the world's balance in check.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6422, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375787-box_dgard2.png", 
+      "name": "Drakengard 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based RPG where the player takes control of either Syaoran or Sakura. They will visit many worlds as they try to retrieve Sakura's memories which take the form of powerful feathers.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26507/1035316-tsubasa_2.jpg", 
+      "name": "Tsubasa Chronicle", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An open-world brawler RPG developed by Cavia and published by Capcom.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179467-box_bdfov.png", 
+      "name": "Beat Down: Fists of Vengeance", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "This sequel to Soccer Life! once again lets players start a journey as a young professional footballer and become a legend of the game.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/20/209581/2718506-soccer+life+ii+fc.jpg", 
+      "name": "Soccer Life II", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Major Kusanagi and Batou take on the high-tech underworld of Japan in this Third person shooter for PS2.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193294-box_gitssac.png", 
+      "name": "Ghost in the Shell: Stand Alone Complex", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 188, 
+          "name": "SCE Japan Studio"
+        }, 
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Starting as an amateur footballer by training hard and making correct career choices you can gradually become a world famous professional. Apart from the football side of your career you will also be able to manage aspects of your personal life, including friendships and rivalry, dating, marriage and even raising children.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/20/209593/2572195-soccer+life.jpg", 
+      "name": "Soccer Life!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A warrior for the Union named Caim and the dragon Angelus form a pact, bonding their lives together so that they may fight their mutual enemy the Empire.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375786-box_dgard.png", 
+      "name": "Drakengard", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 18898, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Jack Flash", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 105, 
+          "name": "MVP Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Resident Evil: Dead Aim is the fourth game in the Gun Survivor series. It features a unique control scheme with exploration performed in the third person perspective while combat takes place in first person.", 
+      "developers": [
+        {
+          "id": 213, 
+          "name": "cavia inc."
+        }
+      ], 
+      "id": 6429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1867816-box_reda.png", 
+      "name": "Resident Evil: Dead Aim", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chaos challenges players to defeat their opponents using a random assortment of spells given to them at the start of the game.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7663/193253-chaos_load_spec.gif", 
+      "name": "Chaos: The Battle of Wizards", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ford Racing for the PC and PlayStation allows the player to select from a varied roster of Ford cars and SUV\u00b4s and race them against 12 other vehicles simultaneously.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1506/694924-437534_50728_front.jpg", 
+      "name": "Ford Racing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179509-box_tdor.png", 
+      "name": "Test Drive: Off-Road", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/1108117-onside_complete_soccer_psx.jpg", 
+      "name": "ONSIDE Complete Soccer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A side-scrolling platformer set in prehistoric times. It features the eponymous cavemen ninja as they fight their way across various colorful levels. It also has cave babes.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2584178-box_jam.png", 
+      "name": "Joe & Mac: Caveman Ninja", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 108, 
+          "name": "Zeebo", 
+          "short": "ZBO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6435, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mike Read's Computer Pop Quiz", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "You are a freelance mercenary and you take on a range of missions.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/860626-dogs_of_war.gif", 
+      "name": "Dogs of War", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }, 
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Hoppin' Mad tasks players with guiding several perpetually bouncing balls through a variety of increasingly difficult environments.", 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1730631-573532_864_front.jpg", 
+      "name": "Hoppin' Mad", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ], 
+      "id": 6438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/634512-overfron.jpg", 
+      "name": "Overlander", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }
+  ]
+}

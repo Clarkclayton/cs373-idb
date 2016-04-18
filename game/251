@@ -1,0 +1,1286 @@
+{
+  "games": [
+    {
+      "deck": "The 2005 installment of the wrestling sim series; the first of which released under the Grey Dog Software hood. This game has been released as Freeware.", 
+      "developers": [
+        {
+          "id": 421, 
+          "name": "Grey Dog Software"
+        }
+      ], 
+      "id": 12480, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7383/192364-generic_780x660.jpg", 
+      "name": "Total Extreme Wrestling 2005", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 421, 
+          "name": "Grey Dog Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Both a remake and expansion to the critically-acclaimed Xbox and PC title The Chronicles of Riddick: Escape from Butcher Bay, Dark Athena features both the original campaign, an all-new campaign and new multiplayer modes.", 
+      "developers": [
+        {
+          "id": 422, 
+          "name": "Tigon Studios"
+        }
+      ], 
+      "id": 12481, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897555-box_tcoraoda.png", 
+      "name": "The Chronicles of Riddick: Assault on Dark Athena", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Vin Diesel is looking for a job in Wheelman, a driving-focused open-world game with vehicular special moves to assist in your escape. The story is based around Diesel's character as he comes out of retirement to save a woman from his past.", 
+      "developers": [
+        {
+          "id": 422, 
+          "name": "Tigon Studios"
+        }
+      ], 
+      "id": 12482, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2341492-vin_diesel.png", 
+      "name": "Wheelman", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Secret Service puts you in the role of a Secret Service agent trying to bring order after the newly inaugurated United States President is shot on Inauguration Day.", 
+      "developers": [
+        {
+          "id": 422, 
+          "name": "Tigon Studios"
+        }
+      ], 
+      "id": 12483, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2314080-box_sservice.png", 
+      "name": "Secret Service", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Escape From Butcher Bay is a first-person action game set before the events of the first Riddick film, Pitch Black.", 
+      "developers": [
+        {
+          "id": 422, 
+          "name": "Tigon Studios"
+        }
+      ], 
+      "id": 12484, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2309067-cropped.png", 
+      "name": "The Chronicles of Riddick: Escape from Butcher Bay", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action-RPG being developed by Vin Diesel and Tigon Studios, Set in a fantasy universe the game will use action/adventure and stealth combat and is focused on story telling.", 
+      "developers": [
+        {
+          "id": 422, 
+          "name": "Tigon Studios"
+        }
+      ], 
+      "id": 12485, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Melkor", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 422, 
+          "name": "Tigon Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Real-Time Strategy game being developed by Tigon Studios that is based upon the historical battles of Hannibal Barca. ", 
+      "developers": [
+        {
+          "id": 422, 
+          "name": "Tigon Studios"
+        }
+      ], 
+      "id": 12486, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Barca B.C.", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A golfing MMO where you craft your clubs, enchant your balls and make hole-in-ones using power-ups.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12487, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18149/2823677-winning-putt-buttonjpg-0d7270.jpg", 
+      "name": "Winning Putt", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tactical MMO shooter game. It's kinda Ghost Recon clone.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12488, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2423932-arctic_combat_1.jpg", 
+      "name": "Arctic Combat", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A free to play MMORPG developed by WebZen and released worldwide by licensees.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12489, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1102473-suna2mifh0873e7___.jpg", 
+      "name": "Soul of the Ultimate Nation", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mu Online is a isometric massively multiplayer online game.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12490, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3373/1059054-mua11_anbl1hk8031.jpg", 
+      "name": "Mu Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is an unreleased MMO from Webzen that focused on PVP and shooter gameplay.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1102472-parfaitstation_01.jpg", 
+      "name": "Parfait Station", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Huxley: The Dystopia is a massively-multiplayer online shooter from Webzen.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12492, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6664/198261-huxley.jpg", 
+      "name": "Huxley: The Dystopia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An MMORPG that was being developed by South Korean company Webzen for PC and PlayStation 3. The project was scrapped in 2006.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12493, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/555211-logo.jpg", 
+      "name": "Endless Saga", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wiki is a fairy tale-based MMO focusing on cooperation between players as their decisions affect the game world.", 
+      "developers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ], 
+      "id": 12494, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1102478-wiki.jpg", 
+      "name": "Project Wiki", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 423, 
+          "name": "Webzen Games Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Street Fighter IV: Arena is a mobile fighting game based on the Street Fighter IV line of games. It introduces leveling-up and social game trappings to the mix.", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12495, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2652153-5499679332-25-st.jpg", 
+      "name": "Street Fighter IV: Arena", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free to Play version of Counter Strike with new PVE and PVP modes involving zombies. Based on Counter-Strike Online which was developed by Nexon for Asia's gaming market but now released on Steam in the west for the first time.", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12496, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4344/2682710-csnz+art.jpg", 
+      "name": "Counter-Strike Nexon: Zombies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A port of a beat em up/MMO RPG hybrid by NEXON for the Xbox 360", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12497, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2178145-2178143-boxartlg3.jpg", 
+      "name": "Dungeon Fighter Live: Fall of Hendon Myre", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A single player version of the free-to-play MMORPG MapleStory on the Nintendo DS.", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12498, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/33880/1327592-maplestory_ds.jpg", 
+      "name": "MapleStory DS", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Combat Arms is free-to-play FPS created by Korean developer Nexon. The games attempts to implement themes popularized by mainstream franchises such as Call of Duty, Battlefield and Counter-Strike.  ", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12499, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2120431-box_carms.png", 
+      "name": "Combat Arms", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mabinogi is an anime-style MMORPG based on Celtic mythology.", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12500, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/406327-mabinogi.jpg", 
+      "name": "Mabinogi", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "War Rock is a free to play FPS shooter set in modern times. It was also released at retail with bonus features, and features both a subscription model and microtransactions for purchase of new weaponry, clothing etc.", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/217/326247-warrock_cover.jpg", 
+      "name": "WarRock", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dark Ages is a 2D isometric view MMORPG. It was released in 1999 by Nexon.", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3698/681879-darkages2.gif", 
+      "name": "Dark Ages: Online Roleplaying", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An MMORPG by Nexon.", 
+      "developers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ], 
+      "id": 12503, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1201882-n220.jpg", 
+      "name": "Ever Planet", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Delta Force: Xtreme 2 is the sequel to NovaLogic's Delta Force: Xtreme which was released in April 2005.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5343/1384257-deltafor2.jpg", 
+      "name": "Delta Force: Xtreme 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4859/1046166-wardk5.jpg", 
+      "name": "Delta Force: Xtreme", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the expansion pack to the original Joint operations: typhoon rising game. It adds new vehicles and weapons to the game", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7473/194977-g20778umgrc.jpg", 
+      "name": "Joint Operations: Escalation", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A realistic multiplayer tactical first-person shooter set in Indonesia, where special forces soldiers are called in to quell a rebel uprising. The game features vast expanses with a player limit of 150, setting the stage for large-scale multiplayer battles.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7473/275160-1204606160_joint_operations__typhoon_rising.jpg", 
+      "name": "Joint Operations: Typhoon Rising", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Delta Force: Black Hawk Down is a first-person shoooter developed and published by Novalogic, based on the same events portrayed in the novel and film \"Black Hawk Down\".", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1789585-box_dfbhd.png", 
+      "name": "Delta Force: Black Hawk Down", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82561/1523885-daggerbox.jpg", 
+      "name": "Delta Force: Task Force Dagger", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Comanche 4 was the last in a series of RAH-66 Comanche simulator games. The game was praised for it's unique gameplay and sharp visuals.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/703898-comanche4_front.jpg", 
+      "name": "Comanche 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Another Delta Force game where you take on the role of a Special Forces soldier. New features such as the ability to save, the ability to pick up weapons and the weapon caches where you can stock up on ammo or change your loadout where added.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/705393-delta_force_land_warrior_cd_case.jpg", 
+      "name": "Delta Force: Land Warrior", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Experience the life of Jake Logan, a rough-and-tumble privateer voiced by Bruce Campbell. Sent to the fringe of Human civilization for a crime he didn't commit, players must either thwart or assist the efforts of a major corporation to conquer an important sector of space. ", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/690862-tachyon_front_smaller.jpg", 
+      "name": "Tachyon: The Fringe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "F-22 Lightning 3 is a combat flight simulation computer game from NovaLogic and It is based on the F-22 Raptor produced by Lockheed Martin.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1211559-f22_lightning_3.jpg", 
+      "name": "F-22 Lightning 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Delta Force 2 is a tactical FPS game and the player takes the role of  a member of the elite Delta Force.  Delta Force 2 improves over its predecessor in visuals and gameplay.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12514, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/701666-delta_force_2_cd_case_front.jpg", 
+      "name": "Delta Force 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1509970-armored_fist_3_boxshot.jpg", 
+      "name": "Armored Fist 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A flight simulator focusing on the Mikoyan MiG-29 jet fighter.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31986/945337-mig29fulcrum.jpg", 
+      "name": "MiG-29 Fulcrum", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Flight simulator by Novalogic. The campaign spans across Serbia, Burma, Liberia and Somalia.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/556406-boxus.gif", 
+      "name": "F-16 Multirole Fighter", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Delta Force is a first-person shooter, released on the PC, which puts players in the shoes of an elite military task force as they undergo missions across the globe.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/701660-delta_force_manual.jpg", 
+      "name": "Delta Force", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Take to the skies! Fly the U.S. Air Force's air superiority in this combat flight simulation game.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/948257-f022pc0f.jpg", 
+      "name": "F-22 Raptor", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/129083/1773855-3391.jpg", 
+      "name": "Armored Fist 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Comanche 3 put the player in the cockpit of the now-cancelled RAH-66, with four operations and 32 missions it also was the first game in the series to use the Voxel Space 2 engine.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4859/216364-comanche3_box.jpg", 
+      "name": "Comanche 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12522, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "F-22 Lightning II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Armored Fist is an armored warefare game from Nova Logic.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13313/1056311-armored_fist___dos_cover_art___mobygames___mozilla_firefox.jpg", 
+      "name": "Armored Fist", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12524, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Comanche CD", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11534/366166-ultrabots.jpg", 
+      "name": "Ultrabots", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Comanche: Maximum Overkill was a helicopter flight simulator from Nova Logic.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12526, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2772266-2774899419-13226.jpg", 
+      "name": "Comanche: Maximum Overkill", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/615760-wolfpack.gif", 
+      "name": "WolfPack", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the 1991 film of the same name and developed by NovaLogic for Nintendo consoles and PC. The Rocketeer is a 2D, action game centered around flying (and occasionally shooting) the way to victory.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364639-snes_rocketeerthe.jpg", 
+      "name": "The Rocketeer", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Delta Force: Angel Falls is an upcoming first-person shooter for numerous platforms by NovaLogic.", 
+      "developers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ], 
+      "id": 12529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10824/229152-splash_deltaforce.jpg", 
+      "name": "Delta Force: Angel Falls", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }
+  ]
+}

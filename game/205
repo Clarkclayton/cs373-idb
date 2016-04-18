@@ -1,0 +1,1781 @@
+{
+  "games": [
+    {
+      "deck": "The Last Airbender is being billed as a \"relive the movie\" sort of experience, with the players taking on the role of Prince Zuko.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1419514-labba.jpg", 
+      "name": "The Last Airbender", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Swipe your fingers across the screen to slash and splatter fruit while avoiding bombs in this game developed by Halfbrick Studios.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481852-box_fn.png", 
+      "name": "Fruit Ninja", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Halfbrick Studio's Aero Racer, formerly Rocket Racing, adds a unique grinding mechanic to this futuristic top-down racing game as a PlayStation Network Mini.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8960/1472769-aeroracer.jpg", 
+      "name": "Aero Racer", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest game from Halfbrick Studios is a multiplayer, top-down rocket racing game.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/32858/1149975-xboxboxart.jpg", 
+      "name": "Halfbrick Rocket Racing", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Age of Zombies follows time-traveling protagonist  Barry Steakfries, doing his best to eradicate the hungry undead looking to get a mouthful of his tasty vittles.  There's also the promise of zombified T-Rex dinosaurs.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/27/1265665-screen_shot_2010_02_08_at_11.42.56_am.jpg", 
+      "name": "Age of Zombies", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "It's like Muppet Babies with claws! THQ is turning this animated series into a game for DS, Wii, PSP, and PS2.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1982781-box_mshs.png", 
+      "name": "Marvel Super Hero Squad", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Xbox Live Community Game to be released from Australian developer Halfbrick. A fast-paced, surreal and artistic action arcade game. It has also been ported to the PSP as a minis title.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4992/1210142-echoes_boxart.jpg", 
+      "name": "Echoes", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The newest game from Australian developer Halfbrick. It's the first of four high quality Xbox Live Community Games to precede the release of the XBLA game Raskulls in the next few months.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/955399-xboxboxart.jpg", 
+      "name": "Halfbrick Blast Off", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Avatar -The Last Airbender: Into the Inferno takes place in the third and final season of the show where Aang must take on the Fire lord.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222508-box_atlabiti.png", 
+      "name": "Avatar - The Last Airbender: Into the Inferno", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "While not a tie-in to Hellboy II: The Golden Army, players can control Hellboy, Abe Sapien, and Liz Sherman. The game came with a free movie ticket for the film, and featured the voices of Ron Perlman, Doug Jones and Selma Blair. ", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1288/331093-hb2_cover.jpg", 
+      "name": "Hellboy: The Science of Evil", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Legend of Spyro: The Eternal Night is the second part of the Legend of Spyro trilogy. Cynder has been rescued from the power of the Dark Master. The Ape King, Gaul, has now risen to power and is intent on resurrecting the Dark Master.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803996-box_spyroten.png", 
+      "name": "The Legend of Spyro: The Eternal Night", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as your favorite Nickelodeon cartoon characters as you take on the evil toy bots.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222546-box_ntaottb.png", 
+      "name": "Nicktoons: Attack of the Toybots", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A direct sequel to the first Avatar game, The Burning Earth takes place during the second book of the Avatar series. The game has gained notoriety for having the easiest achievements on the XBOX 360.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222509-box_atlbtbe.png", 
+      "name": "Avatar: The Last Airbender - The Burning Earth", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Fight to win. Fight to survive!\nUse the Wii Remote to fly a variety of aircraft throughout different scenarios.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/837321-935985_80761_front.jpg", 
+      "name": "Heatseeker", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "A bizarre, forgettable series of plot devices conspire to bring together the main characters of the most popular animated programs made by Nicktoons circa 2006.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222547-box_ntbfvi.png", 
+      "name": "Nicktoons: Battle for Volcano Island", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Based on a cartoon on Nickelodeon, Avatar: The Last Airbender is an action game that puts you in the role of Aang, a young and powerful airbender. Console Version was developed by THQ Studio Australia.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222507-box_atlab.png", 
+      "name": "Avatar: The Last Airbender", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on the children's movie of the same name.  Nothing really more to say on this one, except why the heck do the male cows have udders? That is just WRONG.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/837778-925099_60374_front.jpg", 
+      "name": "Barnyard", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ty the Tasmanian Tiger 3 revolves around saving the outback from the Quinkan invaders. The third game in the Ty the Tasmanian Tiger series was also the first to be published by a company other than EA Games.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261155-box_ty3.png", 
+      "name": "Ty the Tasmanian Tiger 3: Night of the Quinkan", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ty the Tasmanian Tiger 2: Bush Rescue expands on the game play of the first game, but features new elements, such as driving sequences, mech battles, and an expanded world. In Ty 2, Ty must fight Boss Cass once again to save the Australian outback.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261154-box_ty2.png", 
+      "name": "Ty the Tasmanian Tiger 2: Bush Rescue", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "After the sand on the beach mysteriously disappears, the Rocket Power kids must figure out what is going on.", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222545-box_nrpbb.png", 
+      "name": "Nickelodeon: Rocket Power - Beach Bandits", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Dash is an action game starring the hero Barry Steakfries as he runs and shoots monsters with nothing to lose! Travel through portals to visit exotic world locations, battling demons, mummies, vampires and more!", 
+      "developers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ], 
+      "id": 10205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12539/1452941-screen2.jpg", 
+      "name": "Monster Dash", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cycling racing game released for the Super Famicom in 1995.", 
+      "developers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ], 
+      "id": 10206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2115880-sprinter_monogatari.jpg", 
+      "name": "Sprinter Monogatari", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fastest Lap is a formula 1 racing game with a top down perspective. There are three modes in the game: Exhibition Race, World Tour and Practice. And also support for 2 player multiplayer by compatible link cable.", 
+      "developers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ], 
+      "id": 10207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2475949-fl.jpg", 
+      "name": "Fastest Lap", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Isolated Warrior is a video game that was released for the NES. It falls in the shooter genre, although its gameplay also includes elements reminiscent of platforming.", 
+      "developers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ], 
+      "id": 10208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361870-nes_isolatedwarrior.jpg", 
+      "name": "Isolated Warrior", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game for the Famicom Disk System by Vap Inc in which the player controls a sentient kicking tomato. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ], 
+      "id": 10209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2309510-kick_challenger_air_foot_cover.jpg", 
+      "name": "Kick Challenger: Air Foot", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pachinko game developed by VAP in 1995.", 
+      "developers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ], 
+      "id": 10210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1305094-pachinko_renchan_tengoku_super_cr_special.jpg", 
+      "name": "Pachinko Renchan Tengoku: Super CR Special", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The reboot of the previously one-titled series, the game was officially unveiled during EA's E3 2013 press conference.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2757252-rsz_51hb1mcxuzl.jpg", 
+      "name": "Mirror's Edge Catalyst", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The follow-up to the Battlefront games of the PS2/Xbox era. Now being developed by DICE and published by EA.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2743161-5356.jpg", 
+      "name": "Star Wars: Battlefront", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This Battlefield spin-off, developed by Visceral Games, focuses on the neverending battle between criminals and police officers, rather than the series' standard military setting.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2714623-rsz_71l1jbzm96l_sl1000_.jpg", 
+      "name": "Battlefield Hardline", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "DICE's popular multiplayer-focused shooter series continues, making its debut appearance on the PS4 and Xbox One.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2575456-box_bf4.png", 
+      "name": "Battlefield 4", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battlefield 3 is DICE's third numerical installment in the Battlefield franchise. It features a single player and co-operative campaign, as well as an extensive multiplayer component.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2009740-box_bf3.png", 
+      "name": "Battlefield 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "This spiritual successor to the free-to-play competitive online cartoon shooter, Battlefield Heroes. It will feature maps from Battlefield 2 and the classes and items from Battlefield: Bad Company 2. You will be able to level up and buy weapons using in-game or out-of-game cash.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1711171-battlefield_play4free.jpg", 
+      "name": "Battlefield Play4Free", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the 2009 racer Need for Speed: Shift. Shift 2 features improved graphics, a new campaign mode and the addition of the Autolog system as featured in Need For Speed: Hot Pursuit.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897546-box_nfss2u.png", 
+      "name": "SHIFT 2: Unleashed", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Criterion's reboot of one of the most popular games in the Need for Speed series. The game features Racer versus Cop gameplay and can be played from either perspective at any time.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1828913-box_nfshp.png", 
+      "name": "Need for Speed: Hot Pursuit", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Step into the boots of Tier 1 Operatives Rabbit and Deuce in this modern take on EA's long-running Medal of Honor series; the game features separately-developed single player and multiplayer modes.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1988886-box_moh.png", 
+      "name": "Medal of Honor", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D side scrolling platformer set in the Mirror's Edge universe.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7303/1322945-mirror_s_edge_ipad.png", 
+      "name": "Mirror's Edge", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free to play version of Battlefield 2 and Battlefield 2142 and released specifically for the South Korean market by Neowiz Games, EA and DICE.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/156597/2483267-8739766415-battl.jpg", 
+      "name": "Battlefield Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Battlefield: Bad Company 2 is the second installment in this spin-off Battlefield series. It has a more serious campaign and a vastly expanded multiplayer system.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2409898-box_bfbc2.png", 
+      "name": "Battlefield: Bad Company 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Return to the Pacific Theater in this simpler downloadable sequel to the massive World War II first-person shooter Battlefield 1942.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/30/1069812-sony.jpg", 
+      "name": "Battlefield 1943", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Pinball Dreams, this pinball game offers four different tables with four unique themes.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/295797-pinball_fantasies_cover.jpg", 
+      "name": "Pinball Fantasies", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }, 
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Battlefield Heroes is EA DICE's casual take on the Battlefield series. It features a cartoon-like graphical style and is played from a third person perspective. It is also a \"Play 4 Free\" game.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4065/225034-battlefield_20heroes.jpg", 
+      "name": "Battlefield Heroes", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "In a futuristic totalitarian dystopia, a master courier (in a group of renegade \"runners\") investigates a conspiracy, while outrunning the deadly government military, in this parkour-inspired first-person action game.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810159-box_medge.png", 
+      "name": "Mirror's Edge", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The venerable Battlefield franchise returns for its second console-only outing, this time with a fleshed out single player campaign and a new multiplayer game mode, Gold Rush.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2409897-box_bfbc.png", 
+      "name": "Battlefield: Bad Company", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Northern Strike is the first expansion pack to Dice's Battlefield 2142, adding new maps, vehicles and weapons.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/896437-1.jpg", 
+      "name": "Battlefield 2142: Booster Pack - Northern Strike", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battlefield 2142 takes the popular Battlefield series into a futuristic ice age, complete with future-tech weapons and vehicles.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897518-box_bf2142.png", 
+      "name": "Battlefield 2142", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second booster pack released for Battlefield 2 adding new maps and vehicles.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/101066/1845972-bf2armouredfurydundundah.png", 
+      "name": "Battlefield 2: Armored Fury", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "First booster pack released for Battlefield 2 adding a new Faction and more", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/101066/1845968-1924_cover_1298568550.jpg", 
+      "name": "Battlefield 2: Euro Force", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first and only expansion pack (Rest being booster packs) for Battlefield 2.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1784834-box_bf2sf.png", 
+      "name": "Battlefield 2: Special Forces", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battlefield 2: Modern Combat brings the modern military Battlefield experience from the PC to sixth-generation consoles.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897517-box_bf2mc.png", 
+      "name": "Battlefield 2: Modern Combat", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "DICE's large-scale multiplayer shooter moves to the present day in this acclaimed sequel, whose online community has remained active for nearly a decade.", 
+      "developers": [
+        {
+          "id": 350, 
+          "name": "DICE"
+        }
+      ], 
+      "id": 10233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1784831-box_bf2.png", 
+      "name": "Battlefield 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }
+  ]
+}

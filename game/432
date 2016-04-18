@@ -1,0 +1,1284 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/787163-darkcolony.jpg", 
+      "name": "Dark Colony", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game using the rules, teams and players of the American Youth Soccer Organization.", 
+      "developers": [], 
+      "id": 21540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2590058-196673_41732_thumb.jpg", 
+      "name": "AYSO Soccer '97", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/947179-humansevolutioniii.jpg", 
+      "name": "The Humans 3: Evolution Lost in Time", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21542, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The War College: Universal Military Simulator 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game exclusive to the Atari Jaguar. The player must juggling spinning tiles around into their right positions by flipping the right colored tiles.", 
+      "developers": [], 
+      "id": 21543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365414-jag_flipout.jpg", 
+      "name": "Flip Out!", 
+      "platforms": [
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-strategy-puzzle game similar to Lemmings in which the player has to escort penguins to a giant \"doom scale\" while preventing the evil mutated penguins from reaching the same destination.", 
+      "developers": [], 
+      "id": 21544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365332-jag_attackofthemutantpenguins.jpg", 
+      "name": "Attack of the Mutant Penguins", 
+      "platforms": [
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third title in the Elite series of space strategic combat games, Frontier was notoriously marred by several bugs which spoiled an otherwise enjoyable game.", 
+      "developers": [], 
+      "id": 21545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/22366/1867157-ffe_flyer_front.jpg", 
+      "name": "Frontier: First Encounters", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Carrier Aces is a WW2 combat flight simulation game for the SNES.", 
+      "developers": [], 
+      "id": 21546, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1336545-carrieraces_us_snes_front.jpg", 
+      "name": "Carrier Aces", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D side-scrolling platformer starring Yogi Bear.", 
+      "developers": [], 
+      "id": 21547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2819063-yogi+bear%27s+goldrush+cover+us.jpg", 
+      "name": "Yogi Bear's Goldrush", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A cyberpunk adventure about Ranson Stark, who wakes up infected by vampirism. Still retaining his human mind thanks to a cybernetic implant, he only has a limited time to find a cure before the implant breaks down and the infection takes control.", 
+      "developers": [], 
+      "id": 21548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/636657-bloodnet_1_.jpg", 
+      "name": "BloodNet", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D tank combat game similar to Battlezone in which players must collect flags and, of course, destroy enemy tanks. It was released in 1991, and was followed up by a LAN-enabled version called Spectre VR.", 
+      "developers": [], 
+      "id": 21549, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364780-snes_spectre.jpg", 
+      "name": "Spectre", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of the SNES/Genesis game Wheel of Fortune released only on the SNES.", 
+      "developers": [], 
+      "id": 21550, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364698-snes_wheeloffortunedeluxeedition.jpg", 
+      "name": "Wheel of Fortune Deluxe Edition", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21551, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/737479-1096125291_00.png", 
+      "name": "King's Table: The Legend of Ragnarok", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An Elite style Space combat Trading Game with superior graphics but a more 2-Dimensional space combat system.", 
+      "developers": [], 
+      "id": 21552, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2514657-nomad.jpg", 
+      "name": "Nomad", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The game that spawned the 4x term, Master of Orion is a turn-based science fiction strategy game that allows players to choose one of ten races before taking on a quest for intergalactic dominance.", 
+      "developers": [], 
+      "id": 21553, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/2021517-masterorion.jpg", 
+      "name": "Master of Orion", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down racing game for the SNES that allows the player to race land courses on motorcycles or sea courses on jet skis.", 
+      "developers": [], 
+      "id": 21554, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2639723-kawasaki_caribbean_snes_us.jpg", 
+      "name": "Kawasaki Caribbean Challenge", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third version of Jeopardy! games made for the SNES and Genesis. It featured more categories and more trivia questions.", 
+      "developers": [], 
+      "id": 21555, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31685/2345480-586256_38925_front.jpg", 
+      "name": "Jeopardy! Deluxe Edition", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Answer sports trivia in this adaptation of the popular game show.", 
+      "developers": [], 
+      "id": 21556, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/639856-front_cover.jpg", 
+      "name": "Jeopardy! Sports Edition", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21557, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/722332-7008_boxshot_ashes_of_empire.jpg", 
+      "name": "Ashes of Empire", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Side-scrolling action game in which you control a plane armed with weapons on all 4 sides.", 
+      "developers": [], 
+      "id": 21558, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7755/348460-gadget_twins.jpg", 
+      "name": "Gadget Twins", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21559, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/528333-wof_nes.jpg", 
+      "name": "Wheel of Fortune: Featuring Vanna White", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A competitive multiplayer action game based on the TV game show American Gladiators. Players compete against the clock and each other to complete events and obstacle courses.", 
+      "developers": [], 
+      "id": 21560, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15405/832151-american_gladiators_coverart.png", 
+      "name": "American Gladiators", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21561, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Now You See It", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Classic Concentration is a video game adaption of the 1980s NBC-TV game show hosted by Alex Trebek.", 
+      "developers": [], 
+      "id": 21562, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361222-nes_classicconcentration.jpg", 
+      "name": "Classic Concentration", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21563, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Press Your Luck", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21564, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Password", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21565, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5318/614634-cyberb1.jpg", 
+      "name": "Cyberbykes: Shadow Racer VR", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21566, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Starball", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Surface Tension is a PC Action game.", 
+      "developers": [], 
+      "id": 21567, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1873495-st.jpg", 
+      "name": "Surface Tension", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21568, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Hellfire Zone", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21569, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1375465-star_crusader_coverart.gif", 
+      "name": "Star Crusader", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21570, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Advance to Boardwalk", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Quest game that follows the adventures of Spud, in his journey to save his grandfather.", 
+      "developers": [], 
+      "id": 21571, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17544/1619407-1859_1.jpg", 
+      "name": "Spud!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21572, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Valkyrie", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21573, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/706684-1084234969_00.png", 
+      "name": "Humans 1 and 2", 
+      "platforms": [
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second mainline entry in the Dead Island franchise.", 
+      "developers": [], 
+      "id": 21574, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2644135-14384067381_83a6e6c758_b.jpg", 
+      "name": "Dead Island 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Kaos Studios' 2011 shooter moves to an open-world structure, dropping the player into Korean-occupied Philadelphia as a resistance fighter.", 
+      "developers": [], 
+      "id": 21575, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2640010-homefront+-+the+revolution.jpg", 
+      "name": "Homefront: The Revolution", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lost Horizon is the next installment in the graphical adventure series by Deep Silver.", 
+      "developers": [], 
+      "id": 21576, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/27/275592/2776767-lost+2.jpg", 
+      "name": "Lost Horizon 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "An update to last year's NASCAR '14 with 2015 drivers and tracks by new developer DMi Games.", 
+      "developers": [], 
+      "id": 21577, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/218838/2753505-9169116468-heade.jpg", 
+      "name": "NASCAR '15", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game based on the Tadeo Jones franchise.", 
+      "developers": [], 
+      "id": 21578, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2690527-1480814517-51a6J.jpg", 
+      "name": "Tadeo Jones Y El Manuscrito Perdido", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21985, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2428433-box_wwr.png", 
+      "name": "Wild Wild Racing", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Metro Redux is a big overhaul of Metro 2033 and Metro: Last Light that includes significant visual and gameplay upgrades for a more uniform experience across both games.", 
+      "developers": [], 
+      "id": 21579, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2669561-metro+redux+v1.jpg", 
+      "name": "Metro Redux", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third installment of ASCARON's Sacred franchise, now owned by Deep Silver. It was first shown to the public at PAX Prime 2012.", 
+      "developers": [], 
+      "id": 21580, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2663949-3252393812-image.jpg", 
+      "name": "Sacred 3", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The tropical island zombie outbreak series heads into a different genre with this free-to-play MOBA from Deep Silver.", 
+      "developers": [], 
+      "id": 21581, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2526424-deadislandepidemic.jpg", 
+      "name": "Dead Island: Epidemic", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "X Rebirth heralds more than just an additional chapter within the X series, it is a fresh beginning bringing with it a number of gameplay innovations without compromising its successful origins.", 
+      "developers": [], 
+      "id": 21582, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/74295/1763956-xrebirth1.jpg", 
+      "name": "X Rebirth", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Let's sing again", 
+      "developers": [], 
+      "id": 21583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2690664-3041866745-37398.jpg", 
+      "name": "Let's Sing 2014", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Secret Files: Sam Peters is a point and click game for PC.", 
+      "developers": [], 
+      "id": 21584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2561156-8487629312-Q6JYN1bPeTEWUTOG", 
+      "name": "Secret Files: Sam Peters", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "A point and click adventure game by Daedalic Entertainment.", 
+      "developers": [], 
+      "id": 21585, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2567091-4185734969-memor.jpg", 
+      "name": "Memoria", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Narco Terror is a twin stick shooter inspired by 80s action films.", 
+      "developers": [], 
+      "id": 21586, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525226-box_nt.png", 
+      "name": "Narco Terror", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the underground hit Metro 2033. Set in Moscow in the year 2034, the player will be caught between warring factions vying for a doomsday device.", 
+      "developers": [], 
+      "id": 21587, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2213657-metroart.jpg", 
+      "name": "Metro: Last Light", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1446 @@
+{
+  "games": [
+    {
+      "deck": "16 Shot! Shooting Watch is an enhanced and portable version of the original Shooting Watch, which was released by Hudson Soft in 1987. The point is to make 16 shots with one shot per second\n\n", 
+      "developers": [], 
+      "id": 21090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1744650-giant_bomb_sub_3.jpg", 
+      "name": "16 Shot! Shooting Watch", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sublevel Zero is a procedurally generated, zero-G, first-person, gunship roguelike designed for VR.", 
+      "developers": [], 
+      "id": 21091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2773059-screen+shot+2015-08-13+at+12.08.59+am.jpg", 
+      "name": "Sublevel Zero", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A first person exploration game that supports Oculus Rift for PC.", 
+      "developers": [], 
+      "id": 21092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2529242-dream-by-hypersloth-0.jpg", 
+      "name": "Dream", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A point-and-click adventure game following three characters living in the same city at different time periods.", 
+      "developers": [], 
+      "id": 21093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/27/275424/2751519-logo__large.jpg", 
+      "name": "Epanalepsis", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle-platformer centering around the unique topic of social anxiety disorder.", 
+      "developers": [], 
+      "id": 21094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171939/2756274-2621500920-heade.jpg", 
+      "name": "Sym", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A point and click horror adventure game developed by Owl Cave which chronicles the fateful night of passengers aboard a train bound for Augur Peak.", 
+      "developers": [], 
+      "id": 21095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/2793904-maxresdefault.jpg", 
+      "name": "The Charnel House Trilogy", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Shopkeeper is a point and click adventure game from Mastertronic.", 
+      "developers": [], 
+      "id": 21096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2693317-7207731991-heade.jpg", 
+      "name": "The Shopkeeper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Runers is a top-down dungeon crawling shooter game for PC.", 
+      "developers": [], 
+      "id": 21097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2668324-7955219803-heade.jpg", 
+      "name": "Runers", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An indie action game.", 
+      "developers": [], 
+      "id": 21098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2638247-concursion.jpg", 
+      "name": "Concursion", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down shooter.", 
+      "developers": [], 
+      "id": 21099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2670313-tango+fiesta.jpg", 
+      "name": "Tango Fiesta", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players use the forces of gravity to launch probes in minimalist solar systems.", 
+      "developers": [], 
+      "id": 21100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174044/2671775-logo+%28315x250%29.jpg", 
+      "name": "0RBITALIS", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Speedball 2 HD is a modern reincarnation of the classic, futuristic cyberpunk sports game Speedball first released for the Atari ST in 1990.", 
+      "developers": [], 
+      "id": 21101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/20/209593/2716490-4971622902-speed.jpg", 
+      "name": "Speedball 2 HD", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle adventure game created by Studio V5.", 
+      "developers": [], 
+      "id": 21102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/26/260342/2734764-mays-mysteries.jpg", 
+      "name": "May's Mysteries: The Secret of Dragonville", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror-themed hidden object game.", 
+      "developers": [], 
+      "id": 21103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633543-them+-+the+summoning.jpg", 
+      "name": "Them: The Summoning", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Single screen platform game for ZX Spectrum, Amstrad CPC and Commodore 64. Diffuse the bombs before time runs out.", 
+      "developers": [], 
+      "id": 21104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/639393-bombfusion_eu_box_art.jpg", 
+      "name": "Bombfusion", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56742/1791238-940760_90697_front.jpg", 
+      "name": "Motorbike Madness", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars Droids: The Adventures of R2-D2 and C-3PO is an action computer game based on the 1985-1986 cartoon series.", 
+      "developers": [], 
+      "id": 21107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2616729-9250686501-98365.jpg", 
+      "name": "Star Wars Droids: The Adventures of R2-D2 and C-3PO", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/793783-1225921861_00.png", 
+      "name": "Hyperbowl", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A scrolling 2D shooter.", 
+      "developers": [], 
+      "id": 21109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2817788-speed+zone+cover.png", 
+      "name": "Speed Zone", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }, 
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game similar to Marble Madness and Spindizzy.", 
+      "developers": [], 
+      "id": 21110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2610042-rollaround+cover+c64.jpg", 
+      "name": "Rollaround", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pop some wheelies in this dirtbike trials game inspired by British TV show Kick Start.", 
+      "developers": [], 
+      "id": 21111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/636089-kikstart_2_uk_box_art.jpg", 
+      "name": "Kikstart 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/798022-1129747689_00.png", 
+      "name": "Colony", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Werewolves of London is an 8-bit game in which the player takes on the role of the werewolf who must destroy the seven family members who have cursed him with lycanthropy.", 
+      "developers": [], 
+      "id": 21113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1335513-ww_of_london.jpg", 
+      "name": "Werewolves of London", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "As a floating orb, players must perform repairs to a spaceship.", 
+      "developers": [], 
+      "id": 21114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2789047-5753626462-eu_ra.jpg", 
+      "name": "Rasterscan", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A plane crash leaves Lady Wilde stranded in the Amazon rainforest. After her baby is kidnapped by an Amazonian tribe, she sets out to rescue the child by any means necessary.", 
+      "developers": [], 
+      "id": 21115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2661003-0303734579-37612.jpg", 
+      "name": "Legend of the Amazon Women", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21116, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Last V8", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Superstar Ping Pong is a table tennis game for Commodore 64.", 
+      "developers": [], 
+      "id": 21117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2661001-3741721282-36225.jpg", 
+      "name": "Superstar Ping Pong", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "an arcade adventure set in space, released on the spectrum and atari 8 bit platforms", 
+      "developers": [], 
+      "id": 21118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5972/1538583-universalherocover.jpg", 
+      "name": "Universal Hero", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Geoff Capes Strongman is a sports game based on strong man competitions.", 
+      "developers": [], 
+      "id": 21119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1773081-gc.jpg", 
+      "name": "Geoff Capes Strongman", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mastertronic BMX Racing game for the Commodore 64 and 16 computers", 
+      "developers": [], 
+      "id": 21120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/185326/2737529-0070896784-bmx_r.jpg", 
+      "name": "BMX Racers", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "180 is a Darts game for the Commodore 64 and MSX.", 
+      "developers": [], 
+      "id": 21121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1861725-180.jpg", 
+      "name": "180", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Classic motorcycle racing game from 1985 developed by Shaun Southern (Mr Chip Software). Game was released for C64, ZX Spectrum and Atari 8-bit. ", 
+      "developers": [], 
+      "id": 21122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/329102-579453_20841_front.jpg", 
+      "name": "Kikstart: Off-Road Simulator", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21123, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Soul of a Robot", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/852405-fo10cp0f.jpg", 
+      "name": "Formula 1 Simulator", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy game that is very similar to Scorched Earth.", 
+      "developers": [], 
+      "id": 21125, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tank Trax", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Platformer.", 
+      "developers": [], 
+      "id": 21126, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2409781-hektik_front.jpg", 
+      "name": "Hektik", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Fruit Machine simulator for ZX Spectrum, Atari 8-Bit, and Commodore 64", 
+      "developers": [], 
+      "id": 21127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/636290-vegas_jackpot_eu_box_art.jpg", 
+      "name": "Vegas Jackpot", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Collect plasma pods and avoid getting hit", 
+      "developers": [], 
+      "id": 21128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15228/953355-feefqeq.jpg", 
+      "name": "1985: The Day After", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Text Adventure for ZX Spectrum and Commodore 64 set in a fantasy world", 
+      "developers": [], 
+      "id": 21129, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/571759-se_kaa_of_assiah_uk_box_art.jpg", 
+      "name": "Se-Kaa of Assiah", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This was a Centipede clone for home systems. These systems included the Commodore 16, Commodore 64, Spectrum, and BBC Acorn.", 
+      "developers": [], 
+      "id": 21130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/189323/2472095-spectipede_front.jpg", 
+      "name": "Spectipede", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Rogue is a classic ASCII-based RPG, infamous for its difficulty. It is known for spawning its own genre, called Roguelikes, and its influences can still be seen in a wide variety of other games.", 
+      "developers": [], 
+      "id": 21131, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7622/431070-rogue3.gif", 
+      "name": "Rogue", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }, 
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21132, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2238/406552-btr_cpc_8.png", 
+      "name": "Back to Reality", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21133, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Caves of Doom", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21134, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Prowler", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21135, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "How to be a Hero", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Classic shoot 'em up action as pure as you can get.  Space Tripper dares you to be retro and reminds us all of what gaming should be about!", 
+      "developers": [], 
+      "id": 21136, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Space Tripper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21137, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59973/1133092-1189444235_00.png", 
+      "name": "Crystal Raider", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A motorcross game released in 1985 for ZX Spectrum, Commodore 64 and MSX", 
+      "developers": [], 
+      "id": 21138, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/456/275332-ekjc.jpg", 
+      "name": "Eddie Kidd Jump Challenge", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21139, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Nonterraqueous", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21140, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Island of Dr. Destructo", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }
+  ]
+}

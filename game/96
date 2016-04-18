@@ -1,0 +1,1499 @@
+{
+  "games": [
+    {
+      "deck": "Gran Turismo HD was the first foray for Gran Turismo on the PS3.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/880/251013-gran_turismo_hd_concept_cover.png", 
+      "name": "Gran Turismo HD", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tourist Trophy is a motorcycle racing simulator developed by Polyphony Digital, the creators of the Gran Turismo series.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276105-box_ttrophy.png", 
+      "name": "Tourist Trophy: The Real Riding Simulator", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gran Turismo 4 is the 4th instalment in the PlayStation-exclusive driving simulation series.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139782-box_gt4.png", 
+      "name": "Gran Turismo 4", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gran Turismo 4: Prologue is a racing game developed by Polyphony Digital and released in Japan, Southeast Asia and Europe. The game was never released in North America, for reasons unknown.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1331486-gt4prologue_eu_ps2_front.jpg", 
+      "name": "Gran Turismo 4: Prologue", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "This edition of Gran Turismo was used exclusively for the 2002 Tokyo-Geneva Auto Show.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840139-561112_20312_front.jpg", 
+      "name": "Gran Turismo Concept: 2002 Tokyo-Geneva", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Featuring Korean Hyundai cars for the first time.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/880/285196-pro75_mid.gif", 
+      "name": "Gran Turismo Concept: 2002 Tokyo-Seoul", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gran Turismo 3: A-Spec is a driving simulator released for the Playstation 2 which garnered critical acclaim upon its release in 2001.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139781-box_gt3.png", 
+      "name": "Gran Turismo 3 A-Spec", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gran Turismo 2 is a realistic driving simulator for the PlayStation featuring over 600 vehicles.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1794103-box_gt2.png", 
+      "name": "Gran Turismo 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Omega Boost is a 3D shoot'em up developed by Polyphony Digital, makers of the Gran Turismo series, for the Sony PlayStation.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2549849-box_ob.png", 
+      "name": "Omega Boost", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Polyphony Digital's seminal racing simulator for the Playstation.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1794102-box_gt.png", 
+      "name": "Gran Turismo", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/776399-motor_toon_grand_prix_us_front.png", 
+      "name": "Motor Toon Grand Prix", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Gran Turismo numbering conventions get even harder to follow with this Spec III update to GT5P, which will be released on Blu-Ray in Japan.", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4754, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/732137-gtp5_white_tantai.jpg", 
+      "name": "Gran Turismo 5 Prologue Spec III", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Polyphony Digital is bringing Gran Turismo to PlayStation 4. It will be called Gran Turismo Sport", 
+      "developers": [
+        {
+          "id": 144, 
+          "name": "Polyphony Digital Inc."
+        }
+      ], 
+      "id": 4755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2793798-csv-seoukaadj5-.jpg", 
+      "name": "Gran Turismo Sport", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2512405-ambermoon.jpg", 
+      "name": "Ambermoon", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzle game for the Amiga. Developed by Thalion in 1992.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4757, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/701977-neuronics.jpg", 
+      "name": "Neuronics", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/627183-amberstar___front.jpg", 
+      "name": "Amberstar", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5603/1326360-lionheart1.jpg", 
+      "name": "Lionheart", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721739-7050_boxshot_a320_airbus.jpg", 
+      "name": "A320 Airbus", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lethal Xcess is a shoot'em-up game for Amiga and Atari ST.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/361487-boxart.jpeg", 
+      "name": "Lethal Xcess", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game for the Atari ST and Amiga computers made by Thalion Software. It has both platforming and puzzle elements.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/701925-a_prehistoric_tale.jpeg", 
+      "name": "A Prehistoric Tale", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D shooter for Amiga and Atari ST. Released in 1990.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/701985-trex_warrior.png", 
+      "name": "Trex Warrior: 22nd Century Gladiator", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platformer for the Atari ST and Amiga computers released in 1990. It was very technically advanced for Atari ST standards.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/701952-enchanted_land.jpeg", 
+      "name": "Enchanted Land", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4765, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Dragonflight", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top down run and gun shooter for Atari ST and Amiga.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/701961-leavin_teramis.jpeg", 
+      "name": "Leavin' Teramis", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4767, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Thalion: The First Year", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Top down multi-scrolling shoot 'em up game for the Atari ST and Amiga. First game developed by Thalion Software.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/702008-warp.jpeg", 
+      "name": "Warp", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/699573-jambala_front_st.jpeg", 
+      "name": "The Seven Gates of Jambala", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Train hard in the ways of the Shaolin and then defeat your opponents.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/812861-1039458657.jpg", 
+      "name": "Chambers of Shaolin", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first in the Wings of Death series, this is a vertical shoot-em-up released in 1990. The game was only released in Europe.", 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/615720-wings_of_death___front.jpg", 
+      "name": "Wings of Death", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4772, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tangram", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ], 
+      "id": 4773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/751612-1159203328_00.png", 
+      "name": "No Second Prize", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 145, 
+          "name": "Thalion Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Chunsoft developed RPG based off the Japanese TV drama \"3 Nen B Gumi Kinpachi Sensei\"(Third Year, B Class Teacher Kinpachi).", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2237717-cover.png", 
+      "name": "3-Nen B-Gumi Kinpachi Sensei: Densetsu no Kyoudan ni Tate!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega GT 2002 was released as a sequel to Sega GT. Without any online play, the game focuses on developing the player with customization and driver's licenses.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213179-box_segagt2.png", 
+      "name": "Sega GT 2002", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "JumpStart Wildlife Safari Field Trip for Playstation", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1170705-fieldtrip.jpg", 
+      "name": "JumpStart Wildlife Safari Field Trip", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "SimCity 64 is a city-building video game released only in Japan for the Nintendo 64DD.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/46/189375-simcity64.png", 
+      "name": "SimCity 64", 
+      "platforms": [
+        {
+          "id": 87, 
+          "name": "Nintendo 64DD", 
+          "short": "64DD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "When Gen mysteriously teleports to the year 2009, he must work together with the survivors of an alien invasion to both save the world and return to his own time.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/429670-g_o_d_box_art.jpg", 
+      "name": "G-O-D: Mezameyo to Yobu Koe ga Kikoe", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Another Bible is a Megami Tensei strategy game for the Game Boy released in Japan.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4779, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31838/2193811-165000560.jpg", 
+      "name": "Another Bible", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Choose between the Toyota Celica or the Lancia Delta HF integrale and burn up the tracks in this arcade rally racing game. Originally available in arcades then on Sega Saturn and PC.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1124861-src3.jpg", 
+      "name": "Sega Rally Championship", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Adventures of Lolo series makes its way onto the Gameboy with a fourth entry.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4781, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9778/1807154-lolo_cover.jpg", 
+      "name": "Adventures of Lolo", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 534, 
+          "name": "HAL Laboratory, Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early turn-based SRPG spinoff of the Megami Tensei series released exclusively in Japan for the SNES. Although reminiscent of Nintendo series such as Famicom Wars and Fire Emblem, Majin Tensei still retains many defining Megami Tensei features such as demon summoning and lunar cycles.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4782, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1665426-majintenseibox.jpg", 
+      "name": "Majin Tensei", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sin City never sleeps in this SNES and Game Boy gambling sim from Dice Creative and HAL Lab.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1463897-snes_vegasstakes.jpg", 
+      "name": "Vegas Stakes", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Othello/Reversi board game developed and published by Tsukuda Original in 1992.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4784, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1293358-othelloworld.png", 
+      "name": "Othello World", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Strider is an arcade action side-scroller, and one of Capcom's first big hits for the Sega Genesis console.", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4231/972718-strider_front.jpg", 
+      "name": "Strider", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fishing ", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/233/445724-ib_box_jpn_front.jpg", 
+      "name": "Shigesato Itoi no Bass Tsuri No. 1", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 84, 
+          "name": "Satellaview", 
+          "short": "BS-X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japanese RPG based on popular card games.\n", 
+      "developers": [
+        {
+          "id": 146, 
+          "name": "Dice Creative"
+        }
+      ], 
+      "id": 4787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2425613-563700_4194_front.jpg", 
+      "name": "Monster Maker: Yami no Ryuukishi", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A GBA entry in the Tactics Ogre series of Japanese strategy RPGs. The titular Knight of Lodis is protagonist Alphonse Loeher,", 
+      "developers": [
+        {
+          "id": 147, 
+          "name": "Quest Corporation"
+        }
+      ], 
+      "id": 4788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199377-box_totkol.png", 
+      "name": "Tactics Ogre: The Knight of Lodis", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Strategy RPG from Quest. Follow freedom fighter Magnus Gallant as he fights to abolish the class system in Palatinus. Choose from dozens of character classes to customize your army any way you want.", 
+      "developers": [
+        {
+          "id": 147, 
+          "name": "Quest Corporation"
+        }
+      ], 
+      "id": 4789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4231/263560-ogre_battle_64___person_of_lordly_caliber_amerique.jpg", 
+      "name": "Ogre Battle 64: Person of Lordly Caliber", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tactics Ogre: Let Us Cling Together is the second game in the Ogre Battle Series.", 
+      "developers": [
+        {
+          "id": 147, 
+          "name": "Quest Corporation"
+        }
+      ], 
+      "id": 4790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/1542234-tactics_ogre_cover.jpg", 
+      "name": "Tactics Ogre: Let Us Cling Together", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In Ogre Battle the conquered peoples of the old kingdoms live under constant persecution by the Zetegenian Empire.  Take control of the rebel army and face the Black Queen and her legions.", 
+      "developers": [
+        {
+          "id": 147, 
+          "name": "Quest Corporation"
+        }
+      ], 
+      "id": 4791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364501-snes_ogrebattle.jpg", 
+      "name": "Ogre Battle: The March of the Black Queen", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 147, 
+          "name": "Quest Corporation"
+        }, 
+        {
+          "id": 152, 
+          "name": "Artdink"
+        }, 
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }, 
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally a TurboGrafx-16 game featuring control a witch on a broomstick through six levels of side-scrolling shmup action. Later ported to PC and Game Boy. It is one of the rarest and thus most valuable US TurboGrafx-16 releases.", 
+      "developers": [
+        {
+          "id": 147, 
+          "name": "Quest Corporation"
+        }
+      ], 
+      "id": 4792, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365554-tg16_magicalchase.jpg", 
+      "name": "Magical Chase", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }
+  ]
+}

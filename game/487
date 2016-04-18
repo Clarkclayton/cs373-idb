@@ -1,0 +1,1194 @@
+{
+  "games": [
+    {
+      "deck": "A first Person Space shooter with a grid map to show enemies and planets you can travel to. ", 
+      "developers": [], 
+      "id": 24301, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361654-nes_destinationearthstar.jpg", 
+      "name": "Destination Earthstar", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A driving/racing game for the NES very loosely based on the television show of the same name. It was developed by Japanese company Pack-in-Video and published in the west by Activision.", 
+      "developers": [], 
+      "id": 24302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361931-nes_knightrider.jpg", 
+      "name": "Knight Rider", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A canceled sequel to Acclaim's city building PlayStation/PC title of 1997.  The game was shown at E3 '98 but never released.", 
+      "developers": [], 
+      "id": 24303, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Constructor 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24304, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1089622-aa.jpg", 
+      "name": "Die Biene Maja: Auf Der Klatschmohnwiese", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Acclaim's racing game for GBA was shown at E3 2001, but was never released.", 
+      "developers": [], 
+      "id": 24305, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "GT Racing Challenge", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Educational game developed by ISCO in 1996.", 
+      "developers": [], 
+      "id": 24306, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Numbers Paradise", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An open world RPG with three character classes, and no password or save system for your progress.", 
+      "developers": [], 
+      "id": 24307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362615-nes_wizardsandwarriors3.jpg", 
+      "name": "Wizards & Warriors III: Kuros: Visions of Power", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24308, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2303984-box_pdr.png", 
+      "name": "Paris-Dakar Rally", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Manage your money as you attempt to attract visitors to your theme park, full of living breathing Dinosaurs!  Monitor your employee's, attendance levels, and dinosaur health/safety in a classic simulation title.", 
+      "developers": [], 
+      "id": 24309, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8960/1647156-dinopark.jpg", 
+      "name": "Dinopark Tycoon", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 587, 
+          "name": "MECC"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Amazon Trail, the player continues their trip down the Amazon River.", 
+      "developers": [], 
+      "id": 24310, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/98497/1840310-97224701_260x260_0_0_the_learning_company_amazon_trail_ii.jpg", 
+      "name": "Amazon Trail II", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 587, 
+          "name": "MECC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 24311, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Nick Naster's eXtinction", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 588, 
+          "name": "Techland Sp. z o.o."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first original installment of the Zelda series in HD on the Wii U goes back to open world design with a focus on free exploration of a large scale environment and dangerous enemies.", 
+      "developers": [], 
+      "id": 24312, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2644081-loz.jpg", 
+      "name": "The Legend of Zelda Wii U (Working Title)", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game where players try to solve the mystery of Jack The Ripper.", 
+      "developers": [], 
+      "id": 24367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2607279-67683_1_image.jpg", 
+      "name": "Jack The Ripper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metroid Prime: Federation Force by Next Level Games is an FPS featuring the Galactic Federation featuring a campaign that supports four player local and online co-op. It also contains Metroid Prime: Blast Ball, a competitive first person arena game that was unveiled and played for the first time during the Nintendo World Championships 2015.", 
+      "developers": [], 
+      "id": 24313, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2831870-screen+shot+2016-03-03+at+6.09.11+pm.png", 
+      "name": "Metroid Prime: Federation Force", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest installment in the Culdcept series and the first game in over a decade to not be a remake or port of a previous entry in the franchise.", 
+      "developers": [], 
+      "id": 24314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2833189-culdcept-revolt-ann-3ds.jpg", 
+      "name": "Culdcept Revolt", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Disney joins Nintendo's art franchise on 3DS.", 
+      "developers": [], 
+      "id": 24315, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2831931-4975764153-N3DS_.jpg", 
+      "name": "Disney Art Academy", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mario &amp; Sonic bought tickets to the Olympics. Now there's soccer, too.", 
+      "developers": [], 
+      "id": 24316, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2753660-cgu8nzhwgaam24c.jpg-large-e1433075057870.jpg", 
+      "name": "Mario & Sonic at the Rio 2016 Olympic Games", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nintendo's first official foray into mobile development will be a Mii-based offering called Miitomo. Different Miis will communicate with each other, conveying facts about the players to other users.", 
+      "developers": [], 
+      "id": 24317, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/49308/2794078-mij50tzpzdymsbcz9d5v.jpg", 
+      "name": "Miitomo", 
+      "platforms": [
+        {
+          "id": 60, 
+          "name": "iPod", 
+          "short": "IPOD"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Twilight Princess gets an HD remaster mainly based on the GameCube version with many added features including amiibo support, a new challenge cave, and several gameplay tweaks.", 
+      "developers": [], 
+      "id": 24318, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2815404-tphd.jpg", 
+      "name": "The Legend of Zelda: Twilight Princess HD", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Animal Crossing party game for Wii U, which uses amiibo.", 
+      "developers": [], 
+      "id": 24319, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2784576-acaf.jpg", 
+      "name": "Animal Crossing: amiibo Festival", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chibi-Robo! Zip Lash is the little robot's first sidescrolling platformer for Nintendo 3DS. It also introduces a Chibi Robo amiibo. Chibi Robo traverses levels by using his power plug like a lasso, similar to Yumi's Odd Odyssey. It was developed in collaboration between Skip and Vanpool.", 
+      "developers": [], 
+      "id": 24320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2771648-chibiboxclean.jpg", 
+      "name": "Chibi-Robo! Zip Lash", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game by Valhalla Game Studios, headed by ex-Tecmo producer Tomonobu Itagaki. It was published by Nintendo as a Wii U exclusive.", 
+      "developers": [], 
+      "id": 24321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2764753-dtbox.jpg", 
+      "name": "Devil's Third", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Art Academy: Home Studio (Art Academy Atelier in Europe) is the latest fully-featured Art Academy title and the first entry on home consoles. It is an eShop-only title in North America while being offered as a retail game in Europe.", 
+      "developers": [], 
+      "id": 24322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2751322-wiiu_artacademy_ps_ukv_result.jpg", 
+      "name": "Art Academy: Home Studio", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dr. Mario: Miracle Cure for Nintendo 3DS features various new modes, book-mode style touch screen gameplay and online play.", 
+      "developers": [], 
+      "id": 24323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2753902-3338989574-N3DS_.jpg", 
+      "name": "Dr. Mario: Miracle Cure", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tap any amiibo to unlock brief gameplay highlights of classic Nintendo games. A free title for Wii U.", 
+      "developers": [], 
+      "id": 24324, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2739875-amiibotap.jpg", 
+      "name": "amiibo Tap: Nintendo's Greatest Bits", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new free-to-play entry of the Pok\u00e9mon Rumble series available on the Nintendo 3DS eShop. Later released physically in Japan and Europe.", 
+      "developers": [], 
+      "id": 24325, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2741097-prw.jpg", 
+      "name": "Pok\u00e9mon Rumble World", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The tenth console Mario Party game introduces Amiibo compatibility and a five-player mode where one player controls Bowser in an attempt to defeat the other characters.", 
+      "developers": [], 
+      "id": 24326, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2719236-mp10boxclean.jpg", 
+      "name": "Mario Party 10", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nintendo's traditional mahjong game goes multi-platform and free-to-play.", 
+      "developers": [], 
+      "id": 24327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2724990-yakuman.jpg", 
+      "name": "Yakuman Houou", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new Pok\u00e9mon adventure for Nintendo 3DS and 2DS. Omega Ruby and Alpha Sapphire are remakes of Pok\u00e9mon Ruby and Sapphire, respectively.", 
+      "developers": [], 
+      "id": 24328, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2630130-rubysapphire.jpg", 
+      "name": "Pok\u00e9mon Omega Ruby/Alpha Sapphire", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Captain Toad: Treasure Tracker a standalone puzzle game based on the Captain Toad levels in Super Mario 3D World. In search of shiny Power Stars and diamonds, the almost defenceless Toad must make his way through many dangerous environments.", 
+      "developers": [], 
+      "id": 24329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2696306-ctttus.jpg", 
+      "name": "Captain Toad: Treasure Tracker", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The game features challenges and mashups from a selection of sixteen NES classics compiled from the best challenges found in NES Remix and NES Remix 2. Supports online leaderboards, Championship Mode and a super-fast version of Super Mario Bros.", 
+      "developers": [], 
+      "id": 24330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2683105-unesrmx.jpg", 
+      "name": "Ultimate NES Remix", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Learn to draw Pok\u00e9mon with this installment of Nintendo's artistic educational series.", 
+      "developers": [], 
+      "id": 24331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2673216-paa.jpg", 
+      "name": "Pok\u00e9mon Art Academy", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first two NES Remix games are presented on a limited edition physical disc release.", 
+      "developers": [], 
+      "id": 24332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2680212-nesremixpack.jpg", 
+      "name": "NES Remix Pack", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to NES Remix featuring later NES releases, video replays, a mode inspired by the Nintendo World Championship and Super Luigi Bros., a mirrored version of the original Super Mario Bros. with Luigi physics.", 
+      "developers": [], 
+      "id": 24333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2705275-2625345-bmdxbbyigaifa_a.jpg", 
+      "name": "NES Remix 2", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fossil Fighters: Frontier is a new entry in the Fossil Fighters RPG series for Nintendo 3DS coming to North America in 2015.", 
+      "developers": [], 
+      "id": 24334, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2644529-fff.jpg", 
+      "name": "Fossil Fighters: Frontier", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "8-bit NES classic games with new twists and challenges.", 
+      "developers": [], 
+      "id": 24335, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2625347-nes-remix.jpg", 
+      "name": "NES Remix", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An ebook reader for the 3DS, aimed at getting children into reading.", 
+      "developers": [], 
+      "id": 24336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582447-2134157550-img_h.jpg", 
+      "name": "Honto for Nintendo 3DS", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An AR photo app for Nintendo 3DS. Only released in Japan.", 
+      "developers": [], 
+      "id": 24337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2795704-3163595204-top_m.png", 
+      "name": "Isshoni Photo Pikmin", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Educational software available for Nintendo 3DS. This is an enhanced standalone version of the audio guide visitors of the Louvre can rent on location.", 
+      "developers": [], 
+      "id": 24338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2581272-louvre.jpg", 
+      "name": "Nintendo 3DS Guide: Louvre", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Mario Party game for the Nintendo 3DS.", 
+      "developers": [], 
+      "id": 24339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2570368-mpit.jpg", 
+      "name": "Mario Party: Island Tour", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "With the stylus, help Wario become a Master of Disguise and loot the world.", 
+      "developers": [], 
+      "id": 24427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/596537-wario.jpg", 
+      "name": "Wario: Master of Disguise", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Super Mario Bros. 2-cast of Mario, Luigi, Toad and Peach returns for their first 3D adventure with local multiplayer support. And cat suits. In HD.", 
+      "developers": [], 
+      "id": 24340, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2627363-sm3dwboxclean.jpg", 
+      "name": "Super Mario 3D World", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally only released in Japan in 2013, Photos with Animal Crossing is an AR app for Nintendo 3DS. During the Hyper Japan convention in Summer 2015, Nintendo UK gave out special exclusive download codes for an English version of the app to attendees for the very first time.", 
+      "developers": [], 
+      "id": 24341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2771658-pwac.jpg", 
+      "name": "Photos with Animal Crossing", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new game following in the footsteps of Wii Party and making use of the Wii U GamePad's potential.", 
+      "developers": [], 
+      "id": 24342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2555614-wiipartyu.jpg", 
+      "name": "Wii Party U", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Art Academy Sketchpad is a drawing tool released on the Wii U eShop. It serves as a preview for the fully fledged upcoming Art Academy title for Wii U. The app ties directly into Miiverse where users can share their high quality drawings.", 
+      "developers": [], 
+      "id": 24343, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2526349-aasketchpad.jpg", 
+      "name": "Art Academy Sketchpad", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hybrid horse racing/solitaire game for the 3DS. Produced by Game Freak.", 
+      "developers": [], 
+      "id": 24344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9536/2832006-24853068744_662cdd83b7_o.jpg", 
+      "name": "Pocket Card Jockey", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Flipnote Studio 3D is a free drawing tool allows for the creation of three separate layers which can be viewed in stereoscopic 3D on the Nintendo 3DS and exported to GIF and AVI formats.", 
+      "developers": [], 
+      "id": 24345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2592678-bg-hero.jpg", 
+      "name": "Flipnote Studio 3D", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A point &amp; click adventure that follows Tiny Thief across six grand quests to end corruption, greed, and injustice.", 
+      "developers": [], 
+      "id": 24346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2674/2514129-8604350405-Tiny-.jpg", 
+      "name": "Tiny Thief", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chibi-Robo: Photo Finder is an augmented reality 3DS eShop exclusive, featuring the helpful little eponymous robot. This time, Chibi-Robo has to help a museum curator find \"NostalJunk\" for his exhibition.", 
+      "developers": [], 
+      "id": 24347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2580894-chibi.jpg", 
+      "name": "Chibi Robo! Photo Finder", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new game in the Pok\u00e9mon Rumble series featuring all 649 Pok\u00e9mon from Generation I through V. A digital-only release available exclusively from the Wii U eShop, it will be the first official Wii U game to make use of the console's NFC capabilities.", 
+      "developers": [], 
+      "id": 24348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2516405-pokemon_rumble_u_logo.jpg", 
+      "name": "Pok\u00e9mon Rumble U", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }
+  ]
+}

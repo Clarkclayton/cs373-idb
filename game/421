@@ -1,0 +1,1173 @@
+{
+  "games": [
+    {
+      "deck": "Deadly Towers, one of the earliest games to come out for the NES, is an action-adventure role-playing game that was well-received in its time but is today mostly disliked due to its difficulty and steep learning curve.", 
+      "developers": [], 
+      "id": 20991, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361641-nes_deadlytowers.jpg", 
+      "name": "Deadly Towers", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 338, 
+          "name": "Irem Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Escape from the underworld", 
+      "developers": [], 
+      "id": 20992, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2663665-2014285375-24911.jpg", 
+      "name": "Brimstone", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An electronic novel where the protagonist must dive into the minds of the deceased to save the world from destruction.", 
+      "developers": [], 
+      "id": 20993, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2612575-83683_front.jpg", 
+      "name": "Mindwheel", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle-platformer for the Commodore 64 that tasks the player with manipulating contraptions and solving puzzles in order to escape from various castles.", 
+      "developers": [], 
+      "id": 20994, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1881922-castles_of_doctor_creep.jpg", 
+      "name": "The Castles of Dr. Creep", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Collect tools and artifacts in this 2D action game for early computer systems.", 
+      "developers": [], 
+      "id": 20995, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2808770-whistler%27s+brother.jpg", 
+      "name": "Whistler's Brother", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20996, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "If It Moves, Shoot It!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20997, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Airheart", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20998, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Star Blazer", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20999, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Mask of the Sun", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21000, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/125883/1846276-1059670540_00.jpg", 
+      "name": "Patton Strikes Back: The Battle of the Bulge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mavis Beacon teaches kids to type... again.", 
+      "developers": [], 
+      "id": 21001, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341177-maviskidz.jpg", 
+      "name": "Mavis Beacon Keyboarding Kidz", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21002, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Dark Universe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 311, 
+          "name": "Max Design GesMBH"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21003, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/724712-23366_boxshot_1.jpg", 
+      "name": "The Clue!", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 311, 
+          "name": "Max Design GesMBH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzle Geddon a puzzle brawler", 
+      "developers": [], 
+      "id": 21004, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1644449-box_puzzleg.png", 
+      "name": "Puzzlegeddon", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 312, 
+          "name": "SimBin Development Team AB"
+        }
+      ]
+    }, 
+    {
+      "deck": "The last Breach in the series and was released on PC only.", 
+      "developers": [], 
+      "id": 21005, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2819911-breach+3+cover.jpg", 
+      "name": "Breach 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 313, 
+          "name": "Impressions Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21006, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Powerhouse", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 313, 
+          "name": "Impressions Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy role-playing game and sequel to Omnitrend's popular Paladin.", 
+      "developers": [], 
+      "id": 21007, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2720094-paladin2_pc_1_1.jpg", 
+      "name": "Paladin II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 313, 
+          "name": "Impressions Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Universe 3 is a sci-fi adventure game and RPG hybrid. It takes place 300 hundred years after the events of Universe II, but ditches the space trading gameplay of the previous games in favor of a more story heavy presentation.", 
+      "developers": [], 
+      "id": 21008, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Universe 3", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 313, 
+          "name": "Impressions Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21009, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "WW2 Air Force Commander", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 313, 
+          "name": "Impressions Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21010, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Rules of Engagement 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 313, 
+          "name": "Impressions Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21011, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Air Force Commander", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 313, 
+          "name": "Impressions Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou is a Fighting game, developed by A.I and published by Hudson, which was released in Japan in 2011.", 
+      "developers": [], 
+      "id": 21012, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1882340-611668_186168_front.jpg", 
+      "name": "Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Nintendo DS entry in the Beyblade series.", 
+      "developers": [], 
+      "id": 21013, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2758114-beyblade+metal+masters+cover+front+us.jpg", 
+      "name": "Beyblade: Metal Masters", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A stand alone sequel to Bomberman Live with additional modes and features.", 
+      "developers": [], 
+      "id": 21014, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1652941-box_blb.png", 
+      "name": "Bomberman Live: Battlefest", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Hudson is accidentally throwing some sort of prank party for the Wii.", 
+      "developers": [], 
+      "id": 21015, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11660/1477284-oops_titlesheet_final.jpg", 
+      "name": "Oops! Prank Party", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "TV Anime: Fairy Tail Gekitou! Madoushi Kessen is a 2D Fighting game, developed by A.I and published by Hudson, which was released in Japan in 2010.", 
+      "developers": [], 
+      "id": 21016, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1887876-991700_161806_front.jpg", 
+      "name": "TV Anime: Fairy Tail Gekitou! Madoushi Kessen", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sudoku game for DSiWare.", 
+      "developers": [], 
+      "id": 21017, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1797368-suduko.jpg", 
+      "name": "Sudoku Sensei", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP tower Defense with a twist. Your towers are creatures that can attack the monsters.", 
+      "developers": [], 
+      "id": 21018, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/68167/1268764-psp_creature_defense__usa_.jpg", 
+      "name": "Creature Defense", 
+      "platforms": [
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Shootanto: Evolutionary Mayhem from Hudson Entertainment ", 
+      "developers": [], 
+      "id": 21019, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1175591-shootanto.jpg", 
+      "name": "Shootanto: Evolutionary Mayhem", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Military Madness: Nectaris is a 3D remake of the original Military Madness.", 
+      "developers": [], 
+      "id": 21020, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1389006-mmn_box.png", 
+      "name": "Military Madness: Nectaris", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sliding-block puzzle game in which the player has to explore several different mysterious buildings that are filled with 100 puzzles.", 
+      "developers": [], 
+      "id": 21021, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1309939-972801_139730_front.jpg", 
+      "name": "Rooms: The Main Building", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bomberman Live brings the multiplayer staples of the franchise for Xbox Live Arcade.", 
+      "developers": [], 
+      "id": 21022, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1840757-box_bmanlive.png", 
+      "name": "Bomberman Live", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Kita e. ~Diamond Dust~ is a visual novel developed by Red Entertainment Corporation.", 
+      "developers": [], 
+      "id": 21023, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/142658/2741574-9405d9316135aa41c1cae8ba272fa76e.jpg", 
+      "name": "Kita e. ~Diamond Dust~", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dr. Rin ni Kiitemite! Koi no Rin Fuusui is a Japanese Game Boy Color game.", 
+      "developers": [], 
+      "id": 21024, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2018571-cover.jpg", 
+      "name": "Dr. Rin ni Kiitemite! Koi no Rin Fuusui", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Compilation of the first two Momotaro Densetsu games.", 
+      "developers": [], 
+      "id": 21025, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2350757-densetsu1_2.jpg", 
+      "name": "Momotaro Densetsu 1-2", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Planet DOB is a rhythm game by Micro Vision.", 
+      "developers": [], 
+      "id": 21026, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771224-576165_15612_front.jpg", 
+      "name": "Planet DOB", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Another Momotaro Dentetsu game.", 
+      "developers": [], 
+      "id": 21027, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2350804-dentetsuv.jpg", 
+      "name": "Momotaro Dentetsu V", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Jisedai Begoma Battle Beyblade is a Japanese only RPG entry in the BeyBlade franchise.", 
+      "developers": [], 
+      "id": 21028, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1871026-b1.jpg", 
+      "name": "Jisedai Begoma Battle Beyblade", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first dating style game to be released for the Dreamcast", 
+      "developers": [], 
+      "id": 21029, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2595353-21773-197734_15606.jpg", 
+      "name": "Kita He: White Illumination", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Fifth Element is a game based on the 1997 sci-fi movie of the same name.  Players take turns playing Corben Dallas and Leeloo.", 
+      "developers": [], 
+      "id": 21030, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285722-box_tfe.png", 
+      "name": "The Fifth Element", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mixing classic Bomberman gameplay with a full blown adventure game, take control of Bomberman and rescue Princess Millian while putting a stop to the evil Garadan Empire.", 
+      "developers": [], 
+      "id": 21031, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1840752-box_bmanhero.png", 
+      "name": "Bomberman Hero", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another Game Boy installment of the Dentetsu games.", 
+      "developers": [], 
+      "id": 21032, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2350706-dentetsujr.jpg", 
+      "name": "Momotaro Dentetsu Jr.", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the Kaijuu Monogatari series for the Gameboy.", 
+      "developers": [], 
+      "id": 21033, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2605323-untitled.png", 
+      "name": "Daikaijuu Monogatari: Miracle of the Zone", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Seventh MTDT game.", 
+      "developers": [], 
+      "id": 21034, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2350796-dentetsu7.jpg", 
+      "name": "Momotaro Dentetsu 7", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Galaxy Fraulein Series but unlike the previous two this one is a strategy RPG game.", 
+      "developers": [], 
+      "id": 21035, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56971/2390553-45997.jpg", 
+      "name": "Galaxy Fraulein Yuna 3: Lightning Angel", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball from Japan", 
+      "developers": [], 
+      "id": 21036, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2648590-powerleague64cvr.jpg", 
+      "name": "Power League 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super B-Daman: Fighting Phoenix is a Game Boy entry in the B-Daman video game series.", 
+      "developers": [], 
+      "id": 21037, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2726650-9454146349-30645.jpg", 
+      "name": "Super B-Daman: Fighting Phoenix", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Saturn port of Hudson's PCE-CD RPG \"Anearth Fantasy Stories.\"", 
+      "developers": [], 
+      "id": 21038, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2298050-untitled.png", 
+      "name": "Anearth Fantasy Stories: First Volume", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A spin-off in the long running Tengai Makyou series that takes place in a fictionalized version of 1980s America.", 
+      "developers": [], 
+      "id": 21039, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2340228-box.png", 
+      "name": "Tengai Makyou: Daiyon no Mokushiroku: The Apocalypse IV", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bomberman B-Daman is a video game for the Super Nintendo/Super Famicon. It was released only in Japan. ", 
+      "developers": [], 
+      "id": 21040, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/88692/2259958-300px_bomberman_b_daman_box.jpg", 
+      "name": "Bomberman B-Daman", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }
+  ]
+}

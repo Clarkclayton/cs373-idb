@@ -1,0 +1,1914 @@
+{
+  "games": [
+    {
+      "deck": "A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3316/449700-punisher16.jpg", 
+      "name": "The Punisher", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Breath of Fire is the first entry in the relatively successful Breath of Fire series, developed by Capcom. The gameplay is similar to other SNES RPG titles, such as Final Fantasy IV, with turn-based combat and a large medieval-like overworld to traverse.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363668-snes_breathoffire.jpg", 
+      "name": "Breath of Fire", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1993 for the Family Computer.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2345907-wily___right_no_rockboard_that_s_paradise.jpg", 
+      "name": "Wily & Right no RockBoard: That's Paradise", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third handheld installment of the Mega Man series has him (along with his dog Rush and helper robot Eddie) fighting eight more revived Robot Masters (from Mega Man 3 and Mega Man 4), while finding the whereabouts of Dr. Wily (who has taken control of an oil platform to power his latest weapon against the hero).", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806088-box_mmgb3.png", 
+      "name": "Mega Man III", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mega Man's former ally, Proto Man, creates an army of destructive robots and kidnaps Dr. Light, and it's up to Mega Man to stop him in this fifth installment of the Mega Man series.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362055-nes_megaman5.jpg", 
+      "name": "Mega Man 5", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final update to the CPS-1 line of Street Fighter II titles. It is rumored that this upgrade was in response to the black market Street Fighter II arcade boards flooding the market.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1389091-cboxstreetfighteriihyperfighting.jpg", 
+      "name": "Street Fighter II': Hyper Fighting", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "When Pluto is dog-napped by the evil Emperor Pete, Mickey Mouse sets out to rescue him by donning several magical costumes with special abilities.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543322-box_tmqsmm.png", 
+      "name": "The Magical Quest Starring Mickey Mouse", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Dynasty Wars, Warriors of Fate is a beat'em up from Capcom that is based on a manga known as Tenchi o Kurau.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1658062-warriors_of_fate_sales_flyer.png", 
+      "name": "Warriors of Fate", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Arcade quiz game framed like a Sengoku strategy sim similar to Koei's Nobunaga's Ambition. The player has to answer a certain number of questions correctly to conquer neighboring territory.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2698650-quiztonosamanoyabou_pcecd.jpg", 
+      "name": "Quiz Tonosama no Yabou", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D fighting game that was intended for release in arcades and on the PS2.  It was cancelled for reasons Capcom never made public.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6228/1176903-cfas.jpg", 
+      "name": "Capcom Fighting All-Stars", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Game Boy version of Bionic Commando is technically the third in the series but is not a direct sequel. A remake of the N.E.S. Bionic Commando, but with a futuristic look, a different villain and light gameplay tweaks, all while keeping the level design nearly identical.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2768036-box_bcgb.jpg", 
+      "name": "Bionic Commando", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Ghoul realm is under attack and the warrior Firebrand sets out to save it.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361749-nes_gargoylesquest2.jpg", 
+      "name": "Gargoyle's Quest II: The Demon Darkness", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Darkwing Duck is a video game adaptation of the popular Disney cartoon that aired during the early 90s. Featuring Mega Man esque action gameplay in the city of St. Canard.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361637-nes_darkwingduck.jpg", 
+      "name": "Darkwing Duck", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PC Engine CD-ROM compilation of the first two Arcade games in the Adventure Quiz/Capcom World series. The player answers questions about Capcom games to further a story.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2700264-adventurequizcapcomworld_pcecd.jpg", 
+      "name": "Adventure Quiz: Capcom World: Hatena no Daibouken", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first update to the smash-hit fighting game Street Fighter II balances various aspects of the gameplay while adding support for playable bosses and mirror matches.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2767921-sf2ce.jpg", 
+      "name": "Street Fighter II': Champion Edition", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "Varth: Operation Thunderbolt is a vertical scrolling shooter developed by Capcom in the early 90's. In this game the player(s) assume one of two different plane pilots on a mission to rid the planet Varth of one of their own supercomputer after it was possessed by an evil entity called \"Duo\".", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3890/298897-10015301.jpg", 
+      "name": "Varth: Operation Thunderstorm", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another compilation of games.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/815337-ghouls_n_ghosts_wii_vc.jpg", 
+      "name": "Chart Attack", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A 1991 side-scrolling fantasy hack-and-slash brawler made by Capcom for Arcades. It contains a few RPG elements which would be better realized in Capcom's later Mystara games.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363902-snes_kingofdragons.jpg", 
+      "name": "The King of Dragons", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8105, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "No Limits", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horizontal shoot 'em up based on the hit Disney cartoon featuring characters inspired by The Jungle Book. Part of Capcom's series of Disney licensed games from the late 80s and early 90s.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362290-nes_talespin.jpg", 
+      "name": "Disney's TaleSpin", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take control of one of four heroes, led by the titular superhero Captain Commando, and take on super-powered criminals in this futuristic 2D brawler by Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20874/714021-562805_11333_front.jpg", 
+      "name": "Captain Commando", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "When Dr. Light receives a threat from another rogue scientist, it's up to Mega Man (now with the ability to charge his shots into powerful blasts) to put a stop to Dr. Cossack's plans in the fourth installment of the Mega Man series.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362051-nes_megaman4.jpg", 
+      "name": "Mega Man 4", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Arthur, Lancelot, or Percival in this strangely-named medieval side scrolling brawler from Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363908-snes_knightsoftheround.jpg", 
+      "name": "Knights of the Round", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the classic Ghosts 'n Goblins series sees the valiant knight Arthur once again embarking on a brutally-difficult quest to rescue his beloved from demonic forces.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364818-snes_superghoulsnghosts.jpg", 
+      "name": "Super Ghouls 'N Ghosts", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 141, 
+          "name": "New Nintendo 3DS", 
+          "short": "N3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Three Wonders (Wonder 3 in Japan) is an arcade game made by Capcom in 1991 using the Capcom Play System (CPS1) engine. It contained three games.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/1289504-3_wonders_sales_flyer.png", 
+      "name": "Three Wonders", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling action game developed and published by Capcom in 1991, based on the hit Disney movie. The player takes on the title role of Ariel, the Little Mermaid, and embarks on a quest to save the ocean from the evil witch Ursula.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361965-nes_littlemermaid.jpg", 
+      "name": "Disney's The Little Mermaid", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese roleplaying game published for the NES in 1991. Based on the manga Tenchi wo Kurau.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/535227-tenchi_o_kurau_ii_box.jpg", 
+      "name": "Tenchi o Kurau II: Shokatsu Koumei-den", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The one-on-one arcade fighting game that kicked off the \"fighting game revolution\" of the 1990s. Play as one of eight martial artists and travel the world to knock your opponents out of the tournament!", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2768048-box_sf2ww.jpg", 
+      "name": "Street Fighter II: The World Warrior", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An Arcade brawler based on the Three Kingdoms period of Ancient China. The player can choose between Liu Bei, Zhang Fei, Guan Yu or Zhao Yun and fights hordes of Yellow Turban rebels while on horseback.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/869112-dynastywars_st_front.jpg", 
+      "name": "Dynasty Wars", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A side-scrolling shoot 'em up made by Capcom in 1989. It is based on the Area 88 manga.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364687-snes_unsquadron.jpg", 
+      "name": "U.N. Squadron", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Magic Sword is a 2D action side-scroller with a fantasy theme. The hero and his chosen accomplice must battle their way through a wizard's tower in a lust for monster slaying and loot.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363947-snes_magicsword.jpg", 
+      "name": "Magic Sword", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Buster Bros. is a shooter for SNES.  The player shoots upwards to pop bubbles that bounce around the screen.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/88923/1362133-588724_85681_front.jpg", 
+      "name": "Super Buster Bros.", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 132, 
+          "name": "Watara Supervision", 
+          "short": "SVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Carrier Air Wing, known as U.S. Navy in Japan, is a side-scrolling shooter released in 1990 for the CP System arcade hardware by Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10710/291023-carrier_airwing_game_flyer.png", 
+      "name": "Carrier Air Wing", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Little Nemo is based on a film based on a comic strip from the early 20th century. In it, a young boy from London named Nemo is summoned to the kingdom of Slumberland; a fantasy realm filled with strange creatures and dream-like locations.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361979-nes_littlenemothedreammaster.jpg", 
+      "name": "Little Nemo: The Dream Master", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Destiny of an Emperor is a strategy role-playing game based roughly on the manga Tenchi o Kurau (\"The Devouring of Heaven and Earth\") which is set in the Three Kingdoms period, when Western Shu, Northern Wei and Eastern Wu battled to conquer all of China.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361658-nes_destinyofanemperor.jpg", 
+      "name": "Destiny of an Emperor", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "When a peacekeeping effort between Dr. Light and Dr. Wily go haywire, it's up to Mega Man (who now has the ability to slide under obstacles) and his robotic companion Rush to traverse the universe and defeat the Robot Masters in the third installment of the Mega Man series.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362039-nes_megaman3.jpg", 
+      "name": "Mega Man 3", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take Street Fighter into \"the future\" in this strange 1990 NES release.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362261-nes_streetfighter2010.jpg", 
+      "name": "Street Fighter 2010: The Final Fight", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An NES platformer based on the Disney animated television series of the same name.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361216-nes_chipndalerescuerangers.jpg", 
+      "name": "Chip 'N Dale: Rescue Rangers", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Adventures in the Magic Kingdom is a Disney-licensed action/adventure game from Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8125, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361119-nes_adventuresinthemagickingdom.jpg", 
+      "name": "Adventures in the Magic Kingdom", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A creepy clown and his beastie buddies have taken over Alurea. Time for the boys to teach them a lesson.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8126, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370450-genesis_chikichikiboys.jpg", 
+      "name": "Mega Twins", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1990 action RPG developed by Capcom for the Nintendo Game Boy and a spin-off of their Ghosts N' Goblins series. It was notable for featuring an anti-hero as its protagonist, its well-developed real-time platformer combat, and for being one of the more technically accomplished Game Boy titles of its time.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2368428-box_gquest.png", 
+      "name": "Gargoyle's Quest", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Popular arcade shooter. Many versions of the game would go to different consoles. The Genesis version contains an original mode, along with the arcade mode.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1308803-mercs.jpg", 
+      "name": "Mercs", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first entry in SSI's Legend Series based on 2nd Edition AD&amp;D license. The Lords of the City of Waterdeep have put out a call for heroes to investigate the evil lurking in the sewers beneath their streets.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8129, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/636775-eyeofthebeholder_1_1_.jpg", 
+      "name": "Eye of the Beholder", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action platformer for the NES by Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361235-nes_codenameviper.jpg", 
+      "name": "Code Name: Viper", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "1941: Counter Attack is a game in the shmup series 1942.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8131, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/464921-1941_flyer.png", 
+      "name": "1941: Counter Attack", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 105, 
+          "name": "SuperGrafx", 
+          "short": "SGFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The best port of the arcade hit, Final Fight. The game would feature all three characters, two player gameplay, and an arranged soundtrack.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8132, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/787389-final_fight_cd_scd_us.jpg", 
+      "name": "Final Fight CD", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade puzzle-platformer; also known as Buster Bros. Players must shoot the bouncing balls before they take over historical landmarks.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8133, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1127969-921769_56482_front.jpg", 
+      "name": "Pang", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Willow is a game based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8134, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362610-nes_willow.jpg", 
+      "name": "Willow", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A vertically-scrolling shoot 'em up with a land-based vehicle. Players need to take down enemies while avoiding pits and the walls of the course, though they are also capable of leaping over obstacles.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8135, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2414054-last_duel_front.jpg", 
+      "name": "Last Duel: Inter Planet War 2012", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released in 1989, Sweet Home is quite possibly the first survival horror, or console horror RPG. A small team enters a haunted house to study the deceased owner's frescoes, only to become trapped by the angered spirits within.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8136, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/1049692-0269_2.jpg", 
+      "name": "Sweet Home", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }
+  ]
+}

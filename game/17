@@ -1,0 +1,1366 @@
+{
+  "games": [
+    {
+      "deck": "The famous management and cyclist simulation game will be completely revised for the 2010 release. For the first time since the game went 3D, an entirely new simulation and graphics engine has been coded from the ground up.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1392632-9ee70a940c86c35d3c1bf718e07bd044.jpg", 
+      "name": "Pro Cycling Manager: Season 2010", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Orcs, lizardmen, and various other factions play each other at football in this adaption of the Games Workshop board game.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2106395-box_bbowl.png", 
+      "name": "Blood Bowl", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 23, 
+          "name": "SouthPeak Interactive, LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Third game in the Runaway series.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/22015/1258612-runaway_atof__pack_2d.jpg", 
+      "name": "Runaway: A Twist of Fate", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take control of a professional team and guide them through the 2009 version of Tour de France.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1858019-box_tdf09.png", 
+      "name": "Tour de France 2009", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pro Cycling is back for the new 2009 season on Sony's handheld PSP.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1060298-psp09coverbig.jpg", 
+      "name": "Pro Cycling: Season 2009", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The ninth version of the Cycling Manager franchise. Manage a professional cycling team over a complete season.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1039513-boxshot_uk_large.jpg", 
+      "name": "Pro Cycling Manager: Season 2009", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A surfing game of the iPhone.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1061965-isurfcover.jpg", 
+      "name": "iSurf", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 388, 
+          "name": "Apple Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pro Cycling Manger for the Sony PSP.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1040318-procyclingseason2008_psp.jpg", 
+      "name": "Pro Cycling: Season 2008", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The eight game in the Cycling Manager franchise.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1040777-pro_cycling_manager_tour_de_france_2008.jpg", 
+      "name": "Pro Cycling Manager: Season 2008", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Loki: Heroes Of Mythology is a Action Role Playing Game where you play through Norse, Greek, Egyptian, and Aztec mythology. It uses a Diablo-esque formula as a loot-driven, top-down action RPG.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13362/513852-932232_84081_front.jpg", 
+      "name": "Loki: Heroes of Mythology", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first game in the Cycling Manager franchise to be released on the PSP.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1041089-51edwa76qkl._ss400_.jpg", 
+      "name": "Pro Cycling: Season 2007", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The seventh game in the Cycling Manager franchise.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 812, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1043073-200806180819_pro_cycling_manager_2007_.jpg", 
+      "name": "Pro Cycling Manager: Season 2007", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second release in the Horse Racing Manager franchise. Now more realistic and with improved graphics. ", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1061951-horse_racing_manager_2_cover.jpg", 
+      "name": "Horse Racing Manager 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Manage one of many pro cycling teams around the globe. You're in charge of the economics, equipment, sponsers and contracts for the riders. All the big races are in here, such as: Tour de France, The Giro d'italia and the Vuelta.  More then 465 stages, 50 teams and 1200 riders.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1043071-933447_76313_front.jpg", 
+      "name": "Pro Cycling Manager: Season 2006", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Winter Challenge is a Winter Olympic Sports game created by Cyanide Studio.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1061959-winter_challenge_cover.jpg", 
+      "name": "Winter Challenge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fifth game in the Cycling Manager franchise.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1041179-pcm_2005_jaq.jpg", 
+      "name": "Pro Cycling Manager", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sequel to Pro Rugby Manager.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 817, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1073004-prm2_cover.jpg", 
+      "name": "Pro Rugby Manager 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1829666-chaos.jpg", 
+      "name": "Chaos League", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1040833-00086272.jpg", 
+      "name": "Cycling Manager 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Manage all the aspects of a professional rugby team and watch games with the 3D match engine.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1073005-prm_cover.jpg", 
+      "name": "Pro Rugby Manager", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1041172-cyclingmanager3_bigger_pcbox_ukboxart_160w.jpg", 
+      "name": "Cycling Manager 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Cycling Manager franchise.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1041071-1.jpg", 
+      "name": "Cycling Manager 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Manage a professional cycling team to greatness, in this the first game of the Cycling Manager franchise.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2271826-cm1_cover.jpg", 
+      "name": "Cycling Manager", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Become a stable owner, a jockey and bet on horse races.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28470/1061949-horse_racing_manager_1_cover.jpg", 
+      "name": "Horse Racing Manager", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1822341-chaos.jpg", 
+      "name": "Chaos League: Sudden Death", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dungeonbowl is the follow up to fantasy inspired football game Blood Bowl.", 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2239682-dungeonbowl_banner.png", 
+      "name": "Dungeonbowl", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 17, 
+          "name": "Cyanide Studio"
+        }
+      ], 
+      "id": 827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1843596-final.jpg", 
+      "name": "Final Stretch: Horse Racing Sim", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Unit 13 is a third person military shooter from SOCOM developers Zipper Interactive.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2136556-box_unit13.png", 
+      "name": "Unit 13", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zipper Interactive returns to the SOCOM series with a new installment on PlayStation 3 that features squad-based gameplay, 32 player online modes, and PlayStation Move support.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1789972-box_socom4.png", 
+      "name": "SOCOM 4: U.S. Navy SEALs", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "MAG, a.k.a \"Massive Action Game\" was a PS3 exclusive, online-only FPS game developed by SOCOM creators Zipper Interactive. The game's most notable feature was its 256-player Domination mode.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2243859-box_mag.png", 
+      "name": "MAG", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "SOCOM: U.S. Navy SEALs - Fireteam Bravo 2 mixes up the usual gameplay from the original FTB hit, by adding new and fun features to keep the ever expanding series going.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1789976-box_socomftb2.png", 
+      "name": "SOCOM: U.S. Navy SEALs - Fireteam Bravo 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Protect America and freedom from enemy forces in urban and rural warfare in SOCOM: U.S. Navy SEALs Combined Assault.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 832, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2167116-box_socomca.png", 
+      "name": "SOCOM: U.S. Navy SEALs - Combined Assault", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "SOCOM's first venture into handheld gaming.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 833, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1789975-box_socomftb.png", 
+      "name": "SOCOM: U.S. Navy SEALs - Fireteam Bravo", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "SOCOM 3 is the third game in the successful series for the PS2 that pushed online play to new heights.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 834, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2167115-box_socom3.png", 
+      "name": "SOCOM 3: U.S. Navy SEALs", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "SOCOM II is the second game in Zipper's popular SOCOM franchise. It was one of the most popular online-multiplayer games for PS2 due to its solid gameplay and online mechanics.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 835, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2167114-box_socom2.png", 
+      "name": "SOCOM II: U.S. Navy SEALs", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "SOCOM was one of the first popular online games for the PS2. In many ways, it revolutionized online gaming on the PS2.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 836, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2167113-box_socom.png", 
+      "name": "SOCOM: U.S. Navy SEALs", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this cult classic developed by Zipper Interactive, Crimson Skies is set in a very different 1930s America, and chronicles the exploits of air pirate Nathan Zachary and his daring crew, the Fortune Hunters.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 837, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/729620-crmspc0f.jpg", 
+      "name": "Crimson Skies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mechwarrior 3: Pirate's Moon was an expansion pack for the popular third instalment of the mechwarrior franchise. It included new 'Mechs and new missions.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 838, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16706/970105-9mechwarrior3piratesmoon3qt.jpg", 
+      "name": "MechWarrior 3: Pirate's Moon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "MechWarrior 3 is the 1999 sequel to the successful Mechwarrior 2.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 839, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16706/966077-mechwarrior_3_coverart.png", 
+      "name": "MechWarrior 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sequel to Top Gun: Fire at Will.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 840, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Top Gun: Hornet's Nest", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A PC game released in 1998 in which you control an experimental tank. Upgrades allow the tank to use many weapons as you destroy targets and bring down an omnipresent force.", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 841, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20373/2164686-2164685-1.jpg", 
+      "name": "Recoil", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The year is 2056 and criminals are corralled into a deadly game of gladiatorial combat armed with dangerous weapons. Will you survive the deadly onslaught and escape to victory or will you perish in the prison bowels of capital punishment? Welcome to DeathDrome!", 
+      "developers": [
+        {
+          "id": 18, 
+          "name": "Zipper Interactive"
+        }
+      ], 
+      "id": 842, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/95091/1792720-220_deathdrome1_400.jpg", 
+      "name": "Death Drome", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A rallycross racing game where the player competes for a place on rally champion S\u00e9bastien Loeb's team.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 843, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "S\u00e9bastien Loeb Rally Evo", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2015 edition of the official Grand Prix motorcycle racing game.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 844, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2738359-motogp15logo.jpg", 
+      "name": "MotoGP 15", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A motorcycle racing game with a heavy focus on bike customization. From the makers of the MotoGP series.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 845, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/2737396-ride-videogame-pc1.jpg", 
+      "name": "RIDE", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2014 edition of the official MotoGP World Championship video game.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 846, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2608254-3725869910-14882.jpg", 
+      "name": "MotoGP 14", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ]
+    }, 
+    {
+      "deck": "The official Motocross Grand Prix videogame, covering the 2013 season.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 847, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2552129-3229802180-12345.jpg", 
+      "name": "MXGP", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The latest installment of World Rally Championship.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 848, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2563752-8785868762-wrc4_.jpg", 
+      "name": "WRC 4 FIA World Rally Championship", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2013 installment in the MotoGP franchise.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 849, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2499652-cropped.jpg", 
+      "name": "MotoGP13", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ]
+    }, 
+    {
+      "deck": "Top down WRC game.", 
+      "developers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ], 
+      "id": 850, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452919-box_wrcps.png", 
+      "name": "WRC Powerslide", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 19, 
+          "name": "Milestone s.r.l."
+        }
+      ]
+    }
+  ]
+}

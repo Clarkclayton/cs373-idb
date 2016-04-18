@@ -1,0 +1,1217 @@
+{
+  "games": [
+    {
+      "deck": "Frantix is a puzzle game designed for the PSP.", 
+      "developers": [], 
+      "id": 23796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837495-box_frantix.png", 
+      "name": "Frantix", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Iron is the second expansion pack for the popular PC title Rainbow Six 3: Raven Shield.", 
+      "developers": [], 
+      "id": 23797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/423/232846-ironwrath.jpg", 
+      "name": "Tom Clancy's Rainbow Six 3: Iron Wrath", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Silent Hunter III puts players in the role of a German U-Boat captain during WWII.  Their mission: To cut off enemy supply lanes in the Atlantic.", 
+      "developers": [], 
+      "id": 23798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/67575/1349248-silenthunter3boxart.jpg", 
+      "name": "Silent Hunter III", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cold Fear is a survival horror game by Ubisoft where you play as Tom Hansen, a U.S. Coast Guard sent out to board a drifting Russian whaling ship in the middle of a howling storm on the Bering Sea. Things quickly go sour and Tom must fight to survive.", 
+      "developers": [], 
+      "id": 23799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2117015-box_coldfear.png", 
+      "name": "Cold Fear", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rayman: Hoodlums' Revenge is an isometric platformer game based on Rayman 3: Hoodlum Havoc.", 
+      "developers": [], 
+      "id": 23800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810961-box_raymanhr.png", 
+      "name": "Rayman: Hoodlum's Revenge", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join Winnie the Pooh and his friends for a splendiferous bithday party in the Hundred Acre Wood!", 
+      "developers": [], 
+      "id": 23801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/387/226229-l1141442.jpgdisney_s_winnie_the_pooh_s_rumbly_tumbly_adventure.jpg", 
+      "name": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Playboy: The Mansion is a Sims-style game that puts players in control of Hef's lifestyle and management of his magazine empire.", 
+      "developers": [], 
+      "id": 23802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2469710-box_pbtm.png", 
+      "name": "Playboy: The Mansion", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platformer developed by Tiwak SAS, taking place in the prehistoric era.", 
+      "developers": [], 
+      "id": 23803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1801475-box_tork.png", 
+      "name": "Tork: Prehistoric Punk", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Sprung\" is a real-life dating video game which shows you how a man and a woman named as Brett and Becky, respectively, are trying to find their real love.", 
+      "developers": [], 
+      "id": 23804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2098014-box_sprung.png", 
+      "name": "Sprung", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Throne of Oblivion was the Second of two expansion packs to be added to Shadowbane. It introduced the game to the Vampire race, Nightstalker & Necromancer classes, and four siege specialist disciplines.\n", 
+      "developers": [], 
+      "id": 23805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1702/1527962-oblivion.jpg", 
+      "name": "Shadowbane: Throne of Oblivion", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Tom Clancy's Ghost Recon; part one of the Ghost Recon 2 \"trilogy\".", 
+      "developers": [], 
+      "id": 23806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2360874-box_gr2_fc.png", 
+      "name": "Tom Clancy's Ghost Recon 2 - 2007: First Contact", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dogz allows the player to purchase a virtual dog, buy toys and play with a dog.", 
+      "developers": [], 
+      "id": 23807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/833601-930366_70852_front.jpg", 
+      "name": "Dogz", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the launch titles for the Nintendo DS, it featured 9 tracks from around the world, as well as 23 licensed cars.", 
+      "developers": [], 
+      "id": 23808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1851/220252-256px_asphalturbangtcover.jpg", 
+      "name": "Asphalt: Urban GT", 
+      "platforms": [
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/727083-6gk4h9s.jpg", 
+      "name": "CSI: Miami", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ape Escape: Pumped & Primed is a Party game created by SCEI.", 
+      "developers": [], 
+      "id": 23810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875179-box_aepap.png", 
+      "name": "Ape Escape: Pumped & Primed", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1799382-box_tdoh.png", 
+      "name": "The Dukes of Hazzard: Return of the General Lee", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23812, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285689-box_rockyl.png", 
+      "name": "Rocky: Legends", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Chessmaster game from 2004.", 
+      "developers": [], 
+      "id": 23813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1266603-1.jpg", 
+      "name": "Chessmaster 10th Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ubisoft Shanghai brings the first sequel to the highly acclaimed videogame Splinter Cell, adding a brand new multiplayer component and new maneuvers such as the SWAT turn.", 
+      "developers": [], 
+      "id": 23814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280528-box_tpscpt.png", 
+      "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tom Clancy's Rainbow Six 3: Athena Sword is an expansion pack for Rainbow Six 3: Raven Shield. It adds a new storyline of missions, alongside a multitude of new maps.", 
+      "developers": [], 
+      "id": 23815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/857366-914955_front.jpg", 
+      "name": "Tom Clancy's Rainbow Six 3: Athena Sword", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hack-n-Slash your way through the land of Norrath as you master weapon and spell combat to conquer evil. ", 
+      "developers": [], 
+      "id": 23816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2116209-box_con.png", 
+      "name": "Champions of Norrath", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }, 
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rise of Chaos was the first of two expansion packs to be added to Shadowbane. It introduced the game to the Nephilim race, Sentinel & Doomsayer classes, and Conjurer & Darksworn disciplines.", 
+      "developers": [], 
+      "id": 23817, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1702/1079846-pc_shadowbane_rise_of_chaos_box.jpg", 
+      "name": "Shadowbane:  The Rise of Chaos", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster 4x4: Masters of Metal is a Monster Jam licensed monster truck game.", 
+      "developers": [], 
+      "id": 23818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1248518-monster.jpg", 
+      "name": "Monster 4x4: Masters of Metal", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lock On is a realistic combat flight simulator set in the Black Sea Region featuring many late cold war era NATO and Eastern Bloc military aircraft. Flyable aircraft include; A-10, F-15, MiG-29, Su-27, Su-25 and Su-33.", 
+      "developers": [], 
+      "id": 23819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6017/232373-lockon_02s.jpg", 
+      "name": "Lock On: Modern Air Combat", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The popular Kids' WB cartoon series comes to life on the GBA in this beat 'em up game. ", 
+      "developers": [], 
+      "id": 23820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7383/2279095-muchalucha.jpg", 
+      "name": "Mucha Lucha! Mascaritas of the Lost Code", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The story of a young, curious, and green-loving photojournalist named Jade, out to unravel an alien conspiracy on her home planet of Hillys.", 
+      "developers": [], 
+      "id": 23821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2167090-box_bgae.png", 
+      "name": "Beyond Good & Evil", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Step into the roles of the main characters, where you can use a variety of weapons, fighting techniques, weapons and stunts against enemies.", 
+      "developers": [], 
+      "id": 23822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285641-box_cthd.png", 
+      "name": "Crouching Tiger, Hidden Dragon", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game for the GameCube. All of the racing tracks are in suburbs and cities.", 
+      "developers": [], 
+      "id": 23823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/125537/1724183-giant_bomb_sub.jpg", 
+      "name": "City Racer", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shadowbane was a PvP-focused MMORPG, running from 2003 to 2009.", 
+      "developers": [], 
+      "id": 23824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1702/1079817-shadowbane.jpg", 
+      "name": "Shadowbane", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tom gets flattened by a piano and ends up you know where! Can he perform 9 missions to redeem himself, or will he spend eternity as cat stew?", 
+      "developers": [], 
+      "id": 23825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/718694-infurnal.jpg", 
+      "name": "Tom and Jerry: Infurnal Escape", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/835148-563114_22990_front.jpg", 
+      "name": "Bratz", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released alongside Rayman 3: Hoodlum Havoc, the game eschews the 3D platforming and humorous tones of its console brethren in favor of traditional 2D platforming in the style of the original Rayman.", 
+      "developers": [], 
+      "id": 23827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1817/967554-rayman3.jpg.jpeg", 
+      "name": "Rayman 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Scrabble 2003 edition for PlayStation 2 and PC.", 
+      "developers": [], 
+      "id": 23828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174113/2380760-514wkeqgv3l._sl500_aa300_.jpg", 
+      "name": "Scrabble 2003 Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1848595-comm.jpg", 
+      "name": "Strategic Simulations: Commander's Collection", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Using Trains and Trucks to deliver items to different systems, creating a railroad system and building roads to help you get your trains and trucks there faster.", 
+      "developers": [], 
+      "id": 23830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2472/317414-trains_and_trucks_tycoon.jpg", 
+      "name": "Trains and Trucks Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lunar Legend is the GBA remake of the PS1 title \"Lunar: Silver Star Story Complete\", with a few small differences in presentation. It tells the story of Alex and his goal of someday becoming a Dragonmaster.", 
+      "developers": [], 
+      "id": 23831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375804-box_lunarl.png", 
+      "name": "Lunar Legend", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Moto Racer Advance is a Game Boy Advance game in the Moto Racer franchise.", 
+      "developers": [], 
+      "id": 23832, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/966379-moto_racer_advance_coverart.png", 
+      "name": "Moto Racer Advance", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth entry in the dog focused Dogz offshoot in the Petz series.", 
+      "developers": [], 
+      "id": 23833, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1860210-dogz.jpg", 
+      "name": "Dogz 5", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on an Italian comic series where Donald Duck becomes a crime-fighting vigilante called Paperinik, PK: Out of the Shadows sees him donning a mask and tights, as well as an array of gadgets, to stop an invasion of murderous aliens called the Evroniani.", 
+      "developers": [], 
+      "id": 23836, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171265-box_dpkoots.png", 
+      "name": "Disney's PK: Out of the Shadows", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rayman Arena is a party game featuring Rayman. Up to four players can run through race tracks or compete in an arena.", 
+      "developers": [], 
+      "id": 23837, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2146382-box_rayarena.png", 
+      "name": "Rayman Arena", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Build the best fighter, and destroy the rest.", 
+      "developers": [], 
+      "id": 23838, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2133359-box_ufctd.png", 
+      "name": "UFC: Throwdown", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sports trivia game for the PlayStation", 
+      "developers": [], 
+      "id": 23839, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171939/2619127-4833367751-Power.jpg", 
+      "name": "Power Play: Sports Trivia", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Muppet Pinball Mayhem is a Muppet themed pinball game exclusive to the Game Boy Advance.", 
+      "developers": [], 
+      "id": 23840, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/745483-muppet.jpg", 
+      "name": "Muppet Pinball Mayhem", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23841, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1866715-command.jpg", 
+      "name": "Destroyer Command", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Race on foot as Rayman, Globox, Razorbeard, and several other characters from the Rayman franchise.", 
+      "developers": [], 
+      "id": 23842, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810967-box_raymanrush.png", 
+      "name": "Rayman Rush", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hard Cross-Country Drivin': Muscle your way to the checkered flag as you burn up the asphalt speedways from Florida to sunny California.", 
+      "developers": [], 
+      "id": 23843, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2166798-box_hrt.png", 
+      "name": "Hooters Road Trip", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "First expansion for Settlers IV", 
+      "developers": [], 
+      "id": 23844, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4573/372199-settlersivmissioncd.jpg", 
+      "name": "The Settlers IV: Mission CD", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mini-game collection based off the popular children's show. You take control of the bear cub Ojo and good news, it's your birthday!", 
+      "developers": [], 
+      "id": 23845, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/310049-big.jpg", 
+      "name": "Bear in the Big Blue House", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "E.T. The Extra-Terrestrial And The Cosmic Garden is a Game Boy Color entry in the E.T franchise.", 
+      "developers": [], 
+      "id": 23846, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2063344-cover.jpg", 
+      "name": "E.T. The Extra-Terrestrial And The Cosmic Garden", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to Warlords: Battlecry and part of Warlords franchise. The three Battlecry games are, unlike the rest of the franchise, real time strategy.", 
+      "developers": [], 
+      "id": 23847, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/96001/1390012-warlords_battlecry_2.jpg", 
+      "name": "Warlords: Battlecry II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }
+  ]
+}

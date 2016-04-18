@@ -1,0 +1,1481 @@
+{
+  "games": [
+    {
+      "deck": "Hoyle Casino features eight 'Vegas-Style' Casino games, with over 350 variations to enjoy on your home computing console and personal computer. Developed by Sierra Entertainment.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 301, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1029718-577923_35339_front.jpg", 
+      "name": "Hoyle Casino", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second in the Phantasmagoria horror anthology by Sierra.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393339-phantasmagoria_2_a.jpg", 
+      "name": "Phantasmagoria: A Puzzle of Flesh", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One on one robotic combat where players can rip off limbs, throw spears, and do anything in their power to come out victorious!", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 303, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393129-cybergladiators_a.jpg", 
+      "name": "CyberGladiators", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lovable loser Larry Laffer has an opportunity to score big on a ship filled to the brim with women, but he's still not looking for love in all the right places.  Love for Sail! is a point-and-click graphic adventure, and the sixth installment in the Leisure Suit Larry series.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 304, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1900/194738-love_for_sail.jpg", 
+      "name": "Leisure Suit Larry: Love for Sail!", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A chess game for Windows 95.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 305, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1267123-1.jpg", 
+      "name": "Power Chess", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sierra made blackjack game &amp; craps PC game", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 306, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2587675-_-hoyle-craps-blackjack-pc-_.jpg", 
+      "name": "Hoyle Blackjack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2266098-hccboxart.jpg", 
+      "name": "Hoyle Children's Collection", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 308, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2266103-hoylesolitaireboxart.jpg", 
+      "name": "Hoyle Solitaire", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jump back into the shoes of private investigator and novelist Gabriel Knight and his sidekick Grace Nakimura as they investigate the killing of a little girl by a supposed werewolf in the full-motion-video follow-up to Sins of the Fathers.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 309, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1655/2641740-0247662654-Gabri.jpg", 
+      "name": "The Beast Within: A Gabriel Knight Mystery", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shivers is a puzzle adventure game set in an a museum of the strange and unusual.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 310, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393382-shivers_1_a.jpg", 
+      "name": "Shivers", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Torin's Passage is a point-and-click puzzle adventure in which you follow the fortunes and misfortunes of Torin and his purple shape-shifting companion, Boogle.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 311, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/292/235604-1367.jpeg", 
+      "name": "Torin's Passage", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Are you a comedian? Knock off the funny business, get focused, and enter a mustache-laden world in this 1995 FMV game from Sierra.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 312, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4859/365476-daryl_f._gates__police_quest___swat_coverart.png", 
+      "name": "Daryl F. Gates' Police Quest: SWAT", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 313, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "3-D Ultra Pinball", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A full-motion video adventure game from King's Quest creator Roberta Williams, Phantasmagoria was one of the best-selling Sierra titles of all time and the subject of controversy for its graphic violence and sexual themes.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393329-phantasmagoria_1_a.jpg", 
+      "name": "Roberta Williams' Phantasmagoria", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final adventure in the saga, Space Quest 6 (not VI, for whatever reason) follows the adventures of Roger Wilco, space janitor, as he explores a universe packed with sci-fi parody and humor in a quest that ranges from the scummiest planet ever to the inside of a human body.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 315, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/610297-sq6_ver2_front.jpg", 
+      "name": "Space Quest 6: Roger Wilco in the Spinal Frontier", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the earliest graphical MMORPGS to be released, The Realm consists of a 2D world filled with monsters, loot, quests, and many other things that are seen in MMORPGS today.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 316, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2714405-therealmonline.jpg", 
+      "name": "The Realm Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Larry's Big Score: Pinball is a Leisure Suit Larry-themed pinball game by Sierra.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 317, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2226189-1.jpg", 
+      "name": "Larry's Big Score", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 318, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393562-slater_charlie_cover.jpg", 
+      "name": "Slater & Charlie Go Camping", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game that forces you to put back together the mind of Dr. Brain.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 319, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393549-dr_brain_3_a.jpg", 
+      "name": "The Lost Mind of Dr. Brain", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Outpost is a PC game developed and published by Sierra On-Line.  It spawned a non-story related sequel named Outpost 2: Divided Destiny", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393434-outpost_1_a.jpg", 
+      "name": "Outpost", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 123, 
+          "name": "Sirius Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "King's Quest VII is a Disney-esque point and click adventure about Queen Valenice and her daughter, Rosella, who get caught up in a quest to save the land of Eldritch from the evil sorceress Malicia.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6357/249832-king_27s_quest_vii___the_princeless_bride_coverart.jpg", 
+      "name": "Roberta Williams' King's Quest VII: The Princeless Bride", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Western-themed adventure game by Al Lowe and Josh Mandel.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3564/383501-freddypharkas_boxcover.jpg", 
+      "name": "Freddy Pharkas: Frontier Pharmacist", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Larry Laffer is back once again to find romance in this point and click adventure game.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721478-lsl6boxart_2.jpg", 
+      "name": "Leisure Suit Larry 6: Shape Up or Slip Out!", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "An edutainment game featuring a girl and her dog time traveling to colonial-era Philadelphia. This adventure game was part of Sierra's Discovery Series.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 324, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393557-peppers_adventures_in_time_discovery_a.jpg", 
+      "name": "Pepper's Adventures in Time", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "This budget title from Sierra allowed players to play checkers and backgammon against King Graham of the King's Quest franchise.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 325, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Crazy Nick's Picks: King Graham's Board Game Challenge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "As Adam Green, a young boy with a blond mullet, you must ward off evil poachers and learn about the science and ecology of the rainforest in this edutainment adventure game.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 326, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393544-ecoquest_2_a.jpg", 
+      "name": "EcoQuest 2: Lost Secret of the Rainforest", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crawl inside the mind of a serial killer: Daryl F. Gates' Police Quest: Open Season (also known as Police Quest IV) is the fourth entry in Sierra On-Line's gritty crime drama adventure game series, Police Quest.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1368003-police_quest_4_a_front.jpg", 
+      "name": "Daryl F. Gates' Police Quest: Open Season", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 328, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Hoyle Classic Card Games", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A single-player sequel to Shadow of Yserbius .", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1374600-shadow_of_yserbius_a_front.jpg", 
+      "name": "Shadow of Yserbius", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Struggling novelist and bookstore owner Gabriel Knight becomes wrapped up in a murder mystery involving a secret voodoo cult and an ancient blood rite. A point-and-click adventure first released in 1993 by Sierra On-Line.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6767/190502-gabsinsfatherbf.jpg", 
+      "name": "Gabriel Knight: Sins of the Fathers", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in the land of Mordavia, the fourth installment of the Quest for Glory series adopts a much darker theme this time around.  The hero must save the local town from a dark cult and its evil plans.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2423347-dos_quest_for_glory_iv.jpg", 
+      "name": "Quest for Glory IV: Shadows of Darkness", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Reading game for small children.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393563-alphabet_blocks_a.jpg", 
+      "name": "Alphabet Blocks", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A classic 2D point and click adventure game by Christy Marx. Can Robin Hood stop Prince John and save King Richard in this acclaimed adventure game?", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/725117-6895_boxshot_conquests_of_the_longbow___the_legend_of_robin_hood.jpg", 
+      "name": "Conquests of the Longbow: The Legend of Robin Hood", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Prince Alexander, son of King Graham, goes on a adventure to rescue Princess Cassima from the evil Vizier Abdul Alhazred.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 334, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1367191-kings_quest_6_a_front.jpg", 
+      "name": "King's Quest VI: Heir Today, Gone Tomorrow", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wages of War takes place in Fricana, Gloriana's alternate Africa.  Over the course of the game, the hero travels from Tarna, home of the liontaur people and Rakeesh's residence, into the savanna-like West Fricana to the village of the Simbani--home of Uhura--and eventually into the jungles of East Fricana, encountering the leopardmen and the Lost City. ", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 335, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721440-7102_boxshot_quest_for_glory_3___wages_of_war.jpg", 
+      "name": "Quest for Glory III: Wages of War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The last volume in the Hoyle Official Book of games series.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9450/1215471-sciduv_000.png", 
+      "name": "Hoyle Official Book of Games: Volume 3", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "EcoQuest: The Search For Cetus is one of the lesser known point and click action adventure titles developed by Sierra Entertainment in the early 1990s. The game focused on teaching kids environmental ethics and showcasing how pollution affects aquatic life.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/727011-searchforcetus.jpg", 
+      "name": "EcoQuest: The Search for Cetus", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first installment of the Dr. Brain series of puzzle/adventure edutainment games.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/723934-6724_boxshot_castle_of_dr._brain.jpg", 
+      "name": "Castle of Dr. Brain", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Characters are being kidnapped out of their stories and mixed up with other fairytales, and only the player (whose avatar can be chosen from a group of six) can solve it!", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721043-mixedfairy.jpg", 
+      "name": "Mixed-Up Fairy Tales", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in Sierra's Police Quest series. Based again in Lytton, Sonny Bonds has been promoted, and is forced to deal with both the questionable ethics of a colleague and the attempted murder of his wife, as the sleepy California city is under attack by a deranged serial killer.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 340, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7622/647250-pq3.jpg", 
+      "name": "Police Quest 3: The Kindred", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join Larry and Patti again as you alternate between the two characters in another adventure from Al Lowe.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/712046-larry5.jpg", 
+      "name": "Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work!", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The VGA remake of the game that started it all, Space Quest I puts a fresh coat of paint on the first Roger Wilco adventure.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/708635-sq1vgafront.jpg", 
+      "name": "Space Quest I: Roger Wilco in the Sarien Encounter", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Roger Wilco returns for another adventure, saving himself and the world from Sludge Vohaul.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 343, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/610262-sq4front.jpg", 
+      "name": "Space Quest IV: Roger Wilco and the Time Rippers", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "As Arthur, the player must travel the lands in search for clues to the location of the Holy Grail and discover what has happened to the knights of the Round Table.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/724944-camelot.jpg", 
+      "name": "Conquests of Camelot: The Search for the Grail", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The goal of Jones in the Fast Lane, a \"real life simulator\", is to become the most educated, the happiest, and the wealthiest person of the players in the game.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16944/1301662-jones_in_the_fast_lane_box.jpg", 
+      "name": "Jones in the Fast Lane", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quest for Glory II is an Adventure-RPG. The player is cast as a journeyman hero seeking to aid the desert land of Shapeir.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/715366-qfg2boxart_2.jpg", 
+      "name": "Quest for Glory II: Trial by Fire", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The evil wizard Mordack has taken the castle and royal family of Daventry, and are holding them prisoner. As the only member of the royal family left behind, King Graham must help his family and return the castle.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1367183-kings_quest_5_blue_box_a.jpg", 
+      "name": "King's Quest V: Absence Makes the Heart Go Yonder", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1103766-hoyles_book_of_games_volume_2_solitaire.gif", 
+      "name": "Hoyle Official Book of Games: Volume 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battle the infamous Pirates of Pestulon as Roger Wilco continues his career as space-hero and part-time janitor. Help Roger survive the most bizarre dangers yet!", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 349, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/610253-sq3front.jpg", 
+      "name": "Space Quest III: The Pirates of Pestulon", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Imagination Network (Originally \"The Sierra Network\"/\"CyberPark\") was a multiplayer game owned by Sierra Online from 1989-1995 (and Co-Owned by AT&T During Late-1995/1996), Owned by AOL from 1996-2003, INN is credited as being the First Graphical Point-and-Click MMG.", 
+      "developers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ], 
+      "id": 350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135640/1866544-imagination_network_thumb.png", 
+      "name": "The Imagination Network", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }
+  ]
+}

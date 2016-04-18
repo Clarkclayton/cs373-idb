@@ -1,0 +1,1576 @@
+{
+  "games": [
+    {
+      "deck": "An educational game released for the Mac in 1991, Spelunx looks and plays like an exploratory/open-world adventure.", 
+      "developers": [
+        {
+          "id": 568, 
+          "name": "Cyan Worlds, Inc."
+        }
+      ], 
+      "id": 15536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1488/308603-sp7.jpg", 
+      "name": "Spelunx and the Caves of Mr. Seudo", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A MAC and PC adventure game. Revolves around exploring outer space and seeing strange creatures and objects.", 
+      "developers": [
+        {
+          "id": 568, 
+          "name": "Cyan Worlds, Inc."
+        }
+      ], 
+      "id": 15537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/101677/1467548-cosmic_osmo_and_the_worlds_beyond_the_mackerel_cover.jpg", 
+      "name": "Cosmic Osmo and the Worlds Beyond the Mackerel", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 568, 
+          "name": "Cyan Worlds, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Manhole is an adventure game developed for children. It was the first released on floppy disks and become the first computer game to be released on CD-ROM.", 
+      "developers": [
+        {
+          "id": 568, 
+          "name": "Cyan Worlds, Inc."
+        }
+      ], 
+      "id": 15538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1804090-manhole.png", 
+      "name": "The Manhole", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 568, 
+          "name": "Cyan Worlds, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 568, 
+          "name": "Cyan Worlds, Inc."
+        }
+      ], 
+      "id": 15539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15063/2247182-img_0019.jpg", 
+      "name": "The Manhole: New and Enhanced", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Black Forest Games' platformer.", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15540, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Giana Sisters 2", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Giana Sisters: Twisted Dreams introduces four-player multiplayer and an emphasis on speed and competition.", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/2737292-038636.jpg", 
+      "name": "Giana Sisters: Dream Runners", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A run'n'gun action sidescroller focused on cooperative multi-player featuring permadeath and persistent leveling.", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15542, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2818090-9707342069-12246.jpg", 
+      "name": "RogueStormers", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mobile puzzle version of a console/computer game that isn't a match 3 game for once - instead, it's a tile slide/jigsaw puzzle.", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2761337-0237483099-H623ReSikxGSajUOys0MRuLEQ2P_YslFufmrTGr2F-CM5kcCGtyEwCfkc3mG1Dm56os%3Dh900", 
+      "name": "Giana Sisters Twisted Dreams: The Puzzle", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A hardcore platforming game and the second Giana Sisters game developed by Black Forest Games.", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2551740-0569805287-heade.jpg", 
+      "name": "Giana Sisters: Twisted Dreams - Rise of the Owlverlord", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the Super Mario Bros inspired platformer series.", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478661-box_gstd.png", 
+      "name": "Giana Sisters: Twisted Dreams", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "New project from Black Forest Games", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15546, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Project Ravensdale", 
+      "platforms": [], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Recruit a gang of bikers and lead them from Chicago to Los Angeles in this cancelled arcade motorcycle combat game.", 
+      "developers": [
+        {
+          "id": 569, 
+          "name": "Black Forest Games"
+        }
+      ], 
+      "id": 15547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9493/2514896-017141.jpg", 
+      "name": "Ride to Hell: Route 666", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Don't Get Crucified, players guide the Lamb of God away from crucifixes and other obstacles.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2663943-5058587863-Dont_.jpg", 
+      "name": "Don't Get Crucified", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Street Rash is a homebrew fighting game exclusively for Atari 2600.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15549, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2552258-street_rash.png", 
+      "name": "Street Rash", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An OUYA-exclusive game that parodies \"anniversary editions\" of games, including the series' own 20th Anniversary Edition.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15550, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2724473-pp22.jpg", 
+      "name": "Shady's Poopong: 22nd Anniversary Edition", 
+      "platforms": [
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "A child-friendly adventure game starring Petunia, a baby yellow mouse whose non-existent understanding of the world around her warps reality.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15551, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2593540-1927954385-P21.p.png", 
+      "name": "Petunia the Yellow Mouse", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chousenshi Densetsu: Assault from the Sea is a vertical-scrolling shooter based on a short-lived web comic.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15552, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2599365-1812276687-Csd.p.png", 
+      "name": "Chousenshi Densetsu: Assault from the Sea", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remastered and expanded version of the 2006 game \"Shady's Poopong\", developed for the 20th anniversary of the character \"Shady\".", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15553, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2562267-poopongcoversmall.png", 
+      "name": "Shady's Poopong: 20th Anniversary Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Android-exclusive version of Stone Smash, using assets from Shady's Poopong and its 20th anniversary version, as well as a few tweaks in gameplay.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15554, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2467350-ss1.png", 
+      "name": "Shady's Stone Smash", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pong! But with poop! And a toilet! And a... gorilla's head....", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15555, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2454656-pooscreen.png", 
+      "name": "Shady's Poopong", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest Bemani rhythm game from Konami.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 15727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/147949/2700517-5377250669-00177.jpg", 
+      "name": "BeatStream", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chomperman is a maze game that involves dodging living mushrooms and eating various items. It is a remake of the 2005 title of the same name.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15556, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2569174-0876694644-480px.png", 
+      "name": "Chomperman", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Compilation of six previously freeware games.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15557, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2557273-smashhitsdiscsmall.png", 
+      "name": "CC & SH Smash Hits", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stone Smash is a freeware Breakout clone released for Windows PCs in 2005. Ports to other platforms would start releasing in 2013.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15558, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2413987-stonesmashataribox.jpg", 
+      "name": "Stone Smash", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pac-Man clone for PC, remade a year later with different graphics and mazes.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15559, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2519463-chomperman.png", 
+      "name": "Chomperman", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bam 'N Jam was a freeware music puzzle game for Windows.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15560, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2636610-7240388207-Bnj.p.jpg", 
+      "name": "Bam 'N Jam", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ping! was the first video game release from CC &amp; SH. It is a strategic take on the \"collect items in a maze\" formula.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15561, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2480120-pingscreen.png", 
+      "name": "Ping!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Game Boy Advance port of the first software title from CC and SH (under the name The S Co.) Only 4 cartridges are known to exist.", 
+      "developers": [
+        {
+          "id": 570, 
+          "name": "CC & SH"
+        }
+      ], 
+      "id": 15562, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2486356-notebookadvance.png", 
+      "name": "Notebook Advance", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A cancelled first-person war journalism game.", 
+      "developers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ], 
+      "id": 15563, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Warco: The News Game", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A tarot card driven roguelike action role playing game, by Defiant Development from Brisbane, Australia.", 
+      "developers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ], 
+      "id": 15564, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87610/2727898-handoffatetwitch600.jpg", 
+      "name": "Hand of Fate", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ski Safari is an endless runner type skiing game from Defiant Development.", 
+      "developers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ], 
+      "id": 15565, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2675073-ljznrjagbb2mvdw-zuctejnntcibc4xxxubbacw0xio1hxlvrkfc_o8vdw2msnssmme%3Dw300-rw.jpg", 
+      "name": "Ski Safari", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Finn the Human and slide through three different locations without being outrun by the avalanche.", 
+      "developers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ], 
+      "id": 15566, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2675078-a67fe0ysbrnd9lclzeljvu3h_2yass1h5oh4apemtxzaf50dnwn4roos4kb_dlzn6jg6%3Dw300-rw.jpg", 
+      "name": "Ski Safari: Adventure Time", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A free to play Action RPG dungeon crawler for the iOS and Android.   ", 
+      "developers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ], 
+      "id": 15567, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/156597/2349587-unnamed.jpg", 
+      "name": "Heroes Call", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 571, 
+          "name": "Defiant Development"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PlayStation 4 and Xbox One re-release of the Ninja Theory-developed DmC Devil May Cry, complete with new modes, difficulty levels, costumes, and gameplay tweaks.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15568, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2732046-rsz_1rsz_cover_4208.jpg", 
+      "name": "DmC Devil May Cry: Definitive Edition", 
+      "platforms": [
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Capcom's Devil May Cry series gets a stylish new reboot from developer Ninja Theory, featuring a redesigned Dante and a new take on the franchise's fiction.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15569, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2348779-box_dmc.png", 
+      "name": "DmC Devil May Cry", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The technically eighth entry in the popular horror series features the return of leading protagonists Leon S. Kennedy and Chris Redfield, along with new character Jake Muller, to combat against the latest B.O.W. manufacturer Neo-Umbrella.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15570, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2566466-re6clean.jpg", 
+      "name": "Resident Evil 6", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "HD remakes of the first three Devil May Cry games, released this time for PS3 and Xbox 360.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15571, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2108716-646888_233336_front.jpg", 
+      "name": "Devil May Cry HD Collection", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In this multiplayer-focused shooter, set in the year 1998, the evil Umbrella Corporation and the U.S. Government clash in the hellish zombie-infested remains of Raccoon City in a battle for survival and control of the truth.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15572, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193301-box_reocr.png", 
+      "name": "Resident Evil: Operation Raccoon City", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The two leaders in the fighting game genre collide in this ultimate tag-team mash-up. Will you cross the line?", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15573, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/95284/1877733-streetxtekken.jpg", 
+      "name": "Street Fighter X Tekken", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Grand Strategy game from Paradox Interactive where players take command of any nation on earth to face the political and social upheavals of the 19th century.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15574, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/446/1196254-victoria2_packshot_2d_esrb_pending_cdrom_lores.jpg", 
+      "name": "Victoria II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The post-apocalyptic Fallout universe expands into Nevada in this new title in the franchise. As a courier once left for dead by a mysterious man in a striped suit, the player must now set out to find his assailant and uncover the secrets of the enigmatic ruler of New Vegas.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15575, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/1563495-falloutnewvegasboxartntsc.jpg", 
+      "name": "Fallout: New Vegas", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play as Vito Scaletta and rise up through the ranks of the criminal underworld of Empire Bay in Mafia II, the sequel to the 2002 sandbox-style hit.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15576, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2090572-box_mafia2.png", 
+      "name": "Mafia II", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Kane &amp; Lynch 2: Dog Days makes a notable switch of the titular duo, with James Lynch now taking up the role as lead protagonist over Kane. However the two are still once again forced to endure a hail of gunfire as they find themselves embroiled in Shanghai's criminal underworld.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15577, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1887890-box_kal2.png", 
+      "name": "Kane & Lynch 2: Dog Days", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Backbreaker is the debut game from NaturalMotion, developers of the Dynamic Motion Synthesis technology found in Euphoria. The title features on-the-fly simulation of tackles, rather than using animations produced by key-framing or motion capture.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15578, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1887865-box_bbreaker.png", 
+      "name": "Backbreaker", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Supreme Commander 2 is the sequel to the original Supreme Commander, a real-time strategy game with a focus on massive maps and large numbers of units.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15579, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1794688-box_scom2.png", 
+      "name": "Supreme Commander 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "S.T.A.L.K.E.R.:Call Of Pripyat (\u0417\u043e\u0432 \u041f\u0440\u0438\u043f\u044f\u0442\u0438) is the third game in the S.T.A.L.K.E.R. franchise, and picks up shortly after the events of the original game. Call of Pripyat takes elements from both the original game and the prequel, Clear Sky, and is generally considered the most polished and most accessible game in the series.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15580, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1832809-stalker___call_of_pripyat.jpg", 
+      "name": "S.T.A.L.K.E.R.: Call of Pripyat", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This WWII-themed flight simulator features six major European air battles from the perspective of allied fighter-aces. As the first console game in a series known for its historically accurate, realistic simulations, Birds of Prey provides a more accessible experience by offering three levels of difficulty and realism.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15581, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824046-box_il2sbop.png", 
+      "name": "Il-2 Sturmovik: Birds of Prey", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Clutch a.k.a. Armageddon Riders is a vehicular combat racing game with the addition of a zombie apocalypse. Players must battle other drivers and the mutants that shamble across the city in order to earn new cars and upgrades for their vehicles of death.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15582, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14982/913428-1007.jpg", 
+      "name": "Clutch", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The year is 1916. Young American joins UK Army to experience an adventure of his life and soon realizes that greater evil is hiding beneath the Great War storm. He has to face the underground world of vampires, demons, evil genius creatures and even become one of the demons to rescue the human and vampire kind from forces of darkness.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/863697-boxshot_uk_large.jpg", 
+      "name": "NecroVisioN", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The latest installment in Best Way's World War 2 strategy franchise. Preceded by Faces of War (2006) , and Soldiers: Heroes of World War II (2004).  Men of War is published by 1C company, a Russian developer/publisher responsible for the popular IL-2 Sturmovik franchise.", 
+      "developers": [
+        {
+          "id": 572, 
+          "name": "QLOC"
+        }
+      ], 
+      "id": 15584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/530218-men_of_war4976576x.jpg", 
+      "name": "Men of War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }
+  ]
+}

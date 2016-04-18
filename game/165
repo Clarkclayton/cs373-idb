@@ -1,0 +1,1431 @@
+{
+  "games": [
+    {
+      "deck": "Capcom Sports Club is  an arcade game made by Capcom in which the player can play fast paced games of basketball, tenis, and soccer.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9981/841485-capcomsportsclub_arc_cap_205_6aee0.png", 
+      "name": "Capcom Sports Club", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A medieval fantasy game for PlayStation 4 from Capcom, using the new Panta Rhei engine.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2523331-deepdown.png", 
+      "name": "Deep Down", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1030053-578104_18067_front.jpg", 
+      "name": "Eldorado Gate Volume 3", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-to-bottom rip-off of 'Splosion Man, now available on the iPhone.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58372/1681285-b3512daca0cc1e561077d01c451ca435.jpg", 
+      "name": "MaXplosion", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8193, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Platinum", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP exclusive hack-and-slash game in the Sengoku Basara series.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/127673/2200865-basarabattleheroesboxcrop.jpg", 
+      "name": "Sengoku Basara: Battle Heroes", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first sequel to Adventure Quiz Capcom World.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/146021/2192568-10022201.jpg", 
+      "name": "Adventure Quiz 2: Hatena? No Dai-Bouken", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A cancelled PSP entry in the Resident Evil franchise.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1225397-sony_e309_keynote_0901_rm_eng.jpg", 
+      "name": "Resident Evil Portable", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1018133-581336_21109_front.jpg", 
+      "name": "Eldorado Gate Volume 6", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Street Fighter II: The Tournament Battle had a built-in mode that allowed up to eight players to compete in a tournament... provided you have enough arcade machines to house them all.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8275/201069-sste.jpg", 
+      "name": "Super Street Fighter II: The Tournament Battle", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1030051-578103_18066_front.jpg", 
+      "name": "Eldorado Gate Volume 2", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2343116-capclass2.jpg", 
+      "name": "Capcom Arcade Hits Volume 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A prototype version of Mega Man Legends 3 intended to promote and determine interest in the full game. It was intended to see release on the 3DS eShop, but was cancelled.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1765216-mml3p42109.jpg", 
+      "name": "Mega Man Legends 3: Prototype Version", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A role-playing game from Capcom.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1741472-suzu_monogatari_box_front.jpg", 
+      "name": "Suzu Monogatari", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840153-561775_22552_front.jpg", 
+      "name": "Critical Bullet: 7th Target", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "This \"Special\" edition of Side Arms was released in Japan on the PC Engine CD.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 8204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365542-tg16_hyperdynesidearmsspecial_jp.jpg", 
+      "name": "Hyper Dyne: Side Arms Special", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Sanrio racing game starring Hello Kitty.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2779668-hello+kitty+and+sanrio+friends+racing.jpg", 
+      "name": "Hello Kitty and Sanrio Friends Racing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hunt for treasure to display in the backyard Museum of Cool", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525169-box_dpafqfcs.png", 
+      "name": "Phineas and Ferb: Quest for Cool Stuff", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Legends of Loot is an iOS and Android dungeon crawler.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2359568-legends_of_loot.jpg", 
+      "name": "Legends of Loot", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A minigame collection where players can simulate infant care, using a plush doll that houses the Wii Remote. Don't even think about shaking the baby.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27239/1504883-babysittingmamabox.jpg", 
+      "name": "Babysitting Mama", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D hidden object game", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1225598-hotcold9.jpg", 
+      "name": "Hot and Cold: A 3D Hidden Object Adventure", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Nintendo DS game made by Majesco that puts you in the role of a firefighter.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128081/2309502-960269_125079_front.jpg", 
+      "name": "My Hero: Firefighter", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cooking Mama 3: Shop & Chop is the third DS game in the Cooking Mama series.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2009744-box_cmama3.png", 
+      "name": "Cooking Mama 3: Shop and Chop", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the 2009 film of the same name, this adventure game puts players into the shoes of former security guard Larry Daley as he works to save the museum, his friends, and even the world.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824051-box_natmbots.png", 
+      "name": "Night at the Museum: Battle of the Smithsonian", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game Boy Advance Video: Dragon Ball GT - Volume 1 is a Game Boy Advance cartridge containing two episodes of the Dragon Ball GT anime series: A Grand Problem, and Pan's Gambit.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2580458-9072055752-92196.jpg", 
+      "name": "Game Boy Advance Video: Dragon Ball GT - Volume 1", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Two episodes of the 2003 Teenage Mutant Ninja Turtles television series: Things Change, and Meet Casey Jones.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2579605-0488696714-92195.jpg", 
+      "name": "Game Boy Advance Video: Teenage Mutant Ninja Turtles - Things Change", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Two episodes of the Rugrats spin-off on a Game Boy Advance cartridge: Coup De Ville and Susie Sings the Blues", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2579633-0935973225-92048.jpg", 
+      "name": "Game Boy Advance Video: All Grown Up! Volume 1", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Minis have escaped and are wreaking havoc on the M&M factory.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/157151/2188078-578862_52333_front.jpg", 
+      "name": "M&M's Minis Madness", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Golden Nugget is a gambling game based on the famous Golden Nugget casino, the Playstation version also contained a storyline complete with FMVs starring Adam West.", 
+      "developers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ], 
+      "id": 8218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/833168-10559.jpg", 
+      "name": "Golden Nugget", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arctic-themed Cryostasis has players explore a relatively faithfully constructed Soviet-era nuclear ice-breaker. Game mechanics include using heat and exhaustion to represent player stamina, using heat sources to regain this stamina, and the use of a flashback ability to alter the past.", 
+      "developers": [
+        {
+          "id": 281, 
+          "name": "Action Forms Ltd."
+        }
+      ], 
+      "id": 8219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894704-box_cryostatis.jpg", 
+      "name": "Cryostasis", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An FPS retelling of 'The Island of Doctor Moreau', this game pits you against an army of heavily armed genetically engineered half-man half-animal soldiers.", 
+      "developers": [
+        {
+          "id": 281, 
+          "name": "Action Forms Ltd."
+        }
+      ], 
+      "id": 8220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1403/314524-vivisector.jpg", 
+      "name": "Vivisector: Beast Within", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the Carnivores hunting series.", 
+      "developers": [
+        {
+          "id": 281, 
+          "name": "Action Forms Ltd."
+        }
+      ], 
+      "id": 8221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20294/1319226-iceage.jpg", 
+      "name": "Carnivores: Ice Age", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 60, 
+          "name": "iPod", 
+          "short": "IPOD"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Carnivores 2 is the second in the series of budget-priced hunting titles from Action Forms Ltd.", 
+      "developers": [
+        {
+          "id": 281, 
+          "name": "Action Forms Ltd."
+        }
+      ], 
+      "id": 8222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20294/1307718-carnivores2.jpg", 
+      "name": "Carnivores 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 229, 
+          "name": "Akella"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person dinosaur hunting game set on an alien planet.", 
+      "developers": [
+        {
+          "id": 281, 
+          "name": "Action Forms Ltd."
+        }
+      ], 
+      "id": 8223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8960/1632837-carnivores.jpg", 
+      "name": "Carnivores", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An early polygonal shooter for the PC by Action Forms, developers of the Carnivores series.", 
+      "developers": [
+        {
+          "id": 281, 
+          "name": "Action Forms Ltd."
+        }
+      ], 
+      "id": 8224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20553/1153099-chasm___the_rift_coverart.png", 
+      "name": "Chasm: The Rift", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Quest: Fantasy Challenge is a maze game-based spin-off of Quest 64.", 
+      "developers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ], 
+      "id": 8225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2764316-3880142459-37364.jpg", 
+      "name": "Quest: Fantasy Challenge", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "GT 64: Championship Edition is a racing video game for the Nintendo 64 based on a japanese game. It is an official licensed game to All-Japan GT Championship.", 
+      "developers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ], 
+      "id": 8226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128688/1765383-250px_gt_64_championship_edition_cover.png", 
+      "name": "GT 64: Championship Edition", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Quest 64 was the first RPG released on the Nintendo 64 taking place in a fantasy world.", 
+      "developers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ], 
+      "id": 8227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/769254-qu64640f.jpg", 
+      "name": "Quest 64", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ], 
+      "id": 8228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/308561-virtualopentennis222.jpg", 
+      "name": "Virtual Open Tennis", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Considered by many to be the progenitor of the first-person shooter genre, Wolfenstein 3D is a 1992 first-person action game that pits the player, as Allied spy William \"B.J.\" Blazkowicz, against the might of Nazi Germany.", 
+      "developers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ], 
+      "id": 8229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/118253/2220255-wolf3d_dos.png", 
+      "name": "Wolfenstein 3D", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A stock-trading simulator for the NES that uses the name of famed Japanese financial adviser Matsumoto Tooru. It was developed by Imagineer and was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ], 
+      "id": 8230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2338408-matsumoto_tooru_no_kabushiki_hisshougaku_fc_box.jpg", 
+      "name": "Matsumoto Tooru no Kabushiki Hisshou Gaku", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi action-adventure shoot-em-up that requires the player to switch between ship and on-foot combat.", 
+      "developers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ], 
+      "id": 8231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2443299-ginga_deshou_fds.jpg", 
+      "name": "Ginga Denshou: Galaxy Odyssey", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Baby Felix Halloween is a European-only platformer for the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1888143-baby_felix_halloween.jpg", 
+      "name": "Baby Felix Halloween", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Enhanced re-release of the Game Boy game Hugo 2.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341484-hug212.jpg", 
+      "name": "Hugo 2 1/2", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Turok: Rage Wars is a multiplayer-oriented first-person shooter for the Nintendo 64 with elements similar to those used in Unreal Tournament and Quake III: Arena.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8234, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796156-box_turokrw.png", 
+      "name": "Turok: Rage Wars", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Isometric 3D action game", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2528404-otti.jpg", 
+      "name": "Ottifanten: Baby Bruno's Alptraum", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Looney Tunes: Twouble you play as Sylvester the cat in his attempt to get that little bird Tweety once and for all!", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280488-box_lttw.png", 
+      "name": "Looney Tunes: Twouble!", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game centered around delivering pizzas, one of few which takes place in a Mediterranean environment.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/384258-radikal_bikers_pal.jpg", 
+      "name": "Radikal Bikers", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Die Maus is a European only Game Boy and Game Boy Color game.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8238, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1994875-gbc_gb_die_maus.jpg", 
+      "name": "Die Maus", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Turok Battle of the Binosaurs is the first Turok game released for handhelds. Unlike its console counterpart this is a side scrolling action game.", 
+      "developers": [
+        {
+          "id": 283, 
+          "name": "Bit Managers"
+        }
+      ], 
+      "id": 8239, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796153-box_turokbotb.png", 
+      "name": "Turok: Battle of the Bionosaurs", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

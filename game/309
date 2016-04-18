@@ -1,0 +1,1785 @@
+{
+  "games": [
+    {
+      "deck": "A horse-racing simulation game from ASCII. The second of four games in the series to be released on the Super Famicom.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15386, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2833103-6991588028-30703.jpg", 
+      "name": "Derby Stallion III", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Super Famicom strategy JRPG featuring a time-travelling hero named Mervil. Elfaria's Susumu Matsushita was responsible for the character design and art direction.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15387, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2754387-8275674163-30697.jpg", 
+      "name": "Down the World: Mervil's Ambition", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horse-raising and -racing simulator for the Super Famicom and the first full sequel in ASCII's Derby Stallion series.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15388, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2735764-2422094131-30690.jpg", 
+      "name": "Derby Stallion II", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mascot platformer that was developed by ASCII, published my Titus and was released in 1993 in Japan and 1994 for Europe and North America.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15389, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4495/257968-c0_8.jpg", 
+      "name": "Ardy Lightfoot", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 102, 
+          "name": "Titus Interactive, S.A."
+        }, 
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first entry in ASCII's RPG Maker series to use the name 'RPG Tsukuru', the name by which the franchise is known as in Japan.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2567671-untitled.png", 
+      "name": "RPG Tsukuru Dante 98", 
+      "platforms": [
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This sequel to Spindizzy is an isometric, navigation-based puzzle game developed and designed by Paul Shirley.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364784-snes_spindizzyworlds_de.jpg", 
+      "name": "Spindizzy Worlds", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "First person dungeon game where you use a light gun to navigate the world.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1345271-dungeon.gif", 
+      "name": "Dungeon Hunter", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese baseball sim developed by ASCII for the NES. It focuses more on team management than playing the sport itself.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2348082-best_play_pro__yakyuu_fc.jpg", 
+      "name": "Best Play Pro Yakyuu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The earliest action RPG creation software, this was one of the first games in ASCII's popular RPG Maker series.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15394, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mamirin", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A naval strategy game developed for the NES by ASCII in 1988. It was the first of its kind for the system and was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2340500-fleet_commander_fc_box.jpg", 
+      "name": "Fleet Commander", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "First person space combat for the NES.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/237796-star_voyager.jpg", 
+      "name": "Star Voyager", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "ASCII's first RPG creation software and a precursor to their popular RPG Maker series.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15397, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Dungeon Manjirou", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released for the Fujitsu FM-77 AV computer in 1986, this game was notable for its advanced 3D graphics engine, which processed 3D polygons at high frame rates for its time.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2595401-000703400-0.jpg", 
+      "name": "Amnork", 
+      "platforms": [
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the first Sokoban, this release adds the new feature of giving the player the ability to 'cheat' in comparison to the original rules.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364887-fds_namidanosoukobanspecial_jp.jpg", 
+      "name": "Namida no Sokoban Special", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Miracle Warriors is a role-playing game in which the player must gather a party of four warriors and battle the evil Lord Terarin. Originally released in 1986 for Japanese home computers, it was ported to the Master System in 1987 and translated into English.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15400, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/142/488198-boxart.jpg", 
+      "name": "Miracle Warriors: Seal of the Dark Lord", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "1942 is a vertical shooter set in an exaggerated World War 2 universe.  It went on to be one of Capcom's very first hits.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361100-nes_1942.jpg", 
+      "name": "1942", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An early action-strategy-RPG game created by Koji Sumii and published by ASCII for the Sharp X1 computer in 1983. The game is considered a precursor to several genres: the action RPG, tactical RPG, real-time strategy, and tower defense.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13641/2284769-250px_bokosuka_wars_pc98_box.jpg", 
+      "name": "Bokosuka Wars", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A single-screen shoot'em up written by Mark Turmell and published for various 8-bit platforms.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2801947-turmoil_atari2600_1_1.jpg", 
+      "name": "Turmoill", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173587-castle_fm_7.jpg", 
+      "name": "The Castle", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Edutainment game developed by ASCII Entertainment in 1996.", 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1293225-____________.jpg", 
+      "name": "Ongaku Tsukuru: Kanadeeru", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ], 
+      "id": 15406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2238/416499-ca_msx_14.gif", 
+      "name": "Chaos Angels", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This page needs more info.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30252/1429707-valerieporterlogo.jpg", 
+      "name": "Valerie Porter and the Scarlet Scandal", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cook up colorful cupcakes and save a family bakery in this charming time management game.\n", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/109638/1519261-cupcake_cafe.jpg", 
+      "name": "Jessica's Cupcake Cafe", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Travel with Ratu in this Jewel Quest Solitaire sequel, and experience compelling Solitaire layouts and addictive new Jewel Quest boards.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/74325/1239424-jqs3.jpg", 
+      "name": "Jewel Quest Solitaire III", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Backyard Baseball is a 3D cartoon baseball sim. ", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/487323-backyardbaseball2007_boxart.jpg", 
+      "name": "Backyard Baseball 2007", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play Tri-peaks Solitaire in a new way using jewel-themed card decks. Match card suits to earn pieces for the jewel board then turn the board's spaces to gold. ", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/74325/1239416-jqs.jpg", 
+      "name": "Jewel Quest Solitaire", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third entry in Humongous Entertainment's cartoonish baseball series is the first to hit consoles, bringing with it a revised roster of MLB players as well as the original kids.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/625512-backyard_baseball_52309.235751.jpg", 
+      "name": "Backyard Baseball", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action-adventure game based on the movie of the same name. Players can choose to either rule the world as Imhotep or fight as Rick, to save his son, Alex.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285741-box_tmr.png", 
+      "name": "The Mummy Returns", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Madden NFL 2002 was the first game to feature the expansion team, The Houston Texans and Daunte Culpepper was the player on the cover of the game.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250686-box_madden02.png", 
+      "name": "Madden NFL 2002", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250669-box_bb.png", 
+      "name": "Backyard NBA Basketball", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first video game in the Buffy the Vampire Slayer franchise.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2268329-2268328-577832_17072_front.jpg", 
+      "name": "Buffy the Vampire Slayer", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 327, 
+          "name": "Fox Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "NFL Blitz is an amplified, exaggerated version of NFL football.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810162-box_nflblitz.png", 
+      "name": "NFL Blitz", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Players guide a marble through abstract worlds", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362030-nes_marblemadness.jpg", 
+      "name": "Marble Madness", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Paperboy is originally an arcade game that came out in 1984. The main purpose of the game was to go from house to house delivering papers while avoiding obstacles.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362109-nes_paperboy.jpg", 
+      "name": "Paperboy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A causal, queue managing game involving cute airplanes on the PC/Mac and iPhone.  Planes come in, you have to land them, offload passengers, load the new ones, and then launch the plane.", 
+      "developers": [
+        {
+          "id": 563, 
+          "name": "GameBrains"
+        }
+      ], 
+      "id": 15420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19172/1100435-airport.jpg", 
+      "name": "Airport Mania: First Flight", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A collaboration between Level-5 and Ubisoft, the game is a Yo-kai Watch-themed version of the Just Dance games.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2783477-odance.jpg", 
+      "name": "Yo-kai Watch Dance: Just Dance Special Edition", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Play poker challenges, and earn money for within Far Cry 4", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15422, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Far Cry 4 Arcade Poker", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Just Dance Wii U is a Japanese-exclusive entry in the Just Dance series. It combines a plethora of Japanese language songs with some choice entries from Just Dance 4 and Just Dance 2014.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2618828-6493943969-35939.jpg", 
+      "name": "Just Dance Wii U", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first online card game based on the Might &amp; Magic franchise.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/177239/2410898-duel_of_champions.jpg", 
+      "name": "Might & Magic Duel of Champions", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Racing game developed by Gameloft and released as a launch game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114367-box_asphalti.png", 
+      "name": "Asphalt: Injection", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Upcoming game from Ubisoft with Puppies.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1976433-1360549.jpg", 
+      "name": "Puppies 3D", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kinect game based on the popular game show", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210208-box_wwtbam2012.png", 
+      "name": "Who Wants to Be a Millionaire? 2012 Edition", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Upcoming game from Ubisoft with Horses.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1976417-78_147_309_02.jpg", 
+      "name": "Horses 3D", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game show game developed and published by Ubisoft.\n", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210187-box_ff2012.png", 
+      "name": "Family Feud 2012 Edition", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ubisoft brings yet another dancing game to the Wii with The Smurfs Dance Party, which contains modern chart-topping tracks as well as classic tunes in over 20 dances.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1815508-smurf_cover.jpg", 
+      "name": "The Smurfs Dance Party", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Petz Fantasy 3D gives you everything you love about the Petz franchise... in 3D!", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/68646/1790988-petz3d.jpg", 
+      "name": "Petz Fantasy 3D", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A fitness game from UbiSoft that concentrates on Cardio, Balance, Upper Body Strength, Lower Body Strength, Core Strength, and Flexibility.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/1712350-51bhaqnxqgl.jpg", 
+      "name": "Fit in Six", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game based on the movie of the same name.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1271663-screen.jpg", 
+      "name": "Arthur and the Revenge of Maltazard", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "R.U.S.E. is an RTS developed and published by Ubisoft with \"ruses\" and deception as a central game concept.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1849088-box_ruse.png", 
+      "name": "R.U.S.E.", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A time-management game for the iPhone based on the \"Anno\" series of RTS games. Ubisoft's first 100% in-house title made just for the iPhone.", 
+      "developers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ], 
+      "id": 15435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15284/1335533-0221.png", 
+      "name": "Dawn of Discovery: The Harbor", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }
+  ]
+}

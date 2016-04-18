@@ -1,0 +1,1353 @@
+{
+  "games": [
+    {
+      "deck": "Build and oversee your own cruise ship in this title from Cat Daddy Games.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6182/914782-cruseshiptycoon.jpg", 
+      "name": "Cruise Ship Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Players take command of the Union or Confederate army and wage war state to state across a strategic map of the United States, directing troops and generals to seize capitol cities or railway hubs and fighting turn based tactical battles with armies purchased at the strategic level.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17724/873841-civilwargame.jpg", 
+      "name": "The History Channel: Civil War - Great Battles", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1860231-rome.jpg", 
+      "name": "The Gladiators of Rome", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1862305-snow.jpg", 
+      "name": "Snowboard Park Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A paintball game.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16340, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/222183/2595348-6240447688-61F2P.jpg", 
+      "name": "Extreme Paintbrawl 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game where you manage different aspects of a casino", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1798272-mogul.jpg", 
+      "name": "Casino Mogul", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Golf Resort Tycoon II is a simulation game in which the player is tasked with creating a successful golf course.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2238430-cover.jpg", 
+      "name": "Golf Resort Tycoon II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Top Shot II is a target-shooting game by Cat Daddy Games.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16343, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771584-582097_36445_front.jpg", 
+      "name": "Top Shot II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1898221-resort.jpg", 
+      "name": "Ski Resort Tycoon II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Skateboard Park Tycoon lets players create their own skate parks in hopes of becoming profitable. Players can also skate their custom parks, once created.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2422356-skate_board_park_tycoon_cover.jpg", 
+      "name": "Skateboard Park Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A golf resort management sim.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771481-519119_44402_front.jpg", 
+      "name": "Golf Resort Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ultimate Paintbrawl 3 is a first-person shooter simulating a paintball tournament by Cat Daddy Games.", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771588-4150gkypssl._sl500_aa300_.jpg", 
+      "name": "Ultimate Paintbrawl 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771477-579054_35648_front.jpg", 
+      "name": "Ski Resort Tycoon", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A weight lifting simulation using track &amp; field style mini games", 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16349, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2598185-g03997v86wv.jpg", 
+      "name": "Full Strength Strongman Competition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 583, 
+          "name": "Cat Daddy Games, LLC"
+        }
+      ], 
+      "id": 16350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1831488-ski.jpg", 
+      "name": "Ski Resort Extreme", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action MMORPG.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16351, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/28/280781/2751341-dekaron_wallpaper_bagi_1280960.jpg", 
+      "name": "Dekaron", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Acclaim's attempt to revive the classic arcade game for PS2 and Xbox.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16352, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2246595-box_nbajam.png", 
+      "name": "NBA Jam", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Jeremy McGrath is the mascot of this motorcross game where the player finds his/herself in a match pitting man and machine against sweet air. This game is a sequel to Motocross 2000.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16353, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1810155-box_jmgsw.png", 
+      "name": "Jeremy McGrath Supercross World", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Turok was one of the first fully 3-D shooters that was acclaimed for being something more than just another DOOM clone. It combined an interesting story with innovative level design and technically proficient graphics.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16354, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796154-box_turokdh.png", 
+      "name": "Turok: Dinosaur Hunter", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the 1996 comedy film (of the same name) tying Looney Tunes to the real-life antics of NBA superstars, Space Jam pits players in a NBA Jam-esque basketball match as either the Monstars or the Tune Squad.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16355, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811179-box_spacejam.png", 
+      "name": "Space Jam", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Have you ever wanted to play a George Foreman boxing game? Well you're in luck!", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16356, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/406020-ffr.jpg", 
+      "name": "Foreman for Real", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Spawn: The Video Game is Spawn's first adventure into the video game world. Spawn: The Video Game is a sidescroller beat-em-up.  ", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16357, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364779-snes_toddmcfarlanesspawnthevideogame.jpg", 
+      "name": "Spawn: The Video Game", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dirt Trax FX is a motocross game for the Super Nintendo game. It utilizes the Super FX chip to render the tracks in 3D.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16358, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/32982/951746-604558.jpg", 
+      "name": "Dirt Trax FX", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "WWF Royal Rumble is a wrestling themed video game featuring WWF Stars from the 1990s.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16359, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1773102-rrgen.jpg", 
+      "name": "WWF Royal Rumble", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A wrestling game based on WWF (now WWE) and the first of the LJN-trilogy of WWF games in the 16-bit era.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16360, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389669-genesis_wwfsuperwrestlemania.jpg", 
+      "name": "WWF Super Wrestlemania", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Trog! is a light-hearted maze game by Acclaim that has you play a Dinosaur that runs around collecting eggs and killing Trogs.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16361, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/958485-trogns0f.jpg", 
+      "name": "Trog!", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The evil Treens have kidnapped Dan Dare, help him escape.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16362, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/838544-dandareiii_boxfront.jpg", 
+      "name": "Dan Dare III: The Escape", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A third-person shooter based on Vertigo's 100 Bullets comic book. It was canceled when the developer, Acclaim, went bankrupt, and later attempts to revive the project never came to fruition.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16363, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5434/1030121-11.jpg", 
+      "name": "100 Bullets", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Demolition Man has the player assume the role of John Spartan in his quest to hunt down madman Simon Phoenix.", 
+      "developers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ], 
+      "id": 16364, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371433-demolition_man_final.jpg", 
+      "name": "Demolition Man", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16365, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2699391-0077678688-Diabo.jpg", 
+      "name": "Diabolik Lovers: Dark Fate", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16366, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2702177-4276899053-Diabo.jpg", 
+      "name": "Diabolik Lovers: Vandead Carnival", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2702185-8705132218-Margi.jpg", 
+      "name": "Marginal #4: Idol of Supernova", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kayo, a commoner girl, is drawn into a world of intrigue when the princess of Sunpu Castle requests she come serve as her double in this Edo era otome visual novel.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16368, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2659882-7712704638-61YLu.jpg", 
+      "name": "Ken ga Kimi", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fandisk to the game Diabolik Lovers with more characters added to the cast.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16369, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/190043/2476637-diabolikloversmoreblood.jpg", 
+      "name": "Diabolik Lovers More Blood", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Black Wolves Saga -Last Hope- is a continuation of Bloody Nightmare focusing more on the historical aspect and Rath Vogart's past.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16370, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2588935-img58440250.jpg", 
+      "name": "Black Wolves Saga -Last Hope-", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "An otome game about a girl who transfers to a new high school, and ends up living with six wicked brothers who may not even be human.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16371, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/163622/2270797-diabolik.jpg", 
+      "name": "Diabolik Lovers", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Renai Banchou 2: Midnight Lesson!!! follows the first game \"Renai Banchou: Inochi Meishi, Koiseyo Otome! Love is Power!!!\" but with a different heroine.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16372, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/181144/2479271-renai+bachou+2+midnight+lesson.jpg", 
+      "name": "Renai Banchou 2: Midnight Lesson!!!", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Renai Banchou: Inochi Meishi, Koiseyo Otome! Love is Power!!! is an adventure game published by Idea Factory.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16373, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/181144/2479270-renai+banchou.jpg", 
+      "name": "Renai Banchou: Inochi Meishi, Koiseyo Otome! Love is Power!!!", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "An otome game developed by rejet.", 
+      "developers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ], 
+      "id": 16374, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/190043/2537487-3080486236-13945.jpg", 
+      "name": "Black Wolves Saga -Bloody Nightmare-", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 585, 
+          "name": "Rejet"
+        }
+      ]
+    }, 
+    {
+      "deck": "Otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16375, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2802015-3384946604-vljm35256_jacket", 
+      "name": "Reine des Fleurs", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16376, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2770233-8167664020-vljm35239_jacket", 
+      "name": "Klap!!: Kind Love And Punish", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation release, bringing the original Moujuutsukai otome game as well as its Snow Bride fandisc to the Vita on a single game card.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16377, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Moujuutsukai to Ouji-sama: Flower & Snow", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Steampunk themed otome visual novel for the PlayStation Vita featuring characters from classical literature.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16378, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2699393-amnesia+world+%28cover2%29.jpg", 
+      "name": "Code: Realize: Guardian of Rebirth", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation release, combining the side-stories Amnesia Later and Amnesia Crowd in a single title for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16379, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2699390-8317696599-39613.jpg", 
+      "name": "Amnesia Later x Crowd V Edition", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "An sci-fi otome game for the PlayStation Vita. It stars a girl with the ability to enhance her classmates powers by holding hands with or kissing them, which the game lets the player carry out through the Vita's touch functionality.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16380, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2682811-2214020771-vljm35136_jacket", 
+      "name": "Nekketsu Ino Bukatsutan Trigger Kiss", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16381, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2658323-27922376_5_1402775578_64851.jpg", 
+      "name": "Binary Star", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Urakata Hakuouki series and a spin-off of the main Hakuoki franchise featuring a new cast of characters.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16382, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2681383-7846952169-uljm06373_jacket", 
+      "name": "Urakata Hakuouki ~Akatsuki no Shirabe~", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Otome game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16383, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2658321-27922376_5_1402775578_64851.jpg", 
+      "name": "RE:VICE[D]", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the otome game Amnesia.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16384, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/22/221258/2617587-amnesia+world+%28cover2%29.jpg", 
+      "name": "Amnesia World", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }, 
+    {
+      "deck": "A reimagining of the Hakuoki series in a modern high school setting.", 
+      "developers": [
+        {
+          "id": 586, 
+          "name": "Design Factory"
+        }
+      ], 
+      "id": 16385, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2613875-8578234355-vljm30075_jacket", 
+      "name": "Hakuoki SSL: Sweet School Life", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 148, 
+          "name": "Idea Factory"
+        }
+      ]
+    }
+  ]
+}

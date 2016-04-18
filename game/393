@@ -1,0 +1,1319 @@
+{
+  "games": [
+    {
+      "deck": "Conceived by a 10-year-old kid through the Make a Wish Foundation, this game was developed by the people at Popcap Games.", 
+      "developers": [], 
+      "id": 19591, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1853631-asp.jpg", 
+      "name": "Allied Star Police", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "New iPhone/iPad game from PopCap. Collect candy and keep your train from crashing.", 
+      "developers": [], 
+      "id": 19592, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1853659-candytrain_ss1.jpg", 
+      "name": "Candy Train", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Frantic top-down racer!", 
+      "developers": [], 
+      "id": 19664, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/587768-aut_469a_003.gif", 
+      "name": "Super Cars II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players control a mean-spirited, flying horse who jumps from cloud to cloud and cuts of the wings of other horses, plummeting them to their death.", 
+      "developers": [], 
+      "id": 19593, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5310/1772089-unpleasanthorsemainimage_642x428.jpg", 
+      "name": "Unpleasant Horse", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game in the Amazing Adventures franchise.", 
+      "developers": [], 
+      "id": 19594, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633913-amazing+adventures+the+forgotten+dynasty+cover.jpg", 
+      "name": "Amazing Adventures: The Forgotten Dynasty", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }, 
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game from SpinTop Games.", 
+      "developers": [], 
+      "id": 19595, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633934-escape+whisper+valley+cover.jpg", 
+      "name": "Escape Whisper Valley", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }, 
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game in the Vacation Quest series.", 
+      "developers": [], 
+      "id": 19596, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633923-vacation+quest+the+hawaiian+islands+cover.jpg", 
+      "name": "Vacation Quest: The Hawaiian Islands", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }, 
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery P.I.: The London Caper is another entry in the hidden object series.", 
+      "developers": [], 
+      "id": 19597, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193212-cover.jpg", 
+      "name": "Mystery P.I.: The London Caper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Amazing Adventures: The Caribbean Secret is a hidden objects game.", 
+      "developers": [], 
+      "id": 19598, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2520730-amazing+adventures+caribbean+secret.jpg", 
+      "name": "Amazing Adventures: The Caribbean Secret", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery P.I. - Lost in Los Angeles is a PC only entrant in the hidden object series.", 
+      "developers": [], 
+      "id": 19599, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193195-cover.jpg", 
+      "name": "Mystery P.I. - Lost in Los Angeles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game from SpinTop Games.", 
+      "developers": [], 
+      "id": 19600, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633924-escape+rosecliff+island+cover.jpg", 
+      "name": "Escape Rosecliff Island", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery P.I.: The New York Fortune is another hidden object game in the Mystery P.I. franchise.", 
+      "developers": [], 
+      "id": 19601, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193251-cover2.jpg", 
+      "name": "Mystery P.I.: The New York Fortune", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "You have to discovered a mysterious Mayan glyph that holds the key to a long lost Mayan temple.", 
+      "developers": [], 
+      "id": 19602, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/888994-front_cover.jpg", 
+      "name": "Amazing Adventures: The Forgotten Ruins", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Amazing Adventures: Around the World is an entry in the Amazing Adventures hidden objects franchise.", 
+      "developers": [], 
+      "id": 19603, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2520830-amazing+adventures+around+the+world.jpg", 
+      "name": "Amazing Adventures: Around the World", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery P.I.: The Vegas Heist is a hidden objects game for the PC.", 
+      "developers": [], 
+      "id": 19604, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2637998-mystery+p.i.+the+vegas+heist.jpg", 
+      "name": "Mystery P.I.: The Vegas Heist", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery P.I.: The Lottery Ticket is a hidden object adventure game in the Mystery P.I. series.", 
+      "developers": [], 
+      "id": 19605, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193242-cover.jpg", 
+      "name": "Mystery P.I.: The Lottery Ticket", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fish tank management game published by PopCap Games.", 
+      "developers": [], 
+      "id": 19606, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/934463-insaniquarium.jpg", 
+      "name": "Insaniquarium Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19607, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1156/222595-pixelus4.jpg", 
+      "name": "Pixelus Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ancients of Ooga is the spiritual successor to Cloning Clyde.", 
+      "developers": [], 
+      "id": 19608, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1839024-box_ooga.png", 
+      "name": "Ancients of Ooga", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 224, 
+          "name": "NinjaBee"
+        }
+      ]
+    }, 
+    {
+      "deck": "You start as a man cursed as a werewolf. There are 3 different stages and 2 characters you will play.", 
+      "developers": [], 
+      "id": 19609, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1335521-wolfman_spectrum_cover_art.jpg", 
+      "name": "Wolfman", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Help Ninja Hamster to liberate his home village which is being terrorised by a gang of villains. All eight members of the gang must be defeated by the hero in this eponymous single-screen 2D fighting game.", 
+      "developers": [], 
+      "id": 19610, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2676152-ninja_hamster.jpg", 
+      "name": "Ninja Hamster", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A text based adventure game featuring graphical images.", 
+      "developers": [], 
+      "id": 19611, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2608648-the+very+big+cave+adventure+cover+front.png", 
+      "name": "The Very Big Cave Adventure", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Compilation containing three games from the Berks saga by Jon Williams.", 
+      "developers": [], 
+      "id": 19612, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2731869-berks%2Cthe_trilogy_c16_1_1.jpg", 
+      "name": "The Berks Trilogy", 
+      "platforms": [
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19613, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/812709-1169298441_00.png", 
+      "name": "Bored of the Rings", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A early fruit machine game developed by Peter A. Hanson and published by Omega Software Ltd under the licence of CRL Group PLC.", 
+      "developers": [], 
+      "id": 19614, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2721705-galactic_gambler_spec_1_1.jpg", 
+      "name": "Galactic Gambler", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "All the Baby Berks have to be destroyed as they hatch from their eggs in this single screen shoot'em up written by Jon Williams.", 
+      "developers": [], 
+      "id": 19615, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2731305-baby_berks_c16_1_1.jpg", 
+      "name": "Baby Berks", 
+      "platforms": [
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "The goal is to steal dinosaur eggs in this Frogger-style game where players have to navigate a screen of obstacles from bottom to top and back again.", 
+      "developers": [], 
+      "id": 19616, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/456/274281-cm_box.jpg", 
+      "name": "Caveman", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19617, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/707514-1163102148_00.png", 
+      "name": "Death or Glory", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19618, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Boggit", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19619, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Doctor What!", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 226, 
+          "name": "CRL Group PLC"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19620, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1071/1096373-576081_34651_front.jpg", 
+      "name": "Premier Manager Ninety Nine", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Premier Manager '98 is the fifth game in the Premier Manager series. It covers the 1997/1998 English football season.", 
+      "developers": [], 
+      "id": 19621, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2743212-premier+manager+98+playstation+uk+front.jpg", 
+      "name": "Premier Manager 98", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players race opponents and combat opponents in this futuristic racer.", 
+      "developers": [], 
+      "id": 19622, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2661655-6984398165-48899.jpg", 
+      "name": "Slipstream 5000", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Shadow Fighter is a 2D fighting game for Amiga and Amiga CD32.", 
+      "developers": [], 
+      "id": 19623, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2595247-shadow_fighter_front.jpg", 
+      "name": "Shadow Fighter", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19624, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/671963-2895517344.jpg", 
+      "name": "K240", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19625, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/755254-256px_premier_manager_3.jpg", 
+      "name": "Premier Manager 3", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19626, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1288237-disposablehero_front.jpg", 
+      "name": "Disposable Hero", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players control a devil who must find his way out of a dungeon.", 
+      "developers": [], 
+      "id": 19627, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1409298-litildivil_eu_front.jpg", 
+      "name": "Litil Divil", 
+      "platforms": [
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "You must escape five different movie worlds you get transported to after your video recorder malfunctions.", 
+      "developers": [], 
+      "id": 19628, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Videokid", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first of the original Premier Manager games released in 1992 on the Amiga and PC. A popular football (soccer) management game that required the player to manage a team up the football league to glory.", 
+      "developers": [], 
+      "id": 19629, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/108173/2424842-premier_manager_jewel_case_cover.jpg", 
+      "name": "Premier Manager", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Harlequin is a side-scrolling platformer created by The Warp Factory and published in 1992 by Gremlin Graphics.", 
+      "developers": [], 
+      "id": 19630, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/643688-harlequin_01.jpg", 
+      "name": "Harlequin", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A text-based adventure game inspired by the cult Z-Movie of the same name.", 
+      "developers": [], 
+      "id": 19631, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/752397-plan_9_from_outer_space_01.png", 
+      "name": "Plan 9 From Outer Space", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19632, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "4 Wheel Drive", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Lotus 2 is a racing game and sequel to Lotus Esprit Turbo Challenge. It features more cars and tracks than it\u00b4s predecessor.", 
+      "developers": [], 
+      "id": 19633, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370713-genesis_lotus2.jpg", 
+      "name": "Lotus Turbo Challenge 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The last game in the Lotus series has two game modes.  Race against the clock or 19 computer opponents in three different cars.  The Ultimate Challenge also has the RECS level editor so you can create thousands of your own levels.", 
+      "developers": [], 
+      "id": 19634, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/629251-lotus_iii___the_ultimate_challenge___front.jpg", 
+      "name": "Lotus: The Ultimate Challenge", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Produced by Magnetic Fields, this game was on the amiga in the uk and was the basis for super cars international on the pc. It is linked to other Magnetic Fields games including: Lotus Esprit Turbo Challenge, Lotus Esprit Turbo Challenge 2, Lotus Esprit Turbo Challenge 3 and Super Cars", 
+      "developers": [], 
+      "id": 19635, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/889/683526-super_cars_2_splash.jpg", 
+      "name": "Supercars II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19636, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/547312-pegasus_eu_box_art.jpg", 
+      "name": "Pegasus", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi action game with a first-person perspective. The player must fix a series of starships with failing systems before they explode, contending with runaway alien lifeforms throughout.", 
+      "developers": [], 
+      "id": 19637, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2766609-3766389904-21917.jpg", 
+      "name": "Federation Quest 1: BSS Jane Seymour", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19638, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/832685-combor.gif", 
+      "name": "Combo Racer", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Race your Lotus Esprit around 32 tracks against 19 computer opponents and try to get to the top of the league table.  Watch out for hazards on the tracks and don't forget to refuel.", 
+      "developers": [], 
+      "id": 19639, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/619772-lotus_esprit_turbo_challenge___front.jpg", 
+      "name": "Lotus Esprit Turbo Challenge", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }
+  ]
+}

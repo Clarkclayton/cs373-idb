@@ -1,0 +1,1353 @@
+{
+  "games": [
+    {
+      "deck": "The Xtreme Legends expansion for Dynasty Warriors 8 introduces three new player characters, Lu Bu's daughter Lu Lingqi, strategist Chen Gong, and Wu general Zhu Ran.", 
+      "developers": [], 
+      "id": 21390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2615943-box_dw8xl.jpg", 
+      "name": "Dynasty Warriors 8: Xtreme Legends", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced remake of Nobunaga no Yabou DS 2, which in turn was a remake of Nobunaga's Ambition: Lord of Darkness.", 
+      "developers": [], 
+      "id": 21391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2805622-9110582959-28537.jpg", 
+      "name": "Nobunaga no Yabou", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Hunter style game developed by Omega Force for the PSP and Vita.", 
+      "developers": [], 
+      "id": 21392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2584182-box_ttaod.png", 
+      "name": "Toukiden: The Age of Demons", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The eighth entry in the Dynasty Warriors franchise, released in western markets in July of 2013.", 
+      "developers": [], 
+      "id": 21393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478655-box_dw8.png", 
+      "name": "Dynasty Warriors 8", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The hyper-gory post-apocalyptic action returns in this sequel to the large-scale brawler based on the Fist of the North Star franchise (celebrating the 30th anniversary of the series). You are already dead.", 
+      "developers": [], 
+      "id": 21394, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417188-box_fotnskr2.png", 
+      "name": "Fist of the North Star: Ken's Rage 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The power to conquer armies is at your fingertips.", 
+      "developers": [], 
+      "id": 21395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2409791-slash.jpg", 
+      "name": "Shin Sangoku Musou Slash", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final installment of Dynasty Warriors 7.", 
+      "developers": [], 
+      "id": 21396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2442049-cropped.jpg", 
+      "name": "Dynasty Warriors 7: Empires", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the 3DS launch game Samurai Warriors: Chronicles.", 
+      "developers": [], 
+      "id": 21397, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2328457-samurai_warriors_chronicle_2nd_boxart.jpg", 
+      "name": "Sengoku Musou Chronicle 2nd", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Worlds collide in this Dynasty Warriors release for the 3DS.", 
+      "developers": [], 
+      "id": 21398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2571875-7458776421-99781.jpg", 
+      "name": "Shin Sangoku Musou VS", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "New entry in the historical strategy simulation series.", 
+      "developers": [], 
+      "id": 21399, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2362946-61j3aqixk7l._sl500_.jpg", 
+      "name": "Romance of the Three Kingdoms XII", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The series of action games set in the era of the Three Kingdoms continues with a portable entry timed to the launch of the PlayStation Vita.", 
+      "developers": [], 
+      "id": 21400, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114376-box_dwnext.png", 
+      "name": "Dynasty Warriors Next", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Warriors Orochi series featuring 120 playable characters from a multitude of Tecmo Koei franchises.", 
+      "developers": [], 
+      "id": 21401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2160634-box_wo3.png", 
+      "name": "Warriors Orochi 3", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expansion to Dynasty Warriors 7, this Xtreme Legends title offers three new playable characters, new weapons and move sets for existing characters, and additional modes and stages.", 
+      "developers": [], 
+      "id": 21402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6228/2080470-dw7xl_u.s._box_art.jpg", 
+      "name": "Dynasty Warriors 7: Xtreme Legends", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Champion Jockey is the latest Tecmo/Koei horse racing release.", 
+      "developers": [], 
+      "id": 21403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1850441-jockey.jpg", 
+      "name": "Champion Jockey: G1 Jockey and Gallop Racer", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An extended version of Samurai Warriors 3 for the Playstation 3.", 
+      "developers": [], 
+      "id": 21404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2215413-2215412-71qbltnmi_l._aa1024_.jpg", 
+      "name": "Sengoku Musou 3: Empires", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The feudal Chinese factions of Wu, Shu, and Wei (along with the new Jin Kingdom) return for another installment of tactical action and K.O. counts into the thousands!", 
+      "developers": [], 
+      "id": 21405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1820018-box_dw7.png", 
+      "name": "Dynasty Warriors 7", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3DS entry in Koei's Samurai Warriors series. This game introduces the element of controlling multiple warriors on the battlefield at once.", 
+      "developers": [], 
+      "id": 21406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1798121-box_samwarchr.png", 
+      "name": "Samurai Warriors Chronicles", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PlayStation Portable exclusive entry in the Harukanaru Toki no Naka de series.", 
+      "developers": [], 
+      "id": 21407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2733198-0703034105-16687.jpg", 
+      "name": "Harukanaru Toki no Naka de 5", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A browser-based social game from Tecmo Koei based on the Nobunaga's Ambition series that recasts all of the historical figures as cats.", 
+      "developers": [], 
+      "id": 21408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6228/1783046-nobunyaga_no_yabou.png", 
+      "name": "Nobunyaga no Yabou", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A port of Samurai Warriors 3 and Samurai Warriors 3: Xtreme Legends to Sony sytems. The game includes all of the content of the original Wii title and its expansion except for Murasame Castle.", 
+      "developers": [], 
+      "id": 21409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/22366/1866249-710dyye9jil.jpg", 
+      "name": "Sengoku Musou 3Z", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nobunaga takes his ambitious online in this Nova chapter.", 
+      "developers": [], 
+      "id": 21411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/127673/2196410-yabouonlinebox.jpg", 
+      "name": "Nobunaga's Ambition Online: Chapter Nova", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fist of the North Star: Ken's Rage is a brutal third-person brawler based on the hyper-gory post-apocalyptic action anime and manga series Fist of the North Star. You are already dead.", 
+      "developers": [], 
+      "id": 21412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1825084-box_fotnkr.png", 
+      "name": "Fist of the North Star:  Ken's Rage", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An original installment in the Nobunaga's Ambition strategy series, released in August 2010 for iOS devices. This version gives players the option of creating a custom daimyo.", 
+      "developers": [], 
+      "id": 21413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2217351-iphone.jpg", 
+      "name": "Nobunaga's Ambition", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fret Nice is a platform game that you play using a guitar controller.", 
+      "developers": [], 
+      "id": 21414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1388132-fretnice_box.png", 
+      "name": "Fret Nice", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players once again take part in a romanticized version of the Japanese Sengoku era, hacking and slashing their way through scores of enemies, in the first mainline Warriors game to be released for the Wii.", 
+      "developers": [], 
+      "id": 21415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1798120-box_samwar3.png", 
+      "name": "Samurai Warriors 3", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade style football, easy to play for all ages", 
+      "developers": [], 
+      "id": 21416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/1035047-family_fun_football_wii_004.jpg", 
+      "name": "Family Fun Football", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Robocalypse is an RTS game for the DS written by the writer and director of SpongeBob Squarepants.", 
+      "developers": [], 
+      "id": 21417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2267439-811109-robocalypseds.jpg", 
+      "name": "Robocalypse", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Samurai Warriors Pachinko/Slot Machine.", 
+      "developers": [], 
+      "id": 21418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2356227-pachislot_sw_cover.jpg", 
+      "name": "Pachislot Sengoku Musou", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-strategy game set during the Hundred-Years' War, the player controls a mercenary, growing in stature by helping to secure each victory.", 
+      "developers": [], 
+      "id": 21419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2333736-box_bstorm.png", 
+      "name": "Bladestorm: The Hundred Years' War", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A nautical MMORPG set in the Age of Exploration.", 
+      "developers": [], 
+      "id": 21420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11512/1678551-uwo.jpg", 
+      "name": "Uncharted Waters Online", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sumo wrestling game by Tecmo. ", 
+      "developers": [], 
+      "id": 21421, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ozeki Thrust", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Band Stars is a music management simulation game for the mobile platforms.", 
+      "developers": [], 
+      "id": 21422, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2673602-6429817391-Band-S.jpeg", 
+      "name": "Band Stars", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 348, 
+          "name": "Halfbrick Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth installment in the Double Yakuman series.", 
+      "developers": [], 
+      "id": 21423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2786835-3336065060-30725.jpg", 
+      "name": "Super Double Yakuman II", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pachinko game developed by Jorudan in 1994. It is designed to teach players how to win big on the real-life equivalents of the featured pachinko tables, similar to Sammy's \"Jissen Pachinko Hisshouhou\" series.", 
+      "developers": [], 
+      "id": 21424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1305086-pachinko_hi_hisshouhou.jpg", 
+      "name": "Pachinko Maruhi Hisshouhou", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A pachi-slots game for the Super Famicom and the sequel to Hisshou 777 Fighter.", 
+      "developers": [], 
+      "id": 21425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2751546-5477352812-30696.jpg", 
+      "name": "Hisshou 777 Fighter 2: Pachi-Slot Hi Jouhou", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Super Famicom mahjong game from Vap Inc. A yakoman is an incredibly valuable hand in a game of mahjong, and a double yakoman even more so.", 
+      "developers": [], 
+      "id": 21426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2741365-4678183131-30692.jpg", 
+      "name": "Super Double Yakuman", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A pachi-slot (slot machine) simulator game for the Super Famicom. The title refers to the mythical Sea Dragon Palace of Japanese folklore.", 
+      "developers": [], 
+      "id": 21427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2732782-1460974631-30689.jpg", 
+      "name": "Hisshou 777 Fighter: Pachi-Slot Ryugu Densetsu", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the Double Yakuman series, oddly enough.", 
+      "developers": [], 
+      "id": 21428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2786829-0284867853-30630.jpg", 
+      "name": "Double Yakuman II", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Double Yakuman series.", 
+      "developers": [], 
+      "id": 21429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2786828-0037926961-88514.jpg", 
+      "name": "Double Yakuman Jr.", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Double Yakuman is a traditional mahjong game for Game Boy.", 
+      "developers": [], 
+      "id": 21430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2786786-3009455426-30630.jpg", 
+      "name": "Double Yakuman", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Street Basketball is a basketball game for Game Boy.", 
+      "developers": [], 
+      "id": 21431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2652209-9926188896-30443.jpg", 
+      "name": "Super Street Basketball", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Dyna'mix Badminton is a Badminton game that was only released in Japan, on August 26th 1988.", 
+      "developers": [], 
+      "id": 21432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/558351-super_dyna_mix_badminton_box.jpg", 
+      "name": "Super Dyna'mix Badminton", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Real Baseball '88 is a baseball game released in Japan for the Nintendo Famicom in 1988.", 
+      "developers": [], 
+      "id": 21433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2094820-1.jpg", 
+      "name": "Super Real Baseball '88", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES action RPG published by Vap based on the ancient Chinese novel \"Journey to the West\". It's widely considered to be one of the worst NES games of all time.", 
+      "developers": [], 
+      "id": 21434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2444106-super_monkey_daibouken_fc.jpg", 
+      "name": "Ganso Saiyuuki: Super Monkey Daibouken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Beat-'Em-Up game published by Vap in 1995.", 
+      "developers": [], 
+      "id": 21435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1293556-koryuu_no_mimi.jpg", 
+      "name": "Koryu no Mimi", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Basketball sim for the Gameboy.", 
+      "developers": [], 
+      "id": 21436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2402740-box.png", 
+      "name": "Super Street Basketball 2", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 349, 
+          "name": "Vap Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A new rally focused entry in Codemasters' DiRT franchise.", 
+      "developers": [], 
+      "id": 21437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/2745058-header.jpg", 
+      "name": "DiRT Rally", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the 2015 edition of the F1 racing game by Codemasters for current generation consoles and PC.", 
+      "developers": [], 
+      "id": 21438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2742988-f1+2015+v4.jpg", 
+      "name": "F1 2015", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "F1 2013 is Codemasters' latest entry in the Formula 1 branded series of racing games.", 
+      "developers": [], 
+      "id": 21439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543310-box_f12013.png", 
+      "name": "F1 2013", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the original \"reboot\" of the TOCA Race Driver series, GRID (known as Racedriver: GRID outside of the US). It uses the same EGO 3.0 Engine which was used in Dirt 3 and employs a brand new system called \"TrueFeel\" which provides a balance between accessibility and realism.", 
+      "developers": [], 
+      "id": 21440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2452886-box_grid2.png", 
+      "name": "GRID 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }
+  ]
+}

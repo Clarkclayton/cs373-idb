@@ -1,0 +1,1562 @@
+{
+  "games": [
+    {
+      "deck": "A standalone expansion for Company of Heroes 2 with eighteen new single-player missions, reliving the infamous Battle of the Bulge.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3943, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Company of Heroes 2: Ardennes Assault", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A stand alone multiplayer version of Company of Heroes 2.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3944, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2632152-company+of+heroes+2+the+western+front+armies.jpg", 
+      "name": "Company of Heroes 2: The Western Front Armies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take command of the Russian forces and out-think the Nazis all the way to Berlin.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3945, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2531058-box_coh2.png", 
+      "name": "Company of Heroes 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A crucial planet size factory is under siege by millions of Orks. As Space Marine Captain Titus, you must lead your soldiers to stem the tide until help arrives.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3946, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1891361-box_wh40ksm.png", 
+      "name": "Warhammer 40,000: Space Marine", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "A standalone version of the \"The Last Stand\" mode in Dawn of War II: Retribution.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3947, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1766428-header_292x136.jpg", 
+      "name": "Dawn of War II: Retribution \u2013 The Last Standalone", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ten years after the events of Chaos Rising, sub-sector Aurelia is still engulfed in all out war. In this third installment of Dawn of War II, you decide the victor!", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3948, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2022692-box_wh40kdow2r.png", 
+      "name": "Warhammer 40,000: Dawn of War II - Retribution", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first full expansion to Warhammer 40,000: Dawn of War II. The game takes place one year after the events of Dawn of War II. Now the Blood Ravens are forced to liberate the planet Aurelia from the evil grip of the Chaos Marines. ", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3949, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2022691-box_wh40kdow2cr.png", 
+      "name": "Warhammer 40,000: Dawn of War II: Chaos Rising", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tales of Valor is a stand-alone expansion to the critically acclaimed PC strategy game Company of Heroes.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3950, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894703-box_cohtov.png", 
+      "name": "Company of Heroes: Tales of Valor", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Relic's critically-acclaimed Dawn of War does away with economizing and base building in favor of a more involved combat system with RPG elements.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3951, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2022690-box_wh40kdow2.png", 
+      "name": "Warhammer 40,000: Dawn of War II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Soulstorm, developed by Iron Lore, is the third and final expansion pack to Relic's hit real-time strategy game, Warhammer 40,000: Dawn of War. The Sisters of Battle and the Dark Eldar join the fray as you fight to dominate the Kaurava system.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3952, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1199296-jzfhbm.jpg", 
+      "name": "Warhammer 40,000: Dawn of War - Soulstorm", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Opposing Fronts is a stand alone expansion to the award winning PC game Company of Heroes and includes two new factions: the British and the Panzer Elite. Each faction includes a campaign and introduces new units and abilities to both singleplayer and multiplayer.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3953, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2531059-box_cohof.png", 
+      "name": "Company of Heroes: Opposing Fronts", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dark Crusade is Relic's second expansion pack to Warhammer 40,000: Dawn of War, adding even more units and two new races to the game. The game itself is also available as a stand-alone game without needing the full game or the previous expansion.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3954, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2022693-box_wh40kdowdc.png", 
+      "name": "Warhammer 40,000: Dawn of War - Dark Crusade", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "This action packed strategy game lets you take control of Able Company on the shores of 1944 France, pushing the Nazis back into Germany.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3955, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2531057-box_coh.png", 
+      "name": "Company of Heroes", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Outfit is a squad based 3rd person shooter set during WWII in Europe as you have the choice of taking control of three different characters, commanding their squads, calling in destruction and defeating the Nazi war machine.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3956, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1795444-box_outfit.png", 
+      "name": "The Outfit", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Winter Assault is Relic's first expansion pack to Warhammer 40,000: Dawn of War, featuring new units for the original four races, and introduces a new race: the Imperial Guard.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3957, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2022694-box_wh40kdowwa.png", 
+      "name": "Warhammer 40,000: Dawn of War - Winter Assault", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "As the dawn of war approaches, take control of one of many different futuristic armies and races from the 41st millennia and wage war against your enemies!", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3958, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/431/814137-dawn_of_war_box_art.jpg", 
+      "name": "Warhammer 40,000: Dawn of War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Relic Entertainment's award-winning 1999 real-time strategy game, Homeworld 2 was released in 2003, and features gameplay and interface adjustments, enhanced visuals, and a new single-player campaign.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3959, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5370/1452190-hw2_us.jpg", 
+      "name": "Homeworld 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Impossible Creatures is a real-time strategy game from Relic that is based on fighting genetically modified animals created by the player, allowing for bizarre combinations such as an ant and a wolf, or killer whale and snowy owl.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3960, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3494/1330872-impossible_creatures_b000069il1_l.jpg", 
+      "name": "Impossible Creatures", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The stand-alone expansion to 1999's Homeworld, Cataclysm revolves around two new factions, the Kiith Somtaaw and the Beast, offering players new units, refined gameplay mechanics, and a lengthy single-player campaign.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3961, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/24362/917458-catc.jpg", 
+      "name": "Homeworld: Cataclysm", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "Homeworld is an acclaimed 1999 outer space real-time strategy game developed by Relic Entertainment. Touted as a \"3D\" real-time strategy title, Homeworld allows units to be moved freely in three dimensions.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3962, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/1058320-homeworld_front.jpg", 
+      "name": "Homeworld", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Relic's cancelled WWII RTS game, redesigned as a free-to-play online game. Its cancellation was confirmed in a THQ investor's call in February 2011.", 
+      "developers": [
+        {
+          "id": 119, 
+          "name": "Relic Entertainment"
+        }
+      ], 
+      "id": 3963, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14440/1392842-coho_boxart1.jpg", 
+      "name": "Company of Heroes Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "ADK Tamashii is a compilation of five ADK games for PlayStation 2.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3964, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2654909-6544073022-10400.jpg", 
+      "name": "ADK Tamashii", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "This compilation includes all of the World Heroes games in one disc.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3965, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525281-box_wha.png", 
+      "name": "World Heroes Anthology", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }, 
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball game for the Neo Geo Pocket Color, similar to games such as Baseball Stars.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3966, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/960548-915872_16790_front.jpg", 
+      "name": "Dynamite Slugger", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crush Roller is a Pac-Man style maze game that challenges players to paint roads while avoiding or rolling over enemies.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3967, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/525881-crush.jpg", 
+      "name": "Crush Roller", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A mahjong game for the Neo Geo Pocket Color.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3968, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/960546-943599_96786_front.jpg", 
+      "name": "Doko Demo Mahjong", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese puzzle game similar to chess, released for arcade, Neo Geo CD, and Neo Geo Pocket Color.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3969, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/961546-shogi.jpg", 
+      "name": "Syougi no Tatsujin", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 67, 
+          "name": "Neo Geo Pocket", 
+          "short": "NGP"
+        }, 
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A simulation game similar to Tamagotchi released for the Neo Geo Pocket.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3970, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/961548-575691_86005_front.jpg", 
+      "name": "Melon Chan's Growth Diary", 
+      "platforms": [
+        {
+          "id": 67, 
+          "name": "Neo Geo Pocket", 
+          "short": "NGP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "2D Fighter for the Neo-Geo. Features nothing but Ninjas.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3971, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/282602-ninjamasters.jpg", 
+      "name": "Ninja Master's", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "ADK World is a fan disc containing mini-games, character bios, and more, of the characters of Alpha Denshi Corp.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3972, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2654908-3878599748-30388.jpg", 
+      "name": "ADK World", 
+      "platforms": [
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "World Heroes Perfect was the last game in the World Heroes franchise. All the heroes returned from World Heroes 2 JET, as well as one new character, Son Gokuu.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3973, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4737/410275-worldheroesperfect.jpg", 
+      "name": "World Heroes Perfect", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Crossed Swords. It was released in Japan in 1995 for Neo-Geo CD.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3974, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/70096/2356837-crossed_swords_2.jpg", 
+      "name": "Crossed Swords II", 
+      "platforms": [
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Aggressors of Dark Kombat is a SNK fighting game released in 1994.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3975, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4737/393256-darkkombat.jpg", 
+      "name": "Aggressors of Dark Kombat", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An updated version of the World Heroes 2 fighting game.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3976, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1454724-wh2jet_box.jpg", 
+      "name": "World Heroes 2 JET", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "World Heroes 2 is a 2D fighting game by ADK for the Neo Geo. The second game in the series features new characters and gameplay elements along with a revamped Death Match system.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3977, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4737/400350-worldheroes2.jpg", 
+      "name": "World Heroes 2", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }, 
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Top down action game by SNK for the Neo-Geo gaming Console.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3978, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/427757-ninja_commando.jpg", 
+      "name": "Ninja Commando", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "World Heroes is a 2D fighting game by ADK for the Neo Geo that pits many of history's greatest fighters against each other, from Genghis Khan to Hulk Hogan.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3979, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4737/400591-worldheroes.jpg", 
+      "name": "World Heroes", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ninja Combat is an early beat 'em up for the Neo Geo. It was developed by ADK. ", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3980, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1059183-ninjacombatcov.jpg", 
+      "name": "Ninja Combat", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3981, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1361453-thrash.jpg", 
+      "name": "Thrash Rally", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An action-RPG for the Neo Geo, notable for its unusual behind-the-back, one-on-one combat system.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3982, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1409204-crossedswords_box.jpg", 
+      "name": "Crossed Swords", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Competitive shooter with flavors of Galaga, Fighting Games, and Sailor Moon.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3983, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/282481-tss.jpg", 
+      "name": "Twinkle Star Sprites", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Very charming platformer for the Neo-Geo gaming console.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3984, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/827150-582029_88790_front.jpg", 
+      "name": "Blue's Journey", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Japanese science-fiction roleplaying game published for the NES in 1990.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3985, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/550914-sted_box.jpg", 
+      "name": "STED: Iseki Wakusei no Yabou", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Side-scrolling fantasy adventure. You play as the titular Magician Lord Elta,  trying to stop the evil wizard Gal-Agiese from reviving \"Az-Atous\" (the lovecraftian deity Azatoth)  who will destroy the world if revived.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3986, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/457988-magician_lord.jpg", 
+      "name": "Magician Lord", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Time Soldiers is a vertical scrolling run-and-gun game in which the player travels through different times to rescue his lost comrades. Originally a dual joystick shooter designed for the arcade it has been ported to several home consoles.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3987, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2375678-time_soldiers_sms_us.jpg", 
+      "name": "Time Soldiers", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Famicom RPG based on a famous Japanese novel series of the same name. It was developed by Alpha Denshi and published by SNK.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3988, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2370834-satomi_hakkenden_fc.jpg", 
+      "name": "Satomi Hakkenden", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Shogi game for the NES. Like most Shogi games, it was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3989, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2357829-famicom_meijin_sen_fc.jpg", 
+      "name": "Famicom Meijin Sen", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early racing simulator based on the 24 Hours of Le Mans. It was a pioneer of realistic simulation racing, and featured a unique cabinet that rotated to simulate the feel of driving a car.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3990, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2594425-18114501.jpg", 
+      "name": "WEC Le Mans", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }, 
+        {
+          "id": 249, 
+          "name": "Konami Studios"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Transform from land-walking mech to a soaring jet and back again in this 1984 shooter from Alpha Denshi.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3991, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Equites", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early baseball game released for the arcade, MSX and SG-1000 platforms.", 
+      "developers": [
+        {
+          "id": 120, 
+          "name": "Alpha Denshi Co., Ltd."
+        }
+      ], 
+      "id": 3992, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1776438-giant_bomb_sub_2.jpg", 
+      "name": "Champion Baseball", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }
+  ]
+}

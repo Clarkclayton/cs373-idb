@@ -1,0 +1,1509 @@
+{
+  "games": [
+    {
+      "deck": "MMORPG from Snail Game currently in closed beta.", 
+      "developers": [], 
+      "id": 23244, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/2410222-aow_logo_final_flat.png", 
+      "name": "Age of Wushu", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 543, 
+          "name": "Snail Game"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pang Adventures is a 2015 entry in the Buster Bros./Pang series, by PastaGames and DotEmu.", 
+      "developers": [], 
+      "id": 23245, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2769703-1968148216-11828.jpg", 
+      "name": "Pang Adventures", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 544, 
+          "name": "DotEmu"
+        }
+      ]
+    }, 
+    {
+      "deck": "I Have No Mouth, and I Must Scream is a point-and-click adventure game, based on a short story by Harlan Ellison.", 
+      "developers": [], 
+      "id": 23246, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4471/770628-i_have_no_mouth_and_i_must_scream.jpg", 
+      "name": "I Have No Mouth, and I Must Scream", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 544, 
+          "name": "DotEmu"
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An isometric action-adventure dystopia from the creator of Alone in the Dark.", 
+      "developers": [], 
+      "id": 23247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/797743-lba_cover.png", 
+      "name": "Relentless: Twinsen's Adventure", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 544, 
+          "name": "DotEmu"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Bread Box is an official demake of Super Crate Box for the Commodore 64, created for the 2012 RGCD 16k competion, later expanded and released on cartridge and as a digital download", 
+      "developers": [], 
+      "id": 23248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2625336-4600875678-sbb64.jpg", 
+      "name": "Super Bread Box", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 545, 
+          "name": "Vlambeer"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23249, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4656/895797-g04947axdrb.jpg", 
+      "name": "Qwirks", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1994 SNES/GB puzzle game that is endorsed by Tetris creator Alexey Pajitnov. The game is a mix of Tetris and Snake.", 
+      "developers": [], 
+      "id": 23250, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364700-snes_wildsnake.jpg", 
+      "name": "WildSnake", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "National Lampoon's humorous chess game.", 
+      "developers": [], 
+      "id": 23251, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/748814-23331_boxshot_1.jpg", 
+      "name": "National Lampoon's Chess Maniac 5 Billion and 1", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "TORNADO is a military flight simulator, allowing the player to pilot the IDS and ADV variants of the Panavia Tornado through a dynamic campaign set during a fictional European conflict.", 
+      "developers": [], 
+      "id": 23252, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "TORNADO", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23253, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1379237-932941_75455_front.jpg", 
+      "name": "Super Tetris", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Take control of the Soviet Union and try to last until 2017", 
+      "developers": [], 
+      "id": 23254, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2506496-citk.jpg", 
+      "name": "Crisis in the Kremlin", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Build the most suitable gun for hunting all kinds of game from North America to Africa.", 
+      "developers": [], 
+      "id": 23287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2360867-box_che.png", 
+      "name": "Cabela's Hunting Expeditions", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Falcon 3.0 was the most richly accurate and detailed combat flight simulator of its time - claiming to use military grade flight simulation mechanics.  It required a math coprocessor to enable the full experience, which included a dynamic campaign generator that incorporated results from user missions.", 
+      "developers": [], 
+      "id": 23255, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2238/280314-falcon3.0_1.gif", 
+      "name": "Falcon 3.0", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23256, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/881920-falcon_mission_disk_volume_ii.gif", 
+      "name": "Falcon Operation: Firefight", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Flight of the Intruder is an military flight simulator set during the Vietnam war, released as a tie in to the 1991 movie and book of the same name.", 
+      "developers": [], 
+      "id": 23257, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361740-nes_flightoftheintruder.jpg", 
+      "name": "Flight of the Intruder", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players match parts of human faces in this third installment of the Tetris franchise.", 
+      "developers": [], 
+      "id": 23258, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1720899-564825_29710_front.jpg", 
+      "name": "Faces", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23259, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tank: The M1 Abrams Battle Tank Simulation", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23260, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/881909-falcon_mission_disk_volume_i.gif", 
+      "name": "Falcon Operation: Counterstrike", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Vette is an open-world racing game set in San Francisco. The player can choose from a range of Corvette's and race them against a range of European cars on several courses in San-Francisco.", 
+      "developers": [], 
+      "id": 23261, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/833569-948951963_00.gif", 
+      "name": "Vette!", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Falcon A.T. is a simulator of the F-16 Fighting Falcon combat aircraft. It is the sequel to Falcon, with all-new EGA graphics and head-to-head multiplayer.", 
+      "developers": [], 
+      "id": 23262, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Falcon A.T.", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23263, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Solitaire Royale", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23264, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1314753-zz___ingame01.jpg", 
+      "name": "Zig-Zag", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23265, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Knight Moves", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game where you must get a clock hand through a level by hopping between nodes and avoiding obstacles.", 
+      "developers": [], 
+      "id": 23266, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/198886-g04979bwjbf.jpg", 
+      "name": "ClockWerx", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Intrigue is a adventure game released for the C64 and Apple II", 
+      "developers": [], 
+      "id": 23267, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1872421-intrigue____1988___mirrorsoft.jpg", 
+      "name": "Intrigue!", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }, 
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "First person adventure where you investigate a derelict space cruiser while being stalked by a rogue robotic guardian.", 
+      "developers": [], 
+      "id": 23268, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14975/1340794-ironhelixboxart.jpg", 
+      "name": "Iron Helix", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23269, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "PT-109", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23270, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Gazillionaire", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Stunt Driver is a PC Racing game.", 
+      "developers": [], 
+      "id": 23271, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2112056-cover.jpg", 
+      "name": "Stunt Driver", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 547, 
+          "name": "Spectrum Holobyte, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platformer based on the 2015 animated film.", 
+      "developers": [], 
+      "id": 23272, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2765562-81%2Bhcmf6jvl._sl1500_.jpg", 
+      "name": "The Peanuts Movie: Snoopy's Grand Adventure", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A third-person adventure game that melds aspects of both horror and noir themes together.", 
+      "developers": [], 
+      "id": 23273, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2722300-rsz_image.jpg", 
+      "name": "White Night", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Tony Hawk franchise continues now on mobile devices.", 
+      "developers": [], 
+      "id": 23274, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7030/2627048-3586654129-shred.jpg", 
+      "name": "Tony Hawk's Shred Session", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Call of Duty: Heroes is a 3D combat strategy game for the iOS and Android. You command an army of legendary heroes, elite soldiers and devastating drones in a PvP arena.", 
+      "developers": [], 
+      "id": 23275, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2796572-7449622791-icon10.jpeg", 
+      "name": "Call of Duty: Heroes", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The eleventh installment of the Call of Duty franchise (and the first spearheaded by Sledgehammer Games) brings modern military thirty years into the future, as new technology (including powered exoskeleton frames and cloaking devices) makes a certain Private Military Corporation the dominant military force of the world.", 
+      "developers": [], 
+      "id": 23276, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2698794-call+of+duty+-+advanced+warfare+v1.jpg", 
+      "name": "Call of Duty: Advanced Warfare", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Korra and her friends attempt to stop an ancient evil in this Turn-Based Strategy game based on the animated series.", 
+      "developers": [], 
+      "id": 23277, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/140706/2773545-3386319603-810BU.jpg", 
+      "name": "The Legend of Korra: A New Era Begins", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Voice: I Want You is a karaoke game based on the reality TV contest.", 
+      "developers": [], 
+      "id": 23278, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2680456-7150327782-81X9C.jpg", 
+      "name": "The Voice: I Want You", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "The popular reality show about a family of heavily bearded duck hunters is now a video game from Fun Labs.", 
+      "developers": [], 
+      "id": 23279, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2682439-duckdynastycover.jpg", 
+      "name": "Duck Dynasty", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cut the Rope: Triple Treat collects three games in the popular physics puzzle series for Nintendo 3DS, with additional features to take advantage of the system.", 
+      "developers": [], 
+      "id": 23280, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2594030-8761498490-cut_the_rope_triple_treat.jpg%253Fw%253D900%2526h%253D576%2526crop%253D1", 
+      "name": "Cut the Rope: Triple Treat", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "This game in the Wipeout series allows players to create their own courses to share with friends and family.", 
+      "developers": [], 
+      "id": 23281, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2548067-create+and+crash.jpg", 
+      "name": "Wipeout: Create & Crash", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Travel to Africa to hunt the most ferocious beasts alive across 5 different biomes.", 
+      "developers": [], 
+      "id": 23282, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2548027-caf.jpg", 
+      "name": "Cabela's African Adventures", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Up to four players can team up and save New York City from gangs, mutants, and ninjas in this downloadable 3D third-person brawler based on the 2012 Teenage Mutant Ninja Turtles series.", 
+      "developers": [], 
+      "id": 23283, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2488291-box_tmntoots.png", 
+      "name": "Teenage Mutant Ninja Turtles: Out of the Shadows", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Break the fourth wall in this 3rd person action game, the first headlined by \"The Merc With A Mouth\" Deadpool.", 
+      "developers": [], 
+      "id": 23284, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2484692-box_dp.png", 
+      "name": "Deadpool", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Firebrand and Activision's new racer based on the crazy (and) successful movie franchise, bringing storylines from earlier movies together to lead up to Fast 6.", 
+      "developers": [], 
+      "id": 23285, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2464864-fastfuriousshowdown.jpg", 
+      "name": "Fast & Furious: Showdown", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game based on the Disney movie about video games.", 
+      "developers": [], 
+      "id": 23286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2348801-box_wir.png", 
+      "name": "Wreck-It Ralph", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Transformers: Fall of Cybertron is the spiritual successor to 2010's \"War for Cybertron\", and depicts the climax of the war between the Autobots and the Decepticons, culminating in the destruction of the Transformer homeworld of Cybertron.", 
+      "developers": [], 
+      "id": 23288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280523-box_tfoc.png", 
+      "name": "Transformers: Fall of Cybertron", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released to coincide with, but not based on or tying into Men in Black III, Alien Crisis sees players shooting aliens and saving the world as Peter Delacoeur, a former thief and now an MIB agent.", 
+      "developers": [], 
+      "id": 23289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171270-box_mibac.png", 
+      "name": "Men in Black: Alien Crisis", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on a popular line of dolls, Lalaloopsy lets players bring their ragdolls to life in this title from Activision.", 
+      "developers": [], 
+      "id": 23290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/121643/1897110-lalaloopsy_ds_1.jpg", 
+      "name": "Lalaloopsy", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "As pilot James Logan you must survive the frigid Alaskan wilderness by any means necessary.", 
+      "developers": [], 
+      "id": 23291, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2360870-box_cssok.png", 
+      "name": "Cabela's Survival: Shadows of Katmai", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Big game hunting comes to the Kinect with the latest Cabela's licensed game, Hunting Party.", 
+      "developers": [], 
+      "id": 23292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2360860-box_cbghhp.png", 
+      "name": "Cabela's Big Game Hunter: Hunting Party", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wipeout: In the Zone is a Kinect-exclusive based on the popular ABC game show, where players run, jump, and wipeout against wacky obstacles in order to score the best time.\nYou can play local multiplayer and view friends stats.", 
+      "developers": [], 
+      "id": 23293, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481882-box_woitz.png", 
+      "name": "Wipeout: In the Zone", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }
+  ]
+}

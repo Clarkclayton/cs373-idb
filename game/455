@@ -1,0 +1,1308 @@
+{
+  "games": [
+    {
+      "deck": "A first-person shooter set in the Ghost in the Shell universe. Based on the Stand Alone Complex anime series.", 
+      "developers": [], 
+      "id": 22693, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2702459-rsz_ghost-in-the-shell-online-4.jpg", 
+      "name": "Ghost in the Shell: Stand Alone Complex - First Assault Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mobile TCG that is available for iOS and Android.", 
+      "developers": [], 
+      "id": 22694, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/29/295512/2783741-7169735020-20150.jpg", 
+      "name": "Mabinogi Duel", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "You play as Roman from the rebel group, the Lionhearts, trying to take down the evil King Forge.", 
+      "developers": [], 
+      "id": 22755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/793995-armed_dangerous_cover.png", 
+      "name": "Armed and Dangerous", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fantasy War Tactics is a turn-based strategic role-playing game (SRPG), bringing back nostalgic memories from good old story driven turn-based games such as Tactics Ogre, Final Fantasy Tactics, Super Robot Wars etc.", 
+      "developers": [], 
+      "id": 22695, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/30/308846/2829337-converted_file_abf3d7c3+%281%29.png", 
+      "name": "Fantasy War Tactics", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action MMO.", 
+      "developers": [], 
+      "id": 22696, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2659132-dark+blood+online.jpg", 
+      "name": "Dark Blood Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free to play naval warfare game!", 
+      "developers": [], 
+      "id": 22697, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/188873/2480820-8858413642-Navyf.jpg", 
+      "name": "Navyfield 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Use an arsenal of weapons, contraptions, and your defenders to combat the endless hordes of brain hungry zombie misfits in this side-scrolling tower defense game. Currently on Facebook.", 
+      "developers": [], 
+      "id": 22698, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58337/2022301-donkey1.jpg", 
+      "name": "Zombie Misfits", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Massively Multiplayer Action Online Battle Arena game created by Neople Entertainment.", 
+      "developers": [], 
+      "id": 22699, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/21/218109/2569723-logo_new.png", 
+      "name": "Cyphers Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Vindictus is a free-to-play action-oriented MMORPG created by devCAT, an internal studio of Korean free-to-play game publisher Nexon.", 
+      "developers": [], 
+      "id": 22700, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87298/1429573-vindictus_logo.jpg", 
+      "name": "Vindictus", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play action MMORPG for PC, developed in South Korea. It is popular in East Asia, and has been adapted into several other media, including a Japanese manga and two Chinese films.", 
+      "developers": [], 
+      "id": 22701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/820271-dn01.jpg", 
+      "name": "Dragon Nest", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Audition Online (Korean: \uc624\ub514\uc158 \uc628\ub77c\uc778), also known as Dancin' Paradise in Japan, is a downloadable multiplayer online casual rhythm game produced by T3 Entertainment.", 
+      "developers": [], 
+      "id": 22702, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13939/408147-256px_auditiononline_logo_edit.jpg", 
+      "name": "Audition Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The worlds first side-scrolling massively multiplayer online role-playing game", 
+      "developers": [], 
+      "id": 22703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13824/304533-maple_story.jpg", 
+      "name": "MapleStory", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nexus: The Kingdom of the Winds is an MMORPG based on Korean mythology.  Launched in 1997, it retains a small but tight-knit community to this day.", 
+      "developers": [], 
+      "id": 22704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5373/260619-nexus.png", 
+      "name": "Nexus: The Kingdom of the Winds", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An ambitious anime-styled sandbox MMORPG from veteran Korean developer Nexon, with an emphasis on user-generated content. Players can not only craft towns, but also entire quest-lines where the quest-builder wins if the questers fail and vice versa.", 
+      "developers": [], 
+      "id": 22705, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6511/2632917-5649716966-p5.jp.jpg", 
+      "name": "Peria Chronicles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 424, 
+          "name": "Nexon Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22706, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Air Attack Pack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1847217-forces.jpg", 
+      "name": "Special Forces Pack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 425, 
+          "name": "NovaLogic, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "It's a battle of Sega console anthropomorphisations as the cast of Hyperdimension Neptunia takes on Sega's Hard(ware) Girls.", 
+      "developers": [], 
+      "id": 22708, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2764394-4751031439-CJaZLTTVAAAtLpJ.jpg%3Alarge", 
+      "name": "Chou Jigen Taisen Neptune VS Sega Hard Girls: Yume no Gattai Special", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A new game from Compile Heart.", 
+      "developers": [], 
+      "id": 22709, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2730881-3122633531-logo..jpg", 
+      "name": "MeiQ no Chika ni Shisu", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of Hyperdimension Neptunia Victory with story and gameplay additions.", 
+      "developers": [], 
+      "id": 22710, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/20/208076/2726655-rebirth3+image.jpg", 
+      "name": "Hyperdimension Neptunia Re;Birth 3: V Century", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of Hyperdimension Neptunia mk2 for the Vita, with new features, content and a revised cast of characters.", 
+      "developers": [], 
+      "id": 22711, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2719577-rebirth21.jpg", 
+      "name": "Hyperdimension Neptunia Re;Birth2: Sisters Generation", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Remake of the first Hyperdimension Neptunia game, featuring a revised plot and the improved battle system introduced in its sequels.", 
+      "developers": [], 
+      "id": 22712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/76733/2649612-rebirth1engcov_.jpg", 
+      "name": "Hyperdimension Neptunia Re;Birth1", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A new entry in the 90s dungeon crawler RPG series, developed by Zerodiv for the PS Vita.", 
+      "developers": [], 
+      "id": 22713, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2560205-box_sscotgcg.png", 
+      "name": "Sorcery Saga: Curse of the Great Curry God", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP side story in the Agarest War franchise.", 
+      "developers": [], 
+      "id": 22714, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2401009-51mjmhnbyhl.jpg", 
+      "name": "Agarest Senki Mariage", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A visual novel based on the second season of the Rosario to Vampire anime series.", 
+      "developers": [], 
+      "id": 22715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/972584-rosa01.jpg", 
+      "name": "Rosario to Vampire Capu2: Koi to Yume no Kyousoukyoku", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Japanese reimagining of the genre defining computer RPG Rogue.", 
+      "developers": [], 
+      "id": 22716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2483331-4146242690-51EMT.jpg", 
+      "name": "Rogue Hearts Dungeon", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Scars of Velious is the second expansion for the popular MMORPG EverQuest.", 
+      "developers": [], 
+      "id": 22717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/676617-everquest___the_scars_of_velious_coverart.png", 
+      "name": "EverQuest: The Scars of Velious", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Ruins of Kunark is the first expansion released for the EverQuest franchise.", 
+      "developers": [], 
+      "id": 22718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1593/370230-everquest_ruins_of_kunark.jpg", 
+      "name": "EverQuest: The Ruins of Kunark", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250739-box_ncaagb00.png", 
+      "name": "NCAA GameBreaker 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "EverQuest is one of the original MMOs that helped to define the genre. With eighteen expansion packs, this game is still enjoyed by thousands all over the world.", 
+      "developers": [], 
+      "id": 22720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/625406-everquest_box_art_1_.jpg", 
+      "name": "EverQuest", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 599, 
+          "name": "Daybreak Game Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "NCAA Final Four 99\n\n", 
+      "developers": [], 
+      "id": 22721, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811166-box_ncaaff99.png", 
+      "name": "NCAA Final Four 99", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third snowboarding game in the Cool Boarders series", 
+      "developers": [], 
+      "id": 22722, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/810032-196981_50231_front.jpg", 
+      "name": "Cool Boarders 3", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 16-bit racing game based on the ESPN TV show of the same name. It resembles NASCAR but doesn't mention it by name due to licensing issues.", 
+      "developers": [], 
+      "id": 22723, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363815-snes_espnspeedworld.jpg", 
+      "name": "ESPN Speedworld", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A football game licensed by the Entertainment and Sports Programming Network and named for their 1987-2005 weekly TV series.", 
+      "developers": [], 
+      "id": 22724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2766679-2020809520-50683.jpg", 
+      "name": "ESPN Sunday Night NFL", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 463, 
+          "name": "Absolute Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An (American) football game released in August 1994 for the Atari Jaguar, SNES and Genesis. Part of the short-lived Tradewest Sports brand.", 
+      "developers": [], 
+      "id": 22725, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389609-genesis_troyaikmanfootball.jpg", 
+      "name": "Troy Aikman NFL Football", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Memories Off franchise.", 
+      "developers": [], 
+      "id": 22816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2286049-ps2.png", 
+      "name": "Omoide ni Kawaru-Kun: Memories Off", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 444, 
+          "name": "5pb."
+        }
+      ]
+    }, 
+    {
+      "deck": "A ninja-themed video game based on the 1994 movie of the same name. Three ninja brothers must retrieve a stolen dagger.", 
+      "developers": [], 
+      "id": 22726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15431/470701-588178_5080_front.jpg", 
+      "name": "3 Ninjas Kick Back", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Legend is a side-scrolling beat-em-up similar to that of Golden Axe and Final Fight.", 
+      "developers": [], 
+      "id": 22727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/827353-01.jpg", 
+      "name": "Legend", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A modern flight combat simulator for the Super Nintendo in which the player flies an F-14 Tomcat fighter jet. The game is known as Super Dogfight in Japan.", 
+      "developers": [], 
+      "id": 22728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2168943-turn_and_burn_no_fly_zone.jpg", 
+      "name": "Turn and Burn: No-Fly Zone", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 463, 
+          "name": "Absolute Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball game that was released for the Sega Genesis, Sega CD, Super Nintendo and PC. It featured the MLB license but not the Player's Association license, so the team names are present but not the player names.", 
+      "developers": [], 
+      "id": 22729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370526-genesis_espnbaseballtonight.jpg", 
+      "name": "ESPN Baseball Tonight", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling brawler with a number of precarious action segments, loosely based on the Sylvester Stallone action film of the same name.", 
+      "developers": [], 
+      "id": 22730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361226-nes_cliffhanger.jpg", 
+      "name": "Cliffhanger", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 1993 improved version of Sensible Soccer with updated rosters. This is the version that would be ported to various consoles, such as the SNES, Genesis and the Amiga CD32.", 
+      "developers": [], 
+      "id": 22731, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364742-snes_sensiblesoccer_es.jpg", 
+      "name": "Sensible Soccer 92/93", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on the 1991 Bruce Willis film of the same name. World famous cat burglar Eddie \"Hudson Hawk\" Hawkins must stop the evil Mayflowers from reconstructing Leonardo Da Vinci's alchemy machine.", 
+      "developers": [], 
+      "id": 22732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361832-nes_hudsonhawk.jpg", 
+      "name": "Hudson Hawk", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Altered Space: A 3-D Alien Adventure is an isometric view puzzle game.", 
+      "developers": [], 
+      "id": 22733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1740327-as.jpg", 
+      "name": "Altered Space: A 3-D Alien Adventure", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A simple SNES platform game in which the player has been transformed into a blue ball and must embark on a journey to stop an evil witch.", 
+      "developers": [], 
+      "id": 22734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8113/216004-smart_ball.jpg", 
+      "name": "Smart Ball", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A space action MMO being developed by StarGem Inc for the PC and Mac. Currently in open beta, featuring multiple competitive multiplayer game modes.", 
+      "developers": [], 
+      "id": 22735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10935/2418792-star_conflict_header_530x298.jpg", 
+      "name": "Star Conflict", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 434, 
+          "name": "Gaijin Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375792-box_drift.png", 
+      "name": "Dark Rift", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 436, 
+          "name": "Vic Tokai"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade racing game for the Playstation by French developer Toka. Inspired by Sega's Daytona USA and referred to by reviewers as \"a Daytona USA clone\".", 
+      "developers": [], 
+      "id": 22737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/784049-burningroad_front.png", 
+      "name": "Burning Road", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 436, 
+          "name": "Vic Tokai"
+        }
+      ]
+    }, 
+    {
+      "deck": "The lone Sega Saturn entry in the Shinobi franchise, Shinobi Legions (also known as Shinobi X and Shin Shinobi Den) features digitized graphics and live-action cutscenes filled with ninjas.", 
+      "developers": [], 
+      "id": 22738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2412944-box_shinobileg.png", 
+      "name": "Shinobi Legions", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 436, 
+          "name": "Vic Tokai"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fighting game developed by Kronos Digital Entertainment. It spawned two sequels: Dark Rift and Cardinal Syn.", 
+      "developers": [], 
+      "id": 22739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2375781-box_criticom.png", 
+      "name": "Criticom", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 436, 
+          "name": "Vic Tokai"
+        }
+      ]
+    }, 
+    {
+      "deck": "Alien Virus is a DOS based point and click adventure game.", 
+      "developers": [], 
+      "id": 22740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/720881-6985_boxshot_alien_virus.jpg", 
+      "name": "Alien Virus", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 436, 
+          "name": "Vic Tokai"
+        }
+      ]
+    }
+  ]
+}

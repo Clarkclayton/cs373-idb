@@ -1,0 +1,2293 @@
+{
+  "games": [
+    {
+      "deck": "The third game in Taito's QIX series, Volfied loses the geometric abstraction of previous games in favor of a more sci-fi look.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1700, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2246230-volfied_cover.jpg", 
+      "name": "Volfied", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Violence Fight is an early fighting game by Taito. In the world of the 1950's United States, an illegal fighting tournament called Violence Fight is held.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2287769-violencefight.png", 
+      "name": "Violence Fight", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A platformer developed by TAD Corporation.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1702, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362317-nes_toki.jpg", 
+      "name": "Toki: Going Ape Spit", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling shoot 'em up for the Arcade and PC-Engine published by Taito in 1989. The player controls the eponymous Heavy Unit: a ship that can transform into a mecha.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15864/515670-heavy.jpg", 
+      "name": "Heavy Unit", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PC Engine motorcycle racing game similar to Hang-On that is based on a manga by Shuichi Shigeno, the creator of Initial D.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2802816-0673359215-41773.jpg", 
+      "name": "Baribari Densetsu", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jump in your sports car and stop the criminals from escaping. This sequel to Chase HQ adds the ability to use guns to shoot at criminals.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1705, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2687565-8546716525-28013.jpg", 
+      "name": "Chase H.Q. II: Special Criminal Investigation", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A single-screen Arcade action platformer starring hammer-wielding dwarves.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1706, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/545303-don_doko_don_nes_box_front.jpg", 
+      "name": "Don Doko Don", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battle Shark is an arcade title developed by Taito that simulates submarine warfare.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/68180/1628879-cabinet.png", 
+      "name": "Battle Shark", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the original Rastan. Both games are set in a fantasy world where the barbarian Rastan, the video game version of Conan, takes on supernatural threats.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1708, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371378-genesis_rastansagaii_jp.jpg", 
+      "name": "Rastan Saga II", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the Bakushou!! Jinsei Gekijou series and is a four-player NES board game simulation that plays like Milton Bradley's The Game of Life. It was only released in Japan on March 17th 1989.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1709, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/554789-jinsei_gekijou_box.jpg", 
+      "name": "Bakushou!! Jinsei Gekijou", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1710, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Bubble Bobble", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An Arcade shooter developed by Taito that pitted the player against a scrolling backdrop of targets as part of a mission to rescue hostages. It is the sequel to Operation Wolf and would later be followed by another sequel, Operation Wolf 3.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1711, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2516697-otb.jpg", 
+      "name": "Operation Thunderbolt", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Classic shoot 'em up starring the Monkey King Sun Wukong (except for Western releases, where the protagonist is \"Mike Chen\")", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362870-sms_cloudmaster_br.jpg", 
+      "name": "Cloud Master", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade shoot 'em up from Taito featuring a golden dragon with a multi-segmented body. Released for the Arcade, Sharp X68000, and SNES.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1713, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2294420-syvalion.jpg", 
+      "name": "Syvalion", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The New Zealand Story follows the exploits of a flightless native bird of New Zealand called a Kiwi, who happens to look very little like a real kiwi bird.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1714, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371282-genesis_newzealandstory_jp.jpg", 
+      "name": "The New Zealand Story", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }, 
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES baseball sim from Taito and an updated version of their earlier Kyuukyoku Harikiri Stadium title. It includes a minor graphical upgrade and updated rosters.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2367364-kyuukyoku_harikari_stadium_88_fc.jpg", 
+      "name": "Kyuukyoku Harikiri Stadium '88 Senshuu Shin Data", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sengoku period board game simulation starring Beat Takeshi.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341663-takeshisengoku.jpg", 
+      "name": "Takeshi no Sengoku Fuuunko", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A driving game about chasing criminals through hi-speed pursuits and bringing them to justice! It was released by Taito for arcades in 1988 and then ported to various different home systems.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2726768-1911875248-28005.jpg", 
+      "name": "Chase H.Q.", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Top Landing is a 3D flight simulator released by Taito for the arcades in 1988. The object of the game is to land an airliner during any number of adverse conditions. It is the second of four games in Taito's \"Landing\" series.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139401/2213076-28131501.jpg", 
+      "name": "Top Landing", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Taito-published soccer game, based on the 1986 arcade title of the same name, was released for the Famicom Disk System in 1988. It was not released outside of Japan.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122201/1683241-img56849729.jpg", 
+      "name": "Kick and Run", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball simulator from Taito, developed for the Famicom in 1988. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2345500-kyuukyoku_harikari_stadium_fc.jpg", 
+      "name": "Kyuukyoku Harikiri Stadium", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Superman is a video game released for the arcades.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1721, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/1326665-gfs_37222_1_2.jpg", 
+      "name": "Superman", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Revenge of Doh is the sequel to the original Arkanoid.  It has a better game engine, graphics, sound and comes with its own level editor.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1722, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2741936-4135098767-300px.jpg", 
+      "name": "Arkanoid: Revenge of DOH", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Taito arcade game was released in 1987.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1723, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Extermination", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super QIX is the 3rd installment in the QIX franchise where players try to reveal a hidden picture.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4705/1213134-2744_1.png", 
+      "name": "Super QIX", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 1983 second installment to Taito Corporation's Golf franchise", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10389/1315256-img_1467_1.jpg", 
+      "name": "Birdie King 2", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling, hack &amp; slash brawler, developed by Taito. It started as an Arcade game in 1987, then moved to home computers and consoles such as the C64 and TurboGrafx-16. Its robotic protagonists used varied combos and intricate finishing moves that helped give the brawler some depth.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1725, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365584-tg16_theninjawarriors_2_jp.jpg", 
+      "name": "The Ninja Warriors", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Is that Conan? No it's Rastan - the video game version of Conan. Join him in his heroic adventures.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362986-sms_rastan.jpg", 
+      "name": "Rastan", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }, 
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade racing game released by Taito in 1987 and later ported to various home systems. It was the first arcade racing game to use stereoscopic 3D glasses.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/834008-cc_st.gif", 
+      "name": "Continental Circus", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Shoot bad guys and rescue the hostages in this 1987 first-person Arcade light-gun shooter from Taito.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362103-nes_operationwolf.jpg", 
+      "name": "Operation Wolf", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Full Throttle, also known as Top Speed, is an arcade racing game by Taito, released in 1987. It is similar in style to OutRun, with a fast red car hurtling through the U.S. countryside. The key difference in gameplay is the addition of a nitro boost button.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2687568-6931676910-39420.jpg", 
+      "name": "Full Throttle", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 437, 
+          "name": "LucasArts Entertainment Company LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Famicom adventure game developed by Taito and based on an obscure Japanese movie of the same name. Kyonshiizu is the Japanese name for Jiang Shi, the Chinese hopping vampire.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2306502-kyonshiizu_2_jap_640x640min.jpg", 
+      "name": "Kyonshies 2", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG adventure game for the Famicom Disk System based on Taito's Kiki KaiKai Arcade game, known in the West as Pocky and Rocky. It was only released in Japan on August 28th 1987.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1731, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/567264-kiki_kaikai_dotou_hen_box.jpg", 
+      "name": "Kiki Kaikai: Dotou-hen", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG released only in Japan for the Nintendo Famicom in 1987. It was published by Taito.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2096270-1.jpg", 
+      "name": "Mirai Shinwa Jarvas", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the original Bubble Bobble title from Taito, featuring the now human Bub and Bob. It incorporated the use of Rainbows as both a weapon to defeat enemies and as a platform to climb the levels.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362152-nes_rainbowislands.jpg", 
+      "name": "Rainbow Islands", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An Arcade game released by Taito about a priestess named Sayo-chan who must rescue the gods of fortune from monsters.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60460/1666789-kikikaikai_pce.jpg", 
+      "name": "KiKi KaiKai", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the Darius series, this game was released by Taito in 1986.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1555795-darius_arcade_flyer.png", 
+      "name": "Darius", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Soldier of Light is an arcade game released in 1986 that has both side-scrolling shooter and platforming elements.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/64793/1759578-0000.png", 
+      "name": "Soldier of Light", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 336, 
+          "name": "Technos Japan Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D flight simulator released by Taito for the arcades in 1986.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2553380-28019901.jpg", 
+      "name": "Midnight Landing", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A golfing arcade game released in 1986.  You play 18 holes on a championship course.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/935451-begolf.jpg", 
+      "name": "Big Event Golf", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi variant on Breakout that introduces power-ups and enemies to the format. It was originally developed by Taito for the Arcade and published on a multitude of home systems.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/683570-arkanoidf.jpg", 
+      "name": "Arkanoid", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Takeshi's Challenge, created by famous Japanese comedian Takeshi Kitano, who claimed to hate video games. It made the player do ridiculous actions like singing for an hour or holding a button for four hours straight. Yet it was ahead of its time in ways, with things like open world exploration, realism, life simulation, violence, and mature themes.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/953773-takeshi_no_chosenjo_boxart.png", 
+      "name": "Takeshi no Chousenjou", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platformer with a kendo theme for the NES, developed by Taito. In single player the player fights monsters on the way to kendo tournaments and in multiplayer two players face off in a kendo ring.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56971/2129437-578307_18524_front.jpg", 
+      "name": "Musashi no Ken: Tadaima Shugyou Chuu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early arcade platformer that has 100 levels. Released by Taito in 1986, it was one of the first games to feature two-player cooperative play and multiple endings.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361187-nes_bubblebobble.jpg", 
+      "name": "Bubble Bobble", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 48, 
+          "name": "Commodore 128", 
+          "short": "C128"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Swing a blade and toss shuriken at enemies in this Arcade action game from Taito.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361958-nes_legendofkage.jpg", 
+      "name": "The Legend of Kage", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An 1985 Arcade vertical-scrolling shoot-em-up by Taito and Crux in which the player controls a helicopter. It was ported to the Famicom in early 1986 in Japan only.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/572071-girons0f.jpg", 
+      "name": "Gyrodine", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Time Gal must save the world by traveling through time and stopping an evil thief from using a time traveling device  in order to become the supreme leader of his time. This game was originally released in Japanese arcades in 1985 and later ported to the Sega CD.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2430286-28131401.jpg", 
+      "name": "Time Gal", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 79, 
+          "name": "Pioneer LaserActive", 
+          "short": "LACT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early fighting game released in Japanese arcades by Taito in 1985.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/43870/1535058-onna_sansirou_01.png", 
+      "name": "Onna Sansirou: Typhoon Gal", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sidescrolling action game by Taito, released to arcades in 1985. Unusual in that the player character was female.", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/106662/1503854-lady_master_of_kung_fu.jpg", 
+      "name": "Lady Master of Kung Fu", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 1984 third installment in Taito Corporation's Golf franchise", 
+      "developers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ], 
+      "id": 1748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10389/1315258-bking3.png", 
+      "name": "Birdie King 3", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1622 @@
+{
+  "games": [
+    {
+      "deck": "X-Men RPG featuring a branching storyline which puts you in the shoes of a rookie X-Man, written by Mike Carey, who also wrote the X-Men: Legacy comic books.", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1968309-box_xmendes.png", 
+      "name": "X-Men: Destiny", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-exclusive Sega Mega Drive strategy game based on the manga of the same name. Follow the journey of a martial artist as he fights to the top. ", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 261, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/100205/1426803-shura_no_mon_box_artwork.jpg", 
+      "name": "Shura no Mon", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this action-RPG from Silicon Knights, players take on the role of the Norse god Baldur, whose protective feelings towards Humanity and refusal to augment his body with cybernetics lead the other Aesir to label him \"too Human\".", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2022688-box_thuman.png", 
+      "name": "Too Human", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Remake of the acclaimed PlayStation stealth-action action title Metal Gear Solid, developed under supervision of creator Hideo Kojima and legendary Nintendo game designer Shigeru Miyamoto.", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1789944-box_mgstts.png", 
+      "name": "Metal Gear Solid: The Twin Snakes", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Eternal Darkness: Sanity's Requiem is an action-adventure game notable for its Lovecraftian horror, multiple playable characters from different time periods, and fourth-wall-breaking \"sanity effects\".", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1849082-box_edsr.png", 
+      "name": "Eternal Darkness: Sanity's Requiem", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set in the dark, brooding world of Nosgoth, Blood Omen tells a compelling tale about betrayal and vengeance.  It's also known for its horrendously long load times.", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1795897-box_lokbo.png", 
+      "name": "Blood Omen: Legacy of Kain", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 607, 
+          "name": "Crystal Dynamics, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based strategy game where you control several fantasy units in a quest to overcome the opposing \"orb-keeper\".", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1701956-strategy_3_the_dark_legions.jpg", 
+      "name": "Dark Legions", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Fantasy Fest is a compilation of four games from SSI using the Dungeons & Dragons license.", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2264218-fantasyfest_boxart.jpg", 
+      "name": "Fantasy Fest!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/621953-box_fantasyempires_1_.jpg", 
+      "name": "Fantasy Empires", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A turn-based strategy game developed by Silicon Knights, Inc.", 
+      "developers": [
+        {
+          "id": 3, 
+          "name": "Silicon Knights, Inc."
+        }
+      ], 
+      "id": 208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1504834-cyberempires_pcbox1992boxart_160w.jpg", 
+      "name": "Cyber Empires", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "When The Boss is captured by Satan, it's up to Johnny Gat and Kenzie Kensington to cause as much chaos as possible in Hell to rescue them in this standalone expansion to Saints Row IV.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2676178-8129300452-gatou.jpg", 
+      "name": "Saints Row: Gat Out of Hell", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PlayStation 4 and Xbox One re-release of Saints Row IV that comes bundled with all of its DLC, including the Gat Out of Hell expansion pack.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2716884-91raiixyzol._sl1500_.jpg", 
+      "name": "Saints Row IV: Re-Elected", 
+      "platforms": [
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "When invading aliens capture the Saints and imprison their minds in a digital recreation of Steelport, it's up to the Boss (who by now has become the President of the United States) to free Earth from its oppressive new overlords.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525258-box_sr4.png", 
+      "name": "Saints Row IV", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "After turning their infamy into worldwide fame, the Third Street Saints now find themselves at war with a powerful criminal organization called The Syndicate. Strap it on.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2058139-box_srow3.png", 
+      "name": "Saints Row: The Third", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 364, 
+          "name": "Deep Silver"
+        }
+      ]
+    }, 
+    {
+      "deck": "Get your ass back to Mars in the fourth installment of the environmental destruction-focused Red Faction series. In Armageddon, players go back underground for the first time since the original Red Faction.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1805114-box_rfa.png", 
+      "name": "Red Faction: Armageddon", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "After the death of his brother at the hands of a corrupt Earth government, Alec Mason has no choice but to join the Red Faction terrorist cell and fight to free Mars from Earth oppression.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2116225-box_rfactiong.png", 
+      "name": "Red Faction: Guerrilla", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "The clone that surpassed the original returns with the even more over-the-top sequel to Volition's popular open-world mayhem generator, Saints Row.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1967525-box_sr2.png", 
+      "name": "Saints Row 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Saints Row is an open-world crime game which lets you create a character and help a man named Julius and his gang, the 3rd Street Saints, rise to the top and take back control of Stilwater.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1824060-box_sr1.png", 
+      "name": "Saints Row", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Crime is everywhere on the streets of New York City. As Frank \"the Punisher\" Castle, it is your job to clean them up. However, there seem to be bigger things at hand...", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2303998-box_tp.png", 
+      "name": "The Punisher", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the Geomod charged first-person shooter Red Faction, Red Faction II focuses on a military-driven storyline instead of the uprise of a lowly miner.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2116224-box_rfaction2.png", 
+      "name": "Red Faction II", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Summoner 2 is a fantasy-RPG where you take the role of Maia, a queen and goddess reborn, as you try to save the world from impending doom.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/1464370-summoner2palfront.jpg", 
+      "name": "Summoner 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Set on Mars in the near future, Red Faction is a first-person shooter developed by Volition. It follows the fight of miners against the oppressive Ultor corporation and features dynamic destructible environments.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2116223-box_rfaction.png", 
+      "name": "Red Faction", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 31, 
+          "name": "N-Gage", 
+          "short": "NGE"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Summoner is a realtime role-playing game from Red Faction creators Volition.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2115780-box_summoner.png", 
+      "name": "Summoner", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Freespace 2 is a space-sim developed by Volition Incorporated and released in 1999 for the PC. It is still considered by many to be the finest example of its genre.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/118/644674-freespace2.jpg", 
+      "name": "Freespace 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion to the original Freespace.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117587/1661334-freespdes.jpg", 
+      "name": "Descent: Freespace: Silent Threat", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Known as Conflict: Freespace in Europe, Descent: Freespace is a space combat sim by Volition, published by Interplay in 1998.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/729974-freespace1box.jpg", 
+      "name": "Descent: Freespace - The Great War", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror game by Guillermo del Toro.", 
+      "developers": [
+        {
+          "id": 4, 
+          "name": "Deep Silver Volition, Inc."
+        }
+      ], 
+      "id": 225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81887/1654818-insane_1.jpg", 
+      "name": "inSANE", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A fishing game for the PlayStation Vita.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2418689-2012913121127_1.jpg", 
+      "name": "Let\u2019s Fish! Hooked On", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A mahjong game for arcades and PSP featuring Higurashi characters.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2280862-jong.png", 
+      "name": "Higurashi no Naku Koro ni Jong", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ape Escape: On the Loose is a PSP port of the original Ape Escape for the Playstation. The major differences include better graphics and altered controls due to the PSP's lack of a second analog stick. ", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837487-box_aeotl.png", 
+      "name": "Ape Escape: On the Loose", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "SEGA AGES 2500 Vol.13: OutRun is a remake of the arcade classic as part of the Sega Ages series. This version was included in the Sega Classics Collection when released in America and Europe.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 229, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2764528-3772727124-44466.jpg", 
+      "name": "SEGA AGES 2500 Vol.13: OutRun", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sega Ages 2500 Series Vol. 10: After Burner II is a Shoot-'Em-Up game, developed by Sims and published by Sega", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2266160-919295_27414_front.jpg", 
+      "name": "SEGA AGES 2500 Vol. 10: After Burner II", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 231, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/841580-916724_52029_front.jpg", 
+      "name": "SEGA AGES 2500 Vol.5: Golden Axe", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A fishing game for the GameCube and PlatStation 2", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840123-561294_front.jpg", 
+      "name": "Top Angler: Real Bass Fishing", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1898086-digi.jpg", 
+      "name": "Digimon Tamers: Brave Tamer", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 234, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/154800/2158592-d1tamers.jpg", 
+      "name": "Digimon Adventure 02: D1 Tamers", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 235, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/154800/2158589-tagtamers.jpg", 
+      "name": "Digimon Adventure 02: Tag Tamers", 
+      "platforms": [
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 236, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/154800/2158114-cathodetamercover.jpg", 
+      "name": "Digimon Adventure: Cathode Tamer", 
+      "platforms": [
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A WonderSwan exclusive entry in the Digimon series.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 237, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/154800/2158109-anodetamerboxart.jpg", 
+      "name": "Digimon Adventure: Anode Tamer", 
+      "platforms": [
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Cardcaptor Sakura adventure game for Wonderswan.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 238, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1665992-cc.jpg", 
+      "name": "Cardcaptor Sakura: Sakura to Fushigi na Clow Cards", 
+      "platforms": [
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade fishing game from Sega.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 239, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1988279-box_sbf.png", 
+      "name": "SEGA Bass Fishing", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Momotaro board game", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 240, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2350496-momotarodouchuuki.jpg", 
+      "name": "Momotaro Douchuuki", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2.5D fighting game version of UltraMan featuring a polygonal graphics but preset foreground and background movement.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 241, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2589107-199154_53849_front.jpg", 
+      "name": "UltraMan: Hikari no Kyojin Densetsu", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mighty Morphin Power Rangers: The Movie, is a 1995 video game released on the SNES, Sega Genesis, Game Boy, and Sega Game Gear. The game follows the plot of the movie and was developed by Bandai/Banpresto.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 242, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371354-genesis_powerrangersthemovie_2.jpg", 
+      "name": "Mighty Morphin Power Rangers: The Movie", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Slam Dunk: Kyougou Makkou Taiketsu! is a basketball game based on the anime Slam Dunk", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 243, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2576561-2683478441-57046.jpg", 
+      "name": "From TV Animation: Slam Dunk: Kyougou Makkou Taiketsu!", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "On the day of his wedding, the prince's bride is kidnapped by a battalion of flying robots. The prince sets off on a journey to reclaim his lost love and discover the meaning of the attack in this traditional turn-based RPG known for its stiff difficulty.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 244, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/822758-vay_scd_us.jpg", 
+      "name": "Vay", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tecmo World Cup '93 was a Master System exclusive entry in Tecmo's World Cup series.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 245, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582963-4339507337-57021.jpg", 
+      "name": "Tecmo World Cup '93", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 246, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/105947/1518667-outrun_2019_mg.png", 
+      "name": "OutRun 2019", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Disney's Aladdin was the title of several different games from different developers based on the classic Disney film, Aladdin. As the titular character, players venture through many levels inspired by events and locations in the movie.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 247, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361667-nes_disneysaladdin_de.jpg", 
+      "name": "Disney's Aladdin", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game featuring Crayon Shin-Chan that was released for the Super Famicom and Mega Drive.", 
+      "developers": [
+        {
+          "id": 5, 
+          "name": "Sims Co., Ltd."
+        }
+      ], 
+      "id": 248, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2134446-arashi_o_yobu_enji.jpg", 
+      "name": "Crayon Shin-Chan: Arashi o Yobu Enji", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }
+  ]
+}

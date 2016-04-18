@@ -1,0 +1,1482 @@
+{
+  "games": [
+    {
+      "deck": "The second game in the Famicom Tantei Club franchise is a prequel to the original game. In this game, the player takes on the role of a young detective involved in two murder cases each relating to a myth called \"The Girl in Back.\"", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2146, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1036928-famicomtanteiclub2_boxarts.png", 
+      "name": "Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A stock market simulation game from Hect for the NES. Like most, but not all, NES stock market simulators it was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2147, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2383746-kabushiki_doujou_fc.jpg", 
+      "name": "Kabushiki Doujou: The Stock Speculation", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The title roughly translates to \"Seal of Darkness\". It is a Famicom exclusive action RPG released on April 27, 1989 in Japan and is a prequel to the 1984 game Dragon Buster.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2148, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361682-nes_dragonbuster2.jpg", 
+      "name": "Dragon Buster II: Yami no Fuuin", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES brawler based on the Shounen Jump manga. It was developed by TOSE and published by Bandai.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2149, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2375139-sakigake_otokojuku_fc.jpg", 
+      "name": "Sakigake!! Otokojuku: Shippu Ichi Gou Sei", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Famicom Jump: Hero Retsuden is a 1989 action RPG for the Famicom (NES) console published by Bandai, based on the popular weekly Japanese manga anthology Jump and its characters. The combat system was in real-time with martial arts.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1870429-famicomjump.jpg", 
+      "name": "Famicom Jump: Hero Retsuden", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second in the Yamamura Misa Suspense series of murder mystery adventure games. It was published by Taito for the Famicom in Japan only.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2372271-yamamura_misa_hana_fc.jpg", 
+      "name": "Yamamura Misa Suspense: Kyoto Hana no Misshitsu Satsujin Jiken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bandai Golf is a golf game created by Bandai for the NES.  The game was released in 1989", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/246317-bandai_golf.jpg", 
+      "name": "Bandai Golf: Challenge Pebble Beach", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken is a mystery game released for the Nintendo Famicom in 1989.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2094842-1.jpg", 
+      "name": "Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 338, 
+          "name": "Irem Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Was produced and released in 1988 to coincide with the anime movie of the same name released earlier that year.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/961977-akirns0f.jpg", 
+      "name": "Akira", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Racket Attack is a tennis game published by Jaleco for the NES. Known in Japan as \"Moero!! Pro Tennis\".", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362148-nes_racketattack.jpg", 
+      "name": "Racket Attack", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A card-based NES RPG based on the Dragon Ball manga and anime. This was only released in Japan, on August 12th 1988.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2156, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/558370-dragon_ball_daimaou_fukkatsu_box_front.jpg", 
+      "name": "Dragon Ball: Daimaou Fukkatsu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A war strategy game that focuses on the Ancient Chinese Three Kingdoms conflict. It was developed by TOSE and published by Namco for the NES.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2348129-sangokushi_nakahara_no_hashi_fc.jpg", 
+      "name": "Sangokushi: Nakahara no Hasha", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to Saint Seiya: Ougon Densetsu, based on the Saint Seiya anime and manga. It was only released in Japan for the Famicom.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2158, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/558576-saint_seiya_ougon_densetsu_kanketsu_hen_box.jpg", 
+      "name": "Saint Seiya: Ougon Densetsu - Kanketsu Hen", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Namco Classic is a golf game released only in Japan for the Nintendo Famicom and Game Boy", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2112949-1.jpg", 
+      "name": "Namco Classic", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES platformer game based on the Kamen Rider license, published by Bandai in Japan in 1988.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2335921-kamen_rider_club_fc_box.jpg", 
+      "name": "Kamen Rider Club: Gekitotsu Shocker Land", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy was the first entry in the now widely recognized Final Fantasy franchise, originally developed on the NES by Square (now Square-Enix).", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361723-nes_finalfantasy.jpg", 
+      "name": "Final Fantasy", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first in a series of murder mystery games by Taito penned by and named for Japanese mystery writer Misa Yamamura. The game was released only in Japan for the Nintendo Famicom on December 11, 1987.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2094273-1.jpg", 
+      "name": "Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A space shooter/simulation created by Jaleco in 1987 for the Famicom. Players must avert the destruction of the Earth by locating the parts of and building a superweapon.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2418582-uchuusen_cosmo_carrier.jpg", 
+      "name": "Uchuusen Cosmo Carrier", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Lupin III action game for the Famicom. It is based somewhat on the movie Castle of Cagliostro.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1663502-lupin_iii_pandora_no_isan.jpg", 
+      "name": "Lupin III: Pandora no Isan", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game by SunSoft for the Famicom. The game is based on a TV show about a retired governor and his retainers going around solving problems in Edo period Japan.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2301465-tenka_no_goikenban_mito_koumon_fc_box.jpg", 
+      "name": "Tenka no Goikenban: Mito Koumon", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG based on the famous Saint Seiya anime and manga. It was released in Japan on August 10th 1987 and later received a French translation due to Saint Seiya's popularity in France (as Les Chevaliers du Zodiaque).", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2134120-saint_seiya_ougon_densetsu.jpg", 
+      "name": "Saint Seiya: Ougon Densetsu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Karaoke/Singalong game ever released. Karaoke Studio was released on the Nintendo Family Computer (Famicom). ", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/98314/1621947-karaoke_studio4.jpg", 
+      "name": "Karaoke Studio", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bases Loaded allowed players to control one of twelve fictional teams in either single player which allowed up to two players, or a full season. The game featured a television style depiction where the player took the perspective of the pitcher.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2168, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361156-nes_basesloaded.jpg", 
+      "name": "Bases Loaded", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A golf game for the Famicom Disk System developed by Tose and published by Bandai. It is based on the Pro Golfer Saru anime.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2169, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2289891-pro_golfer_saru_fds_box.jpg", 
+      "name": "Pro Golfer Saru: Kage no Tournament", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Yokai Dochuki is an Arcade game by Namco that follows the adventures of a young boy through Jigoku, the Japanese equivalent of Hell. The game was later released for the PC Engine and Family Computer, but neither version was available outside of Japan. However, an unofficial english arcade version titled \"Shadow Land\" exists.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2170, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365597-tg16_youkai_douchuuki_front_jp.jpg", 
+      "name": "Shadow Land", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical-scrolling shooter for the Arcades and the NES. It was developed by NMK and published by Jaleco in Japan only.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2427879-argus_fc.jpg", 
+      "name": "Argus", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Muder on the Mississippi is a mystery game initially released in 1986 for the Apple II, Commodore 64 and Commodore 128. It was later ported to the Famicom and MSX2 in Japan.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1499000-mississippi_front.jpg", 
+      "name": "Murder on the Mississippi", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Side-scrolling platformer based off the Japanese manga and anime made by Rumiko Takahashi.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1530665-uylnwb_front.jpg", 
+      "name": "Urusei Yatsura: Lum's Wedding Bell", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A platformer for the NES, developed by TOSE and published by Namco in Japan and Taxan in the US. It's a NES-exclusive sequel to Namco/Midway's early Arcade classic Mappy.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362031-nes_mappyland.jpg", 
+      "name": "Mappy Land", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ninja Kid (Gegege no Kitarou) is a NES platformer published by Bandai. As with Super Mario Bros 2, Ninja Kid went through some significant changes for its US release.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2175, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/222292-ninja_kid.jpg", 
+      "name": "Ninja Kid", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second NES Ninja Jajamaru game in a series of ninja-themed platformers from Jaleco.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2430221-jajamaru_no_daibouken_fc.jpg", 
+      "name": "Jajamaru no Daibouken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A chubby Cupid need to save his friends, while being attacked by beagles, bulldogs and cats.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/189/234045-587187_46892_front.jpg", 
+      "name": "Chubby Cherub", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ikki is a Japanese arcade game developed by Sunsoft. It was also released for the Nintendo Famicom.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2091843-i1.jpg", 
+      "name": "Ikki", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "This ninja-based Famicom game finally made its way outside of Japan with releases on the Wii's Virtual Console.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2414277-ninja_jajamaru_kun_fc.jpg", 
+      "name": "Ninja JaJaMaru-kun", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One of the first Wrestling games released on the NES, based on Yudetamago's manga and Kinnikuman anime.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/219934-m.u.s.c.l.e.jpg", 
+      "name": "M.U.S.C.L.E.", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An early vertical shooter developed by TOSE and published by Jaleco in Japan. It was Jaleco's first release for the Famicom.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56971/1494810-exerion_box_art.jpg", 
+      "name": "Exerion", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "3000AD leaves behind its space-faring roots to take on a new style of combat in All Aspect Warfare.", 
+      "developers": [
+        {
+          "id": 59, 
+          "name": "3000AD, Inc."
+        }
+      ], 
+      "id": 2211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1872/1101801-header.jpg", 
+      "name": "All Aspect Warfare", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 59, 
+          "name": "3000AD, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Buster is a dungeon-crawling, arcade platformer with RPG elements, released by Namco in 1984. It was later ported to various home systems. It featured several firsts in gaming history: the double-jump, the life meter, and the hub world map. It was also one of the first action games with RPG elements.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1033470-dragon_buster_arcadeflyer.png", 
+      "name": "Dragon Buster", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Vanguard is a scrolling shooter that allows players to shoot in multiple directions in space. The player spends their time avoiding obstacles and shooting enemies in order to replenish their quickly dissipating fuel supply.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2606592-27001302.jpg", 
+      "name": "Vanguard", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released by SNK in 1980, it was an early shoot 'em up that featured human characters on foot instead of vehicles, spacecraft, or aliens. The player character faces off against multiple shuriken-throwing ninjas and along the way faces several bosses, such as a flame-shooting shinobi.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2472074-svc.jpg", 
+      "name": "Sasuke vs Commander", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Sci-Fi themed tactical RPG is one of numerous games in the Front Mission franchise.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/756398-1.jpg", 
+      "name": "Front Mission 2089: Border of Madness", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "From TV animation: Slam Dunk SD Heat Up!! is a Basketball Sim game, developed by TOSE and published by Bandai, which was released in Japan in 1995.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2141087-sd_heat_up.jpg", 
+      "name": "From TV animation - Slam Dunk SD Heat Up!!", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An isometric adventure game from Rare Ltd., back when they were still called Ultimate. ", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10201/375600-947593_104156_front.jpg", 
+      "name": "Knight Lore", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 110, 
+          "name": "Rare, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Single-player action game released in Japan in 1993, published by B-AI.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/138495/1907216-datach___battle_rush___build_up_robot_tournament__j_2.png", 
+      "name": "Battle Rush: Build Up Robot Tournament", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released in 1991 for the Game Boy. Known in Japan as \"Soccer\". Developed by TOSE and published by Tonkin House (Japan)/Bandai (Europe).", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2230896-soccer___game_boy.jpg", 
+      "name": "Football International", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Commando-style vertical-scrolling shoot-em-up with a few novel features. It was developed by TOSE and published by Jaleco for Arcades and the Nintendo Famicom.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2413206-field_combat_fc.jpg", 
+      "name": "Field Combat", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take control of the bizarre children's toy in this rhythm game for Game Boy Color.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/90155/1459539-576694_15721.jpg", 
+      "name": "Dancing Furby", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Namco Classic II is a golf game released only in Japan for the Nintendo Famicom", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2112950-1.jpg", 
+      "name": "Namco Classic II", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Donkey Kong Island is being threatened by a group of vikings called the Snowmads who kicked the Kongs off their island and covered it in snow and ice. Play Donkey, Diddy, Dixie, and for the first time ever, Cranky Kong and travel across multiple islands to reclaim your home in this 2D platformer by Retro Studios.", 
+      "developers": [
+        {
+          "id": 57, 
+          "name": "Monster Games, Inc."
+        }
+      ], 
+      "id": 2193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2684855-dkc5crop.jpg", 
+      "name": "Donkey Kong Country: Tropical Freeze", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pilotwings Resort is a flight simulation video game for the Nintendo 3DS handheld game console, developed by Monster Games and published by Nintendo. Similarly to its predecessors, it was confirmed as a launch title in North America and Europe.", 
+      "developers": [
+        {
+          "id": 57, 
+          "name": "Monster Games, Inc."
+        }
+      ], 
+      "id": 2194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1845415-box_presort.png", 
+      "name": "Pilotwings Resort", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1740 @@
+{
+  "games": [
+    {
+      "deck": "Einh\u00e4nder is a futuristic side-scrolling shooter featuring explosive visuals, pounding techno music, and simulated 3D gameplay.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/28/175956-einhander.jpg", 
+      "name": "Einh\u00e4nder", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy Tactics is an isometric turn-based strategy game with RPG elements set in the world of Ivalice. It follows the plight of Ramza Beoulve on his quest to obtain the 12 Zodiac Brave stones and stop the corrupt Church of Glabados from unleashing an ancient evil.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814645-box_fft.png", 
+      "name": "Final Fantasy Tactics", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only release of the Front Mission series, Front Mission Alternative is a Real Time Strategy where the player does not directly command Wanzers but rather gives general commands (such as move, attack, etc.) to a squads of up to 3 Wanzers.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 503, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2502872-box.png", 
+      "name": "Front Mission Alternative", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join Mario in his first RPG adventure! Explore new and previously unseen areas of the Mushroom Kingdom on a quest to stop the mechanical Smithy on a path of conquest in this collaboration between Square and Nintendo.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364832-snes_supermariorpg_2.jpg", 
+      "name": "Super Mario RPG: Legend of the Seven Stars", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG with eight characters whose stories are played sequentially (instead of simultaneously and together like other RPGs) and where one character's play will alter subsequent story and play.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2680735-untitled.jpg", 
+      "name": "Romancing SaGa", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy IV is a critically acclaimed RPG in the Final Fantasy series and one of the first of its kind to tell a heavily character-driven story. It also created the Active Time Battle system.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5128/814659-ff4_logo.jpg", 
+      "name": "Final Fantasy IV", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third Final Fantasy released on the Famicom. This version of the game was never released internationally.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/601851-ff03ns012.jpg", 
+      "name": "Final Fantasy III", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Embark on an adventure with characters from different walks of life, all destined to unite with you, to save the world.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361687-nes_dragonwarrior4.jpg", 
+      "name": "Dragon Quest IV: Chapters of the Chosen", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy II follows four heroes who join a resistance group and try to stop an empire from taking over the world. Its gameplay deviates greatly from the first game by utilizing a usage-based growth system.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/632636-final_fantasy_ii_jp_ps_front.jpg", 
+      "name": "Final Fantasy II", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy was the first entry in the now widely recognized Final Fantasy franchise, originally developed on the NES by Square (now Square-Enix).", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361723-nes_finalfantasy.jpg", 
+      "name": "Final Fantasy", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG from Square-Enix released only in Japan.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1100452-codeagecommandersboxart.jpg", 
+      "name": "Code Age Commanders", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Teased since the PlayStation 3's debut, Square Enix finally delivers a complete remake of the fan favorite Final Fantasy.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2759657-ff7logo.jpg", 
+      "name": "Final Fantasy VII Remake", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 3rd installment of the Hanjuku Eiyuu series.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1167261-hanjuku3dboxart.jpg", 
+      "name": "Hanjuku Eiyuu Tai 3D", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Access Games' sequel to the RPG Lord of Arcana.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 514, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2178363-cover.jpg", 
+      "name": "Lord of Apocalypse", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third sequentially numbered title in the Kingdom Hearts franchise; it was revealed during the 2013 Sony E3 press conference.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2496065-vlcsnap-2013-06-10-21h55m15s203.png", 
+      "name": "Kingdom Hearts III", 
+      "platforms": [
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "All Star Pro-Wrestling III is a professional wrestling video game published by Square in 2003 for the PlayStation 2", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28122/1259528-all_star_pro_wrestling_iii.jpg", 
+      "name": "All Star Pro-Wrestling III", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A fantasy card battle game for iOS and Android.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/2231584-guardiancross3809gclogocmykblack.jpg", 
+      "name": "Guardian Cross", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Oceanic Community Union (OCU) and the United States of the New Continent (USN) fight for control of Huffman Island in this online chapter of the Front Mission series.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2502883-box.png", 
+      "name": "Front Mission Online", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Fullmetal Alchemist game for the Wii.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2649935-fmaprincewii.jpg", 
+      "name": "Fullmetal Alchemist: Prince of the Dawn", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another entry in the \"Chocobo Racing\" franchise. This one is set for release on the Nintendo 3DS.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16324/1405814-4.png", 
+      "name": "Chocobo Racing 3D", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free to play mobile RPG from Square Enix.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2676206-8230910460-YRujX.jpg", 
+      "name": "3594e", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Sci-Fi themed tactical RPG is one of numerous games in the Front Mission franchise.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 522, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/756398-1.jpg", 
+      "name": "Front Mission 2089: Border of Madness", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 4th installment of the Hanjuku Eiyuu series.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1167260-hajuku4logo.jpg", 
+      "name": "Hanjuku Eiyuu 4", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mobile Role Playing Game by Square Enix for iOS and Android.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 524, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2709351-3bnvhal.jpg", 
+      "name": "Arcadia no Aoki Miko", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Real NFL players and teams appear as kids in this youth-oriented seven-on-seven football game.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1196288-bkyr2010.jpg", 
+      "name": "Backyard Football '10", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "No info.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 526, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/830785-me0000983331_2.jpg", 
+      "name": "Backyard Football '09", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Baseball '09 is the most recent game in the Backyard Sports franchise.  It features David \"Big Papi\" Ortiz on the cover, and boasts new play modes, such as Home Run Derby.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/256240-116251_full.jpg", 
+      "name": "Backyard Baseball 2009", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Football '08 is one in a series of fun, non-sim style sports titles from Atari. It features cartoon-style graphics and simple football gameplay.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/46484/1116955-backyardfootball08.jpg", 
+      "name": "Backyard Football '08", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Baseball is a 3D cartoon baseball sim. ", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/487323-backyardbaseball2007_boxart.jpg", 
+      "name": "Backyard Baseball 2007", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Football game for GBA.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 530, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2407373-backyard_sports_football_2007.jpg", 
+      "name": "Backyard Sports Football 2007", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Backyard Skateboarding game. ", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 531, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/364966-929582_69516_front.jpg", 
+      "name": "Backyard Skateboarding 2006", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 532, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/364598-g20325orrkh.jpg", 
+      "name": "Backyard Skateboarding", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Hockey 2005 is a \"arcade style\" 3 vs 3 hockey game that featured all 30 NHL Franchises and over 10 Different NHL Stars.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 533, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/534844-36866.jpg", 
+      "name": "Backyard Hockey 2005", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Atari brings family friendly baseball to the PC for the 2004 season.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 534, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1101633-backyard05.jpg", 
+      "name": "Backyard Baseball 2005", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Football 2004 featured real NFL players, as kids.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 535, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/347590-1662.jpg", 
+      "name": "Backyard Football 2004", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 536, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/260823-tnissvywpm.thumb160.jpg", 
+      "name": "Backyard Basketball 2004", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 537, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8884/399076-pajamasam4_1.jpg", 
+      "name": "Pajama Sam: Life is Rough When You Lose Your Stuff", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Soccer continues the 2-D style that the backyard sports games are known for. It also includes MLS players as kids. ", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 538, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/548106-ndifg1.jpg", 
+      "name": "Backyard Soccer 2004", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first installment of the Backyard Hockey series, where you can play as cartoon versions of real NHL players.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 539, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/701913-28660.jpg", 
+      "name": "Backyard Hockey", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based strategy game with some simple twists to make it easy to learn but difficult to master.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 540, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/1459462-moonbase_commander.jpg", 
+      "name": "Moonbase Commander", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backyard Baseball 2003 features 30 playable Major League players, as kids.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/252633-item_87796_2.jpg", 
+      "name": "Backyard Baseball 2003", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in Humongous Entertainment's cartoonish baseball series is the first to hit consoles, bringing with it a revised roster of MLB players as well as the original kids.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 542, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/625512-backyard_baseball_52309.235751.jpg", 
+      "name": "Backyard Baseball", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first installment of backyard basketball series, where you can play as cartoon versions of real NBA and WNBA players.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/257129-2bb.jpg", 
+      "name": "Backyard Basketball", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18329/625338-pajama_sam_games_to_play.jpg", 
+      "name": "Pajama Sam: Games to Play on Any Day", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The successor to the original Backyard Football, this game makes vast improvements in gameplay and graphics.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/252933-backf02.jpg", 
+      "name": "Backyard Football 2002", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Poodles Galore is destroying the ozone layer of Earth with her hairspray satellite, and it is up to Spy Fox to stop her evil scheme.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 546, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/236422-spy5.jpg", 
+      "name": "Spy Fox: Operation Ozone", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Freddi and Luther investigate a supposed monster that's keeping people out of Coral Cove Park.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/617682-freddifish5.jpg", 
+      "name": "Freddi Fish 5: The Case of the Creature of Coral Cove", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A point and click adventure game aimed at kids starring Putt-Putt.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/617679-42425.jpg", 
+      "name": "Putt-Putt Joins the Circus", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 549, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1516/255580-backyard_soccer_mls_edition_coverart.png", 
+      "name": "Backyard Soccer MLS Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One of Humongous Entertainment's three popular One-Stop Fun Shop series of learning games starring their original characters -- Putt-Putt, Pajama Sam and Freddi Fish.", 
+      "developers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ], 
+      "id": 550, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18329/609949-freddi_one_stop.jpg", 
+      "name": "Freddi Fish's One-Stop Fun Shop", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 8, 
+          "name": "Humongous Entertainment"
+        }
+      ]
+    }
+  ]
+}

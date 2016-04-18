@@ -1,0 +1,1258 @@
+{
+  "games": [
+    {
+      "deck": "A Halloween themed racing game for the Game Boy Color.", 
+      "developers": [], 
+      "id": 23545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1582/523094-hall_b.jpg", 
+      "name": "Halloween Racer", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rage of Mages (known as Allods: Sealed Mystery in Russia) is an RTS/RPG created by Nival Interactive, and is the first game in the Allods franchise.", 
+      "developers": [], 
+      "id": 23546, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13084/581874-6.png", 
+      "name": "Rage of Mages", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1037805-rodeo_1.png", 
+      "name": "Rodeo", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790478-sky_skipper__1983___parker_bros_.jpg", 
+      "name": "Sky Skipper", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 558, 
+          "name": "Parker Brothers"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "This unreleased game from Parker Brothers stars Dracula as he searches for a girl named Mina, with the aid of the Reebok Pump.", 
+      "developers": [], 
+      "id": 23551, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2177215-dno.jpg", 
+      "name": "Drac's Night Out", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 558, 
+          "name": "Parker Brothers"
+        }
+      ]
+    }, 
+    {
+      "deck": "Galak-Z is a sci-fi roguelike space shooter inspired by anime of the 1970s and '80s.", 
+      "developers": [], 
+      "id": 23552, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/2496428-gz.jpg", 
+      "name": "Galak-Z: The Dimensional", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy game for Android and iOS devices in which players create clans and compete against each other.", 
+      "developers": [], 
+      "id": 23553, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/150889/2347208-fc003520bf87740009010db7c453da78.png", 
+      "name": "Clash of Clans", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second entry in the \"Favorite Dear\" series of RPG/raising simulation games.", 
+      "developers": [], 
+      "id": 23554, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2468726-untitled.png", 
+      "name": "Favorite Dear: Enkan no Monogatari", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the \"Favorite Dear\" series.", 
+      "developers": [], 
+      "id": 23555, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2468725-untitled.png", 
+      "name": "Favorite Dear: Jyunpaku no Yogensha", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese RPG that explores the story of the Wizard of Oz.  Oz no Mahoutsukai - Another World - RungRung is playable on PS3\u2122, PSP\u00ae, PSVita. Japanese language only.", 
+      "developers": [], 
+      "id": 23556, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/182777/2457880-577809_17770_front.jpg", 
+      "name": "Oz no Mahoutsukai - Another World - RungRung", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japanese Dekotora (Art Truck) racing game framed in a board game for the PS1.", 
+      "developers": [], 
+      "id": 23557, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2382049-artkami.png", 
+      "name": "Art Camion Sugorokuden", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Help Sarara manage her RPG item shop and make sure the local heroes have the gear they need to make it back from their quests in one piece.", 
+      "developers": [], 
+      "id": 23558, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2635021-8474338426-31YOQ.jpg", 
+      "name": "Sarara's Little Shop", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take charge of Shizuka Gozen's life and raise her to become the next top idol.", 
+      "developers": [], 
+      "id": 23559, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2634961-2005632356-517UH.jpg", 
+      "name": "Heroine Dream 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "In post-apocalyptic Tokyo, high school girls settle their differences by battling using powered up school uniforms.", 
+      "developers": [], 
+      "id": 23560, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2634368-3016057956-51smK.jpg", 
+      "name": "Tokyo 23-Ku Seifuku Wars", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG developed by KSS for the PlayStation in 1997.", 
+      "developers": [], 
+      "id": 23561, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2762029-front.jpg", 
+      "name": "Ryuki Densyo: Dragoon", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Simulation game where the player has is tasked with terraforming a new world while trying to keep its ecology in balance.", 
+      "developers": [], 
+      "id": 23562, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2634360-5268738782-410uo.jpg", 
+      "name": "Neo Planet", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mecha combat game for the PS1.", 
+      "developers": [], 
+      "id": 23563, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2382381-573725_13292_front.jpg", 
+      "name": "Vehicle Cavalier", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 561, 
+          "name": "GungHo Online Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Visual novel based on the series of light novels by Hajime Kamoshida.", 
+      "developers": [], 
+      "id": 23564, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2407977-sakuraso_cover.jpg", 
+      "name": "Sakura-so no Pet na Kanojo", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Moon: Remix RPG Adventure is about a boy who was playing his RPG game, Moon, then mysterious gets sucked into its world in a ghostly apparition form. Boy helps the souls of animals slain by Hero and understand why the world has changed from Moon to worse.", 
+      "developers": [], 
+      "id": 23565, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1095763-moonboxart.jpg", 
+      "name": "Moon: Remix RPG Adventure", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gunple: Gunman's Proof is a Legend of Zelda style action-adventure released for the Super Famicom in 1997 featuring top-down shooting and a unique sci-fi/western motif.", 
+      "developers": [], 
+      "id": 23566, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/427744-gunman_box.jpg", 
+      "name": "Gunple: Gunman's Proof", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1997 for the Super Famicom.", 
+      "developers": [], 
+      "id": 23567, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2337246-pikiinya_.jpg", 
+      "name": "Pikiinya!", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "3D Shooting Tsukuru is an action game developed and published by ASCII Entertainment, which was released in Japan in 1996.", 
+      "developers": [], 
+      "id": 23568, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/27/270548/2727534-8035414300-31112.jpg", 
+      "name": "3D Shooting Tsukuru", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Fourth of the Wizardy Gaiden games, \"Throb of the Demon's Heart\".", 
+      "developers": [], 
+      "id": 23569, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31838/1690397-571483_9197_front.jpg", 
+      "name": "Wizardry Gaiden IV: Taima no Kodou", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sound Novel Tsukuru is the first of two customizable interactive audio book editors by ASCII and Success. It was released in the latter days of the Super Famicom on a large cartridge (SHVC-040) that takes memory paks compatible with the Satellaview system.", 
+      "developers": [], 
+      "id": 23570, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122201/1682619-soundnoveltsukurucover.png", 
+      "name": "Sound Novel Tsukuru", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 84, 
+          "name": "Satellaview", 
+          "short": "BS-X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy RPG for the Super Famicom developed by SAS Sakata and published by ASCII Corp. It is the middle chapter of ASCII's Dark Lord trilogy, sitting between Dark Lord and Dark Law.", 
+      "developers": [], 
+      "id": 23571, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2399467-571134_9186_front.jpg", 
+      "name": "Wizap! - Ankoku no Ou", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Block-pushing puzzle game originally released on the Sharp X68000 and adapted for the Super Famicom and PlayStation.", 
+      "developers": [], 
+      "id": 23572, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2747698-1933523355-31775.jpg", 
+      "name": "Keeper", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG for the Super Famicom developed by System Sacom. It was never released outside of Japan.", 
+      "developers": [], 
+      "id": 23573, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2683591-wondrous_magic_sfc.jpg", 
+      "name": "Wondrous Magic", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A card game that plays like a mix of its two namesakes. The player has to line up cards inside a 5x5 grid to reach a certain score goal through various poker hands. In Japan, the game is named for the Ryukyu Islands, home of Okinawa, and has a tropical theme.", 
+      "developers": [], 
+      "id": 23574, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/407479-solitaire_poker.jpg", 
+      "name": "Solitaire Poker", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth in the Wizardry series of games. In this one though, you play as Werdna himself and must continue on as the weakened wizard who was defeated in the Proving Grounds of the Mad Overlord game. Can you regain your powers and get your amulet back?", 
+      "developers": [], 
+      "id": 23575, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608763-werdna.jpg", 
+      "name": "Wizardry IV: The Return of Werdna", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first 'Maker' game from ASCII, this game was a creation tool that allowed users to create their own adventure games.", 
+      "developers": [], 
+      "id": 23576, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Adventure Maker", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second version of the Emmy eroge series.", 
+      "developers": [], 
+      "id": 23577, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2598979-8804660583-qasq..jpg", 
+      "name": "Emmy II", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This ASCII-published mahjong game was released for the Famicom Disk System in 1986. It was not released outside of Japan.", 
+      "developers": [], 
+      "id": 23578, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364891-fds_professionalmahjonggoku_jp.jpg", 
+      "name": "Professional Mahjongg Gokuu", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "After Princess Margarita is kidnapped by Mad Mizer, it is up to Prince Rafael to traverse through Groken Castle and save the damsel in distress. Castlequest (1986), released on the NES and MSX, is the sequel to the MSX's The Castle.", 
+      "developers": [], 
+      "id": 23579, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361200-nes_castlequest.jpg", 
+      "name": "Castlequest", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 118, 
+          "name": "GamePark 32", 
+          "short": "GP32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early pseudo-3D shoot-em-up for the Nintendo Famicom developed by Micronics and published by ASCII.", 
+      "developers": [], 
+      "id": 23580, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2414218-geimos_fc.jpg", 
+      "name": "Geimos", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade-style action game released for the MSX computer in 1984 and later ported to the Nintendo Famicom console titled as Astro Robo SASA (\u30a2\u30b9\u30c8\u30ed\u30ed\u30dcSASA) in 1985. The protagonist uses a gun's recoil to fly around stage, collecting additional energy containers.", 
+      "developers": [], 
+      "id": 23581, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2413258-astro_robo_sasa.jpg", 
+      "name": "Astro Robo Sasa", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An isometric boat-combat game.", 
+      "developers": [], 
+      "id": 23582, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2743736-turboat.jpg", 
+      "name": "Turboat", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Emmy: The Funny Game is an early eroge where the player is challenged to persuade the titular girl strip off her clothes.", 
+      "developers": [], 
+      "id": 23583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2598976-7167721243-", 
+      "name": "Emmy: The Funny Game", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third adventure in the Wizardry series sees the City of Llylgamyn rocked by a series of natural disasters. Only the descendants of the party of heroes that had saved the land before can confront the dragon, L'Kbreth, to petition it for the wisdom needed to avert them.", 
+      "developers": [], 
+      "id": 23584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608757-579573_20138_front_1_.jpg", 
+      "name": "Wizardry III: Legacy of Llylgamyn", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action platformer on the MSX from ZAP Corporation, Funky Mouse allows players to gather cheese throughout a variety of increasingly difficult levels.", 
+      "developers": [], 
+      "id": 23585, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1767298-133050_funky_mouse_msx_screenshot_title_screen.png", 
+      "name": "Funky Mouse", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fairy is an MSX action game, where the protagonist \"catches\" enemies in each stage, while simultaneously avoiding getting killed.", 
+      "developers": [], 
+      "id": 23586, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1766817-918085_25641_front.jpg", 
+      "name": "Fairy", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1996 for the Super Famicom. A sequel was released in 1998 for the PlayStation.", 
+      "developers": [], 
+      "id": 23587, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2295586-tower_dream.jpg", 
+      "name": "Tower Dream", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23588, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Warroid", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Manes is an action/platformer for the MSX.", 
+      "developers": [], 
+      "id": 23589, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1770271-manes.jpg", 
+      "name": "Manes", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23590, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Midnight Building", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1995 for the Super Famicom. Based on the American TV series \"Combat!\".", 
+      "developers": [], 
+      "id": 23591, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2394473-sgt._saunders__combat_.jpg", 
+      "name": "Sgt. Saunders' Combat!", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down driving game for the MSX, released by ASCII Corporation in 1984.", 
+      "developers": [], 
+      "id": 23592, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1767393-918111_25650_front.jpg", 
+      "name": "High Way Star", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23593, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173589-onyx_2_pc_88.jpg", 
+      "name": "The Black Onyx II: Search For The Fire Crystal", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "South Park takes on superheroes in this follow up to The Stick of Truth.", 
+      "developers": [], 
+      "id": 23594, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/39162/2758842-south-park-e32015.jpg", 
+      "name": "South Park: The Fractured But Whole", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fly like an eagle in this VR game for PlayStation 4 and PC.", 
+      "developers": [], 
+      "id": 23595, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2813687-2029735407-eagle.jpg", 
+      "name": "Eagle Flight", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Latest title in the Anno franchise.", 
+      "developers": [], 
+      "id": 23596, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/2758799-anno2205.jpg", 
+      "name": "Anno 2205", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }
+  ]
+}

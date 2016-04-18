@@ -1,0 +1,1618 @@
+{
+  "games": [
+    {
+      "deck": "Shinseiki Evangelion: Typing E-Keikaku is a typing tutor game based on the anime Shinseiki Evangelion (\"Neon Genesis\" Evangelion)", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2634076-5321238724-31205.jpg", 
+      "name": "Shinseiki Evangelion: Typing E-Keikaku", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shinseiki Evangelion: Koutetsu no Girlfriend, also known as Neon Genesis Evangelion: Girlfriend of Steel, is a Japanese-style text-heavy adventure game, which follows the characters from the Evangelion anime in a side story that takes place roughly around the time of the early 'teens episodes.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7741, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2294664-untitled.png", 
+      "name": "Shinseiki Evangelion: Koutetsu no Girlfriend", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of many in the popular Princess Maker franchise. The player gets to \"create\" a princess, by choosing her schedule, feeding her, etc.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2283436-snes.png", 
+      "name": "Princess Maker: Legend of Another World", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Card battle game developed by Gainax in 1993.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1164464-mighty_battle_skin_panic.1.jpg", 
+      "name": "Mighty Battle Skin Panic", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "Princess Maker 2 puts you in charge of raising a magical princess who is given to you by the gods.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2633476-untitled.jpg", 
+      "name": "Princess Maker 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 118, 
+          "name": "GamePark 32", 
+          "short": "GP32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi themed RPG from Pandora Box and Yutaka. The protagonist joins a special army division that regularly employs giant robot dragons in battle.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2638084-ryuki_heidan_danzalv_sfc.jpg", 
+      "name": "Ryuuki Heidan Danzarb", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Anime-based multiplatform video game.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1710639-564343_3708_front.jpg", 
+      "name": "Fushigi no Umi no Nadia", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in the Princess Maker series was released in 1991.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2283425-cover.png", 
+      "name": "Princess Maker", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "An official strip-quiz game featuring characters from the Gainax OVA. It was actually developed by Gainax itself. It was only released in Japan, in 1990.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1662774-cyberneticgakuenfront.jpg", 
+      "name": "Top wo Nerae: Cybernetic High-School III", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "Card battle game developed by Gainax in 1991.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1164297-g0248.jpg", 
+      "name": "Super Battle Skin Panic", 
+      "platforms": [
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2293776-untitled.png", 
+      "name": "Cybernetic Hi-School", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "Your knight in shining armor has just slain your captor, but has now succumb to his injuries. Now you must take up arms and escape the castle yourself!", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2294587-got.png", 
+      "name": "Gotzendiener", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Pornographic card battle game developed by Gainax in 1993.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1162919-cover.png", 
+      "name": "Battle Skin Panic 9821", 
+      "platforms": [
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pornographic card battle game developed by Gainax in 1990.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7753, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1162639-bingus.jpg", 
+      "name": "Battle Skin Panic", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Silent Mobius\" (called \"Silent Mobius Case: Titanic\" on the PSX) was an adventure game developed by Gainax based off the manga and anime series of the same name.", 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7754, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2294588-sm.png", 
+      "name": "Silent Mobius", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ], 
+      "id": 7755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2294600-ch2.png", 
+      "name": "Cybernetic Hi-School Part 2: Highway Buster", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 275, 
+          "name": "Gainax"
+        }
+      ]
+    }, 
+    {
+      "deck": "Multiple snowy sports are represented in this wintery package.", 
+      "developers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ], 
+      "id": 7756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1696639-screen_shot_2011_01_30_at_5.01.18_pm.png", 
+      "name": "Winter Sports 2011: Go for Gold", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion to Divinity II: Ego Draconis.", 
+      "developers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ], 
+      "id": 7757, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1619914-d2fov.jpg", 
+      "name": "Divinity II: Flames of Vengeance", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Point & Click horror-adventure game series, Black Mirror.", 
+      "developers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ], 
+      "id": 7758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/65194/1801631-0019b980.jpg", 
+      "name": "Black Mirror 3: The Final Fear", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Summer Athletics is back with the 2009 edition", 
+      "developers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ], 
+      "id": 7759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1099/1090166-sa2009wii.jpg", 
+      "name": "Summer Athletics 2009", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Set during the Tet Offensive, become an officer of the US Army and participate in one of its most bloody conflicts.", 
+      "developers": [
+        {
+          "id": 276, 
+          "name": "dtp entertainment AG"
+        }
+      ], 
+      "id": 7760, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1559364-939309_97574_front.jpg", 
+      "name": "The Hell in Vietnam", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The aliens have won and the remnants of XCOM must strike to take back the Earth in this sequel to Firaxis' 2012 reboot.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2821995-xcom2box.jpg", 
+      "name": "XCOM 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sid Meier's Starships is a turn-based strategy game set in the Civilization: Beyond Earth universe.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2718538-starships_logo_for_use_on_black_f1.jpg", 
+      "name": "Sid Meier's Starships", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A sci-fi spin-off from the Civilization series that takes place on a distant planet.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2662171-civilization+-+beyond+earth+v1.jpg", 
+      "name": "Sid Meier's Civilization: Beyond Earth", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the popular offshoot of the main Civilization series.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/39/2652342-civ_rev_2_logo_final.jpg", 
+      "name": "Sid Meier's Civilization Revolution 2", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A turn-based game from 2K and Firaxis for iOS.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2477977-haunted_hollow_04_thumb.jpg", 
+      "name": "Haunted Hollow", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sid Meier\u2019s Ace Patrol: Pacific Skies is the follow-up to Sid Meier's Ace Patrol.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2562437-sid+meier%E2%80%99s+ace+patrol+pacific+skies.jpg", 
+      "name": "Sid Meier\u2019s Ace Patrol: Pacific Skies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The standalone expansion pack for XCOM: Enemy Unknown adds cybernetic soldiers and aliens, along with new multi-player maps.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2558196-xcomew.jpg", 
+      "name": "XCOM: Enemy Within", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second expansion to Civilization V brings a revamped trade model, a brand new culture and tourism mechanic, two new scenarios, and a plethora of new Civilizations.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2481848-box_civ5bnw.png", 
+      "name": "Sid Meier's Civilization V: Brave New World", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sid Meier's Ace Patrol is a turn based strategy game for iOS and PC devices set during World War I.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/21765/2477949-ace+patrol+title.jpg", 
+      "name": "Sid Meier's Ace Patrol", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The classic tactical turn-based combat returns in this modern re-imagining of X-COM: UFO Defense.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2560503-xcomclean.jpg", 
+      "name": "XCOM: Enemy Unknown", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first expansion pack for Sid Meier's Civilization V adds religion and espionage along with expanded diplomacy options and additional content.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2240247-5652234.png", 
+      "name": "Sid Meier's Civilization V: Gods & Kings", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Civilization V, the newest entry into the Civilization series, brings brand new gameplay elements to this beloved franchise, while maintaining the \"just one more turn\" mentality.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1777728-box_civ5.png", 
+      "name": "Sid Meier's Civilization V", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sid Meier's 1995 turn-based strategy game about the European colonization of the New World gets remade as a standalone expansion to Sid Meier's Civilization IV.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2204853-box_civ4col.png", 
+      "name": "Sid Meier's Civilization IV: Colonization", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The long-running Civilization series of strategy games makes a brief (yet smooth) transition to both video game consoles and handheld devices with Civilization Revolution.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114369-box_civrev.png", 
+      "name": "Sid Meier's Civilization Revolution", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second expansion pack to Sid Meier's Civilization IV focuses on the later stages of the game, adding a multitude of new gameplay mechanics as well as new content.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2240308-56366425.jpg", 
+      "name": "Sid Meier's Civilization IV: Beyond the Sword", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sid Meier's Railroads! is a tycoon simulation game which allows you to play 19th-20th century railroad baron and become the captain of industry while enjoying the great playground that is unfettered capitalism and vertical monopoly.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9838/834946-r2qcux.jpg", 
+      "name": "Sid Meier's Railroads!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first expansion pack to Sid Meier's Civilization IV adds new concepts based on war dominance (\"Great General\" units and a \"vassal state\" system), as well as new civilizations and units.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/2240309-6534635.jpg", 
+      "name": "Sid Meier's Civilization IV: Warlords", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "CivCity: Rome is a city building game inspired by Sid Meier's Civilization.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/56/186916-932339_74173_front.jpg", 
+      "name": "CivCity: Rome", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth official installment of the empire-building turn-based strategy game Sid Meier's Civilization, adding 3D graphics, a simpler user interface, and numerous gameplay enhancements.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7779, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492897-box_civ4.png", 
+      "name": "Sid Meier's Civilization IV", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Remake of the original Sid Meier's pirates, placing you in the role of a pirate searching for his kidnapped family. Battle rival pirates on the high seas and command an ever-growing crew of pirates as you work towards becoming a legendary pirate.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2345922-box_smpirates.png", 
+      "name": "Sid Meier's Pirates!", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 474, 
+          "name": "Feral Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second and final expansion of Civilization III with the inclusion of nine unique scenarios for even more added longevity.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7781, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2168069-box_pc.jpg", 
+      "name": "Sid Meier's Civilization III: Conquests", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first expansion for Civilization III, introducing several new additions, most notably the inclusion of multiplayer.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7782, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/74175/1368257-250px_civiiiplaytheworld.jpg", 
+      "name": "Sid Meier's Civilization III: Play the World", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Build a thriving country club and beat the competition in this golf course management simulator from Sid Meier.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2204859-box_simgolf.png", 
+      "name": "Sid Meier's SimGolf", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Civilization III is the third installment of Sid Meier's franchise and brings many new features including unique units and traits for each civilization, culture, and improved combat and graphics.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7784, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/625303-454261_27064_front_1_.jpg", 
+      "name": "Sid Meier's Civilization III", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sid Meier's Antietam!, the sequel to 1997's Sid Meier's Gettysburg!, is a real-time tactical wargame that allows players to reenact the costly Battle of Antietam.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1026620-sid_meier_s_antietam__pc_new.jpg", 
+      "name": "Sid Meier's Antietam!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as one of the new  factions or the alien races in an attempt to reign supremacy over Alpha Centauri in this expansion pack.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2970/459011-aliencrossfirecover.jpg", 
+      "name": "Sid Meier's Alien Crossfire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 293, 
+          "name": "Aspyr Media, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Compete as one of seven ideological factions vying for control of a distant planet in the Alpha Centauri star system while uncovering the secrets of the planet they inhabit.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/864/627809-256px_alpha_centauri_cover.jpg", 
+      "name": "Sid Meier's Alpha Centauri", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first offering from Firaxis Games, Sid Meier's Gettysburg! is a real-time tactical wargame that recreates the famous and famously deadly Battle of Gettysburg, allowing players to control either side of the conflict.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/118253/2091080-gettysburg__box_union.png", 
+      "name": "Sid Meier's Gettysburg!", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this expansion to Civilization: Beyond Earth, players take to the seas.", 
+      "developers": [
+        {
+          "id": 277, 
+          "name": "Firaxis Games"
+        }
+      ], 
+      "id": 7789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/2789375-4544255257-civil.jpg", 
+      "name": "Civilization: Beyond Earth - Rising Tide", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

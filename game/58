@@ -1,0 +1,1473 @@
+{
+  "games": [
+    {
+      "deck": "This is the fourth installment of the \"Battle Arena Toshinden\" franchise. It was released in 1999.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2843, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20645/837995-toshinden_4_coverart.png", 
+      "name": "Battle Arena Toshinden 4", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A budget racing game for the original PlayStation. Part of D3 Publisher's Simple Series.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2844, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2784355-8525521331-41Epl.jpg", 
+      "name": "Racing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 296, 
+          "name": "Agetec, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pink blobs, fairies and Living Toys are quite common in Tamsoft's adventure RPG.  ", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2845, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1481/1241655-guardians_crusade.jpg", 
+      "name": "Guardian's Crusade", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Abala Burn - A Battle Legend of Astterica is an action game released for the Playstation in the late 90s.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2846, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1472/252436-alaburn.jpg", 
+      "name": "Abala Burn", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2847, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2365145-573406_12454_front.jpg", 
+      "name": "Puzzle Arena Toshinden", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Battle Arena Toshinden 3 is the third in the Battle Arena Toshinden series. It features 17 new characters, bringing the total to 32.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2848, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814620-box_bat3.png", 
+      "name": "Battle Arena Toshinden 3", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Battle Arena Nitoshinden is a spin off from the Battle Arena Toshinden series that was only released in Japan. It was originally due to be released in western markets under the title \"Toshinden Kids\" but was canceled.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2849, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1099/955683-nitoshinden.jpg", 
+      "name": "Battle Arena Nitoshinden", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ], 
+      "id": 7356, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2251177-box_nflf04.png", 
+      "name": "NFL Fever 2004", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A port of Battle Arena Toshinden on the Playstation. This new version of the game features new content, including an exclusive character: Cupido, as well as a story mode.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2851, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814621-box_batr.png", 
+      "name": "Battle Arena Toshinden Remix", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "SteamGear Mash is an isometric action adventure featuring occasional shooter elements released for the Sega Saturn in Japan.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2852, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27462/1685066-t_10301g_5__sega_saturn_screenshot_5_steamgear_mash_jpn.jpg", 
+      "name": "SteamGear Mash", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released in 1994, Battle Arena Toshinden was the first fighting game on the PlayStation to utilize 3D graphics, as well as the first 3D fighting game to feature the side-step maneuver and weapon-based combat.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2853, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814618-box_bat.png", 
+      "name": "Battle Arena Toshinden", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling is a Hello Kitty themed bowling game for the PlayStation.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2854, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2305757-simple_1500_series_hello_kitty_vol._01_hello_kitty_bowling_cover.jpg", 
+      "name": "Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "PSP brawler in the Ikki Tousen franchise developed by Tamsoft. A tie in to the Xtreme Xecutor anime.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2855, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2405048-ikkixross_cover.jpg", 
+      "name": "Ikki Tousen: Xross Impact", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 106, 
+          "name": "Marvelous Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Get touched and shot in this application of love for the PlayStation 3. See? Writing decks for games you know nothing about is easy, people.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2856, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2185884-644811_230662_front.jpeg", 
+      "name": "Touch, Shot! Love Application", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 428, 
+          "name": "Compile Heart, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Punch and kick the clothes off your foes in this PSP fighting game from Marvelous.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2857, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/238/758353-eloquent_fist_wall__2_.jpg", 
+      "name": "Ikki Tousen: Eloquent Fist", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 106, 
+          "name": "Marvelous Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hello Kitty Illust Puzzle is a Hello Kitty themed Picross game.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2858, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2305745-hello_kitty_illust_puzzle.jpg", 
+      "name": "Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "AquaLife is a strategy game for the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2859, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1896308-aqualife.jpg", 
+      "name": "AquaLife", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2860, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840283-922057_57288_front.jpg", 
+      "name": "Party Girls", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A budget sidscrolling beat 'em up published by D3 Games (under the alias of Essential Games) and developed by Tamsoft", 
+      "developers": [
+        {
+          "id": 80, 
+          "name": "Tamsoft Corporation"
+        }
+      ], 
+      "id": 2861, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2005/1440625-929372_80339_front.jpg", 
+      "name": "Dragon Sisters", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Jackbox Games returns with five more comedic party games.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2862, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/2788095-feature_tjpp2.jpg", 
+      "name": "The Jackbox Party Pack 2", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An improvisational party game for up to 8 players.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2863, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2761904-5724570633-sddef.jpg", 
+      "name": "Quiplash", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation containing Fibbage XL, Drawful, Word Spud, Lie Swatter and You Don't Know Jack (2015).", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2864, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2715962-2702418-rsz_1rsz_image.jpg", 
+      "name": "The Jackbox Party Pack", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fibbage is the lying, bluffing, fib-till-you-win trivia party game from the makers of YOU DON\u2019T KNOW JACK!", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2865, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2684401-9475999757-image", 
+      "name": "Fibbage", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A version of You Don't Know Jack developed for Facebook, and later ported to mobile platforms and Ouya.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2866, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1185/2191652-2012_04_27_1809.png", 
+      "name": "You Don't Know Jack", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A revival of the classic trivia party game series.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2867, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1714375-you_don_t_know_jack_cover.jpg", 
+      "name": "You Don't Know Jack", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released in 2003, The Lost Gold is the last game in the You Don't Know Jack franchise to be published by Sierra Entertainment.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2868, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/79932/1417496-jack6.jpg", 
+      "name": "You Don't Know Jack: Volume 6 - The Lost Gold", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the Who Wants To Be A Millionaire series.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2869, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1363729-524509_50959_front.jpg", 
+      "name": "Who Wants To Be A Millionaire: Third Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2870, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1363733-578869_35587_front.jpg", 
+      "name": "Who Wants To Be A Millionaire: Sports Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Mock 2 brings 800  new trivia questions to challenge your wits.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2871, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/483677-41xwffg4fyl._sl500_aa280_.jpg", 
+      "name": "You Don't Know Jack: Mock 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth game in the long-running You Don't Know Jack line of trivia games.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2872, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/610329-51y2z12asyl._sl500_aa280_.jpg", 
+      "name": "You Don't Know Jack: 5th Dementia", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Be in the hotseat once again! With the next Who wants to be a millionare: Second edition. 15 Questions, 3 lifelines and 1 millions pounds.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2873, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210287-box_wwtbam2e.png", 
+      "name": "Who Wants To Be A Millionaire: Second Edition", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "You're in the Hot Seat! You have 15 questions and 3 lifelines. This is just like the TV Show!", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2874, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2210286-box_wwtbam.png", 
+      "name": "Who Wants To Be A Millionaire", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Using the Dreamcast microphone, Seaman allows players to raise a witty fish-like creature with some guidance from Leonard Nimoy.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2875, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45471/1200933-seamdc0f.jpg", 
+      "name": "Seaman", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Are you ready to ride? 'Cause we're heading for... the Bottom.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2876, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/642608-51mjbgw80wl._sl500_aa280_.jpg", 
+      "name": "You Don't Know Jack: Volume 4: The Ride", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Head Rush", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2877, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/1706901-img.jpg", 
+      "name": "Head Rush", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "You Don't Know Jack: Volume 3 continues the series' trend of witty trivia and comical dialogue, and adds new question types in the 3-Way Question and the Impossible Question.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2878, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/610111-4e82124128a0405be3044010._aa280_.l.jpg", 
+      "name": "You Don't Know Jack: Volume 3", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "You Don't Know Jack: Television follows the same formula as the rest of the series, but with a focus on television shows.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2879, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/610116-ca0791.jpg", 
+      "name": "You Don't Know Jack: Television", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "You Don't Know Jack: Movies follows the same formula as the rest of the series, but with a focus on movies.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2880, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/644471-170890656_tp.jpg", 
+      "name": "You Don't Know Jack Movies", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2881, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3766/610114-51qa0dxymql._sl500_aa280_.jpg", 
+      "name": "You Don't Know Jack: Volume 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "You Don't Know Jack Sports follows the same formula as the rest of the series but with a focus on sports for the questions.  It was a stand alone game but was also included in the You Don't Know Jack Pack.", 
+      "developers": [
+        {
+          "id": 81, 
+          "name": "Jackbox Games"
+        }
+      ], 
+      "id": 2882, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2648569-g000640ml90.jpg", 
+      "name": "You Don't Know Jack Sports", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Metal Gear compilation consisting of the previous \"Metal Gear Solid HD Collection\" and much more.", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2884, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2472712-mgslegacy.jpg", 
+      "name": "Metal Gear Solid: The Legacy Collection 1987-2012", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Nintendo DS game based on the new TV-series", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2885, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280521-box_tcats.png", 
+      "name": "Thundercats", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Meteos: Disney Magic is a sequel to the innovative DS puzzler, and involves (as the title suggests) several Disney Characters, locations, and themes.", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2886, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5768/699643-meteos_2.jpg", 
+      "name": "Meteos: Disney Magic", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2887, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2215061-box_narutonc3.png", 
+      "name": "Naruto: Ninja Council 3", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Naruto: Ninja Council 2 is a 2D platformer based on the acclaimed anime series.", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2888, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2215060-box_narutonc2.png", 
+      "name": "Naruto: Ninja Council 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "3D comedy action/adventure/RPG hybrid built off of the Spikeout engine. Reimaging of the earlier Mega Drive release.", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2889, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2718560-xbdream.jpg", 
+      "name": "Rent A Hero No. 1", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to Tempo (32X). Was a Japan-only release for the Saturn", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2890, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/1456020-tempo.jpg", 
+      "name": "Super Tempo", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Welcome to Predators' Paradise.", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2891, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285733-box_tlwjp.png", 
+      "name": "The Lost World: Jurassic Park", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 64, 
+          "name": "Game.Com", 
+          "short": "GCOM"
+        }, 
+        {
+          "id": 89, 
+          "name": "R-Zone", 
+          "short": "RZON"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }, 
+        {
+          "id": 70, 
+          "name": "THQ"
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2892, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1356198-gbvi.jpg", 
+      "name": "The Great Battle VI", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 62, 
+          "name": "Banpresto Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D Side Scroller using pre-rendered graphics (similar to Sonic 3D Blast on the Genesis).", 
+      "developers": [
+        {
+          "id": 82, 
+          "name": "Aspect Co. Ltd."
+        }
+      ], 
+      "id": 2893, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1870228-box_sonicb.png", 
+      "name": "Sonic Blast", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }
+  ]
+}

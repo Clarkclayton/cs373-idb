@@ -1,0 +1,1198 @@
+{
+  "games": [
+    {
+      "deck": "The last Tony La Russa Baseball game in the franchise", 
+      "developers": [], 
+      "id": 19290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2590436-z0074511.jpg", 
+      "name": "Tony La Russa Baseball 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19291, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Tony La Russa Baseball 3", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection of three pinball tables for PC and Mac.", 
+      "developers": [], 
+      "id": 19292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2920/1973615-full_tilt__pinball_boxart.jpg", 
+      "name": "Full Tilt! Pinball", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "SimIsle is an environmental management game with minor role playing elements, set in a archipelago of fictional tropical islands. The player assumes the role of the head of an unnamed organization, hiring agents to do their bidding in shaping the island's development - preserving the environment, exploiting the resources or constructing a tourist paradise are all options.", 
+      "developers": [], 
+      "id": 19293, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/113103/1727397-simisle_box_art.jpg", 
+      "name": "SimIsle: Missions in the Rainforest", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Build and manage a skyscraper while keeping the inhabitants happy.", 
+      "developers": [], 
+      "id": 19294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7622/643399-simtower_coverart.png", 
+      "name": "SimTower: The Vertical Empire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Health Simulator developed with the help of the Markle Foundation to model the US HealthCare system. Rare and hard to come by, it is considered very difficult and dry to play.", 
+      "developers": [], 
+      "id": 19295, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7622/643405-simhealth.jpg", 
+      "name": "SimHealth", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "SimFarm is a farming simulation from Maxis.  Imagine playing the original SimCity...  but there are crops involved.", 
+      "developers": [], 
+      "id": 19296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7622/643369-simfarm.jpg", 
+      "name": "SimFarm", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19297, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "El-Fish", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19298, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Widget Workshop: The Mad Scientist's Laboratory", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game published by Maxis Software.", 
+      "developers": [], 
+      "id": 19299, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2421970-x.jpg", 
+      "name": "The Crystal Skull", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19300, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Rome: Pathway to Power", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 153, 
+          "name": "Maxis Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sprint Car Racing is a racing game by Daylight Productions.", 
+      "developers": [], 
+      "id": 19301, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1771514-g073137ydv1.jpg", 
+      "name": "Sprint Car Racing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horse training, racing, and showing simulation.", 
+      "developers": [], 
+      "id": 19302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2686831-61zptjesvfl._sl500_.jpg", 
+      "name": "Horse Illustrated Championship Season", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Extreme Bullrider was a budget PC title published by HeadGames Publishing, and came out right on the heels of Extreme Rodeo.", 
+      "developers": [], 
+      "id": 19303, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1037875-buillrider.jpg", 
+      "name": "Extreme Bullrider", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Test your strength. Climb one of 10 unique climbing walls, in three different modes.", 
+      "developers": [], 
+      "id": 19304, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7114/448893-3419.jpg", 
+      "name": "Extreme Rock Climbing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19305, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/22959/1472540-extreme_boards_and_blades.jpg", 
+      "name": "Extreme Boards and Blades", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19306, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1038297-89526_pc.jpg", 
+      "name": "Extreme Wintersports", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person shooter / paintball simulator.", 
+      "developers": [], 
+      "id": 19307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1378127-pbrawl_box.png", 
+      "name": "Extreme Paintbrawl", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Enemy Nations is areal-time strategy game from Windward Studios. While well received by various game publications the bankruptcy of the publisher forced Windward to sell it exclusively on their company website. ", 
+      "developers": [], 
+      "id": 19309, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Enemy Nations", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19310, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Juggernaut: The New Story For Quake II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to extreme Paintbrawl. Paintbrawl 2 is published and developed by Headgames and Hoplite unlike Paintbrawl which was created by Creative Carnage.", 
+      "developers": [], 
+      "id": 19311, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2650294-extremepaintbrawl_2_pcbox.jpg", 
+      "name": "Extreme Paintbrawl 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19312, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Extreme Mountain Biking", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 154, 
+          "name": "HeadGames Publishing, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Arcade style game developed by Jeremy Smith and released in 1986.", 
+      "developers": [], 
+      "id": 19313, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3365/542417-a_011_006.jpg", 
+      "name": "Thrust", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 63, 
+          "name": "Vectrex", 
+          "short": "VECT"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 157, 
+          "name": "Superior Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ravenskull is a fantasy graphic adventure game released by Superior Software for the BBC Micro and Acorn Electron in 1986. ", 
+      "developers": [], 
+      "id": 19314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160135/2258192-ravenskullfrontcover.jpg", 
+      "name": "Ravenskull", 
+      "platforms": [
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 157, 
+          "name": "Superior Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19315, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Repton 3", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 157, 
+          "name": "Superior Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A point and click adventure developed by Grundislav Games and published by Wadjet Eye Games. The game is set in Miami during the \"Roaring Twenties\"; it focuses on the themes of greed and corruption.", 
+      "developers": [], 
+      "id": 19316, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/156597/2650704-4951533746-AGW-w.jpg", 
+      "name": "A Golden Wake", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A point-and-click adventure game from Wadjet Eye Games. It takes place in a post-apocalyptic world where only machines remain.", 
+      "developers": [], 
+      "id": 19317, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2378798-caja_primordia.jpg", 
+      "name": "Primordia", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A traditional point &amp; click adventure game with a few unique twists", 
+      "developers": [], 
+      "id": 19318, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2240228-resonanceposter.png", 
+      "name": "Resonance", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this adventure game from Icebox Studios and Wadjet Eye Games, Brain, the worst wrestler in Wrestle Zone, gets kidnapped after winning the championship belt and it's up to his friends to find him.     ", 
+      "developers": [], 
+      "id": 19319, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26507/2168851-da_new_guys_day_of_the_jackass_boxart_011_208x300.jpg", 
+      "name": "Da New Guys: Day of the Jackass", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An intense indie adventure for the PC and iOS, set in a bleak future dominated by a corrupt crime syndicate. The game was the 2010 winner of the Independent Game Festival Student Showcase.", 
+      "developers": [], 
+      "id": 19320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1780392-gemini_rue.png", 
+      "name": "Gemini Rue", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The robots of Dr. Hugo's Factory for Making Robots have escaped and embark on a grand adventure.  Each of the five robots have unique skills that they must use together to survive.", 
+      "developers": [], 
+      "id": 19321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2240236-pb_posterb.png", 
+      "name": "Puzzle Bots", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game developed by Polish development studio Harvester Games and published by Wadjet Eye Games in 2009.", 
+      "developers": [], 
+      "id": 19322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/60173/2468664-downfall.jpg", 
+      "name": "Downfall", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 165, 
+          "name": "Wadjet Eye Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pariah is a first person shooter where players take control of a doctor called Jack Mason.", 
+      "developers": [], 
+      "id": 19323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2469709-box_pariah.png", 
+      "name": "Pariah", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 166, 
+          "name": "Digital Extremes"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second in a series of adventure games based on Jules' Verne's classic novel \" The Mysterious Island\".", 
+      "developers": [], 
+      "id": 19324, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1286355-aef44f57c8696dfa800265cbc47f879bdaea6e05.jpg", 
+      "name": "Return to Mysterious Island II", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }, 
+        {
+          "id": 557, 
+          "name": "Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Zidane generation you will face competition from 75 different national squads. Each team has its own talents and skills, but remember only France has Zidane as a star!", 
+      "developers": [], 
+      "id": 19325, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20997/712028-me0000182137_2.jpg", 
+      "name": "Zidane Football Generation 2002", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Shadow of Zorro allows players to take the legendary hero on an adventure on PlayStation 2 and PC.", 
+      "developers": [], 
+      "id": 19326, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2733183-6054187522-15519.jpg", 
+      "name": "The Shadow of Zorro", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Frank Herbert's Dune is a 3D action game based on the TV mini-series", 
+      "developers": [], 
+      "id": 19327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/650285-fhsdpc0f.jpg", 
+      "name": "Frank Herbert's Dune", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A quasi sequel based on the 1996 horror action film 'From Dusk Till Dawn' by Robert Rodriguez and that takes place directly after the events of the first film. Made by French Developer Cryo.", 
+      "developers": [], 
+      "id": 19328, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1339301-from_dusk.jpg", 
+      "name": "From Dusk Till Dawn", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1769715-jekyll_h.jpg", 
+      "name": "Jekyll & Hyde", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Self-titled GBC game of the crazy bird.", 
+      "developers": [], 
+      "id": 19330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2416982-wweu.jpg", 
+      "name": "Woody Woodpecker", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1805105-roland_garros_french_open__europe___en_fr_de_es_it_nl_.png", 
+      "name": "Roland Garros French Open 2000", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [], 
+      "id": 19332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/100318/2437460-360-three-sixty-psx.jpg", 
+      "name": "360: Three Sixty", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Scotland Yard is an adaptation of the board game of the same name, released by Cryo Interactive in 1998.", 
+      "developers": [], 
+      "id": 19333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/2288694-51p2b5273jl.jpeg", 
+      "name": "Scotland Yard", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19334, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "FireTeam", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Early massively multiplayer online game with a persistent world (in this case, galaxy).  Players maintain a fleet and a collection of conquered planets, competing with other players for supremacy.", 
+      "developers": [], 
+      "id": 19335, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mankind", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "An interactive movie / visual novel / adventure game, released in the early 90s. Gadget has gone on to influence many visionary filmmakers, such as Guillermo del Toro, Alex Proyas, and the Wachowskis.", 
+      "developers": [], 
+      "id": 19336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97921/2168788-248_11_medium_1_.jpg", 
+      "name": "Gadget: Invention, Travel & Adventure", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 60, 
+          "name": "iPod", 
+          "short": "IPOD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 88, 
+          "name": "Pippin", 
+          "short": "PIPN"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/1252756-amulet_cover.jpg", 
+      "name": "The Sacred Amulet", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/20/207993/2543139-582093_22928_front.jpg", 
+      "name": "Gift", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1898088-kids.jpg", 
+      "name": "Egypte Kids", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19340, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1795112-roads.jpg", 
+      "name": "Jerusalem: The Three Roads to the Holy Land", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 167, 
+          "name": "Cryo Interactive Entertainment"
+        }
+      ]
+    }
+  ]
+}

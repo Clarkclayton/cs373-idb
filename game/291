@@ -1,0 +1,1792 @@
+{
+  "games": [
+    {
+      "deck": "Battle Fleet is a strategy game released only in Japan for the Nintendo Famicom", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14484, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1750129-1.jpg", 
+      "name": "Battle Fleet", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Namco's arcade game that also made it to the PlayStation. The original arcade version released in 1990 supported up to 28 players. Incredibly powerful for its time, the arcade game ran on up to 16 Namco System 21 \"Polygonizer\" arcade boards.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14485, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2693292-6290115055-21464.jpg", 
+      "name": "Galaxian\u00b3", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "This arcade game involves the shooting of ghosts. It is an electromechanical/video game hybrid.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14486, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/137417/2308224-21000801.jpg", 
+      "name": "Golly! Ghost!", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down action-adventure game somewhat similar to The Legend of Zelda.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14487, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/293652-valkyriecouv.jpg", 
+      "name": "Legend of Valkyrie", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Marvel Land (known as Talmit's Adventure in Europe) is a 2D platformer developed and published by Namco and released on the Sega Genesis in 1991.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14488, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1710687-marvel_land_md_a.jpg", 
+      "name": "Marvel Land", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1989 Japan-only maze game from Namco", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14489, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1379137-21010801.jpg", 
+      "name": "Rompers", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A horizontal side-scrolling Arcade shoot 'em up originally developed and released to Japanese Arcades by Namco in 1988, followed by a TurboGrafx-16 conversion. It is known for its bizarre comedic elements, reminiscent of Konami's Parodius or Masaya's Cho Aniki.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14490, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365561-tg16_ordyne.jpg", 
+      "name": "Ordyne", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth Famicom entry in the Family Stadium series shortens the official title to Famista.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2592480-8726016243-93590.jpg", 
+      "name": "Famista '89: Kaimaku Ban!!", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game unique for having a separate RPG mode where it is possible to travel around a world map collecting upgradeable car parts. This mode is traditional top-down JRPG affair, with random encounters consisting of other racers challenging the player to a single lap. Losing means a trip back home sans winnings.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14492, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365534-tg16_finallaptwin.jpg", 
+      "name": "Final Lap Twin", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "La Salle Ishii no Childs Quest is a 1989 role-playing game released for the Nintendo Famicom by Namco.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14493, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/2094862-1.jpg", 
+      "name": "La Salle Ishii no Childs Quest", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi adventure game for the NES, published by Namco. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14494, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2380882-mindseeker_fc.jpg", 
+      "name": "Mindseeker", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released by Namco in 1988, this was the first arcade driving game to use fully 3D polygon graphics. It was the inaugural title for the Namco System 21 \"Polygonizer\" arcade hardware, the first dedicated 3D gaming system.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14495, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2445434-21010901.jpg", 
+      "name": "Winning Run", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Assault is a top-down shooter from Namco, released in the arcades in 1988.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14496, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1710624-fileassault__flyer_.jpg", 
+      "name": "Assault", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A scrolling shooter developed by Namco. It is the sequel to Baraduke. ", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14497, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1147131-baradukeii_bakutotsukijyutei_arcadeflyer.png", 
+      "name": "Bakutotsu Kij\u016btei - Baraduke II", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertically-scrolling shoot 'em up in the Xevious franchise. Adds bosses, power-ups and a story to the Xevious model.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14498, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/971585-xjp.jpg", 
+      "name": "Xevious: Fardraut Saga", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES baseball sim by Namco. It's the third game in the Pro Yakyuu Family Stadium series.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14499, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2368367-pro_yakyuu_stadium_88_fc.jpg", 
+      "name": "Pro Yakyuu Family Stadium '88", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Splatterhouse is a remarkably gory, splatter-themed arcade game from 1988. The player controls Rick Taylor, who allows himself to be possessed by the sinister \"Terror Mask\" in an attempt to save his girlfriend Jennifer from the hideous monsters who have kidnapped her.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14500, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2418727-splatterhouse_arcadeflyer.png", 
+      "name": "Splatterhouse", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The NES version of Genpei Touma Den which, rather than the action brawler original, is an RPG.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14501, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2359553-genpei_touma_den_fc.jpg", 
+      "name": "Genpei Touma Den: Computer Boardgame", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A multiplayer tennis game on the TurboGrafx-16. It is known as Pro Tennis: World Court in Japan. Perhaps most notable for its unusual \"Quest Mode\", which frames the game as a Dragon Quest clone.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14502, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1731302-wct.jpg", 
+      "name": "World Court Tennis", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "World Stadium is a version of Family Stadium for non-Nintendo platforms, appearing on the PCE Engine and in arcades.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14503, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2592475-worldstadiumpce.png", 
+      "name": "Pro Yakyuu World Stadium", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An \"Alice in Wonderland\" themed overhead platformer/action game developed by Namco. It was originally released in arcades in 1988; the PC Engine version was released on December 11th in 1990. Many of the enemies are also obviously inspired by Wonderland characters.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14504, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1663500-marchenmazefront.jpg", 
+      "name": "Marchen Maze", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A NES war-sim developed by Namco based on the Sengoku \"Warring States\" era of Japan. The game follows Masamune Date, one of the most prolific daimyos of the era.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14505, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2340595-dokuganryu_masamune_fc_box.jpg", 
+      "name": "Dokuganryu Masamune", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bosconian '87 is a port of the arcade game Bosconian.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14506, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1270924-bosco87.jpg", 
+      "name": "Bosconian '87", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sports branded college city builder for the social networking site Facebook.", 
+      "developers": [
+        {
+          "id": 539, 
+          "name": "Playdom"
+        }
+      ], 
+      "id": 14920, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1795411-espnu.jpg", 
+      "name": "ESPNU College Town", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 539, 
+          "name": "Playdom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Lap is an arcade racing game developed by Namco and released in 1987. A home version, developed by Arc System Works, was also released exclusively in Japan for the Nintendo Famicom.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14507, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2693124-6023535008-21305.jpg", 
+      "name": "Final Lap", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A block-breaking arcade game", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14508, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1712744-quester.jpg", 
+      "name": "Quester", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A graphically revamped adaptation of Namco's classic 1981 Arcade shoot 'em up Galaga. It was released in the US on the TurboGrafx-16 as Galaga '90.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14509, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365540-tg16_galaga90.jpg", 
+      "name": "Galaga '88", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertically-scrolling shoot-em-up where the player controls a dragon. It was developed by Namco and appeared on many home systems after its initial arcade release.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14510, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365528-tg16_dragonspirit.jpg", 
+      "name": "Dragon Spirit", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Not so much a sequel to Pro Yakyuu Family Stadium than an enhanced rerelease with updated rosters. It was published by Bandai for the Famicom in late 1987.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14511, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2471173-pro_yakyuu_87_fc_box.jpg", 
+      "name": "Pro Yakyuu Family Stadium '87", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first installment in the Family Tennis series. It was released for the Famicom in late 1987 by Namco and was the second tennis game for the system.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14512, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/701643-front.jpg", 
+      "name": "Family Tennis", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Japan only NES platformer based on the popular film Star Wars.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14513, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2323250-star_wars_namco_box.png", 
+      "name": "Star Wars", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ring King is a boxing game developed by Namco and published by Data East for the NES. It was known as Family Boxing in Japan.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14514, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/1082001-ring_king.jpg", 
+      "name": "Ring King", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Originally released in 1987, Pac-Mania featured a unique take on the Pac-Man formula.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14515, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371328-genesis_pacmania.jpg", 
+      "name": "Pac-Mania", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 108, 
+          "name": "Zeebo", 
+          "short": "ZBO"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Yokai Dochuki is an Arcade game by Namco that follows the adventures of a young boy through Jigoku, the Japanese equivalent of Hell. The game was later released for the PC Engine and Family Computer, but neither version was available outside of Japan. However, an unofficial english arcade version titled \"Shadow Land\" exists.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14516, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365597-tg16_youkai_douchuuki_front_jp.jpg", 
+      "name": "Shadow Land", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A horse racing simulator for the Famicom developed and published by Namco.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14517, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2468458-family_jockey_fc.jpg", 
+      "name": "Family Jockey", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sanma no Meitantei is a Japan-only text adventure mystery game produced by Namco for the Famicom. It features popular Japanese comedian Sanma Akashiya.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14518, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2286206-250px_sanma_no_meitantei_fc_box.jpg", 
+      "name": "Sanma no Meitantei", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game presented as \"hero show\" developed by Namco.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14519, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/238/553376-momo_cover.png", 
+      "name": "Wonder Momo", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hopping Mappy is the sequel to Namco's 1983 arcade hit Mappy.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14520, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1710655-filehopping_mappy_flyer.jpg", 
+      "name": "Hopping Mappy", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1986 top-down shooter from Namco", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14521, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1711002-toy_pop_flyer.png", 
+      "name": "Toy Pop", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14522, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365980-a7800_poleposition2.jpg", 
+      "name": "Pole Position II", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 121, 
+          "name": "Super Cassette Vision", 
+          "short": "SCV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Namco Arcade game based on the eponymous clans. The player is the resurrected vengeful spirit of historical samurai Taira no Kagekiyo. It received its first American localization in the 1997 Namco Museum Vol. 4 compilation.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14523, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2359552-genpei_touma_den_pce.jpg", 
+      "name": "The Genji and the Heike Clans", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "One of the first console baseball games to include real MLB players. The players were super deformed and had no likeness to the real players other than their stats and their names.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14524, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/234475-r.b.i_baseball_1.jpg", 
+      "name": "R.B.I. Baseball", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Rolling Thunder is a side-scrolling action game. It's an arcade classic that would have ports done for many consoles.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14525, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1779912-rollingthunder_flyer_jp.jpg", 
+      "name": "Rolling Thunder", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early NES action-adventure RPG from Namco, starring the shield maiden Valkyrie.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14526, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1500149-valkyriebouken_front.jpg", 
+      "name": "Valkyrie no Bouken: Toki no Kagi Densetsu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Tower of Druaga and an asynchronous two-player action-RPG. After rescuing Ki at the end of the first game, Gilgamesh and Ki must escape the Tower of Druaga by descending through its floors.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14527, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1710707-roiflyer.jpg", 
+      "name": "The Return of Ishtar", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game for the NES similar to Sokoban or Solomon's Key. It was developed by Namco.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14528, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2429930-babel_no_tou_fc.jpg", 
+      "name": "Babel no Tou", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Namco action game where the player is a contestant on the futuristic gameshow: Metro Cross!", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14529, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/33870/1095887-metrocrossfront.jpg", 
+      "name": "Metro-Cross", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14530, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1376099-motos_poster.png", 
+      "name": "Motos", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Aces from The Great War become birds in cartoon biplanes. Don't worry about it, just keep shooting!", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14531, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362230-nes_skykid_2.jpg", 
+      "name": "Sky Kid", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 121, 
+          "name": "Super Cassette Vision", 
+          "short": "SCV"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The official sequel to Namco's coin op classic Dig Dug. It was originally released in arcades and later ported to the NES and Famicom Disk System. It is a major departure from the original and is often seen as being far inferior.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14532, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361665-nes_digdug2.jpg", 
+      "name": "Dig Dug II: Trouble in Paradise", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1414 @@
+{
+  "games": [
+    {
+      "deck": "An HD remake of the original Ryu ga Gotoku (Yakuza) game, for PlayStation 4.", 
+      "developers": [], 
+      "id": 22141, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10354/2801606-14206-69345-thickbox.jpg", 
+      "name": "Ryu ga Gotoku Kiwami", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An anime cross over rhythm gamein the vein of Project Diva, featuring girls from a number of anime franchises.", 
+      "developers": [], 
+      "id": 22142, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Miracle Girls Festival", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dengeki Bunko: Fighting Climax Ignition adds additional characters, balance changes, and more.", 
+      "developers": [], 
+      "id": 22143, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2792025-9290182531-0016..jpg", 
+      "name": "Dengeki Bunko: Fighting Climax Ignition", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D action platformer from GameFreak.", 
+      "developers": [], 
+      "id": 22144, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2753357-rsz_1image.jpg", 
+      "name": "Tembo the Badass Elephant", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A second 2D fighting game in the Koihime Musou series.", 
+      "developers": [], 
+      "id": 22145, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2761334-8310394112-koihi.jpg", 
+      "name": "Koihime Enbu", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sci-Fi FPS game.", 
+      "developers": [], 
+      "id": 22265, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2437070-box_hhr.png", 
+      "name": "Headhunter: Redemption", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D fighting game based on Sega's Shining Force games.", 
+      "developers": [], 
+      "id": 22148, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2672445-9458647799-Blade.jpg", 
+      "name": "Blade Arcus from Shining", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Virtua Fighter: Fever Combo is a card combat-based spinoff of the Virtua Fighter series.", 
+      "developers": [], 
+      "id": 22149, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2616779-8771793883-05_vf.jpg", 
+      "name": "Virtua Fighter: Fever Combo", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega's crossover fighting game starring light novel characters from the publisher Dengeki Bunko.", 
+      "developers": [], 
+      "id": 22150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2721451-rsz_71fx656swwl_sl1000_.jpg", 
+      "name": "Dengeki Bunko: Fighting Climax", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Vocaloid powered rhythm game where the player can alter the lyrics as they play.", 
+      "developers": [], 
+      "id": 22151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2516992-3554305566-logo..png", 
+      "name": "Uta Kumi 575", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sonic the Hedgehog-themed arcade game for up to eight players. Each player runs on a treadmill to compete in three events.", 
+      "developers": [], 
+      "id": 22152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6228/2476093-sonic+athletics.jpg", 
+      "name": "Sonic Athletics", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Project Mirai rhythm game on the 3DS features more songs as performed by Hatsune Miku and other Vocaloids.", 
+      "developers": [], 
+      "id": 22153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6228/2684093-9035662308-Bx1jC.jpg", 
+      "name": "Hatsune Miku: Project Mirai DX", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Music themed game for arcades and PS4.", 
+      "developers": [], 
+      "id": 22154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2783494-1394728599-20150.jpg", 
+      "name": "Hatsune Miku: Project Diva Future Tone", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A keyboard version of The House of the Dead: OVERKILL. Also includes regular House Of The Dead: OVERKILL, where players shoot the dead with the mouse or controller.", 
+      "developers": [], 
+      "id": 22155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2768051-box_ttotdok.jpg", 
+      "name": "The Typing of The Dead: Overkill", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 8th installment of Sega's J-League soccer management simulator.", 
+      "developers": [], 
+      "id": 22156, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2558658-2822471763-img_p.jpg", 
+      "name": "J-League Pro Soccer Club o Tsukurou! 8 Euro Plus", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "New entry in Sega's Japanese soccer management series.", 
+      "developers": [], 
+      "id": 22157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2494523-9741357161-main_.jpg", 
+      "name": "Sakatsuku: Pro Soccer Club o Tsukurou!", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Journey back through the mysterious Castle of Illusion in this remake of one of Mickey Mouse's earliest 2D platforming adventures.", 
+      "developers": [], 
+      "id": 22158, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2469988-castle_of_illusion_boxart_digital.jpg", 
+      "name": "Disney Castle of Illusion Starring Mickey Mouse", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A lane defense RPG for mobile and handhelds.", 
+      "developers": [], 
+      "id": 22159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2624474-2339477162-main..jpg", 
+      "name": "Chain Chronicle", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade game in the Shining Force series.", 
+      "developers": [], 
+      "id": 22160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2672448-6837287669-72522.jpg", 
+      "name": "Shining Force Cross Exlesia", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese MOBA title, published by SEGA.\nAlso published by Asiasoft in South East Asia.", 
+      "developers": [], 
+      "id": 22161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/510/2474378-h1.png", 
+      "name": "Chaos Heroes Online", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the 2010 kart racer featuring Sega mascots driving vehicles that adapt to land, sea and air.", 
+      "developers": [], 
+      "id": 22162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2348795-box_saasrt.png", 
+      "name": "Sonic & All-Stars Racing Transformed", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puyo Puyo Narabe is a Puyo Puyo spinoff released for Android devices in Japan. Players must drag Puyo of the same color together in order to pop them.", 
+      "developers": [], 
+      "id": 22163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2438899-puyonarabe.jpg", 
+      "name": "Puyo Puyo Narabe", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jack Lumber is a supernatural lumberjack on a quest for revenge against the trees that killed his grandma.", 
+      "developers": [], 
+      "id": 22164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/38405/2295286-img_1094.png", 
+      "name": "Jack Lumber: The Lumberjack", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The official video game of the London Olympic Games, held in Summer 2012.", 
+      "developers": [], 
+      "id": 22165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261107-box_l2012.png", 
+      "name": "London 2012 - The Official Video Game of the Olympic Games", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second major revision of Virtua Fighter 5 and the second console release, bringing more crazy customizable costumes, arena tweaks, and gameplay balances.", 
+      "developers": [], 
+      "id": 22166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2213192-box_vf5fs.png", 
+      "name": "Virtua Fighter 5 Final Showdown", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PS3 pachi-slot game, one of many such games based on Fist of the North Star.", 
+      "developers": [], 
+      "id": 22167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2589198-1178606548-66235.jpg", 
+      "name": "Jissen Pachi-Slot Hisshouhou! Hokuto no Ken F - Seikimatsu Kyuuseishu Densetsu", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade game in the Shining Force series.", 
+      "developers": [], 
+      "id": 22168, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Shining Force Cross Elysion", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Vocaloid-themed rhythm game for 3DS.", 
+      "developers": [], 
+      "id": 22169, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2652912-0338041235-Hatsu.jpg", 
+      "name": "Hatsune Miku and Future Stars: Project Mirai", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Monkey Ball: Ticket Blitz is an arcade game in the Super Monkey Ball series, released in October 2011. ", 
+      "developers": [], 
+      "id": 22170, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/158845/2386124-supermonkeyballticketblitz_ringwide_cabinet.png", 
+      "name": "Super Monkey Ball: Ticket Blitz", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Seventh installment of Sega's J-League soccer management simulator.", 
+      "developers": [], 
+      "id": 22171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2137954-dragan_psp.jpg", 
+      "name": "J-League Pro Soccer Club o Tsukurou! 7 Euro Plus", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tying in to the 2011 film Captain America: The First Avenger, Super Soldier tells a side-story where the ultra-patriotic Steve Rogers takes the fight to the villainous HYDRA organization during World War II.", 
+      "developers": [], 
+      "id": 22172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1886595-box_cass.png", 
+      "name": "Captain America: Super Soldier", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Sega Rally racing franchise returns on Xbox Live Arcade and PlayStation Network with thirteen cars, five tracks, and online gameplay. The game has since been delisted, making it no longer available to purchase.", 
+      "developers": [], 
+      "id": 22173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1787444-box_sroa.png", 
+      "name": "Sega Rally Online Arcade", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Action-based, free-to-play MMO developed by Three Rings, makers of Puzzle Pirates and Bang Howdy. ", 
+      "developers": [], 
+      "id": 22174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1833983-box_sknight.png", 
+      "name": "Spiral Knights", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Shining Force Cross", 
+      "developers": [], 
+      "id": 22175, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Shining Force Cross Raid", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Developed by Sega for the iOS devices.  Build up your kingdom and conquer your friends.  Free to play with in game purchases available. ", 
+      "developers": [], 
+      "id": 22176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/99029/1832761-kingdomconquest1.jpg", 
+      "name": "Kingdom Conquest", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 2010 for the Nintendo DS.", 
+      "developers": [], 
+      "id": 22177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2238548-soccer_tsuku_ds_world_challenge_2010.jpg", 
+      "name": "Soccer Tsuku DS: World Challenge 2010", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of Super Monkey Ball 2 released on mobile platforms.", 
+      "developers": [], 
+      "id": 22178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2323546-primaryimage__1_.png", 
+      "name": "Super Monkey Ball 2: Sakura Edition", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Yakuza 4 is the fourth game in Sega's crime drama series, known as 'Ryu ga Gotoku' in Japan. As a first for the series, the story is split between the viewpoints of four different protagonists.", 
+      "developers": [], 
+      "id": 22179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1856051-box_yak4.png", 
+      "name": "Yakuza 4", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Join Sonic, Amigo, Ulala, and a bunch more classic Sega characters in this kart-style racing game.", 
+      "developers": [], 
+      "id": 22180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2090574-box_sasasr.png", 
+      "name": "Sonic & Sega All-Stars Racing", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sega's AM2 division is bringing back Daytona USA for the arcades.", 
+      "developers": [], 
+      "id": 22181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59954/1483573-daytona.jpg", 
+      "name": "Sega Racing Classic", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This updated version of Jambo! Safari is coming to the Wii and DS in 2009.", 
+      "developers": [], 
+      "id": 22182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13029/1206329-jambo_safari_ranger_adventure.jpg", 
+      "name": "Jambo! Safari Animal Rescue", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Planet 51 is a sandbox action adventure game based on the animated movie of the same name.", 
+      "developers": [], 
+      "id": 22183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1825106-box_p51tg.png", 
+      "name": "Planet 51", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sixth entry in Sega's J-League soccer management simulator.", 
+      "developers": [], 
+      "id": 22184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2558698-j-league6.jpg", 
+      "name": "J-League Pro Soccer Club o Tsukurou! 6 Pride of J", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Go tuna tossing or furniture racing in this collection of 10 off-beat sports-themed games.", 
+      "developers": [], 
+      "id": 22185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1137356-chinsportsboxart.jpg", 
+      "name": "Wacky World of Sports", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Its a Tactical Role-Playing Game for the DS. The story line is a spin-off from continuity but is still written by Tite Kubo.", 
+      "developers": [], 
+      "id": 22186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2209401-box_bt3p.png", 
+      "name": "Bleach: The 3rd Phantom", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This third-person shooter developed and published by Sega for the arcade includes 10 v 10 multiplayer matches played online.", 
+      "developers": [], 
+      "id": 22187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2662866-untitled.jpg", 
+      "name": "Border Break: Sega Network Robot Wars", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new game in the Hardy Boys series", 
+      "developers": [], 
+      "id": 22188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/1086192-front_cover.jpg", 
+      "name": "The Hardy Boys: Treasure on the Tracks", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Do pilates with a former MTV VJ and former co-host of AFV.", 
+      "developers": [], 
+      "id": 22189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1096470-14371.jpg", 
+      "name": "Daisy Fuentes Pilates", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Virtua Tennis 2009 is the latest iteration of the Virtua Tennis series, featuring an updated roster, new minigames, and several gameplay tweaks.", 
+      "developers": [], 
+      "id": 22190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266560-box_vt2009.png", 
+      "name": "Virtua Tennis 2009", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "First game based on the popular series of light novels/manga/anime to be released on the DS.", 
+      "developers": [], 
+      "id": 22191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2648689-haruhichokuretsu.jpg", 
+      "name": "Suzumiya Haruhi no Chokuretsu", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }
+  ]
+}

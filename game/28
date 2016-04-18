@@ -1,0 +1,1704 @@
+{
+  "games": [
+    {
+      "deck": "Stonkers is a strategy game for the ZX Spectrum, nowadays considered a pioneering real time strategy game.", 
+      "developers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ], 
+      "id": 1350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2334310-stonkers.jpg", 
+      "name": "Stonkers", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ], 
+      "id": 1351, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5000/533707-imgp0177.jpg", 
+      "name": "Pedro", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 51, 
+          "name": "Dragon 32/64", 
+          "short": "DRAG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ], 
+      "id": 1352, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/106662/1505817-b.c.bill_02.jpg", 
+      "name": "B.C. Bill", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 51, 
+          "name": "Dragon 32/64", 
+          "short": "DRAG"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ], 
+      "id": 1353, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Slugger", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nightmares From The Deep: The Cursed Heart is a hidden objects game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1354, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2365854-nightmares_from_the_deep_the_cursed_heart_1.jpg", 
+      "name": "Nightmares From The Deep: The Cursed Heart", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Adventure puzzle game with hidden object elements set in a fantasy world.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1355, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/27/277145/2744700-nearwood.jpg", 
+      "name": "Nearwood", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Big Fish Games' fusion of golf and card games returns.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1356, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2622277-screen+shot+2014-04-20+at+10.52.48+am.jpg", 
+      "name": "Fairway Solitaire Blast", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game and the sequel to Nightmares from the Deep: the Cursed Heart.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1357, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633509-nightmares+from+the+deep+the+sirens+call.jpg", 
+      "name": "Nightmares from the Deep 2: The Siren's Call", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 603, 
+          "name": "Artifex Mundi"
+        }
+      ]
+    }, 
+    {
+      "deck": "Zombie Zombie Zombie is a puzzle game for iPad from Big Fish Games.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1358, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2552800-screen+shot+2013-09-29+at+4.47.23+pm.png", 
+      "name": "Zombie Zombie Zombie", 
+      "platforms": [
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "American Pickers: The Road Less Traveled is a hidden objects game using the American Pickers license.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1359, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193358-cover.jpg", 
+      "name": "American Pickers: The Road Less Traveled", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game set in a post-Katrina New Orleans", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1360, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/2706073-screen3.jpg", 
+      "name": "Fallen Shadows", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The eighth game in the Mystery Case Files series. Players return again to explore the mysteries of the Ravenhearst Manor.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1361, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/88377/2136304-escape_from_ravenhearst.jpg", 
+      "name": "Mystery Case Files: Escape from Ravenhearst", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery Stories: Mountains of Madness is a mystery game from Big Fish Games.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1362, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2518511-mystery+stories+mountains+of+madness.jpg", 
+      "name": "Mystery Stories: Mountains of Madness", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hidden Expedition: The Uncharted Islands is a hidden object game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1363, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2295786-hidden_expedition_the_uncharted_islands_cover.jpg", 
+      "name": "Hidden Expedition: The Uncharted Islands", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in Big Fish's adventure/puzzle series for computers and mobile devices.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1364, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/158386/2222219-bvctraisha.jpg", 
+      "name": "Drawn: Trail of Shadows", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery Case Files: 13th Skull is another entry in the hidden object series.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1365, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2193683-cover.jpg", 
+      "name": "Mystery Case Files: 13th Skull", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure/puzzle game for the PC, developed and published by Big Fish. It is the second installment in the Drawn series.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1366, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/121483/1681286-drawnbanner_68807.jpg", 
+      "name": "Drawn: Dark Flight", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery Case Files: Dire Grove is a hidden objects game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2520841-mystery+case+files+dire+grove.jpg", 
+      "name": "Mystery Case Files: Dire Grove", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hidden object game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1368, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2295780-hidden_expedition_devil_s_triangle_cover.jpg", 
+      "name": "Hidden Expedition: Devil's Triangle", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure/puzzle game from Big Fish Games.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1369, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/27/1121678-picture_1.png", 
+      "name": "Drawn: The Painted Tower", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Unwell Mel is a match 3 puzzle game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1370, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2338307-unwell_mel.jpg", 
+      "name": "Unwell Mel", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "My Tribe is a commercial game developed by Big Fish Games. The game play is similar to the Virtual Villagers series, which is a blend between the genres: time management, strategy, simulation and adventure.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1371, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "My Tribe", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Return to Ravenhearst is the fifth game in the Mystery Case Files franchise series and its gameplay consist of a point &amp; click mix of puzzle and hidden object elements.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1372, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/62890/1476619-mystery.case.files.return.to.ravenhearst.jpg", 
+      "name": "Mystery Case Files: Return to Ravenhearst", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Point-and click adventure and sequel to Azada.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1373, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2295705-azada_ancient_magic_cover.jpg", 
+      "name": "Azada: Ancient Magic", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hidden object game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1374, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2297341-2297340-hidden_expedition_amazon_cover.jpg", 
+      "name": "Hidden Expedition: Amazon", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this Ren &amp; Stimpy game released for the SNES, the gruesome twosome must travel through time to stop Muddy Mudskipper from changing history.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/787381-r_s_tw_fc.jpg", 
+      "name": "The Ren & Stimpy Show: Time Warp", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "As a collector of old books and curiosities a leisurely trip to Long has taken a spine-tingling twist, inside a copy of the novel Dr. Jekyll and Mr. Hyde you have found a cryptic note signed JR.  Suddenly you are on the trail of Jack the Ripper one of history's most notorious killers.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1375, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1229499-mysterylondon_ripper_box.jpg", 
+      "name": "Mystery in London: On the Trail of Jack The Ripper", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fairway Solitaire is a downloadable casual game from Big Fish Games Inc.  Originally released in 2007, this game is a well polished solitaire game using golf as a backdrop.  ", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1376, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7303/540970-fairwaysolitaire.jpg", 
+      "name": "Fairway Solitaire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Madame Fate has foreseen her death at the stroke of midnight & asked for your help in investigating the other carnival workers to see their future at midnight in order to discover her killer. Each suspect with thier own motive might be the killer but only you can discover the hidden secrets inside Madame Fate's crystal ball.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1377, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15259/1181858-mf_box.jpg", 
+      "name": "Mystery Case Files: Madame Fate", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players must solve numerous puzzles in order to liberate an adventurer who has been magically imprisoned.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1378, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2799553-5701742625-heade.jpg", 
+      "name": "Azada", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 60, 
+          "name": "iPod", 
+          "short": "IPOD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hidden object game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1379, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Hidden Expedition: Everest", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1380, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1802882-word.jpg", 
+      "name": "Word Slinger", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 36, 
+          "name": "GameHouse, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A photo-hunt game developed by Big Fish Games, Inc.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1381, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2200243-cover.jpg", 
+      "name": "Mystery Case Files: Ravenhearst", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hidden Expedition: Titanic is a hidden objects game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1382, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2200229-cover.jpg", 
+      "name": "Hidden Expedition: Titanic", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Marble popping game with an Atlantis theme", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1383, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117587/2314891-asp_box.jpg", 
+      "name": "Atlantis Sky Patrol", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mahjong game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1384, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2296057-2296056-mahjong_towers_eternity_cover.jpg", 
+      "name": "Mahjong Towers Eternity", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A photo-hunt game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1385, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2200199-cover.jpg", 
+      "name": "Mystery Case Files: Prime Suspects", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1386, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1806383-inn.jpg", 
+      "name": "Mystic Inn", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mystery Case Files: Huntsville is the first hidden object game in the Mystery Case Files franchise.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1387, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2197582-cover.jpg", 
+      "name": "Mystery Case Files: Huntsville", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1388, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "9: The Dark Side of Notre Dame", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cascade is a match-3 style game from Big Fish Games.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1389, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2690141-ios_screen1_640.jpg", 
+      "name": "Cascade", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Game.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1390, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165036/2531473-virtual+city+2+paradise+resort.jpg", 
+      "name": "Virtual City 2: Paradise Resort", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Save the pandas from a terrible dragon by matching tiles.", 
+      "developers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ], 
+      "id": 1391, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2690142-screen+shot+2014-10-09+at+9.55.27+am.jpg", 
+      "name": "Panda PandaMonium", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 40, 
+          "name": "Big Fish Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take control once more of the legends of wrestling.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1392, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1796260-box_low2.png", 
+      "name": "Legends of Wrestling II", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A trip back in time with some of the greatest wrestlers in history.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1393, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1795903-box_low.png", 
+      "name": "Legends of Wrestling", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Acclaim brings its third wrestling title to the Dreamcast with ECW: Anarchy Rulz. More than 60 ECW wrestlers are included in the game including Dusty Rhodes, The Sandman, and Masato Tanaka. Choose from any of the available wrestlers or create your own jump into the action in any one of the more than 25 modes of play.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1394, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1550/236937-ecw_anarchy_rulz_pal.jpg", 
+      "name": "ECW Anarchy Rulz", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Catch some air, race your friends, and show off your bag of tricks in this arcade-style motocross game.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1395, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/365075-jeremy_mcgrath_supercross_2000_pal.jpg", 
+      "name": "Jeremy McGrath Supercross 2000", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "ECW Hardcore Revolution is a professional wrestling game which is based on the now defunct ECW promotion.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1396, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20737/761998-ecw_hardcore_revolution.jpg", 
+      "name": "ECW Hardcore Revolution", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "NBA Jam 2000 is a sports Nintendo 64 game made by Acclaim as licensed basketball simulation for the 1999-2000 NBA season. It also contained elements of the classic NBA Jam series in Jam Mode.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1397, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1811142-box_nbajam00.png", 
+      "name": "NBA Jam 2000", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "WWF WarZone is the first ever 3D wrestling game using the WWF license.", 
+      "developers": [
+        {
+          "id": 41, 
+          "name": "Acclaim Studios Salt Lake City"
+        }
+      ], 
+      "id": 1398, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139915-box_wwfwz.png", 
+      "name": "WWF War Zone", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }
+  ]
+}

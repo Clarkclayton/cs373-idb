@@ -1,0 +1,1816 @@
+{
+  "games": [
+    {
+      "deck": "Pinball simulator for the Atari 2600", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4043, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/1096940-vp.jpg", 
+      "name": "Video Pinball", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tempest is a rotation-based shooter with vector graphics, first appearing in arcades in 1981. It popularized the subgenre of \u201ctube shooters\u201d and also pioneered the use of vectors in game graphics.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4044, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5469/1308714-tempest1.jpg", 
+      "name": "Tempest", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade game released by Atari in 1980.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4045, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/1272658-rb6.jpg", 
+      "name": "Red Baron", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Centipede is a vertical shooter in which you must destroy centipedes and other bugs before they reach the bottom of the screen and destroy you.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4046, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29460/891006-centiped.png", 
+      "name": "Centipede", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 64, 
+          "name": "Game.Com", 
+          "short": "GCOM"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4047, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/316383-video_checkers.jpg", 
+      "name": "Video Checkers", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Othello for the Atari 2600 is a faithful representation of Reversi", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4048, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/588438-b_othello_color_front.jpg", 
+      "name": "Othello", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 383, 
+          "name": "Arc System Works Co., Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Adventure is one of the first console Role Playing Games, and contains an early example of an \"Easter Egg\"", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4049, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367663-a2600_adventure.jpg", 
+      "name": "Adventure", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Steeplechase is a horse racing game for the 2600. Due to the fact that the game used paddle controllers (Which only used one connection for two controllers)the game was one of the few four player 2600 games.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4050, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1357437-steeplechase_front.jpg", 
+      "name": "Steeplechase", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Attempt to drive around the track, picking up all the dots along the way while avoiding a head-on collision with the other cars.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4051, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11164/570529-dodgeem_front.jpg", 
+      "name": "Dodge 'Em", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "4-player paddle-based game for the Atari 2600.  Has since come out in various versions, few of which still utilize the paddle.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4052, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367845-a2600_warlords.jpg", 
+      "name": "Warlords", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Golf is simplified version of the sport it is based on.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4053, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/623776-b_golf_color_front.jpg", 
+      "name": "Golf", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 533, 
+          "name": "SSD Company Limited"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Maze Craze is a maze game with a few twists for the Atari 2600 for one or two players ", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4054, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367723-a2600_mazecraze.jpg", 
+      "name": "Maze Craze: A Game of Cops 'n Robbers", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4055, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27929/1360927-championshipsoccer.jpg", 
+      "name": "Championship Soccer", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released in 1980, Battlezone was an arcade machine where you assumed the role of a tank commander in a vector-based graphic world.   Allowing for split screen multiplayer, it entertained for years, and even in the '90s.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4056, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365318-axe_battlezone_au.jpg", 
+      "name": "Battlezone", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Missile Command is a classic arcade game in which players must delay their inevitable annihilation by destroying a barrage of incoming missiles.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4057, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366173-a5200_missilecommand.jpg", 
+      "name": "Missile Command", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This 3D spaceflight combat game helped launch the genre", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4058, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1781056-starraiders_400800box.jpg", 
+      "name": "Star Raiders", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game of vertical chicken where players are given higher scores the longer they delay pulling the chute. Miss the target and you score nothing. Don't pull the chute in time and you lose points.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4059, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/913/820370-b_skydiver_color_front.jpg", 
+      "name": "Sky Diver", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Early Miniature Golf Simulator", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4060, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/288561-mini_golf.jpg", 
+      "name": "Miniature Golf", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A reworked version of Space Invaders for the Atari 2600. Produced at the request of Coca-Cola in 1983, only 125 copies are reported to exist.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4061, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/956012-6a00d83452989a69e200e5505083208834_800wi.jpg", 
+      "name": "Pepsi Invaders", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Backgammon for the Atari 2600 is one of the earliest electronic versions of the famous board game.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4062, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/635233-b_backgammon_color_front.jpg", 
+      "name": "Backgammon", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 50, 
+          "name": "Odyssey 2", 
+          "short": "ODY2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "As the name implies this is a video game about the classic board game Chess ", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4063, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27929/1360946-b_videochess_color_front.jpg", 
+      "name": "Video Chess", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A four board, 4x4 Tic-Tac-Toe variant", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4064, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/288460-3d.jpg", 
+      "name": "3-D Tic-Tac-Toe", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A simple slot machine simulator where players can bet 1-5 coins per spin. Players can also play against a computer which makes random bets.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4065, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27929/1363879-b_slotmachine_color_front.jpg", 
+      "name": "Slot Machine", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "An early music composition game released for the Atari 400 and 800, and one of the first applications which allowed users to create their own chiptunes.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4066, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1746139-screen_shot_2011_03_28_at_11.55.51_pm.png", 
+      "name": "Music Composer", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Basic Programming for the Atari 2600 is a simple instructional tool designed to teach the fundamental steps of computer programming in the BASIC language.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4067, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367654-2600_basicprogramming.jpg", 
+      "name": "Basic Programming", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Atari's bestselling game of all time, Asteroids was one of the most influential releases of the Golden Age of Arcade Games. One of the first space shooters, it was the inspiration for many of the dual stick shooter games of the modern era, Geometry Wars chief among them.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4068, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367670-a2600_asteroids_au.jpg", 
+      "name": "Asteroids", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Use a steady hand and a lot patience to land your lunar lander on the rocky terrain of the moon!", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4069, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8338/1332521-lunarlander_flier_upload_small.jpg", 
+      "name": "Lunar Lander", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Credited as the largest pinball table ever produced. Claims to have \"18-square-feet of Excitement\".", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4070, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93946/1375903-flyer.jpg", 
+      "name": "Hercules", 
+      "platforms": [
+        {
+          "id": 70, 
+          "name": "Pinball", 
+          "short": "PIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 212, 
+          "name": "Guerrilla Cambridge"
+        }
+      ]
+    }, 
+    {
+      "deck": "Flag Capture is an early video game released by Atari, Inc. for the Atari 2600 VCS.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4071, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82221/1277194-b_flagcapture_color_front.jpg", 
+      "name": "Flag Capture", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A bowling game released for the Atari 2600.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4072, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19745/858290-584595_37560_front.jpg", 
+      "name": "Bowling", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4073, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11435/622130-563931_29144_front.jpg", 
+      "name": "Hunt & Score", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "This black-and-white arcade game was made popular by the Atari 2600 remake", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4074, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/280581-canyon_front.jpg", 
+      "name": "Canyon Bomber", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Human Cannonball is a shooting / targeting game released in 1978 for the Atari 2600", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4075, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/288289-cannonball.jpg", 
+      "name": "Human Cannonball", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A gambling game released for the Atari 2600 in 1978.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4076, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367684-a2600_casino.jpg", 
+      "name": "Casino", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4077, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2394/1327561-codebreaker.jpg", 
+      "name": "Codebreaker", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Home Run is a baseball game released by Atari, Inc. for their Atari 2600 VCS in 1978. It uses Joystick Controllers for gameplay. It was programmed by Dave Rolfe and Bob Whitehead.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4078, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367708-a2600_homerun.jpg", 
+      "name": "Home Run", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Atari 2600 version of the classic memorization game. Also known as Hunt & Score.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4079, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5578/907222-b_gameofconcentration_color_front.jpg", 
+      "name": "A Game of Concentration", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game in which the goal is to shoot the other player in a maze.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4080, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/279026-slot_racers.jpg", 
+      "name": "Slot Racers", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Brain teasers for the Atari 2600", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4081, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367673-a2600_braingames.jpg", 
+      "name": "Brain Games", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Also known as \"Combasteroids\", Space War is inspired by 1962's Spacewar!  Both games feature a gravity producing object, with two ships battling each other, although this version is in color and has different features.  ", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4082, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367832-a2600_spacewar_au.jpg", 
+      "name": "Space War", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Basketball is an Atari 2600 game based on the sport of the same name. The game features a simple game of one-on-one basketball, playable by one or two players.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/623370-b_basketball_color_front.jpg", 
+      "name": "Basketball", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sprint One is the fourth game in the Sprint series. It returns the graphics to black-and-white, and is single player only.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4084, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2656101-5344918028-11017.jpg", 
+      "name": "Sprint One", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Put the bridge back together and throw Lex Luthor and his gang in jail in this early Atari 2600 release.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4085, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367838-a2600_superman.jpg", 
+      "name": "Superman", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first American Football sim, a 1979 arcade release from Atari.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4086, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3859/912796-atarifb.png", 
+      "name": "Atari Football", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Black Jack for the Atari 2600 is a simple version of the popular casino game. It was one of the nine original launch games for the Atari 2600.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4087, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/645048-b_blackjack_color_front.jpg", 
+      "name": "Blackjack", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 138, 
+          "name": "IBM"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Ship is a classic arcade game that was released for the Atari 2600.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/288309-star_ship.jpg", 
+      "name": "Star Ship", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "A very simple 4-on-4 version of football for the Atari 2600.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15568/544130-b_football_color_front.jpg", 
+      "name": "Football", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 488, 
+          "name": "Chicago Coin"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sprint 8 is the third game in the Sprint series. Its most prominent new feature was the ability to play with eight simultaneous players.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2656048-9859482408-13895.jpg", 
+      "name": "Sprint 8", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hangman is a game in which you guess the letters for a blank word while only knowing how many letters are in the word.  You must guess correctly before your man is hanged, each guess gets your man closer to being hanged.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5278/280089-hangman.jpg", 
+      "name": "Hangman", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 41, 
+          "name": "TI-99/4A", 
+          "short": "TI99"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "Use the Paddle to keep the ball going to get the high score.", 
+      "developers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ], 
+      "id": 4092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366241-a5200_superbreakout.jpg", 
+      "name": "Super Breakout", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }
+  ]
+}

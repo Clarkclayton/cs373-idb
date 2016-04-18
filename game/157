@@ -1,0 +1,1596 @@
+{
+  "games": [
+    {
+      "deck": "An upcoming game from Giant Sparrow, following a cursed family throughout the 1900s.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2706838-8315902633-15774.jpg", 
+      "name": "What Remains of Edith Finch", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A casual co-op action RPG in the Fat Princess franchise.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2803691-1613223602-14180.jpg", 
+      "name": "Fat Princess Adventures", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "An open world story-based game set in rural England that takes place right after the apocalypse.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7792, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2774607-0070203710-21296.jpg", 
+      "name": "Everybody's Gone to the Rapture", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A colorful and surreal 2D adventure game where the player controls a flying, snake-like character, finding ways to interact with other characters and objects in each of 17 stages.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7793, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14876/2640444-6571186662-tumbl.jpg", 
+      "name": "Hohokum", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Before he was a God, Kratos was a man. A prequel, God of War: Ascension is the fourth major title of the God of War series, and Kratos' second outing on the PS3. It is the first to include a multiplayer component.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7794, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2417189-box_gowa.png", 
+      "name": "God of War: Ascension", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Characters from various Sony (and other guest) franchises battle it out in this crossover arena fighting game (in similar vein to the Super Smash Bros. series).", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7795, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2348790-box_pasbr.png", 
+      "name": "PlayStation All-Stars Battle Royale", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person puzzle game for PSN revolving around mechanics that allow the player to slowly reveal the world around them.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2338624-uswan.jpg", 
+      "name": "The Unfinished Swan", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "God of War Saga is a compliation of previous God of War titles, remastered in HD and in one box.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291746-box_gows.png", 
+      "name": "God of War Saga", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A downloadable musical platformer on PlayStation 3, 4 and Vita, from the creator of Everyday Shooter.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2355531-sndsps.png", 
+      "name": "Sound Shapes", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play a sorcerer's apprentice in this Playstation Move exclusive, Sorcery turns the Move into a real magic wand and has you performing various motions to cast spells.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222552-box_sorcery.png", 
+      "name": "Sorcery", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Playstation move enabled game from Polish developer Plastic", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2372039-iieuorj4on6xs.jpg", 
+      "name": "Datura", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lightbox Interactive is developing this spiritual successor to Warhawk for the PS3, incorporating the character-driven RTS gameplay in a style similar to The Outfit.\n\n", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171296-box_starhawk.png", 
+      "name": "Starhawk", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Journey is thatgamecompany's third release for Sony. Roam the lands discovering the history of an ancient civilization on a trek toward a distant mountain. Go at it alone or explore with strangers online.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44183/2388618-2172218_journey_detailcropped.png", 
+      "name": "Journey", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The long-running tournament-based vehicular manslaughter simulator returns with this new entry, exclusive to the Playstation 3.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2112213-box_tmetal.png", 
+      "name": "Twisted Metal", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Carnival Island is a PlayStation Move title where you are able to participate in traditional carnival games and attractions.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/2058177-carnis.jpg", 
+      "name": "Carnival Island", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Remastered HD versions of God of War: Chains of Olympus and God of War: Ghost of Sparta for the PlayStation 3.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331115-box_gowoc.png", 
+      "name": "God of War: Origins Collection", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "God of War: Ghost of Sparta bridges the gap between the first and second God of War, and is the second entry for the franchise on the PSP platform.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1794101-box_gowgos.png", 
+      "name": "God of War: Ghost of Sparta", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "A version of Fat Princess for the PSP, enhanced with added levels and modes.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1308379-fatprincessfoc_us_psp_front.jpg", 
+      "name": "Fat Princess: Fistful of Cake", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "God of War III puts players back in the role of Kratos to continue his brutal and bloody war against Olympus as he sets his sights on Zeus himself.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1817063-box_gow3.png", 
+      "name": "God of War III", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "A high definition re-release of God of War and God of War II for PlayStation 3.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1794099-box_gowc.png", 
+      "name": "God of War Collection", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "PixelJunk Monsters Deluxe is a \"best-of\" style sequel to the popular PSN tower defense series where you build up your defenses to protect your base against threatening monsters. ", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1308395-pjmonstersdeluxe_us_psp_front.jpg", 
+      "name": "PixelJunk Monsters Deluxe", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "The controversial Fat Princess sees the endless battle of red vs. blue comes to a fight between two kingdoms who have kidnapped each other's princess and are stuffing her with cake to make her rescue more difficult.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1100414-fatprincesslogo.jpg", 
+      "name": "Fat Princess", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Linger in Shadows is an interactive art experience on PSN. It consists of a video that plays and rewinds and allows the user to study it from different angles.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7812, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11423/727629-logo.jpg", 
+      "name": "Linger in Shadows", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Everyday Shooter is a shooter that mixes classic dual-joystick shooter gameplay with a custom soundtrack that creates music from the explosions of your enemies. It was released as a downloadable game for the PC and PlayStation 3, and later for the PSP.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117587/2299567-2299566-everydayshooter_box.jpg", 
+      "name": "Everyday Shooter", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the original PlayStation game of the same name, Warhawk for the PlayStation 3 opts for team-based multiplayer action on the ground and in the air instead of single-player flight combat.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832175-box_warhawk.png", 
+      "name": "Warhawk", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "God of War II continues the story of Kratos as he wields his newly-bestowed god-like powers, much to the dismay and fear of the other gods.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331114-box_gow2.png", 
+      "name": "God of War II", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "flOw was conceived as a college project by creator Jenova Chen, whose company later ported the game to the PlayStation Network with upgraded graphics and motion control.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2748/217994-flow.jpg", 
+      "name": "flOw", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Neopets: Petpet Adventures: The Wand of Wishing is a single-player PSP action adventure game based on the popular Neopets universe.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7817, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/842111-l10146286.jpg", 
+      "name": "Neopets Petpet Adventures: The Wand of Wishing", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as the Spartan warrior, Kratos, as he cuts his way through armies of mythological creatures on a path to kill Ares, the God of War, and gain redemption for his past sins.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2139780-box_gow.png", 
+      "name": "God of War", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kinetica is a futuristic racing game where people wear motorcycle like suits in which they race.", 
+      "developers": [
+        {
+          "id": 278, 
+          "name": "SCE Santa Monica Studio"
+        }
+      ], 
+      "id": 7819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276004-box_kinetica.png", 
+      "name": "Kinetica", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capcom is developing this Mario Party game specifically for arcades.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2822657-7606461614-mario.jpg", 
+      "name": "Mario Party Fushigi no Challenge World", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The sixth entry in the mainline Ace Attorney series.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2832781-aa6box.jpg", 
+      "name": "Gyakuten Saiban 6", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new Monster Hunter spin-off, targeted at younger audience and jumping genres to a traditional open-world RPG.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2742169-1101101006-img_m.jpg", 
+      "name": "Monster Hunter Stories", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Six-player arcade game machine.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9536/2822613-3778944618-mario.jpg", 
+      "name": "Mario Party Fushigi no Challenge World", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An online-only competitive shooter developed by Capcom with elements of both third and first-person perspectives.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10354/2783663-143ce24356771a647875e2807c960793.jpg", 
+      "name": "Umbrella Corps", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth numbered entry in the renowned Street Fighter series of fighting games has appeared as a PlayStation 4 and PC exclusive.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2707240-rsz_15774215657_dbc508b182_b.jpg", 
+      "name": "Street Fighter V", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A compilation containing the remastered versions of the Resident Evil remake and Resident Evil Zero.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10354/2789446-maxresdefault.jpg", 
+      "name": "Resident Evil Origins Collection", 
+      "platforms": [
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Free 2 Play online full open world game for the PS3, PS4 and PC.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2720691-capture.jpg", 
+      "name": "Dragon's Dogma Online", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action role-playing game published by Capcom for the Nintendo 3DS. The game was released in Japan under the name Monster Hunter X (pronounced \"Cross\") in November 2015.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2834132-mhg.jpg", 
+      "name": "Monster Hunter Generations", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Capcom and Sega bring Nintendo's second banana to arcades with this first-person ghost-wrangling adventure.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9536/2784440-luigimansionarcadelogo.jpg", 
+      "name": "Luigi Mansion Arcade", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced version of hack n' slash title Sengoku Basara 4, with new characters and a PS4 version.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2770236-2637652379-pljm84022_jacket", 
+      "name": "Sengoku Basara 4 Sumeragi", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Ace Attorney spin-off directed by series' creator Shu Takumi about Phoenix Wright's ancestor from the Meiji Era.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2752498-dai.jpg", 
+      "name": "Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remastering of Capcom's fourth Devil May Cry game featuring 3 additional playable characters, enhanced graphics and balance tweaks.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7832, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/71263/2737259-9659276313-0a345.jpg", 
+      "name": "Devil May Cry 4: Special Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 5-on-5 card battle game based on the Street Fighter IV engine, but with character variations from across Street Fighter history.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7833, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2666200-5168222469-19-st.jpg", 
+      "name": "Street Fighter Battle Combination", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Revelations 2 sees the return of Claire Redfield, who along with the daughter of Barry Burton, Moira Burton, must try to escape from a monster-infested island. Meanwhile, Barry Burton himself makes his belated return as well in his attempts to save his daughter with the assistance of a little girl called Natalia Korda.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7834, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2678233-rer2.jpg", 
+      "name": "Resident Evil: Revelations 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first 4th Generation Monster Hunter game, for Nintendo 3DS.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7835, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2560015-mh4clean.jpg", 
+      "name": "Monster Hunter 4", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Hunter 4 Ultimate is an expanded version of Monster Hunter 4.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7836, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2676862-mh4ubox.jpg", 
+      "name": "Monster Hunter 4 Ultimate", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "This game is the \"HD Remaster\" release of the Gamecube's 2002 Resident Evil Remake.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7837, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/78531/2808209-resident-evil-hd-remastered-logo.jpg", 
+      "name": "Resident Evil HD Remaster", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "An \"online touch RPG\" for smartphones, tablets and PC.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7838, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2825698-art.jpg", 
+      "name": "Breath of Fire 6", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new version of the Monster Hunter MMO spin-off, Fronter G5.", 
+      "developers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ], 
+      "id": 7839, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2630917-mhfg5.jpg", 
+      "name": "Monster Hunter Frontier G5", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1519 @@
+{
+  "games": [
+    {
+      "deck": "The original version of Bomberman contained the basic single-player gameplay that the series was known for in its early years, but didn't contain any multiplayer component.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9335, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365512-tg16_bomberman.jpg", 
+      "name": "Bomberman", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 60, 
+          "name": "iPod", 
+          "short": "IPOD"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Adventure game created by Hudson in 1986.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9336, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173580-dezeni_world_pc88.jpg", 
+      "name": "Dezeni World", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This multiplayer-only Bomberman release is exceedingly rare and seems to have been produced for demo kiosks, tournaments, or both.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9337, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2344249-bomberman_users_battle.png", 
+      "name": "Bomberman: Users Battle", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An Urusei Yatsura adventure game for the TurboGrafx CD.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9338, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1664107-urusei_yatsura_stay_with_you__w_music_cd__box_front.jpg", 
+      "name": "Urusei Yatsura: Stay With You", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bakushou Yoshimoto no Shinkigeki is an action platforming game for the TurboGrafx-CD.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9339, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/30/307326/2823151-13532.jpg", 
+      "name": "Bakushou Yoshimoto no Shinkigeki", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A female targeted visual novel by Hudson for Nintendo's DSiWare that plays in medieval Japan and has 10 guys to seduce", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9340, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Himitsu no Ooku", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Adventure game created by Hudson in 1983.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1167701-dezeni.jpg", 
+      "name": "Dezeni Land", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi adventure game for the PCE CD-ROM2 developed by Hudson. It is based on a manga and anime and is the predecessor to The Space Adventure for the Sega CD.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2382487-space_adventure_cobra_pcecd.jpg", 
+      "name": "Cobra: Kokuryuuou no Densetsu", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Game Boy Wars 3 is a Turn Based Strategy game for the Game Boy Color. It is a Japan-only part of the Nintendo Wars series.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9343, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/153153/2143753-game_boy_wars_3_box.jpg", 
+      "name": "Game Boy Wars 3", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bomberman 3DS was a game scheduled for the Nintendo 3DS that was cancelled. Little is known about the game aside from the existence of a story mode and multiplayer.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122360/1687265-thumb_ice_boss.jpg", 
+      "name": "Bomberman 3DS", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D baseball game featuring the Nippon Professional Baseball league.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2172932-photo_gallery_splfx_cover.jpg", 
+      "name": "Super Power League FX", 
+      "platforms": [
+        {
+          "id": 62, 
+          "name": "PC-FX", 
+          "short": "PCFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mahjong game developed by Hudson Soft in 1983.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173562-jankyou_fm_7.jpg", 
+      "name": "Jankyou", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sudoku Student is a DSiWare Sudoku game featuring tutorials and 50 easy Sudoku puzzles for entry to beginner level players. ", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1044562-sudokuhudson.jpg", 
+      "name": "Sudoku Student", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Bonk: Brink of Extinction was a digital download game intended to pit Bonk against a comet that could have decimated the Earth. Instead, it was canceled in late 2010.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1123755-bonk_logo.jpg", 
+      "name": "Bonk: Brink of Extinction", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9349, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/394789-cct.jpg", 
+      "name": "Centre Court Tennis", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Action game developed by Hudson in 1995.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1145292-zenki2.jpg", 
+      "name": "Kishin Douji Zenki: Denei Raibu", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A role-playing game for the Turbo CD from Hudson.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9351, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1673194-seiryuu_densetsu_monbit_box_front.jpg", 
+      "name": "Seiryuu Densetsu Monbit", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Baseball sim developed by Hudson in 1984. ", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9352, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1165393-p6yakyukyop1.jpg", 
+      "name": "Yakyuukyou", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based \"deck building\" strategy game for the Sega Saturn. It was the only turn-based strategy game on the system to support Seganet's X-Band.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9353, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1691955-tuskboxfront.jpg", 
+      "name": "Shadows of the Tusk", 
+      "platforms": [
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "No info", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9354, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/847641-4313.png", 
+      "name": "Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Neo Nectaris is an updated version of Military Madness that features new maps and units.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9355, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2342915-neo_nectaris.jpg", 
+      "name": "Neo Nectaris", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Following the 3DS remaster of the original game, the sequel gets the same kind of overhaul as well.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9356, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Dementium II Remastered", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "An in-between game with 40 brand new extra hard levels while a proper Mutant Mudds 2 is still on the horizon.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9357, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2720216-b8tzznwccaa89t3.jpg", 
+      "name": "Mutant Mudds Super Challenge", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "More mutants mudding around in stereoscopic 3D in this sequel to Mutant Mudds. Development has been put on hold until Renegade Kid finishes up some other titles. Release is set for 2015.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9358, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mutant Mudds 2", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remaster of the 2007 Nintendo DS first person horror game Dementium: The Ward with new difficulty modes, control options and a massive visual overhaul.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9359, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2799545-8885745683-TCN5pN.jpeg", 
+      "name": "Dementium Remastered", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Metroidvania-style sci-fi action adventure game from Renegade Kid.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9360, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2666325-logo.jpg", 
+      "name": "Xeodrifter", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "Renegade Kid's new co-op adventure platformer for up to two players. Explore various levels to find treasures.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9361, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2554290-treasurenauts.jpg", 
+      "name": "Treasurenauts", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "An episodic remake of the DS sci-fi shooter Moon, set to release on the 3DS eShop in Spring 2014.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9362, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2594201-moonchronicles.jpg", 
+      "name": "Moon Chronicles", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "Renegade Kid follows up their ATV series into 3D on the Nintendo 3DS eShop.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9363, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2456155-atv_wild_ride_3d_art.jpg", 
+      "name": "ATV Wild Ride 3D", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Renegade Kid's Nintendo e-Shop RPG.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9364, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17416/2277050-2277048-logo.png", 
+      "name": "Planet Crashers", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3DS eShop Puzzle game from Renegade Kid.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9365, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2231826-bombmonkey_tease.gif", 
+      "name": "Bomb Monkey", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "This downloadable 2D platformer, from the creators of Nintendo DS classics Dementium and Moon, requires players to traverse levels made up of three layers of depths in order to vanquish an army of slimy brown monsters.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9366, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117587/2301812-mudds_box_art.jpg", 
+      "name": "Mutant Mudds", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "A tilt-controlled racer from Renegade Kid and Majesco", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1883408-face.jpg", 
+      "name": "Face Kart: Photo Finish", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "From the creators of Moon and Dementium II comes a brand new racing game that runs a smooth 60 FPS and it's called ATV Wild Ride.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9368, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2275973-box_atvwr.png", 
+      "name": "ATV Wild Ride", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A survival horror shooter for the DS that takes place at the Bright Dawn Treatment Center. It is a sequel to Dementium: The Ward.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9369, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2120433-box_dem2.png", 
+      "name": "Dementium II", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 23, 
+          "name": "SouthPeak Interactive, LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Like the title suggests, Moon takes place on the moon where explorers discover a hatch that leads them to a startling discovery.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9370, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2120437-box_moon.png", 
+      "name": "Moon", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dementium: The Ward is a first-person shooter for the DS with elements of survival horror.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9371, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2314061-box_dtw.png", 
+      "name": "Dementium: The Ward", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 23, 
+          "name": "SouthPeak Interactive, LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new freestyle scooter game for the new console trio developed by Renegade Kid in partnership with Razor licensee Scarab Entertainment. The game was supposedly canceled due to publisher issues.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9372, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2605119-f8qw5wql.jpg", 
+      "name": "Razor Global Domination Pro Tour", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Renegade Kid's new episodic Horror-FPS originally planned for the Nintendo 3DS eShop. On April 2, 2014 Renegade Kid announced the game was evolved into a console game and went to Kickstarter while the 3DS version has been canceled. The game will be made even if the Kickstarter fails but it will take a lot longer, according to Renegade Kid.", 
+      "developers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ], 
+      "id": 9373, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2458440-cc.jpg", 
+      "name": "Cult County", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 315, 
+          "name": "Renegade Kid"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dwarf Fortress is a single-player, high fantasy simulation game in the style of old ASCII Roguelikes. You can control either a Dwarven clan attempting to build a settlement or a single adventurer in a randomly generated and persistent world complete with its own unique history.", 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9374, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23808/1094311-title.png", 
+      "name": "Slaves to Armok: God of Blood Chapter II: Dwarf Fortress", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9375, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "No More Stumpie-Wumples", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A WWI game where the player is cast in the role as medic. They must bandage and return from No Man's Land with wounded soldiers.", 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9376, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/485/831251-ww1scr2.jpg", 
+      "name": "WWI Medic", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fuck You is a Galaga like game where the objective is to protect infants from obscene curse words.", 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9377, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1010/474157-fuck_you.png", 
+      "name": "Fuck You", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9378, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Environmental Extremist", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A humorous RPG/Strategy game where players use crime to further their liberal agenda and fight conservatives.", 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9379, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/485/828504-lcsxe5.png", 
+      "name": "Liberal Crime Squad", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Defend your tribe of Kobolds from bloodthirsty adventurers", 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9380, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/485/831250-koboldquest.jpg", 
+      "name": "Kobold Quest", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A single-player fantasy RPG. The game can also be described as a Roguelike.", 
+      "developers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ], 
+      "id": 9381, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2761805-steel3.jpg", 
+      "name": "Slaves to Armok: God of Blood", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 316, 
+          "name": "Bay 12 Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Top Gun: Guts and Glory is an aerial combat game based on the popular movie \"Top Gun.\"", 
+      "developers": [
+        {
+          "id": 317, 
+          "name": "Distinctive Software, Inc."
+        }
+      ], 
+      "id": 9382, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58947/1321544-585967_38764_front.jpg", 
+      "name": "Top Gun: Guts & Glory", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 317, 
+          "name": "Distinctive Software, Inc."
+        }
+      ], 
+      "id": 9383, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/763762-weirdness.jpg", 
+      "name": "The Simpsons: Bart's House of Weirdness", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The only TMNT game released exclusively for PC. It has a unique control scheme with two modes, one for walking and the other for fighting.", 
+      "developers": [
+        {
+          "id": 317, 
+          "name": "Distinctive Software, Inc."
+        }
+      ], 
+      "id": 9384, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8230/329391-pcmissions.jpg", 
+      "name": "Teenage Mutant Ninja Turtles: Manhattan Missions", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1361 @@
+{
+  "games": [
+    {
+      "deck": "Making its first ever appearance outside of Japan, this new entry in the Itadaki Street series once again challenges classic Dragon Quest characters as well as Mario and his friends in the ever-changing stock market game on the Nintendo Wii.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 1998, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2079823-box_fstreet.png", 
+      "name": "Fortune Street", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to 2007's monster-raising game DQM Joker.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 1999, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1885621-box_dqmj2.png", 
+      "name": "Dragon Quest Monsters: Joker 2", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Legendary Starfy is a cute kids-oriented platformer developed by TOSE Co., Ltd. for the Nintendo DS, and is the first in its franchise to come to North America.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2000, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1894721-box_tlstarfy.png", 
+      "name": "The Legendary Starfy", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Wii remake of Dead Rising built on the Resident Evil 4 engine.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2001, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179474-box_drctyd.png", 
+      "name": "Dead Rising: Chop Till You Drop", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "This sequel to Crash of the Titans takes jacking enemies to the next level by allowing you to level up the monster under your control.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2002, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1881064-box_crashmom.png", 
+      "name": "Crash: Mind Over Mutant", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }, 
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Follow Claude and Rena on their quest to investigate the Sorcery Globe in this enhanced remake of Star Ocean:  Second Story for the PSP.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2003, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2108514-box_sose.png", 
+      "name": "Star Ocean:  Second Evolution", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Ocean: First Departure is a remake of the original Star Ocean for the SNES with revamped graphics, soundtrack, and added animated cutscenes for the Sony PSP.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2004, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2108513-box_sofd.png", 
+      "name": "Star Ocean: First Departure", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Dragon Quest Monsters: Joker, you\u2019re cast into the role of a young monster trainer competing in a monster-scouting tournament. By a turn of fate, you end up in events bigger than the competition.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2005, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875225-box_dqmj.png", 
+      "name": "Dragon Quest Monsters: Joker", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The town of Boingburg is under attack and all the slime residents have been kidnapped!  Slime puns abound as Rocket Slime takes on the mysterious Plob in order to save his friends, with a little help from an ancient tank.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2006, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875224-box_dqhrs.png", 
+      "name": "Dragon Quest Heroes: Rocket Slime", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "This RPG focuses on a band of warriors attempting to stop the Queen of Ice from resurrecting ancient golems which could destroy the world. The game is similar in formula to Final Fantasy titles and uses randomly triggered encounters.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2007, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261095-box_earms.png", 
+      "name": "Enchanted Arms", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth entry in Capcom's long-running Ghosts 'N Goblins series.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2008, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2314086-box_ugng.png", 
+      "name": "Ultimate Ghosts 'N' Goblins", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The heart crystal has been stolen from Tenkai Palace and it's up to Stafy and crew to get it back. Join Stafy, Stapy and Kyorosuke in their 4th adventure to save the seas.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2009, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2714/740144-stafy4box.png", 
+      "name": "Densetsu no Stafy 4", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mario and friends are kidnapped and Princess Peach must rescue them.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2010, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266541-box_spp.png", 
+      "name": "Super Princess Peach", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball game for the PC Engine that features athletes and teams from the 1990 Nippon Professional Baseball league.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2817858-3865209137-41924.jpg", 
+      "name": "Kore ga Pro Yakyuu '90", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Jack Skellington is back ... and he's armed to the bone!  Control Tim Burton's Jack Skellington to battle Oogie Boogie for control of Halloween Town.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2011, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285743-box_tnbcor.png", 
+      "name": "Tim Burton's The Nightmare Before Christmas: Oogie's Revenge", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tim Burton's The Nightmare Before Christmas: The Pumpkin King is a 2D platformer based on the movie. It was released around the same time as the game The Nightmare Before Christmas: Oogie's Revenge", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2012, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543574-box_tbtnbctpk.png", 
+      "name": "Tim Burton's The Nightmare Before Christmas: The Pumpkin King", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sega Casino is a collection of casino games for the Nintendo DS.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2013, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11512/1094650-sega_casino.jpg", 
+      "name": "Sega Casino", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Virtua Quest is a 3rd person Action RPG set in the Virtua Fighter universe.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2014, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2491493-box_vq.png", 
+      "name": "Virtua Quest", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A thundershock has rocked Tenkai Palace and set free Ogura once again! Join Stafy and Kyorosuke for a third time to bring peace to the seas.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2015, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2714/740223-stafy3box.jpg", 
+      "name": "Densetsu no Stafy 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Naruto: Path of the Ninja is an RPG based on the anime Naruto. It was released in Japan on Game Boy Advance and in North America on DS.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2016, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2215066-box_narutopotn.png", 
+      "name": "Naruto: Path of the Ninja", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A video game based off Dragon Ball released for the Wonder Swan Color in 2003.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2017, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/79739/1294943-180px_wsc_game_dragon_ball.gif", 
+      "name": "Dragon Ball", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Dragon Quest Action/Adventure spin-off title for the GBA featuring a Slime as its main character.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2018, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/756404-front.jpg", 
+      "name": "Slime MoriMori Dragon Quest: Shougeki no Shippo Dan", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this direct sequel to the first game, Stafy must rescue his Mama Star, and beat Ogura after he escaped from his magical jar prison once more.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2019, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2714/626554-front.jpg", 
+      "name": "Densetsu no Stafy 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Portable Saint Seiya RPG action.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2020, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2501716-ssougon.jpg", 
+      "name": "Saint Seiya: Ougon Densetsu-hen Perfect Edition", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Shrek beat-'em-up for the GBA", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2021, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171939/2625771-1121497709-53628.jpg", 
+      "name": "Shrek: Reekin' Havoc", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third game in the Dragon Quest Monsters series, and the only installment to not receive a US release.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2022, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/715040-front.jpg", 
+      "name": "Dragon Quest Monsters: Caravan Heart", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy Origins is a compilation of the Wonder Swan Color remakes of Final Fantasy I and Final Fantasy II and released exclusively for the Sony PlayStation.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2023, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/864/624451-final_fantasy_origins.jpg", 
+      "name": "Final Fantasy Origins", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kinnikuman Nisei: Choujin Seisenshi is a Kinnikuman fighting game made for WonderSwan Color.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2024, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1775163-583474_24327_front.jpg", 
+      "name": "Kinnikuman Nisei: Choujin Seisenshi", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The surprisingly decent Shrek: Hassle at the Castle is a 2D side-scrolling action platformer for the Game Boy Advance that mirrors the events of the first film.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2025, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/759966-563100_45428_front.jpg", 
+      "name": "Shrek: Hassle at the Castle", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Guide Stafy through his first adventure for the Gameboy Advance. Help out familiar faces like Kyorosuke and Hadehihari, and defeat the evil Ogura!", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2026, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2714/740148-stafy1box.png", 
+      "name": "Densetsu no Stafy", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PS1 remake of the first two Dragon Quest Monsters games for the GBC.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2027, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2262856-dqm1_2boxart.jpg", 
+      "name": "Dragon Quest Monsters 1 & 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An entry in EA's soccer franchise released to coincide with the 2002 World Cup. It is very similar to the previously-released FIFA 2002, with a few additions and tweaks.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2028, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18185/642230-2002_fifa_world_cup_coverart.jpg", 
+      "name": "2002 FIFA World Cup", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kawa no Nushi Tsuri 5 is the final numbered entry in the Kawa no Nushi Tsuri (Legend of the River King) series.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2029, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2617057-2068309178-30481.jpg", 
+      "name": "Kawa no Nushi Tsuri 5: Fushigi no Mori Kawa", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Kinnikuman Nisei: Dream Tag Match is a WonderSwan Color fighting game based from the Kinnikuman series.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2030, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1775164-567263_7345_front.jpg", 
+      "name": "Kinnikuman Nisei: Dream Tag Match", 
+      "platforms": [
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Warrior Monsters 2 is fantasy based RPG that was released on the Game Boy Color. It features gameplay of capturing monsters from the Dragon Warrior universe, and training them to save the world.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2031, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/976/970728-dwm2.jpg", 
+      "name": "Dragon Warrior Monsters 2", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metal Walker is an RPG for the Game Boy Color", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2032, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26763/1119551-box_scan004.jpg", 
+      "name": "Metal Walker", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The story of Lenneth, a Valkyrie charged with recruiting the souls of the fallen to fight in Ragnarok.  In 2006 a PSP port was released, titled \"Valkyrie Profile: Lenneth\"", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2033, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193306-box_vp.png", 
+      "name": "Valkyrie Profile", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dear Daniel no Sweet Adventure: Kitty-Chan o Sagashite is a Japan-only Game Boy Color game.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2034, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1984147-cover.jpg", 
+      "name": "Dear Daniel no Sweet Adventure: Kitty-Chan o Sagashite", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Moero!! Pro Yakyuu game for WonderSwan", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2035, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2766244-5237209835-39601.jpg", 
+      "name": "Moero!! Pro Yakyuu Rookies", 
+      "platforms": [
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Thousand Arms is a JRPG game with dating sim elements. Help Meis Triumph upgrade his weapons by combining love and a red hot forge. Don't forget to use said weapons to destroy the evil robotic Dark Acolytes.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2036, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199429-box_tarms.png", 
+      "name": "Thousand Arms", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ganso Jajamaru-kun is an enhanced remake of the original Jajamaru-kun game", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2037, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2598006-9839654621-57662.jpg", 
+      "name": "Ganso Jajamaru-kun", 
+      "platforms": [
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth entry in the Gallery series, Game &amp; Watch Gallery 3 is a collection of five games with a fast pace and progressively harder levels.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2038, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2549843-box_gawg3.png", 
+      "name": "Game & Watch Gallery 3", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou is a Hello Kitty game for the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2039, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2069773-cover.jpg", 
+      "name": "Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 282, 
+          "name": "Imagineer Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Terrans have been at war with the Gammulan race for years. ", 
+      "developers": [
+        {
+          "id": 59, 
+          "name": "3000AD, Inc."
+        }
+      ], 
+      "id": 2210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1872/1101802-headesr.jpg", 
+      "name": "Angle of Attack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 59, 
+          "name": "3000AD, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A monster collecting, breeding, and fighting game for the Game Boy Color. Terry's sister has been kidnapped and he must find and save her at any cost.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2040, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875229-box_dwm.png", 
+      "name": "Dragon Warrior Monsters", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Umi no Nushi Tsuri 2 is the portable follow-up to the SNES original.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2041, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2617218-2141338816-36795.jpg", 
+      "name": "Umi no Nushi Tsuri 2", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released as Vol. 4 in Japan", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2042, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2412285-vol2gbc.jpg", 
+      "name": "Konami GB Collection Vol. 2", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2043, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2802201-saturn.jpg", 
+      "name": "EVE: The Lost One", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Released as Vol. 3 in Japan.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2044, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2412295-gbcvol4.jpg", 
+      "name": "Konami GB Collection Vol. 4", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation of four Game Boy Konami games, some of which have been colorized for the first time for the GBC version. It was released as Vol. 2 in Japan.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 2045, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2412289-gbcvol3.jpg", 
+      "name": "Konami GB Collection Vol. 3", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }
+  ]
+}

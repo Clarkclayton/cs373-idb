@@ -1,0 +1,1995 @@
+{
+  "games": [
+    {
+      "deck": "The \"Temple of Apshai Trilogy\" release was an updated remake of the original \"Temple of Apshai\" and its two expansions, \"Upper Reaches of Apshai\" and \"Curse of Ra\". These games were early CRPGs with non-random maps.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16685, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/597411-571999_33103_front_1_.jpg", 
+      "name": "Temple of Apshai Trilogy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "G.I. Joe takes on Cobra in this two-player shooter from Epyx.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16686, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/941882-gijoe_a2_front.jpeg", 
+      "name": "G.I. Joe: A Real American Hero", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Summer Games II is a sequel to the popular Summer Games released the year before by Epyx.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16687, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/932750-summergames2box.jpg", 
+      "name": "Summer Games II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the all-time great platformers.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16688, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365974-a7800_impossiblemission.jpg", 
+      "name": "Impossible Mission", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzle Panic, a game created by strategist Ken Uston, allows players to play its eleven puzzles sequentially, or randomly, in an attempt to defeat the \"Metasequence,\" a difficult puzzle encompassing all of the game's challenges.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16690, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/2165901-puzzle_panic_d7.jpg", 
+      "name": "Puzzle Panic", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Summer Games is a sports simulation game that includes various events from the Summer Olympics games.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16691, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2476266-sg.jpg", 
+      "name": "Summer Games", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Pitstop is an early racing game that was released on the Atari 8-bit computer, Commodore 64, and ColecoVision.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16692, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56971/2024145-pitstop_cart_2__1_.jpg", 
+      "name": "Pitstop", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A sequel to the original Jumpman, Jumpman Junior is a platform game where players collect bombs in a dozen different levels, each with a unique play mechanic.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16693, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366094-a5200_jumpmanjunior.jpg", 
+      "name": "Jumpman Jr.", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "In this almost-but-not-quite Roguelike, you play a lone warrior exploring the mysterious dungeons of Aphsai, collecting treasure and better equipment as you proceed, in addition to leveling up and getting more experience.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16694, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366073-a5200_gatewaytoapshai.jpg", 
+      "name": "Gateway to Apshai", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This Donkey Kong influenced game is about a man who has to defuse the bombs that were planted by terrorists.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16695, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1763302-giant_bomb_sub_3.jpg", 
+      "name": "Jumpman", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 138, 
+          "name": "IBM"
+        }, 
+        {
+          "id": 149, 
+          "name": "Commodore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sword of Fargoal is a \"Rogue-like\" role-playing game that charges players with the task of descending into a randomly generated dungeon, retrieving a sword, and escaping. Since the escape is limited to 2000 seconds and death is permanent, actually completing the game is notoriously difficult.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16696, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1191552-sword_of_fargoal.jpg", 
+      "name": "Sword of Fargoal", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dunjonquest: Curse of Ra is an expansion to Temple of Apshai.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16697, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1331025-curse_of_ra_d7.jpg", 
+      "name": "Dunjonquest: Curse of Ra", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion module for Dunjonquest: Hellfire Warrior.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16698, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1331057-danger_in_drindisti_d7.jpg", 
+      "name": "Dunjonquest: Danger in Drindisti", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion module for Dunjonquest: Hellfire Warrior.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16699, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1331065-keys_of_acheron_d7.jpg", 
+      "name": "Dunjonquest: The Keys of Acheron", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Crush, Crumble and Chomp! lets the player take control of a myriad of monsters whose only purpose is to destroy cities before being defeated by the army.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16700, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1340259-crush.jpg", 
+      "name": "Crush, Crumble and Chomp!", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the popular Dunjonquest game Temple of Apshai.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16701, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1331054-hellfire_warrior_k7.jpg", 
+      "name": "Dunjonquest: Hellfire Warrior", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }, 
+        {
+          "id": 52, 
+          "name": "Commodore PET/CBM", 
+          "short": "CBM"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16702, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1330992-datestones_of_ryn_d7.jpg", 
+      "name": "Dunjonquest: The Datestones of Ryn", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 52, 
+          "name": "Commodore PET/CBM", 
+          "short": "CBM"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Expansion module for Dunjonquest: Temple of Apshai.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16703, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1331019-upper_reaches_of_apshai_k7.jpg", 
+      "name": "Dunjonquest: Upper Reaches of Apshai", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This dungeon crawler is one of the first ever RPGs with graphics and character progression.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16704, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/540190-cover150dpi_1_.jpg", 
+      "name": "Dunjonquest: Temple of Apshai", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }, 
+        {
+          "id": 52, 
+          "name": "Commodore PET/CBM", 
+          "short": "CBM"
+        }, 
+        {
+          "id": 53, 
+          "name": "TRS-80", 
+          "short": "TRS8"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16705, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14876/2532442-aliengarden.jpg", 
+      "name": "Alien Garden", 
+      "platforms": [
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16706, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Gold, Silver, Bronze", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16707, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/750217-pitstop_2__tape_.jpg", 
+      "name": "Pitstop II", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16708, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/21226/821604-ssb.jpg", 
+      "name": "Street Sports Basketball", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Compilation of some of Epyx classic games for the Commodore 64", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16709, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Epyx Epics", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16710, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Super Cycle", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16711, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Games: Summer Edition", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "In Street Sports Baseball, one or two teams could choose to battle it out in a urban, inner-city areas rather than stadiums.", 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16712, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23276/1645135-1544_1.jpg", 
+      "name": "Street Sports Baseball", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ], 
+      "id": 16713, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Oil Barons", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16714, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Grossology", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Save Earth from destruction as the most unlikely hero, a hummingbird, in this side-scrolling shooter for the 32X.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16715, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1693711-kolibri_us.jpg", 
+      "name": "Kolibri", 
+      "platforms": [
+        {
+          "id": 29, 
+          "name": "Sega 32X", 
+          "short": "32X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An excellent and long-forgotten action platformer with a Star Trek theme. ", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16716, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8960/1698891-ds9genesisbox.jpg", 
+      "name": "Star Trek: Deep Space Nine - Crossroads of Time", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dive into the ocean with Ecco Jr.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16717, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370521-genesis_eccojr.jpg", 
+      "name": "Ecco Jr.", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A licensed Genesis action game based on a very bizarre cartoon about robots and slavery. It features a mix of game play styles that tie into the three characters playable in the game.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16718, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2522034-exosquad.jpg", 
+      "name": "EXO Squad", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the only Magic School Bus game to be released on the Sega Genesis. The story is similar to the one on the PC but the gameplay is different. Two of the bonus games are heavily based on Asteroids and Breakout respectively.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16719, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/75319/1337514-space.jpg", 
+      "name": "Scholastic's The Magic School Bus: Space Exploration Game", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is the sequel to \"Richard Scarry's Busytown\". It is an edutainment game meant to teach children about how things are made and how they work.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16720, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/70096/2406633-937104_82572_front.jpg", 
+      "name": "Richard Scarry's How Things Work In Busytown", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Save the museum from complete madness in this point-and-click children's game by Softkey.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16721, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721554-1127085473_02.gif", 
+      "name": "Museum Madness", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Lucky Star: Moe Drill is a trivia game featuring characters from the four-panel manga and anime Lucky Star.", 
+      "developers": [
+        {
+          "id": 595, 
+          "name": "Vridge"
+        }
+      ], 
+      "id": 16755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/238/630429-lucky_star_moe_drill.png", 
+      "name": "Lucky Star: Moe Drill", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A set of three separate games that share the same title and are all based on the Batman animated TV series. The SNES version is more of an action platformer, while the Genesis and Game Gear versions are more of a shooter and the Sega CD version consists of only Batmobile levels.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16722, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2329202-box_taobar.png", 
+      "name": "The Adventures of Batman & Robin", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tails and the Music Maker is game that feature Tails \"Miles\" Prower as the main character.  It debuted on the Sega Pico.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16723, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6384/236309-music_00.jpg", 
+      "name": "Tails and the Music Maker", 
+      "platforms": [
+        {
+          "id": 104, 
+          "name": "Sega Pico", 
+          "short": "PICO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ecco: The Tides of Time is the following game in the Ecco the Dolphin series.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16724, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370522-genesis_eccothetidesoftime_eu_croppeds.jpg", 
+      "name": "Ecco: The Tides of Time", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Educational adventure with Peter Pan and Captain Hook.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16725, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/848522-1130759540_11.gif", 
+      "name": "Peter Pan: A Story Painting Adventure", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take control of a dolphin and solve the mystery of a powerful storm in this unconventional and notoriously-difficult 2D side-scroller published by Sega.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16726, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/28/12125-ecco.jpg", 
+      "name": "Ecco the Dolphin", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cyborg Justice is a scrolling beat 'em up for the Sega Genesis. You play as a robot you design yourself as you battle it out against a horde of similar enemies.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16727, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370490-genesis_cyborgjustice.jpg", 
+      "name": "Cyborg Justice", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tiny Toon Adventures: Cartoon Workshop is a game where you are able to make your own cartoons featuring the Tiny Toon characters.  You have the ability to decide most options in the game including setting, characters, and action.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16728, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/37521/1345273-tinytoonworkshopnes.jpg", 
+      "name": "Tiny Toon Adventures: Cartoon Workshop", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Official boxing video game of one of the popular heavyweights in the 1990's, Evander Holyfield.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16729, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3816/348765-evander_holyfield_s_real_deal_boxing_title_screen.jpg", 
+      "name": "Evander Holyfield's \"Real Deal\" Boxing", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Compete as Snoopy and his cousin Spike in 6 mini-game events around Italy in this NES sports-related mini-game collection developed by Kemco.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16730, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362242-nes_snoopy.jpg", 
+      "name": "Snoopy's Silly Sports Spectacular", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Soccer game for early computer systems.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16731, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2610528-rick+davis%27+world+trophy+soccer+amiga+cover.jpg", 
+      "name": "Rick Davis' World Trophy Soccer", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 261, 
+          "name": "Beam Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Impossible Mission", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16732, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/734056-impossible_mission_2_sei.jpg", 
+      "name": "Impossible Mission-II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 592, 
+          "name": "Epyx, Inc."
+        }, 
+        {
+          "id": 594, 
+          "name": "American Video Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "F-15 Strike Eagle is an F-15 Strike Eagle combat flight simulator first released in 1985 by MicroProse.", 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16733, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361716-nes_f15strikeeagle.jpg", 
+      "name": "F-15 Strike Eagle", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 593, 
+          "name": "Novotrade International"
+        }
+      ], 
+      "id": 16734, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87644/1315599-caesar_the_cat___ingame1.jpg", 
+      "name": "Caesar the Cat", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 96, 
+          "name": "BBC Micro", 
+          "short": "BBCM"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }
+  ]
+}

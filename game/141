@@ -1,0 +1,1393 @@
+{
+  "games": [
+    {
+      "deck": "Origins will allow players to import their character from White Knight Chronicles II into the PSP game, letting you earn gear for your character on the PS3.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6990, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/38405/1782339-8190alt2zyl._aa1500_.jpg", 
+      "name": "White Knight Chronicles: Origins", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy: The 4 Heroes of Light is a Final Fantasy title for the DS aimed to return to the roots of RPG gaming.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6991, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814646-box_fft4hol.png", 
+      "name": "Final Fantasy: The 4 Heroes of Light", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A DS RPG developed by Matrix Software and Red Entertainment. Lead Eddie on a quest around the world to find his missing father in a steampunk version of 19th century earth, complete with powerful airships that can carry you across the globe in mere hours.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6992, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199420-box_nostalgia.png", 
+      "name": "Nostalgia", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }, 
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP fighting game consisting of 35 characters from 13 of the Tales of games.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6993, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1147123-talesofvs_us_psp_front.jpg", 
+      "name": "Tales of VS.", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The world is ending. Avalon Code is an Action RPG for Nintendo DS that allows you to edit everything in the world and choose what you bring into the new world", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6994, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2484684-box_ac.png", 
+      "name": "Avalon Code", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 106, 
+          "name": "Marvelous Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "The DS and PC version of Final Fantasy IV is a complete revamp of the original SNES version, with 3D graphics, voice acting, and side activities.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6995, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814629-box_ff4ds.png", 
+      "name": "Final Fantasy IV", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sam and Claire, two survivors from a luxury passenger cruise line lost at sea, wash up on a deserted island. The shock of it all robs Sam of his memories, and the two must work together to survive.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6996, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525200-box_lib3.png", 
+      "name": "Lost in Blue 3", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese fighting game for DS based around the anime One-Piece. It is very similar to Super Smash Bros. ", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6997, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15777/526882-965486806_471551773d.jpg", 
+      "name": "One Piece: Gear Spirit", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stranded on a deserted island, you have to do what you can to stay alive. Careful planning is needed to make sure you always have enough food and water, as well as a warm fire at all times. Explore the island and try to find a way back home.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6998, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525199-box_lib2.png", 
+      "name": "Lost in Blue 2", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Unreleased outside of Japan for 16 years, this remake of Final Fantasy III features newly designed characters, a more robust Job system, new abilities, and Nintendo Wi-Fi support.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 6999, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2630985-ffiii.jpg", 
+      "name": "Final Fantasy III", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A PlayStation 2 game based on the manga and anime YuYu Hakusho.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 7000, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1423983-926000_62144_frontforever.jpg", 
+      "name": "YuYu Hakusho Forever", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 7001, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199340-box_dhearts.png", 
+      "name": "Dual Hearts", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Roguelike RPG featuring the merchant Torneko Taloon from Dragon Quest IV, that makes part of the Mystery Dungeon series. The Game Boy Advance version of this game can only be found in Japan, and was released on December 20th 2001.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 7002, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875245-box_wodwttlh.png", 
+      "name": "World of Dragon Warrior: Torneko: The Last Hope", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is a 3D mix between a puzzle game and an rpg that involves the player in a battle against the baron and his gigi robots. It has a fun and classic hack and slash style of combat , and many mini games that keep you involved. ", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 7003, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2201892-alundra_2.jpg", 
+      "name": "Alundra 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PS1 RPG in the vein of Zelda, Alundra has the player control a psychic youth as he combats an ancient evil that threatens to overwhelm the peaceful village of Inoa. ", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 7004, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2267444-776379-alundra_front.png", 
+      "name": "Alundra", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Quest V is a turn-based RPG released in 1992 and is the fifth installment in the popular Dragon Quest series. It is also the second entry in the Zenithia Trilogy, and one of the most popular games in the franchise.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 7005, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875220-box_dq5hothb.png", 
+      "name": "Dragon Quest V: Hand of the Heavenly Bride", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Embark on an adventure with characters from different walks of life, all destined to unite with you, to save the world.", 
+      "developers": [
+        {
+          "id": 245, 
+          "name": "Matrix Software"
+        }
+      ], 
+      "id": 7006, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361687-nes_dragonwarrior4.jpg", 
+      "name": "Dragon Quest IV: Chapters of the Chosen", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7007, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/692/686017-knight_rider_2_box.jpg", 
+      "name": "Knight Rider 2: The Game", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": "3rd person shooter for PS2 and Xbox (PAL only). Based on 80s hit TV-series.", 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7008, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/91051/1363432-miamivice_kansi.jpg", 
+      "name": "Miami Vice", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "London Racer 2 for playstation 2", 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7009, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174113/2380640-__london_racer_2_ps2__.jpg", 
+      "name": "London Racer II", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": " Bikini Beach: Stunt Racer is a trick based driving game where players must collect diamonds and \"score big\" to woo a female of one of four ethnicities. The game features 12 open arenas, 12 stunts and 4 locations.", 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7010, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840167-917879_52491_front.jpg", 
+      "name": "Bikini Beach: Stunt Racer", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": "London Racer: World Challenge is a racing game in which drivers race tracks all over the world.", 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7011, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/841577-1861_1.jpg", 
+      "name": "London Racer: World Challenge", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7012, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/692/685843-s21153_pc_23.jpg", 
+      "name": "Knight Rider: The Game", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A street racing game featuring 11 tracks across the United States of America.", 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7013, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840126-924873_59643_front.jpg", 
+      "name": "USA Racer", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": "Make your mark all across Europe as you engage in 21 illegal street races against representatives from each country.", 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7014, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/72276/1545283-europeracer1.jpg", 
+      "name": "Europe Racer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7015, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/863646-paris_marseille_racing_cover.jpg", 
+      "name": "Paris-Marseille Racing", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7016, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20737/761480-london_racer.jpg", 
+      "name": "London Racer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7017, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/176/1338849-a2_racer_coverart.png", 
+      "name": "A2 Racer", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel of A2 Racer. Drive through the cities of Amsterdam, Rotterdam and The Hague.", 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7018, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/157771/2309440-a2rc2ba.jpg", 
+      "name": "A2 Racer II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ], 
+      "id": 7019, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/61151/1390376-1021137005_00.jpg", 
+      "name": "AmsterDoom", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 246, 
+          "name": "Davilex Games B.V."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dr. Luigi is a Dr. Mario spin-off starring Mario's brother. New additions include L-shaped capsules.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7020, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2580847-0089177526-oXCts.jpg", 
+      "name": "Dr. Luigi", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A portable 3D version of Tekken, and the CGI movie Tekken Blood Vengeance for the Nintendo 3DS.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7021, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2136553-box_tek3dpe.png", 
+      "name": "Tekken 3D Prime Edition", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Puzzle Bobble series makes its first appearance on the Nintendo 3DS system.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7022, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1845404-box_bamu.png", 
+      "name": "Bust-A-Move Universe", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Nintendo Wii-exclusive sequel to Endless Ocean; an aquatic simulator based on real-life scuba diving.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7023, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1836582-box_eoceanbw.png", 
+      "name": "Endless Ocean: Blue World", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metal Torrent is a vertically scrolling shooter for DSiWare by Arika Co.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7024, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45471/1121254-large.jpg", 
+      "name": "Metal Torrent", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "DSi edition of DR. Mario.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7025, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/845663-4292.png", 
+      "name": "Dr. Mario Express", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fill your prescription with this WiiWare update of Nintendo's pill-popping puzzle game.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7026, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/589801-aavoqzm3x10u0qz1lizojqqkoran5n_i.jpg", 
+      "name": "Dr. Mario Online RX", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Simple controls, no time limit, and serene exploration! Dive into the blue on an endless vacation full of sea life and sunken treasure!", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7027, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2636041-endless-ocean.jpg", 
+      "name": "Endless Ocean", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Power up your ki and duke it out in the cel-shaded fighter Super Dragon Ball Z.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7028, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2352265-box_sdbz.png", 
+      "name": "Super Dragon Ball Z", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A popular variant of the classic puzzle game Tetris. Falling 'tetriminos' are guided by the player to fill empty spaces to avoid reaching the top of the screen.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7029, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/1725608-929987_70185_front.jpeg", 
+      "name": "Tetris: The Grand Master ACE", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based RPG where the player takes control of either Syaoran or Sakura. They will visit many worlds as they try to retrieve Sakura's memories which take the form of powerful feathers.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7030, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26507/1035316-tsubasa_2.jpg", 
+      "name": "Tsubasa Chronicle", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A competitive spin on classic Tetris with gameplay fine-tuned for high levels of play.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7031, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/409/1781125-tgm3.jpg", 
+      "name": "Tetris: The Grand Master 3: Terror Instinct", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A rhythm action game for the PS2. You can play a platypus on it.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7032, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2491519-box_tb.png", 
+      "name": "Technic Beat", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7033, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2472254-box_tnodfd.png", 
+      "name": "The Nightmare of Druaga: Fushigino dungeon", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }, 
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Espgaluda is a vertical bullet hell shoot' em up developed by Cave.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7034, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291738-box_esp.png", 
+      "name": "Espgaluda", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mega Man Network Transmission combines elements of Mega Man's traditional platforming and Battle Network's card-based fighting.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7035, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1806094-box_mmnt.png", 
+      "name": "Mega Man Network Transmission", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A scuba-diving exploration adventure game developed by Arika for the Sony PS2. It is the sequel to Everblue and the spiritual predecessor to the Endless Ocean games.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7036, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840207-582424_front.jpg", 
+      "name": "Everblue 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Everblue is the a diving simulation game that follows a man named leo as he explores the ocean depths and discovers marine life. It was released only in Europe and Japan, it never saw a NA release.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7037, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12110/314234-everblue_cover.png", 
+      "name": "Everblue", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A music based game only released in Japan.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7038, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276927-box_technitix.png", 
+      "name": "Technictix", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Arika's challenging puzzle-action series continues with new game modes, challenges, and mechanics innovations.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7039, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117218/2475560-3910690768-Arika.jpg", 
+      "name": "Tetris: The Grand Master 2: The Absolute", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

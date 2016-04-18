@@ -1,0 +1,1801 @@
+{
+  "games": [
+    {
+      "deck": "An arcade game released by Konami in 1987", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/1272680-b2.png", 
+      "name": "Battlantis", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action/RPG loosely based on the film King Kong lives.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16186, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2387626-918126_25409_front.jpg", 
+      "name": "King Kong 2: Yomigaeru Densetsu", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Boot Camp forces players through a grueling set of minigames in order to graduate from the military.  And you thought you were going to summer camp.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16187, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14215/322600-flyersm.jpg", 
+      "name": "Boot Camp", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": " ", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16281, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mahjong Fight Club", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A boxing game for the Famicom, created by Konami for their Exciting sports range. It was released with a special inflatable boxer controller which the player would punch to interact with the game.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16188, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2329004-exciting_boxing_fc_box.jpg", 
+      "name": "Exciting Boxing", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Exciting Baseball is part of the Konami \"Exciting\" series of sport simulators. It was developed for the Famicom Disk System and never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16189, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2323388-543px_exciting_baseball_fds_box.jpg", 
+      "name": "Exciting Baseball", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A music simulator for the Famicom Disk System, created by Konami. It was sold with a keyboard controller the player could use to make musical compositions.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16190, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2323351-doremiko_front.jpg", 
+      "name": "Doremiko", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure RPG developed and published by Konami for the NES. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16191, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2323251-dragon_scroll_fc_box.jpg", 
+      "name": "Dragon Scroll", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mikey must save his friends, the Goonies, and Annie the Mermaid from the Fratelli family in this NES platformer.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16192, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361767-nes_goonies2.jpg", 
+      "name": "The Goonies II", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Car-based overhead vertical shoot-em up by Konami, released in 1987.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16193, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1471841-citybomber.png", 
+      "name": "City Bomber", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A video pool game released by Konami in November 1987.  Known as \"The Hustler\" in Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16194, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1344234-18000801.jpg", 
+      "name": "Rack 'Em Up", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Konami shoot-em-up depicted from behind the ship on a Z axis, similar to After Burner or Space Harrier, for the Famicom Disk System. It has the distinction of being one of the few games that worked with the Famicom 3D imaging system.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16195, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364872-fds_falsion_jp.jpg", 
+      "name": "Falsion", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Konami arcade racing game from 1987. Drive through a course and reach the goal by crashing into other cars and destroying them.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16196, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2108460-hctitle.png", 
+      "name": "Hyper Crash", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stinger is a shoot-em-up developed by Konami. It is the North American version of the sequel to Twinbee.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16197, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2175/184002-stinger.jpg", 
+      "name": "Stinger", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Life Force is the US title for the Japanese video game Salamander. Though similar to Gradius, Life Force does have some unique modifications to differentiate it from its more well-known predecessor.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16198, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361964-nes_lifeforce.jpg", 
+      "name": "Life Force", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16199, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2115912-f_1.jpg", 
+      "name": "F-1 Spirit: The Way To Formula-1", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Simon Belmont must rid himself of a horrible curse placed upon him by Dracula in this action-adventure platformer and sequel to the original Castlevania.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16200, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361209-nes_castlevania2.jpg", 
+      "name": "Castlevania II: Simon's Quest", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Arumana no Kiseki is a platforming game released on the Famicom Disk System by Konami.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16201, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364867-fds_arumananokiseki_jp.jpg", 
+      "name": "Arumana no Kiseki", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Action-adventure-RPG released in 1987 by Konami only in Japan. It features both side-scrolling and \"3D\" (third-person, behind-the-shoulder) segments, open-world exploration, and hack &amp; slash combat, including the earliest third-person hack &amp; slash combat.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16202, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1680684-fuumadenfront.jpg", 
+      "name": "Getsu Fuuma Den", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Known as the first \"stealth action\" game, Metal Gear tells the tale of \"Solid Snake\", a rookie operative of the U.S. special forces unit FOXHOUND, as he infiltrates a fortified military compound (known as Outer Heaven) to destroy a mysterious superweapon known as \"Metal Gear\"", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2457095-box_mg.png", 
+      "name": "Metal Gear", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A maze-like action-adventure game for the Famicom Disk System. It was never released outside of Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16204, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2289908-meikyuu_jiin_dababa_fds_box.jpg", 
+      "name": "Meikyuu Jiin Dababa", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling shooter in the Gradius series. Unrelated to to Gradius 2 in the arcades, and was later ported to the Sharp X68000.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16205, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1707730-917740_90478_front.jpg", 
+      "name": "Nemesis 2", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down sci-fi action-adventure game for the Famicom Disk System developed and published by Konami in 1987.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16206, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2468445-ai_senshi_nicol_fds.jpg", 
+      "name": "Ai Senshi Nicol", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Konami run-and-gun famous for its fast-paced, gritty, old-school action.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16207, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361240-nes_contra.jpg", 
+      "name": "Contra", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Esper Dream is a role-playing game developed and published by Konami for the Famicom Disk System and Wii Virtual Console platforms. It is the first game in the Esper Dream series.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16208, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2898/399876-esper_dream.jpg", 
+      "name": "Esper Dream", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A basketball game by Konami, originally for the Arcade and ported to home consoles. It is part of Konami's \"Exciting\" sports series.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16209, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361677-nes_doubledribble.jpg", 
+      "name": "Double Dribble", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hi no Tori: Gaou no Bouken (or Phoenix: Gaou's Adventure) is a Japan-only platformer developed for the NES by Konami. Its setting is derived from an Osamu Tezuka manga.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16210, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2290771-hinotori_fc_box.jpg", 
+      "name": "Hi no Tori: Gaou no Bouken", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Q*Bert is a licensed, alternate sequel to the series of the same name.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16211, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2641100-7032508146-qbert.jpg", 
+      "name": "Q*Bert", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Blades of Steel is a hockey game first released by Konami for the arcade in 1987, followed by a release on the NES in 1988.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16212, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361179-nes_bladesofsteel.jpg", 
+      "name": "Blades of Steel", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "King Kong 2: Ikari no Megaton Punch (\u6012\u308a\u306e\u30e1\u30ac\u30c8\u30f3\u30d1\u30f3\u30c1/Megaton Punch of Fury) was only released in Japan for the Famicom.  It is very loosely based off of the 1986 film King Kong Lives.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16213, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31839/1478210-200px_king_kong_2___ikari_no_megaton_punch_coverart.png", 
+      "name": "King Kong 2: Ikari no Megaton Punch", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Breakout-style block-busting game released in Japan as Nazo no Kabe: Block Kuzushi in 1986 for the Famicom Disk System and as Crackout in Australia and Europe in 1991 for the NES. A US version was planned but was canceled.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16214, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/541327-crackout_box.jpg", 
+      "name": "Crackout", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take the role of soldiers infiltrating enemy territory in a jeep to rescue POW comrades.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16215, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361877-nes_jackal.jpg", 
+      "name": "Jackal", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game in the Castlevania series, Vampire Killer has the player taking control of Simon Belmont in his quest to defeat Dracula.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16216, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/656153-vampire_killer_msx.jpg", 
+      "name": "Vampire Killer", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "It's a race to save the penguin princess in this speed-based platformer. Collect fish and trade for items, navigate obstacles, fight massive bosses, and help Pentarou deliver the golden apple to cure the princess in this sequel to Antarctic Adventure.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16217, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/771/189523-penguin_adventure_1986_konami_0.png", 
+      "name": "Penguin Adventure", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Count Dracula's dark presence has invited the heroic vampire hunter Simon Belmont, who must venture through six stages (filled with horrible monsters) with his trusty vampire-killing whip.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16218, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361205-nes_castlevania.jpg", 
+      "name": "Castlevania", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Goemon's first console game, released for the NES and MSX in Japan.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16219, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/837301-577967_18126_front.jpg", 
+      "name": "Ganbare Goemon! Karakuri Douchuu", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A classic arcade game, Goemon made his first appearance in it.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16220, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6539/317398-title.gif", 
+      "name": "Mr. Goemon", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure game from Konami based on the 1985 movie. Mikey must save the other Goonies from the Fratellis, pirate ghosts and an enormous octopus by finding keys to progress.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16221, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2787183-0666481373-24146.jpg", 
+      "name": "The Goonies", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game set in the Wild West. Contains a lot of shooting.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16222, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/106662/1503288-iron_horse_1.jpg", 
+      "name": "Iron Horse", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "In Jail Break, players control a policeman authorized to use deadly force in subduing escaped criminals.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16223, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7667/1315949-jailbreak_title.png", 
+      "name": "Jail Break", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16224, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1370311-tumblr_l2av5bcl5h1qzurbto1_500.jpg", 
+      "name": "Hyper Rally", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16225, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2805965-0320864506-88239.jpg", 
+      "name": "Konami's Golf", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 39, 
+          "name": "Imagine Software"
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A table tennis simulator made for the Arcades by Konami and later ported to various systems.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16226, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45471/1082737-ping_pong__konami_.jpg", 
+      "name": "Ping Pong", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16227, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2649110-1649284223-56652.jpg", 
+      "name": "Konami's Boxing", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the seminal fighting game by Konami for the MSX.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16228, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1290727-tumblr_kyr5ju0rvb1qzurbto1_500.jpg", 
+      "name": "Yie Ar Kung-Fu 2: The Emperor Yie-Gah", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16229, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Konami's Soccer", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Go head to head (or scooter to scooter) in this competitive shoot 'em up arcade game by Konami.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16230, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1415295-scotrsht.png", 
+      "name": "Scooter Shooter", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hyper Sports III is a sports game by Konami for the MSX system.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16231, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Hyper Sports III", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konami's Baseball is a top-down baseball game for up to two players. It was released on the MSX only in Japan", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16232, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1761181-1.jpg", 
+      "name": "Konami's Baseball", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Konami arcade racing game from 1985.", 
+      "developers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ], 
+      "id": 16233, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/1547909-konami_gt.marquee.png", 
+      "name": "Konami GT", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }
+  ]
+}

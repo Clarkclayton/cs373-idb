@@ -1,0 +1,1342 @@
+{
+  "games": [
+    {
+      "deck": "Created by computer gaming pioneer Richard Garriott, a.k.a. Lord British, Ultima was one of the first computer role playing games and it set many standards for the genre.", 
+      "developers": [], 
+      "id": 17737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/608560-ultima1_1_.jpg", 
+      "name": "Ultima", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1908650-585552_38469_front.jpg", 
+      "name": "Sammy Lightfoot", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 40, 
+          "name": "ColecoVision", 
+          "short": "CVIS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17739, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Family Fun Pack", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17740, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Trophy Bass 2 Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17741, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "RC Racers II", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1970549-ultra.jpg", 
+      "name": "3-D Ultra Lionel Train Town Deluxe", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17743, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Field & Stream: Trophy Bass 3D", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game released in 1994 by sierra.\n\nFalling somewhere between Striker and Sensible Soccer, the game is based around the World Cup draw itself. The game features a very wide view of a convincingly 3D pitch.", 
+      "developers": [], 
+      "id": 17744, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1543/387041-143px_sierrasoccer.jpg", 
+      "name": "Sierra Soccer", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17745, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Lunar Leeper", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 28, 
+          "name": "VIC-20", 
+          "short": "VC20"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17746, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Aces of the Deep Expansion Disk", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "Thexder 95 (a.k.a. \"Thexder for Windows 95\") is a re-imagining of the original DOS action game. The game features all new levels, cut-scenes, and a multiple window interface.", 
+      "developers": [], 
+      "id": 17747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1561/411148-1120128036_00.png", 
+      "name": "Thexder 95", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17748, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/863560-rc.jpg", 
+      "name": "3-D Ultra Radio Control Racers", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17749, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Diva Starz", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17750, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "CART Racing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17751, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Field & Stream: Trophy Hunting 4", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17752, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Pest Patrol", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17753, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Curse You! Red Baron", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17754, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Front Page Sports: Baseball '94", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17755, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Front Page Sports: Trophy Bass 2 - Northern Lakes", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17756, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Take a Break! Crosswords", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17757, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "WWII: 1946", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5177/1387386-619dyytvd4l._ss500_.jpg", 
+      "name": "PGA Championship Golf 2000: Titanium Edition", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A comical spin-off of The Incredible Machine series in which puzzles must be solved by using a limited number of objects working in unison to fulfill an objective.", 
+      "developers": [], 
+      "id": 17759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/1393571-incredible_toon_machine_a.jpg", 
+      "name": "The Incredible Toon Machine", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17760, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Mega Math", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17761, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Biggest Creators of Empires", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17762, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Front Page Sports: Football", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17763, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Command: Aces of the Deep", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17764, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/161318/2256885-rbmb2.jpg", 
+      "name": "Red Baron: Mission Builder", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 6, 
+          "name": "Sierra"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D Final Fantasy with both regular and super deformed characters.", 
+      "developers": [], 
+      "id": 17765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2759194-9859344256-logo..jpg", 
+      "name": "World of Final Fantasy", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of the Game Boy Final Fantasy Adventure.", 
+      "developers": [], 
+      "id": 17766, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2813011-3690968978-Scree.jpg", 
+      "name": "Seiken Densetsu: Final Fantasy Gaiden", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Following up two years after Deus Ex: Human Revolution, Mankind Divided sees Adam Jensen working to thwart a terrorist organization bent on promoting human augmentation. It serves as a prequel to Deus Ex, the first entry in the series.", 
+      "developers": [], 
+      "id": 17767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2741559-deus+ex+-+mankind+divided+v2.jpg", 
+      "name": "Deus Ex: Mankind Divided", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Quest hack-and-slash action returns for a second outing.", 
+      "developers": [], 
+      "id": 17768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2739674-dqh2.jpg", 
+      "name": "Dragon Quest Heroes II", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the DQM spin-off series.", 
+      "developers": [], 
+      "id": 17769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2791341-dqmj3.jpg", 
+      "name": "Dragon Quest Monsters: Joker 3", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese role-playing game developed by Square Enix's Tokyo RPG Factory studio. It's design is meant as a throwback to the classic JRPGs of the 90s.", 
+      "developers": [], 
+      "id": 17770, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2814464-ps4.jpg", 
+      "name": "Ikenie to Yuki no Setsuna", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A spin-off from the long-running JRPG series, Builders tasks the player with rebuilding the ruined world of Alfegard... using some very familiar looking square blocks.", 
+      "developers": [], 
+      "id": 17771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2764347-7999358330-Drago.jpg", 
+      "name": "Dragon Quest Builders", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new game in the SaGa series.", 
+      "developers": [], 
+      "id": 17772, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "SaGa Scarlet Grace", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn based Tomb Raider puzzle game in a similar style to Hitman Go.", 
+      "developers": [], 
+      "id": 17773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2759149-0593617623-LaraC.jpg", 
+      "name": "Lara Croft Go", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An endless runner starring Lara Croft", 
+      "developers": [], 
+      "id": 17774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2742788-splash.jpg", 
+      "name": "Lara Croft: Relic Run", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Square Enix expands their rhythm-based series to another of their storied franchises.", 
+      "developers": [], 
+      "id": 17775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2707535-screen+shot+2014-12-09+at+10.34.01+pm.jpg", 
+      "name": "Theatrhythm Dragon Quest", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action RPG spin-off from the Dragon Quest franchise, developed by Dynasty Warriors developer Omega Force.", 
+      "developers": [], 
+      "id": 17776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2754329-0004978916-Drago.jpg", 
+      "name": "Dragon Quest Heroes: The World Tree\u2019s Woe and the Blight Below", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A third-person shooter for PC, from Square Enix. The third game in the Gunslinger Stratos franchise, and the first for a home platform. A closed alpha released in February 2015.", 
+      "developers": [], 
+      "id": 17777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2726990-4570457302-Gunsl.jpg", 
+      "name": "Gunslinger Stratos Reloaded", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An episodic adventure game based around time manipulation from Remember Me developers DONTNOD.", 
+      "developers": [], 
+      "id": 17778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2721398-rsz_image.jpg", 
+      "name": "Life Is Strange", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy VII: G-Bike is a motorcycle chase game based in the world of the oft-popular seventh installment of the Final Fantasy series.", 
+      "developers": [], 
+      "id": 17779, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2744169-6356022600-B11sFx9CYAAAjio.jpg%3Alarge", 
+      "name": "Final Fantasy VII: G-Bike", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A competitive sniping game similar to Sniper Challenge.", 
+      "developers": [], 
+      "id": 17780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2755038-untitled.jpg", 
+      "name": "Hitman: Sniper", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A card battle RPG for iOS and Android.", 
+      "developers": [], 
+      "id": 17781, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2683784-mzl.kiwwqbck.175x175-75+%281%29.jpg", 
+      "name": "Mahouka Koukou no Rettousei: Lost Zero", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Square Enix continues Championship Manager into the year 2015", 
+      "developers": [], 
+      "id": 17782, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2753912-3706090663-O4AWGCjtDbfvnXV7VW1s18jzGavwBJQoNsFC906pWYCm9r2UW7qZadIzgxpWTd8D0QI%3Dw300", 
+      "name": "Champ Man 15", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A supernatural mystery game in which Ronan O\u2019Connor, deceased detective, tries to solve his own murder.", 
+      "developers": [], 
+      "id": 17783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2597871-2014-02-0316_12_50-13j5jbn.png", 
+      "name": "Murdered: Soul Suspect", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play take on Final Fantasy for mobile phones. It is set in the same world as Final Fantasy Type-0.", 
+      "developers": [], 
+      "id": 17784, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2644089-0704356416-Final.jpg", 
+      "name": "Final Fantasy Agito", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to the original Theatrhythm with more songs, characters, and gameplay modes, including two-player versus.", 
+      "developers": [], 
+      "id": 17785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2640112-us11nppif.jpg", 
+      "name": "Theatrhythm Final Fantasy: Curtain Call", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Square Enix translates the successful third-person action-adventure series into a stylish turn-based puzzle game that stays true to the franchise's murderous roots.", 
+      "developers": [], 
+      "id": 17786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/136036/2696100-icon512x512.jpeg", 
+      "name": "Hitman Go", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }
+  ]
+}

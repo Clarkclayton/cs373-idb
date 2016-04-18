@@ -1,0 +1,1481 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23044, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1362113-viper_pal.jpg", 
+      "name": "Viper", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wetrix is a 3D falling blocks puzzle game, the object of which is to change the landscape of  a grid in order to prevent water from spilling out.", 
+      "developers": [], 
+      "id": 23045, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6384/609773-image1.jpg", 
+      "name": "Wetrix", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23046, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7900/408564-1043879199_00.gif", 
+      "name": "GT Racing 97", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Eurofighter 2000 simulaton that features a handful of previous EF2000 patches and fixes rolled up into one ultimate version of the game.", 
+      "developers": [], 
+      "id": 23047, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45816/2591631-ef2000v2.jpg", 
+      "name": "EF2000 v2.0", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "No Respect is an arena-based vehicular combat game, using a combination of voxel and polygonal graphics and a visual style evocative of the Wipeout series.", 
+      "developers": [], 
+      "id": 23048, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2275124-norespectlcover1.jpg", 
+      "name": "No Respect", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23049, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16193/864634-746_1.jpg", 
+      "name": "Tunnel B1", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A point-and-click adventure game with FPS sections. Set in the food-themed world of Snackopolis, you play the sausage Peperami, who must rescue the kidnapped scientist Pepereinstein.", 
+      "developers": [], 
+      "id": 23050, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Animal", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23051, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2721/2110254-wroldrallyfever_scotland.jpg", 
+      "name": "World Rally Fever: Born on the Road", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23052, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/1441262-bp_cover.jpg", 
+      "name": "Break Point", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23053, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1362030-ef2000.gif", 
+      "name": "EF2000 TACTCOM", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23054, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Cheesy", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23055, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117006/2200253-94546_01207.png", 
+      "name": "Offensive", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23056, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Sea Legends", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Europe-exclusive soccer video game released in 1995 for the SNES. Known in Germany as \"Lothar Matth\u00e4us Super Soccer\".", 
+      "developers": [], 
+      "id": 23058, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2141833-manchester_united_championship_soccer.jpg", 
+      "name": "Manchester United Championship Soccer", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A futuristic fighting game featuring robots.", 
+      "developers": [], 
+      "id": 23059, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2265136-zero_divide___jp.jpg", 
+      "name": "Zero Divide", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23060, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/294757-kid_chaos_cover.jpg", 
+      "name": "Kid Chaos", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D side-scrolling platformer. The player controls a small blue blob of putty and is tasked with rescuing other putties that have been captured.", 
+      "developers": [], 
+      "id": 23061, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2524254-squad.jpg", 
+      "name": "Putty Squad", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Inferno: The Odyssey Continues is the second chapter in the story of Human Race's fight against the Rexxon empire.", 
+      "developers": [], 
+      "id": 23062, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3695/1898099-inferno.jpg", 
+      "name": "Inferno: The Odyssey Continues", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23063, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1270/669166-mr_nutz_01.png", 
+      "name": "Mr. Nutz: Hoppin' Mad", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 16-bit action platformer game based on the TV show of the same name which in turn was based on the toyline of the same name. Max's friends Bea and Felix are also playable characters.", 
+      "developers": [], 
+      "id": 23064, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2171053-cover.jpg", 
+      "name": "Mighty Max", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1994 SNES action-platformer based on Savage Steve Holland's animated series about a selfless and luckless purple cat. Eek must protect his human owners from harm, usually putting himself in danger in the process.", 
+      "developers": [], 
+      "id": 23065, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2749617-8386092090-50672.jpg", 
+      "name": "Eek! the Cat", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "TFX is a combat flight simulator developed by Digital Image Design and published by Ocean Software in 1993.", 
+      "developers": [], 
+      "id": 23066, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9450/1227787-tfx_007.png", 
+      "name": "TFX", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle platformer that features Colin Curly, the then-mascot character for the snack food, Quavers.", 
+      "developers": [], 
+      "id": 23067, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2715872-6993299880-34473.jpg", 
+      "name": "One Step Beyond", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sleepwalker is a platformer released on multiple platforms.", 
+      "developers": [], 
+      "id": 23068, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10026/568383-sleepwalker__ocean_.jpg", 
+      "name": "Sleepwalker", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23069, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/662889-1086859330_00.png", 
+      "name": "Burning Rubber", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Robocop saves the world from terrorists with four distinct 3D modes including driving, flying, beat-em-up, and FPS.", 
+      "developers": [], 
+      "id": 23070, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34651/2500201-robocop3d.jpg", 
+      "name": "Robocop 3D", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23071, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "International Open Golf Championship", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23072, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/800283-1220192359_00.png", 
+      "name": "European Champions", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23073, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2475950-ao.jpg", 
+      "name": "Alien Olympics", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based on the live action/animation film Cool World. The player controls Frank Harris, who must prevent Holli Would from entering the real world.", 
+      "developers": [], 
+      "id": 23074, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1766306-cool_world_snes.jpg", 
+      "name": "Cool World", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A curious mix of Arcade action and Dizzy-esque platformer adventure, Wizkid explores several surreal worlds in order to rescue kittens and defeat an evil mouse. Playing the game normally will only get the player so far; they must explore the game's secrets for the proper ending.", 
+      "developers": [], 
+      "id": 23075, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9992/227525-wizkid.jpg", 
+      "name": "Wizkid: The Story of Wizball II", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle platformer starring an ant, his dominoes, and a connoisseur of cheesy potato puffs.", 
+      "developers": [], 
+      "id": 23076, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/755548-6799_boxshot_pushover.jpg", 
+      "name": "Pushover", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23077, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/729107-1049641116_00.gif", 
+      "name": "The Games '92 - Espa\u00f1a", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1-on-1 fighting game based on the anime and manga Ranma 1/2.", 
+      "developers": [], 
+      "id": 23078, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/497084-ranma_hard_battle.jpg", 
+      "name": "Ranma 1/2: Hard Battle", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Epic is a science fiction-based flight simulator developed by Digital Image Design and released for the Amiga and the Atari ST published by Ocean in late spring 1992. It was later released for PC systems.", 
+      "developers": [], 
+      "id": 23079, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/873007-epic___front.jpg", 
+      "name": "Epic", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Exhaust Heat is a Formula 1 racing game for the SNES based on the 1992 Formula 1 season. This title was released as F1 ROC: Race Of Champions in North America.", 
+      "developers": [], 
+      "id": 23080, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2548854-exhaust_heat_snes_us.jpg", 
+      "name": "F1 ROC: Race of Champions", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Guide Peyton Westlake on his quest for vengeance against Durant and his men in this action/adventure platformer based on the Sam Raimi film.", 
+      "developers": [], 
+      "id": 23081, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361636-nes_darkman.jpg", 
+      "name": "Darkman", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wild Wheels is a car soccer game developed by Red Rat Software and published by Ocean.", 
+      "developers": [], 
+      "id": 23082, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2770032-2328149570-29143.jpg", 
+      "name": "Wild Wheels", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Shoot-em-up game based on the Hanna-Barbera cartoon of the same name", 
+      "developers": [], 
+      "id": 23083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1338919-quickdrawmg.gif", 
+      "name": "Quick Draw McGraw", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "It's time for you to set out and destroy Necrilous the Not-Very-Nice.", 
+      "developers": [], 
+      "id": 23084, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/869700-elf___front.jpg", 
+      "name": "Elf", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bart starts a journey to stop aliens' evil plans and save the world using mostly slingshots and spray cans.", 
+      "developers": [], 
+      "id": 23085, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362231-nes_simpsonsbartvsthespacemutants.jpg", 
+      "name": "The Simpsons: Bart vs. the Space Mutants", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }, 
+        {
+          "id": 584, 
+          "name": "Acclaim Entertainment, Inc."
+        }, 
+        {
+          "id": 608, 
+          "name": "Tec Toy Ind\u00fastria de Brinquedos S.A."
+        }
+      ]
+    }, 
+    {
+      "deck": "This was the first game based on the movie of the same name. The original plan was to have a trilogy of games.", 
+      "developers": [], 
+      "id": 23086, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/822947-12z0qlspfhj.jpg", 
+      "name": "Clive Barker's Nightbreed:  The Action Game", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The second game based on the movie that was supposed to be part of a trilogy.", 
+      "developers": [], 
+      "id": 23087, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/823527-aq914qhexogkdy.jpg", 
+      "name": "Clive Barker's Nightbreed: The Interactive Movie", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 23088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/235870-robocop_2.jpg", 
+      "name": "RoboCop 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Atmospheric game in which you have to guide a group of US soldiers through the jungle of Vietnam back to their base. Lot's of confrontations with wild animals and hostile Vietcong soldiers.", 
+      "developers": [], 
+      "id": 23089, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/742462-lost_patrol_01.jpg", 
+      "name": "Lost Patrol", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Soccer game.", 
+      "developers": [], 
+      "id": 23090, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/57793/1361716-adidas_championship_football_pub.jpg", 
+      "name": "Adidas Championship Football", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Take command of a Mauler assault tank and teach the enemy a lesson.", 
+      "developers": [], 
+      "id": 23091, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/705160-battlecomf.jpg", 
+      "name": "Battle Command", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "F29 Retaliator is an combat flight simulator by Digital Image Design, published by Ocean Software in 1989.", 
+      "developers": [], 
+      "id": 23092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/66643/2457855-f29cdcovercrop.png", 
+      "name": "F29 Retaliator", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play Beach Volley Ball around the world to win the Beach Volley Cup.  Play against the computer in cup mode or against a second player", 
+      "developers": [], 
+      "id": 23093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6347/479879-score.png", 
+      "name": "Beach Volley", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "You play the part of Ivan Danko(Arnold Schwarzenegger) who chases Viktor Rostavili through the four different levels that make up the game.", 
+      "developers": [], 
+      "id": 23094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1254050-redheat_amiga_front.jpg", 
+      "name": "Red Heat", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 491, 
+          "name": "Ocean Software Ltd."
+        }
+      ]
+    }
+  ]
+}

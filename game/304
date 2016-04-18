@@ -1,0 +1,1733 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15133, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2367825-a2600_robottank_none.jpg", 
+      "name": "Robot Tank", 
+      "platforms": [
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sky Jinks, the Atari 2600 game was added to Game Room for Xbox Live and Games for Windows Live in Game Pack 5.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15134, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/74175/1398760-sky_jinks.jpg", 
+      "name": "Sky Jinks", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15135, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/34998/1493742-ocean_ranger_2.png", 
+      "name": "Ocean Ranger", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in 1983 for the Atari 2600, Seaquest put you in control of a submarine on a \"quest\" to destroy angry sea life while saving the lives of \"divers.\"", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15136, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1471833-585063_38003_front.jpg", 
+      "name": "Seaquest", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15137, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The Great American Cross-Country Road Race", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15138, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "NetMech", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15139, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Sargon 5: World Class Chess", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15140, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1791289-happy_trails__activision_.jpg", 
+      "name": "Happy Trails", 
+      "platforms": [
+        {
+          "id": 42, 
+          "name": "Intellivision", 
+          "short": "INTV"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Become a park ranger in this side scrolling Commodore 64 title.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15141, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Park Patrol", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15145, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/137417/2351087-kahe4487kakahe4487ka.jpg", 
+      "name": "Santa Fe Mysteries: Sacred Ground", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15146, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/630321-952765_111569_front_1_.jpg", 
+      "name": "Hacker II: The Doomsday Papers", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15147, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/94457/1376608-ml1.png", 
+      "name": "Master of the Lamps", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }, 
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Zone Ranger is a top down space shooter where you encounter satellites, asteroids, robots and other enemies.", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15148, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2366248-a5200_zoneranger.jpg", 
+      "name": "Zone Ranger", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 57, 
+          "name": "Atari 5200", 
+          "short": "5200"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Hallo and welcome to a G.T.A Flight (Galactic Transit Authority Flight), remember to fasten your seatbelt and remain in your seat while the \"Fasten Seatbelt\" sign it on, we would also remind you that this is a non smoking flight. Thank you and enjoy your flight. ", 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15149, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14975/1341748-cosmicbox.jpg", 
+      "name": "Cosmic Commuter", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 37, 
+          "name": "Atari 2600", 
+          "short": "2600"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Both Doc Brown and Marty McFly are in 1885 saving school teachers, stealing trains, and running up against \"Mad Dog\" Tannen in this short and difficult game.", 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369040-genesis_backtothefuture3_eu.jpg", 
+      "name": "Back to the Future Part III", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An explosives-based isometric puzzle game in which players must detonate a series of bombs to clear each stage.", 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/778384-bombuzal.jpg", 
+      "name": "Bombuzal", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/653837-zythum_loading_screen.png", 
+      "name": "Zythum", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/653813-action_reflex_loading_screen.png", 
+      "name": "Action Reflex", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Dynamite Dan returns to once again thwart the plans of the evil Dr. Blitzen.", 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7663/404753-dynamitedanii.jpg", 
+      "name": "Dynamite Dan II", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1100755-high_roller_4.gif", 
+      "name": "High Roller", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15156, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Harrier Combat Simulator", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ], 
+      "id": 15157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582039-1130446325-Sai-C.jpg", 
+      "name": "Sai Combat", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 550, 
+          "name": "Mirrorsoft Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic Team returns with a free-to-play infinite runner for mobile devices.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15158, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2723279-3138660127-Sonic.jpg", 
+      "name": "Sonic Runners", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Wii U tie-in to the \"Sonic Boom\" spin-off television series, Sonic Boom: Rise of Lyric follows chatty Sonic the Hedgehog and his three chatty friends, who must journey to foil the plans of an ancient snake-like monster. BOUNCE PAD!", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2670413-sbrol.jpg", 
+      "name": "Sonic Boom: Rise of Lyric", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Nintendo 3DS tie-in to the \"Sonic Boom\" spin-off television series (and partner game to Sonic Boom: Rise of Lyric).", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2698273-sbsc.jpg", 
+      "name": "Sonic Boom: Shattered Crystal", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The two legendary puzzle series unite in this crossover title.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2717841-puyo+puyo+tetris.jpg", 
+      "name": "Puyo Puyo Tetris", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic and Dr. Eggman unite to take down the Deadly Six as they explore the Lost World in a new platformer exclusive to Nintendo systems.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2550409-cleansonic.jpg", 
+      "name": "Sonic Lost World", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Phantasy Star Online 2 is a Japanese free-to-play online action-RPG which was released for PC in July 2012, and Vita in Feb 2013. The game has yet to be released in the West on any platform.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15063/2784619-9574768421-71EAt.jpg", 
+      "name": "Phantasy Star Online 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic brings Tails along for the second episode of Sonic The Hedgehog 4, with brand new graphics and physics engines, online and offline co-op, and special content exclusive to players who own Episode I.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2206928-sonic4.jpg", 
+      "name": "Sonic the Hedgehog 4: Episode II", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Old school and new school collide in this 20th Anniversary celebration of the Sonic franchise.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2211868-box_sonicgen.png", 
+      "name": "Sonic Generations", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A competitive puzzle game that honors the 20th anniversary of the Puyo Puyo series. The game features several gameplay modes and 20 different rulesets.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/85465/2089740-puyo_puyo_20th_anniversary_boxart_3ds.jpg", 
+      "name": "Puyo Puyo!! 20th Anniversary", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic Colors sees the Blue Blur boldly going to space in a 2D/3D hybrid platformer featuring power-ups, large stages, and some of the fastest speeds in the Sonic series.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2098011-box_soncolors.png", 
+      "name": "Sonic Colors", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Kinect-based racing game for the Xbox 360 featuring characters from the Sonic the Hedgehog franchise.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15168, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16324/2590019-0042627225-Sonic.jpg", 
+      "name": "Sonic Free Riders", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Sonic Team and Dimps co-production, Sonic the Hedgehog 4: Episode I is the first part of the next numeric chapter (though really the twenty-sixth entry) in the adventures of Sega's longtime mascot.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15169, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1634791-sonic4_box.png", 
+      "name": "Sonic the Hedgehog 4: Episode I", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 139, 
+          "name": "Ouya", 
+          "short": "OUYA"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A game in the Phantasy Star series, bringing the series to the DS for the first time", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15170, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2270785-box_ps0.png", 
+      "name": "Phantasy Star Zero", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "An Australia/New Zealand-exclusive PC multi-pack with several Sonic games.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2362222-270px_7806711_0_9999_lge_v1_m56577569830497987.jpg", 
+      "name": "Sonic PC Collection", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puyo Puyo 7, the newest main entry in the series, adds Transformations and reintroduces characters from early Puyo Puyo games.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1070762-puyo7dsboxart.jpg", 
+      "name": "Puyo Puyo 7", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sonic goes on an adventure filled with sword wielding action on the Nintendo Wii.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2098009-box_satbk.png", 
+      "name": "Sonic and the Black Knight", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sonic Unleashed is two different Sonic titles released in 2008 across four consoles. Both titles feature high-speed Sonic stages, slower-paced \"Werehog\" levels, and town hubs where players must progress through the story.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/962445-gb.png", 
+      "name": "Sonic Unleashed", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A single-disc compilation of the second and third House of the Dead games. The game uses the Wii Remote in place of a gun controller.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15175, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/196974-ss.jpg", 
+      "name": "House of the Dead 2 & 3 Return", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Sonic Mega Collection is a compilation of Sonic the Hedgehog and other series games for the Sega Genesis.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15203, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803662-box_sonicmc.png", 
+      "name": "Sonic Mega Collection", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic and the Babylon Rogues bust out their hoverboards once again, this time bearing the power to manipulate gravity during races.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803669-box_sonicrzg.png", 
+      "name": "Sonic Riders: Zero Gravity", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players once again fly through Nightopia in this long-awaited sequel to NiGHTS: Into Dreams.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2340616-box_njod.png", 
+      "name": "NiGHTS: Journey of Dreams", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Phantasy Star Universe: Ambition of the Illuminus is the expansion pack for Phantasy Star Universe.  It was released as DLC for Xbox 360, and as a standalone disc on PC and PS2.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7439/688428-psu_aoti_28108.jpg", 
+      "name": "Phantasy Star Universe: Ambition of the Illuminous", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic Rush Adventure is the second Rush game on the Nintendo DS. Sonic must find a way to return to his own dimension, and confront the evil pirate Captain Whisker.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803667-box_sonicra.png", 
+      "name": "Sonic Rush Adventure", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first in the Sonic Storybook Series, this game follows Sonic's race against time in the world of the Arabian Nights as he collects the seven World Rings before a curse placed on him by the Genie of the Lamp ends his life.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2090575-box_satsr.png", 
+      "name": "Sonic and the Secret Rings", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Puyo Puyo 15th Anniversary game. Came out for PS2, PSP Wii and DS", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2614231-untitled.jpg", 
+      "name": "Puyo Puyo 15th Anniversary", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Phantasy Star Universe tells the story of a Guardian named Ethan Waber who is on a mission to save his sister and stop a mysterious life form known as the SEED.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2270788-box_psu.png", 
+      "name": "Phantasy Star Universe", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sonic Riders stars Sonic and his friends, and their quest to win in the World Grand Prix. Their new rivals are the Babylon Rogues, a mysterious group that has information about the Chaos Emeralds.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092601-box_sonicrid.png", 
+      "name": "Sonic Riders", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A prequel to 2004's Feel the Magic XY/XX, The Rub Rabbits! maintains the series' quirky mini-games in pursuit of a love interest.", 
+      "developers": [
+        {
+          "id": 551, 
+          "name": "Sonic Team"
+        }
+      ], 
+      "id": 15184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15228/661951-rubrab.jpg", 
+      "name": "The Rub Rabbits!", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1604 @@
+{
+  "games": [
+    {
+      "deck": "The next entry in Square Enix's flagship RPG franchise, set in a world that mixes elements of modern technology with magic and fantasy, a fantasy based on reality.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 401, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2750705-rsz_2image.jpg", 
+      "name": "Final Fantasy XV", 
+      "platforms": [
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Kingdom Hearts HD Compilation containing an HD version of Dream Drop Distance and two brand new episodes. Unlike the two previous compilations, which were on Playstation 3, this one is for Playstation 4.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 402, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2783891-8597522200-galle.png", 
+      "name": "Kingdom Hearts HD II.8: Final Chapter Prologue", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The next game in the popular long-running series.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 403, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2769059-2632936862-Logo-.jpg", 
+      "name": "Dragon Quest XI: Sugisarishi Toki o Motomete", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Upcoming fantasy arena combat game from Square Enix, with similar gameplay to their Gunslinger Stratos series and Dissidia: Final Fantasy. School of Ragnarok will release for Japanese arcades in 2015.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 404, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2728108-0768404025-Schoo.jpg", 
+      "name": "School of Ragnarok", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Dissidia series comes to arcades with major overhauls, including 3 versus 3 battles, roster additions, wide open arenas, and more. It is being developed by Taito and Square Enix.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 405, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2726293-6192478688-Dissi.jpg", 
+      "name": "Dissidia: Final Fantasy", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Quest VIII for Nintendo 3DS includes a brand new scenario, new characters, voiced events, StreetPass and an orchestrated soundtrack. So far only set for release in Japan.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 406, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2763899-dq8.jpg", 
+      "name": "Dragon Quest VIII: Journey of the Cursed King", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first expansion pack for Final Fantasy XIV, featuring new areas, jobs, flying mounts, player race and more.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 407, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1665/2728119-ffxivext.jpg", 
+      "name": "Final Fantasy XIV: Heavensward", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An HD remake of Final Fantasy Type-0 for the PS4, PC, and Xbox One. It is the first version of the game to see a localized release outside of Japan.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 408, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2711571-rsz_81xjrtwpnsl_sl1500_.jpg", 
+      "name": "Final Fantasy Type-0 HD", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy Legends: Toki no Suisho (Final Fantasy Legends: The Space-Time Crystal) is a free-to-play iOS and Android game from Square Enix. It is a role-playing game with a time travel theme.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 409, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2725573-screen322x572.jpeg", 
+      "name": "Final Fantasy Legends: Toki no Suisho", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzle &amp; Dragons: Battle Tournament is a competitive arcade adaptation of the popular arcade game, from Square-Enix.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2621485-2675666693-pazud.jpg", 
+      "name": "Puzzle & Dragons: Battle Tournament", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Announced at D23 Expo Japan, this is a follow up to Kingdom Hearts HD 1.5 Remix. This collection contains Kingdom Hearts II Final Mix, Kingdom Hearts Birth by Sleep Final Mix, and HD cutscenes from Kingdom Hearts Re:Coded.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 411, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2661919-btv3gv_ccaayjz3.jpg", 
+      "name": "Kingdom Hearts HD II.5 Remix", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Relive some of the Final Fantasy series' most memorable battles with 16-bit(-ish) sprites and mix-and-match party gameplay.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 412, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2742923-vlcsnap-2015-04-15-20h31m16s115.jpg", 
+      "name": "Final Fantasy: Record Keeper", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Nintendo 3DS remake of Dragon Quest Warriors 2 on the Game Boy Color.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 413, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2715705-dqm2.jpg", 
+      "name": "Dragon Quest Monsters 2: Iru to Ruka no Fushigi na Fushigi na Kagi", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A zombie themed card game for mobile platforms.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 414, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2622565-deadmans+cross+title.jpg", 
+      "name": "Deadman's Cross", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection for PS3, PS4 and Vita, containing Final Fantasy X International and Final Fantasy X-2 International + Last Mission featuring HD visuals and a remastered soundtrack.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 415, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2572041-ffxx2_standard_edition_art.jpg", 
+      "name": "Final Fantasy X/X-2 HD Remaster", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced version of Bravely Default: Flying Fairy. This edition was localized and released internationally, as opposed to the original Flying Fairy.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 416, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2570208-bdus.jpg", 
+      "name": "Bravely Default", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final game in Lightning's story arc in the Final Fantasy XIII universe.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 417, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2575466-box_lrff13.png", 
+      "name": "Lightning Returns: Final Fantasy XIII", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A continuation of Lord Vermilion 2 video game release by Square Enix and officially announced will be release on Summer 2013.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 418, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/190043/2532848-1253848501-LoV-K.jpg", 
+      "name": "Lord of Vermilion III", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A football management game by Square Enix.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 419, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/171291/2529202-screen568x568.jpeg", 
+      "name": "Champ Man", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An iPhone/iPad/iPod Touch video game release by Square Enix which enable to scan a real life face look and play as one of the character.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 420, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/190043/2532849-4655403706-pre-l.png", 
+      "name": "BloodMasque", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "This social game in the Kingdom Hearts series tells the story of the events that led to the first Keyblade War long before the other games' stories. Unchained \u03c7 is a port of \u03c7[chi], originally on browsers, for iOS and Android and the version that will be released in North America.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 421, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2759199-screen+shot+2015-06-16+at+12.23.04+pm.jpg", 
+      "name": "Kingdom Hearts: Unchained \u03c7", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play game based on the Final Fantasy Tactics franchise, released for mobile platforms in Japan. It offers both single-player and multiplayer modes.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 422, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2492934-5166293682-final.jpg", 
+      "name": "Final Fantasy Tactics S", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy XI's fifth full expansion pack. Includes two new jobs, areas, and lore to the nearly 11 year old MMO.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 423, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2616977-9284694568-24085.jpg", 
+      "name": "Final Fantasy XI: Seekers of Adoulin", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PlayStation 3 HD compilation of Kingdom Hearts Final Mix and Kingdom Hearts Re:Chain of Memories. Though not playable, remastered HD cutscenes and new scenes from Kingdom Hearts 358/2 Days are viewable.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 424, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2536364-box_khhd15r.png", 
+      "name": "Kingdom Hearts HD 1.5 ReMIX", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A mobile touch-ATB battle game featuring monsters and characters from classic Final Fantasy games.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 425, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2416086-mzl.qzxrqiew.png", 
+      "name": "Final Fantasy: All The Bravest", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free to Play Web Browser spin off of Bravely Default: Flying Fairy", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 426, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56735/2539465-logo.png", 
+      "name": "Bravely Default: Praying Brage", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3DS RPG from Square Enix featuring AR functionality and randomly triggered encounters.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 427, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2539463-bdff.jpg", 
+      "name": "Bravely Default: Flying Fairy", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "\"Tetris meets Sudoku\", that's how Square Enix describes this puzzle game.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 428, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2429167-502803445_512.png", 
+      "name": "KooZac", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The tenth installment in the Dragon Quest series is an MMORPG for Wii and Wii U and is the first game in the series to be developed internally at Square-Enix.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 429, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2681880-dqx.jpg", 
+      "name": "Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kingdom Hearts 3D: Dream Drop Distance is a new entry in the Kingdom Hearts series for the 3DS.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 430, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2209412-box_kh3dddd.png", 
+      "name": "Kingdom Hearts 3D: Dream Drop Distance", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free to play version of Fortune Street for the iPhone and iPad.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 431, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11512/2351140-fortune_street_smart.jpg", 
+      "name": "Fortune Street Smart", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free-to-play card battle game from Square-Enix based on the legend of King Arthur.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 432, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2464871-3186148852-04-ka.jpg", 
+      "name": "Kaku-San-Sei Million Arthur", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy XIII-2 is a direct sequel to Final Fantasy XIII released by Square Enix in early 2012.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 433, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2099988-box_ff13_2.png", 
+      "name": "Final Fantasy XIII-2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another slimy adventure, this time on the 3DS.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 434, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2262773-smmdq3boxart.jpg", 
+      "name": "Slime MoriMori Dragon Quest 3", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy Type-0, formerly Final Fantasy Agito XIII, is an RPG for the PSP. The PSP Version was only available in Japan but an Xbox One and Playstation 4 Version will be localized for North America &amp; Europe.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 435, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2136121-box.png", 
+      "name": "Final Fantasy Type-0", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP compilation containing Final Fantasy IV, Final Fantasy IV: The After Years, and a new scenario set between the two eras.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 436, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9253/1743712-ffivcc_us_psp.jpg", 
+      "name": "Final Fantasy IV: The Complete Collection", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 3rd Birthday revisits the cult 90s favorite Parasite Eve and updates it with more action-orientated gameplay, heavy RPG elements, and a new story.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 437, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2193300-box_peve3.png", 
+      "name": "The 3rd Birthday", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to Dissidia: Final Fantasy. It features new additions to the roster including Lightning from Final Fantasy XIII and other Final Fantasy Characters.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814641-box_ffd012.png", 
+      "name": "Dissidia 012 Final Fantasy", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP rebuilding of the classic Super Famicom title, it was never localized for the North American market.  The game preserves the original graphical style, but a new 3D engine allows for crisp visuals and a better view of the battlefield.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199376-box_toluct.png", 
+      "name": "Tactics Ogre: Let Us Cling Together", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An episodic action role-playing mobile game prequel to the events of Final Fantasy VII.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 491, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2575301-9836636159-18503.jpg", 
+      "name": "Before Crisis: Final Fantasy VII", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of a previously Japan-only Kingdom Hearts mobile game for DS. It takes place after the events of Kingdom Hearts II, but retraces past events in the Kingdom Hearts canon.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897537-box_khrc.png", 
+      "name": "Kingdom Hearts Re:coded", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another Mario-themed collection of sports minigames for the Nintendo Wii starring Mario and friends. Games include: hockey, volleyball, basketball and dodgeball.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 441, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2634403-msm.jpg", 
+      "name": "Mario Sports Mix", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Japanese mobile exclusive edition of Puzzle Bobble featuring well-known Disney characters.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 442, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2365075-image205.png", 
+      "name": "Puzzle Bobble: Disney Edition", 
+      "platforms": [
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy: The 4 Heroes of Light is a Final Fantasy title for the DS aimed to return to the roots of RPG gaming.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 443, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814646-box_fft4hol.png", 
+      "name": "Final Fantasy: The 4 Heroes of Light", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second MMO in the Final Fantasy universe. After suffering a tumultuous launch, the game was reinvisioned by a new development team, and relaunched as \"A Realm Reborn\" on August 27, 2013 on PS3 and PC, April 14, 2014 on PlayStation 4, and on June 23, 2015 for OS X.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 444, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/99864/2533964-678050_272308_front.jpg", 
+      "name": "Final Fantasy XIV Online: A Realm Reborn", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PSP RPG from Square Enix in the Kingdom Hearts series that takes place roughly ten years prior to the original Kingdom Hearts, following Ventus, Aqua and Terra in their search for Master Xehanort...", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 445, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1897534-box_khbbs.png", 
+      "name": "Kingdom Hearts: Birth by Sleep", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese NDS train simulator", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 446, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/131420/2452685-995896_167784_front.jpg", 
+      "name": "Densha de Go! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chocobo Panic is an Ipad game by Bottle Cube that involves capturing the indicated colour of chocobos with your fingertips. The game also sports the FF XIII Larger-Than-Life Gallery for IPad.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 447, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2262731-chocobopanic.jpg", 
+      "name": "Chocobo Panic", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "This entry into the Final Fantasy universe is set in the worlds of Pulse and Cocoon. Players take control of multiple characters who are caught in a war between these worlds.", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 448, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1205193-front.png", 
+      "name": "Final Fantasy XIII", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Richard Pemberton is found dead in his study. The police rules it as being suicide, and now t's up to you as his wife Irene to step into history and uncover clues to solve his murder and find the killer!", 
+      "developers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ], 
+      "id": 449, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/20737/1300852-cherryblossom.png", 
+      "name": "Season of Mystery: The Cherry Blossom Murders", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }
+  ]
+}

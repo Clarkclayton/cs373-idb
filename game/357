@@ -1,0 +1,1281 @@
+{
+  "games": [
+    {
+      "deck": "A 3D free-to-play action RPG with micro-transactions for Android/iOS from Square Enix. Features music from series veteran Yoko Shimomura as well as Tsuyoshi Sekito, Kenji Ito and Hiroki Kikuta.", 
+      "developers": [], 
+      "id": 17787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2605047-bhzfbbeceaamcma.jpg", 
+      "name": "Seiken Densetsu: Rise of Mana", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lara Croft: Reflections is a battle card game starring Tomb Raider's protagonist.", 
+      "developers": [], 
+      "id": 17788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582829-5192843978-scree.jpg", 
+      "name": "Lara Croft: Reflections", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2013 arcade sequel to Gunslinger Stratos, from Byking, Taito and Square Enix. It is the second game in the Gunslinger Stratos franchise.", 
+      "developers": [], 
+      "id": 17789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2726769-0929460845-gs201.jpg", 
+      "name": "Gunslinger Stratos 2", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Circle of Mana is a card battle game set in the Mana series", 
+      "developers": [], 
+      "id": 17790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2666359-1067201899-mana..jpg", 
+      "name": "Seiken Densetsu: Circle of Mana", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A remake of the original PlayStation game released for the Nintendo 3DS.", 
+      "developers": [], 
+      "id": 17791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2715625-dq7.jpg", 
+      "name": "Dragon Quest VII: Fragments of the Forgotten Past", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chocobo no Chocotto Nouen is a farming simulation with Chocobo", 
+      "developers": [], 
+      "id": 17792, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582838-7916101447-logo_.png", 
+      "name": "Chocobo no Chocotto Nouen", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Final Fantasy Airborne Brigade: A Social RPG developed by Square Enix for Android and iOS devices. Explore areas to level up jobs and aquire skills and weapons, enchance your airship and more! Team up with other players to forge a Brigade to defeat powerful bosses to gain rewards!", 
+      "developers": [], 
+      "id": 17793, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/190717/2480209-1054330561-hFqzBifnOdc_dVhxwAQodIBMoFqMk-JQkd4CeKnOrxDU2skykDNKDe4xiohpaheNLA%3Dw705", 
+      "name": "Final Fantasy Airborne Brigade", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take on some Mensa-approved questions in this downloadable trivia/puzzle game from Square-Enix.", 
+      "developers": [], 
+      "id": 17794, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2385683-37953788mensa_academy_noline.jpg", 
+      "name": "American Mensa Academy", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi third-person shooter, featuring unique dual light-gun controls, online team deathmatches, and destructible urban environments, from Byking, Taito, and Square Enix. Released for the Taito Type X3 arcade system in 2012, it began the Gunslinger Stratos franchise of games and anime.", 
+      "developers": [], 
+      "id": 17795, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/2726991-5197527041-Gunsl.jpg", 
+      "name": "Gunslinger Stratos", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 479, 
+          "name": "Silicon Studio"
+        }
+      ]
+    }, 
+    {
+      "deck": "Control Hiro using Kinect gestures and voice commands as he fights to save his master.", 
+      "developers": [], 
+      "id": 17796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2222519-box_mna.png", 
+      "name": "Mini Ninjas Adventures", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "When the brilliant but eccentric Professor Fitz Quadwrangle accidentally strands himself in an alternate dimension, he gets his young nephew to don a dimension-shifting techno-glove in order to solve puzzles and explore the sprawling halls of Quadwrangle Manor to find a way to rescue him.", 
+      "developers": [], 
+      "id": 17797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2239623-quantum_conundrum_poster.jpg", 
+      "name": "Quantum Conundrum", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3DS remake of the Gameboy Color game Dragon Warrior Monsters, released in Japan in 2012.", 
+      "developers": [], 
+      "id": 17798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2715709-dqm.jpg", 
+      "name": "Dragon Quest Monsters: Terry no Wonderland 3D", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A rhythm combat game based off the the entire Final Fantasy franchise.", 
+      "developers": [], 
+      "id": 17799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2188530-box_trff.png", 
+      "name": "Theatrhythm Final Fantasy", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as a king banished to hell who must assemble and command an army of 100 goblins just in time for the Japanese launch of the Playstation Vita.", 
+      "developers": [], 
+      "id": 17800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2114366-box_acoh.png", 
+      "name": "Army Corps of Hell", 
+      "platforms": [
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest entry in the Lufia series (known as Estpolis:The Lands cursed by the Gods in Japan.) It is a re-imagining of Lufia II utilizing a hack 'n' slash battle system as opposed to a turn-based battle system like previous games in the series.", 
+      "developers": [], 
+      "id": 17801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2478668-box_lcots.png", 
+      "name": "Lufia: Curse of the Sinistrals", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }
+      ]
+    }, 
+    {
+      "deck": "Square Enix's turn-based mech-combat game comes to the PC, PS3, and Xbox 360 as a 3rd person shooter.", 
+      "developers": [], 
+      "id": 17802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2492904-box_fme.png", 
+      "name": "Front Mission Evolved", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "a WiiWare Game by Square Enix. Mostly a Strategy / TowerDefense Genre Mix. ", 
+      "developers": [], 
+      "id": 17803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1796219-bears.jpg", 
+      "name": "The Tales of Bearsworth Manor: Chaotic Conflicts", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "In this Square Enix developed XBLA dual-stick shooter, players control a gun-toting amnesiac robot trying to regain its memory by killing lots of cubes on cubes. Cubes.", 
+      "developers": [], 
+      "id": 17804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1857987-box_dbcube.png", 
+      "name": "Death by Cube", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An upgraded sequel to the original arcade-only, Japanese-only strategy action game. LoVII notably includes guest characters from properties like Magic: The Gathering, Final Fantasy IV, and Secret of Mana. ", 
+      "developers": [], 
+      "id": 17805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/31838/2098151-titleimage.jpg", 
+      "name": "Lord of Vermilion II", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Real-Time Strategy game set in World War II that is more well-known for the fact that it's being published by Square-Enix than for any of its content.", 
+      "developers": [], 
+      "id": 17806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9039/1142664-orderofwarpc.jpg", 
+      "name": "Order of War", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the original Monster Battle Road arcade game.", 
+      "developers": [], 
+      "id": 17807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/782912-dqmb01.jpg", 
+      "name": "Dragon Quest: Monster Battle Road II Legends", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to the DS horror Nanashi no Game.", 
+      "developers": [], 
+      "id": 17808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8647/1065565-varna.jpg", 
+      "name": "Nanashi no Game Me", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play web based platformer with a frightening (in theory), female (in practice) protagonist in search of the man of her dreams. Based on the art of the toy collection, by Nathan Jurevicius.", 
+      "developers": [], 
+      "id": 17809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/30/2107605-boxartlg.jpg", 
+      "name": "Scarygirl", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Wii Remote becomes a bandleader's baton as you keep tempo and try to create the most impressive parade ever.\n\n", 
+      "developers": [], 
+      "id": 17810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7003/950042-mmmmus.jpg", 
+      "name": "Major Minor's Majestic March", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game adaption to Kuroshitsuji(Black Butler) series", 
+      "developers": [], 
+      "id": 17811, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/33873/1866586-nintendo_ds.png", 
+      "name": "Kuroshitsuji: Phantom & Ghost", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players take the role of Maritsu Evil Academy honor-student Mao in his quest to overthrow his father and take the title of Overlord of the Netherworld.", 
+      "developers": [], 
+      "id": 17812, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832913-box_disgaea3.png", 
+      "name": "Disgaea 3: Absence of Justice", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first person survival-horror game by Square Enix with an in-game 8-bit RPG that furthers the plot.", 
+      "developers": [], 
+      "id": 17813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/26507/1064472-mwv5ht.jpg", 
+      "name": "Nanashi no Game", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lord of Vermilion is Square Enix's card battling arcade game only found in Japan.  It uses packs of cards and is capable of both local and network play. It is currently one of the more popular games at Japanese game centers.", 
+      "developers": [], 
+      "id": 17814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1348/1028405-lov_keyvis.jpg", 
+      "name": "Lord of Vermilion", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ride the wind to new heights in this downloadable platformer for WiiWare.  It was released in the US on May 12th, 2008 and in Europe on May 20th, 2008 for 1,000 Wii Points.  It was a launch title for the WiiWare service.", 
+      "developers": [], 
+      "id": 17815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4905/401866-945044_20080414_screen111.jpg", 
+      "name": "LostWinds", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade game based on Dragon Quest VIII: Journey of the Cursed King focusing solely on monster battles.", 
+      "developers": [], 
+      "id": 17816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/753118-568517_640x500.jpg", 
+      "name": "Dragon Quest Monster Battle Road", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A DS entry in Square Enix's Mana series with a greater focus on multiplayer.", 
+      "developers": [], 
+      "id": 17817, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092586-box_comana.png", 
+      "name": "Children of Mana", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A spin-off in the Hanjuku Eiyuu series.", 
+      "developers": [], 
+      "id": 17818, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1167285-eggmonsterhero_boxart.jpg", 
+      "name": "Egg Monster Hero", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-adventure RPG for the GameCube and the first Final Fantasy since VI to be released on a Nintendo Console, Final Fantasy Crystal Chronicles allows four player co-op using the Gameboy Advance to GameCube link cables.", 
+      "developers": [], 
+      "id": 17819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1814638-box_ffcc.png", 
+      "name": "Final Fantasy Crystal Chronicles", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only MMORPG with a Japanese high school motorcycle gangwars setting.", 
+      "developers": [], 
+      "id": 17820, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/827120-yan02.jpg", 
+      "name": "Bakusou Yankee Tamashii", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fear Effect 2: Retro Helix is a prequel to the original Fear Effect for the Playstation console. The game's story reveals the conditions under which the three protagonists from the first game met each other, and the events that preceded the story of the original Fear Effect.", 
+      "developers": [], 
+      "id": 17821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875233-box_fe2rh.png", 
+      "name": "Fear Effect 2: Retro Helix", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game that goes from Hong Kong to Hell, Fear Effect takes players to a dark world where killing people and monsters becomes part of the job as players search for a missing girl.", 
+      "developers": [], 
+      "id": 17822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875231-box_fe.png", 
+      "name": "Fear Effect", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 457, 
+          "name": "Eidos Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 17823, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2540574-b1.png", 
+      "name": "Astronoka", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 416, 
+          "name": "Enix Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first video game entry in the Front Mission franchise.", 
+      "developers": [], 
+      "id": 17824, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363838-snes_frontmission_jp.jpg", 
+      "name": "Front Mission", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japan-only polarity-switching puzzle game for the Famicom Disk System developed by Sokoban creators Thinking Rabbit.", 
+      "developers": [], 
+      "id": 17825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2295425-jikai_shounen_mettomag_fds_box.jpg", 
+      "name": "Jikai Shounen Mettomag", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Square Enix's first MOBA game, based on successful Lord of Vermilion franchise", 
+      "developers": [], 
+      "id": 17826, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2760324-20141209033222a0dyogkao003qcx8.jpg", 
+      "name": "Lord of Vermilion Arena", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Great Hits is an Enix game in which you attempt to create a pop idol by producing a music video.", 
+      "developers": [], 
+      "id": 17827, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1766486-ps_great_hits_1.jpg", 
+      "name": "Great Hits", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [], 
+      "id": 17828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4/1258110-picture_1.png", 
+      "name": "Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A JRPG by Square Enix and Witch Craft for iOS devices.", 
+      "developers": [], 
+      "id": 17829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2276337-c.png", 
+      "name": "Star Burial Dragnir", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gun Loco was an Xbox 360-exclusive shooter in development at Square Enix Europe which has been canceled.", 
+      "developers": [], 
+      "id": 17830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/1468055-tank.jpg", 
+      "name": "Gun Loco", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [], 
+      "id": 17831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4/1258112-picture_2.png", 
+      "name": "Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new shooter from Square-Enix for Xbox Live Arcade.", 
+      "developers": [], 
+      "id": 17832, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Project CUBE", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "The follow-up to Deus Ex: Human Revolution is in development for PC, Xbox One, and PS4.", 
+      "developers": [], 
+      "id": 17833, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Deus Ex: Universe (working title)", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "Black Wing Foundation is developing third-person shooter Scivelation for the next generation of gaming consoles.", 
+      "developers": [], 
+      "id": 17834, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2496417-scivelation08.jpg", 
+      "name": "Scivelation", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down vehicular combat game, downloadable for PC.", 
+      "developers": [], 
+      "id": 17835, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23546/2467986-cover.png", 
+      "name": "Pressure", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play the pinball game of your dreams in 3D. Again!", 
+      "developers": [], 
+      "id": 17836, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2340889-2340888-dreampinball3d23ds.jpg", 
+      "name": "Dream Pinball 3D II", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 9, 
+          "name": "TopWare Interactive"
+        }
+      ]
+    }
+  ]
+}

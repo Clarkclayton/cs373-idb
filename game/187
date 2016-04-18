@@ -1,0 +1,1788 @@
+{
+  "games": [
+    {
+      "deck": "Timeball is a puzzle game for the TurboGrafx-16 that is a mix between sliding block puzzles and Pipe Dream. It is known as Blodia in Japan.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9285, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1731298-timeball.jpg", 
+      "name": "Timeball", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An arcade puzzle-platformer; also known as Buster Bros. Players must shoot the bouncing balls before they take over historical landmarks.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9286, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/1127969-921769_56482_front.jpg", 
+      "name": "Pang", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Dungeon Explorer is a top-down action-adventure RPG developed by Atlus and published by Hudson Soft in 1989.  Up to five players can join in the quest to recover the Ora stone from the mighty Natas.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9287, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8272/846509-588955_58106_front.jpg", 
+      "name": "Dungeon Explorer", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "2D Brawler for the Turbografx-16 gaming console.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9288, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365516-tg16_chinawarrior.jpg", 
+      "name": "China Warrior", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A sidescrolling 2D platformer/RPG hybrid in which the protagonist, Wonder Boy, must regain his human form after having been cursed by a dragon. Released under the name \"Dragon's Curse\" on the Turbografx-16 with slightly improved 16-bit graphics.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9289, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363103-sms_wonderboyiiithedragonstrap_au.jpg", 
+      "name": "Wonder Boy III: The Dragon's Trap", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Michimune must save Miu who has been kidnapped and taken into a land of evil.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9290, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/551209-seirei_gari_box.jpg", 
+      "name": "Seirei Gari", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A cockpit-view dogfight simulator for the short-loved SuperGrafx console. One of seven games for that platform.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9291, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30116/1317926-battleace.jpg", 
+      "name": "Battle Ace", 
+      "platforms": [
+        {
+          "id": 105, 
+          "name": "SuperGrafx", 
+          "short": "SGFX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The TurboGrafx-16's answer to The Legend of Zelda. It was among the exclusive titles Hudson would make for the Turbografx-16, along with its sequel.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9292, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365555-tg16_neutopia.jpg", 
+      "name": "Neutopia", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This top-down maze action game was originally a Doraemon licensed game before being graphically converted for the North American market.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9293, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1687319-cover_large.jpg", 
+      "name": "Cratermaze", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Adventures of Dino-Riki is a prehistoric-themed shoot-em-up published by Hudson for the NES.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9294, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2371420-adventures_of_dino_riki_fr_ntsc.png", 
+      "name": "Adventures of Dino-Riki", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An art program for the PC Engine. Compatible with three peripherals: a drawing tablet, a scanner and a printer.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9295, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2797378-0406714143-55072.jpg", 
+      "name": "Artist Tool", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A train-based boardgame for the PC Engine, Famicom, and Game Boy.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9296, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2453/1529176-supermomotaroudentetsu_front.jpg", 
+      "name": "Super Momotarou Dentetsu", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A scrolling action game developed by Hudson, it was the pack-in title for the TurboGrafx-16 system. The Japanese version is titled Majin Eiyuuden Wataru and is based on an animated series of the same name.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9297, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365546-tg16_keithcourage.jpg", 
+      "name": "Keith Courage in Alpha Zones", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical-scrolling shoot 'em up from Compile, the creators of Aleste, Zanac and Spriggan. It was an early critical success for Hudson/NEC's new console the TurboGrafx-16/PC Engine.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9299, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365511-tg16_blazinglazers.jpg", 
+      "name": "Blazing Lazers", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Tengai Makyou: Ziria is an RPG released by Hudson Soft for the PC Engine in 1989.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9300, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2547632-box.png", 
+      "name": "Tengai Makyou: Ziria", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A golf simulator for the TurboGrafx-16 developed by Hudson. It was the first golf game to be released for the system in the US.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9301, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790464-power_golf__u_.jpg", 
+      "name": "Power Golf", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A turn-based strategy game played on a hex map. The player is in control of the Earth's forces, fighting the Axis Empire for control of the moon. The first game in the Military Madness/Nectaris series.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9302, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17245/563550-tg16_military_madness_front.jpg", 
+      "name": "Military Madness", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An interactive database and quiz game based around the Bikkuriman collectible sticker franchise. It was the third game to be released for the PC Engine CD-ROM2 in Japan.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9303, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2366808-bikkuriman_daijikai_pcecd.jpg", 
+      "name": "Bikkuriman Daijikai", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "RoboWarrior (Bomber King in Japan) is a side-scrolling action game for the NES, developed by Hudson and later published in the US by Jaleco. It is a sequel to Hudson's earlier hit Bomberman.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9304, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362159-nes_robowarrior.jpg", 
+      "name": "RoboWarrior", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first in Hudson's series of train-themed video board games which was released on the Famicom in Japan only on December 2nd 1988.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9305, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/558289-momotarou_dentetsu_box.jpg", 
+      "name": "Momotaro Dentetsu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Mahjong game set in Japan's Sengoku period (15th-17th century). It was developed by Hudson for the Turbografx-16 in 1988.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9306, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2335328-sengoku_mahjong_pce.jpg", 
+      "name": "Sengoku Mahjong", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A baseball simulator for the Turbografx-16, developed by Hudson. Originally released in Japan as Power League.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9307, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1790456-world_class_baseball__u_.jpg", 
+      "name": "World Class Baseball", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game adaptation of the Game of Life, developed and published by Hudson for the Turbografx-16.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9308, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2335191-yuu_yuu_jinsei___victory_life__japan__2.png", 
+      "name": "Yuu Yuu Jinsei", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fantasy RPG developed and published by Hudson for the PC Engine. It was never released outside Japan.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9309, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2333808-jaseiken_necromancer_pce.jpg", 
+      "name": "Jaseiken Necromancer", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A racing game for the Turbografx-16 developed by Hudson. It uses the behind-the-car viewpoint popularized by Sega's OutRun.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9310, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365590-tg16_victoryrun_2.jpg", 
+      "name": "Victory Run", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Low-rent detectives J.J. &amp; Jeff set out to solve a kidnapping case in this quirky action/platformer. This game was released as Kato &amp; Ken in Japan, the pair being popular TV variety show hosts on the Tokyo Broadcasting System in the 1980s.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9311, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2333803-jj_and_jeff.jpg", 
+      "name": "J.J. & Jeff", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 206, 
+          "name": "NEC Home Electronics, Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An RPG based on the popular Japanese folklore legend of Momotarou, the Peach Boy. This was the first in a series of Momotarou games by Hudson and was only released in Japan.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9312, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/566468-momotarou_densetsu_box_front.jpg", 
+      "name": "Momotarou Densetsu", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An 80's fighting game from Capcom that laid the framework for one of the most popular fighting game franchises of all time, as well as the traditional fighting game genre in general.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9313, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2703246-sf.jpg", 
+      "name": "Street Fighter", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Starship Hector is a shoot-em-up released for the NES by Hudson. It was originally named Hector '87 in Japan.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9314, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/237580-starship_hector.jpg", 
+      "name": "Starship Hector", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure platformer game starring Master Takahashi of Adventure Island fame. It is based on an anime which in turn was based on the Adventure Island games.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9315, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2290265-bug_tte_honey_fc_box.jpg", 
+      "name": "Takahashi Meijin no Bugutte Honey", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Help Mickey and Minnie save Alice in Wonderland from the evil clutches of Maleficent in this punishing platformer for the NES.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9316, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362065-nes_mickeymousecapades.jpg", 
+      "name": "Mickey Mousecapade", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A shooting game developed by Hudson.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9317, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362256-nes_starsoldier.jpg", 
+      "name": "Star Soldier", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the earliest video games based on the Doraemon franchise. It was released exclusively in Japan for the Famicom by Hudson.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9318, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4527/1687840-1.png", 
+      "name": "Doraemon", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Milon in an adventure through castle Garland to save Princess Eliza from the evil Warlord.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9319, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362071-nes_milonssecretcastle.jpg", 
+      "name": "Milon's Secret Castle", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A scrolling platformer for the Nintendo Entertainment System developed by Hudson Soft, the game was an adaptation of the Westone/Sega arcade game Wonder Boy featuring an employee of Hudson wearing a grass skirt.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9320, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361114-nes_adventureisland.jpg", 
+      "name": "Adventure Island", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Mario Bros. Special is a sequel to Super Mario Bros. created by Hudson Soft. It is also the predecessor to The Lost Levels.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9321, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2479345-smbs.jpg", 
+      "name": "Super Mario Bros. Special", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling action platformer featuring the titular anime character.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9322, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2828626-6341219702-31091.jpg", 
+      "name": "Ninja Hattori-kun", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Reunite penguin lovers Gurin and Malon in this cute puzzle game from Hudson.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9323, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2414515-binary_land_fc.jpg", 
+      "name": "Binary Land", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An action game originally released on the Famicom. The game frequently switches its viewpoint, from side-scrolling to top-down, and boasts 100 stages.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9324, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1851133-box_challenger.jpg", 
+      "name": "Challenger", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9325, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/658108-1132954364_00.png", 
+      "name": "Stop the Express", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Known by a contemporary audience for its unfortunate title, Nuts &amp; Milk is also the very first third-party game released on any Nintendo console.  It was released by Hudson Soft for the Famicom in 1984.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9326, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/155745/2173708-nutsmilkmsx.jpg", 
+      "name": "Nuts & Milk", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ], 
+      "id": 9514, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Wolfan", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Excitebike is a 1985 motocross racing game for the NES. Race around premade tracks and even create custom ones!", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9327, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361695-nes_excitebike.jpg", 
+      "name": "Excitebike", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "4 Nin Uchi Mahjong is a Mahjong game released in Japan for the Nintendo Famicom.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9328, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/783222-578224_18734_front.jpg", 
+      "name": "4 Nin Uchi Mahjong", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An unusual variation of Mario Bros. in which Mario and Luigi throw \"punch balls\" at enemies rather than hitting them from below.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9329, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1167688-punchball.jpg", 
+      "name": "Punch Ball Mario Bros.", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Special version of Mario Bros. developed by Hudson for various Japanese computers in 1984.\nThis Version is like the battle mode in Super Mario Bros. 3.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9330, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173579-mario_special_fm_7.jpg", 
+      "name": "Mario Bros. Special", 
+      "platforms": [
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game in which, as Sir Cucumber, you must rescue Princess Tomato.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9331, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2387951-princess_tomato_fr.png", 
+      "name": "Princess Tomato in the Salad Kingdom", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 101, 
+          "name": "NEC PC-6001", 
+          "short": "6001"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "3-D Bomberman is a Japanese-only game released for the MSX and Sharp X1. It is a sequel to the original Bomberman Game. ", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9332, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2360087-2360084-www3.atwiki.jp.png", 
+      "name": "3-D Bomberman", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Cannon Ball is a early Hudson game where players destroy large spheres with a harpoon.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9333, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2671776-8105754659-1.jpg.jpg", 
+      "name": "Cannon Ball", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Driller tanks is a top-down tank game where the player must shoot enemies and then crush them with their tank.", 
+      "developers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ], 
+      "id": 9334, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Driller Tanks", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }
+  ]
+}

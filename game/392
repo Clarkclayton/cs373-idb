@@ -1,0 +1,1199 @@
+{
+  "games": [
+    {
+      "deck": "Game Boy game based on the 1990s Sunrise sports robot anime.", 
+      "developers": [], 
+      "id": 19541, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2649992-ironleaguergb.jpg", 
+      "name": "Shippuu! Iron Leaguer", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Quiz/Trivia game released in 1993 for the Game Boy.", 
+      "developers": [], 
+      "id": 19542, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2204989-cult_jump___game_boy.jpg", 
+      "name": "Cult Jump", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players test theirr knowledge of the Ultraman tokusatsu series in this quiz game.", 
+      "developers": [], 
+      "id": 19543, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2731375-6941832256-30629.jpg", 
+      "name": "Cult Master: Ultraman ni Miserarete", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Chibi-fied RPG with the Saint Seiya gang.", 
+      "developers": [], 
+      "id": 19544, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2501724-sainto.jpg", 
+      "name": "Seitoushi Saint Paradise: Saikyou no Senshitachi", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A teaching simulation game developed by Headroom for a variety of Japanese computers and consoles.", 
+      "developers": [], 
+      "id": 19545, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2750228-gradpc-98.jpg", 
+      "name": "Sotsugyou: Graduation", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fantasy RPG for the Super Famicom. Notable for allowing up to five party members in combat and breaks the usual 9999 limit for health. Never released outside of Japan, but fan translations exist.", 
+      "developers": [], 
+      "id": 19546, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/56971/2024634-581081_21683_front.jpg", 
+      "name": "Kouryu Densetsu Villgust: Kieta Shoujo", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Action platformer and one of several games based on a serialized comedy manga named Magical Taluluto. It was published by Bandai on the Super Famicom in 1992.", 
+      "developers": [], 
+      "id": 19547, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/429/2078510-friendshipandmagicadventures.jpg", 
+      "name": "Magical Taluluto-kun: Magic Adventure", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Extra Bases is a baseball game released on the original Game Boy.", 
+      "developers": [], 
+      "id": 19548, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2413009-ebases.jpg", 
+      "name": "Extra Bases", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Famicom Disk System platformer intended for younger players, based on the Tama and Friends franchise about a group of cats and dogs.", 
+      "developers": [], 
+      "id": 19549, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2372390-tama_and_friends_fds.jpg", 
+      "name": "Tama and Friends", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A Patlabor 2D platformer for the Famicom Disk System.", 
+      "developers": [], 
+      "id": 19550, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1687731-kidou_keisatsu_patlabor_dai_2_shoutai_shutsudou_seyo__box_front.jpg", 
+      "name": "Kidou Keisatsu Patlabor: Dai 2 Shoutai Shutsudou Seyo!", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game developed for the Famicom Disk System and published by Bandai. It is based on a Japanese TV show involving a team of young detectives foiling the plans of a masked villain. It was never released outside of Japan.", 
+      "developers": [], 
+      "id": 19551, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2340068-omoikkiri_tanteidan_haado_gumi_matenrou_no_chousenjou_fds_box.jpg", 
+      "name": "Omoikkiri Tanteidan Haado Gumi: Matenrou no Chousenjou", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A FDS action game based on the popular anime and manga franchise Dirty Pair. It was published by Bandai, which produced many anime license games for the Famicom.", 
+      "developers": [], 
+      "id": 19552, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2374697-dirty_pair_fds.jpg", 
+      "name": "Dirty Pair: Project Eden", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first of three Ultraman games for the Famicom Disk System from Bandai.", 
+      "developers": [], 
+      "id": 19553, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2467395-ultraman_kaiju_fds.jpg", 
+      "name": "Ultraman: Kaijuu Teikoku no Gyakushuu", 
+      "platforms": [
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Vifam is a space flight simulator based on the anime of the same name.", 
+      "developers": [], 
+      "id": 19554, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/139866/1967252-197792_gingahyoryu_vifam_msx_screenshot_title_screens.png", 
+      "name": "Gingahy\u014dry\u016b Vifam", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first chapter of what would become one of the defining series for PC-based RPGs, this instant classic pit a group of adventurers against the evil wizard, Werdna, in a quest for an amulet that they must retrieve for Trebor, the Mad Overlord.", 
+      "developers": [], 
+      "id": 19555, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362613-nes_wizardry.jpg", 
+      "name": "Wizardry: Proving Grounds of the Mad Overlord", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 45, 
+          "name": "WonderSwan Color", 
+          "short": "WSC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 562, 
+          "name": "ASCII Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Simulation game developed by NEC Avenue in 1993.", 
+      "developers": [], 
+      "id": 19556, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1629635-__.jpg", 
+      "name": "Tanjou: Debut", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 260, 
+          "name": "Datawest"
+        }
+      ]
+    }, 
+    {
+      "deck": "Newton museum - Ky\u014dry\u016b Nendaiki K\u014dhen for the Playdia", 
+      "developers": [], 
+      "id": 19557, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Newton museum - Ky\u014dry\u016b Nendaiki K\u014dhen", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bish\u014djo Senshi Sailor Moon SS - Y\u014dkoso! Sailor Y\u014dchien for the Playdia", 
+      "developers": [], 
+      "id": 19558, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bish\u014djo Senshi Sailor Moon SS - Y\u014dkoso! Sailor Y\u014dchien", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [], 
+      "id": 19559, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Sailor Moon S", 
+      "platforms": [
+        {
+          "id": 104, 
+          "name": "Sega Pico", 
+          "short": "PICO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Elements Voice Series vol.1 Mika Kanai - Wind&Breeze for the Playdia", 
+      "developers": [], 
+      "id": 19560, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Elements Voice Series vol.1 Mika Kanai - Wind&Breeze", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19663, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Grumpy Gumphrey Supersleuth", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A game based off the anime series, Gintama.", 
+      "developers": [], 
+      "id": 19562, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27436/2738078-61kt86j649l._sx342_.jpg", 
+      "name": "Gintama DS: Yorozuya Daisoudou", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shuppatsu! D\u014dbutsu Tankentai for the Playdia", 
+      "developers": [], 
+      "id": 19563, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Shuppatsu! D\u014dbutsu Tankentai", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ultraman - Oide yo! Ultra Y\u014dchien for the Playdia", 
+      "developers": [], 
+      "id": 19564, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ultraman - Oide yo! Ultra Y\u014dchien", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Sailor Moon S: Kurukkurin is a puzzle game where you have to capture all of the three mystical talismans before your opponent.", 
+      "developers": [], 
+      "id": 19565, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14389/1153304-3.jpg", 
+      "name": "Bishoujo Senshi Sailor Moon S: Kurukkurin", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Nintama Rantar\u014d - Gungun Nobiru Chin\u014d Hen for the Playdia", 
+      "developers": [], 
+      "id": 19566, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Nintama Rantar\u014d - Gungun Nobiru Chin\u014d Hen", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": " ", 
+      "developers": [], 
+      "id": 19567, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bish\u014djo Senshi Sailor Moon S - Quiz Taiketsu! Sailor Power Sh\u016bketsu!", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Captain Tsubasa game released on the Playstation.", 
+      "developers": [], 
+      "id": 19568, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/48222/2202267-captain_tsubasa_j_get_in_the_tomorrow.jpg", 
+      "name": "Captain Tsubasa J: Get In The Tomorrow", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game based off the Gintama anime series.", 
+      "developers": [], 
+      "id": 19569, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/27436/2738074-83270_front.jpg", 
+      "name": "Gintama Gin-San to Issho! Boku no Kabuki Machi Nikki", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Norimono Banzai!! - Kuruma Daish\u016bg\u014d!! for the Playdia", 
+      "developers": [], 
+      "id": 19570, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Norimono Banzai!! - Kuruma Daish\u016bg\u014d!!", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A video game based of a popular Anime series. Released for the Bandai Playdia.", 
+      "developers": [], 
+      "id": 19571, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/126726/1737313-giant_bomb_sub_2.jpg", 
+      "name": "Ie Naki Ko - Suzu no Sentaku", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ch\u014dg\u014dkin Selections for the Playdia", 
+      "developers": [], 
+      "id": 19572, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ch\u014dg\u014dkin Selections", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Elements Voice Series vol.3 Aya Hisakawa - Forest Sways for the Playdia", 
+      "developers": [], 
+      "id": 19573, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Elements Voice Series vol.3 Aya Hisakawa - Forest Sways", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19574, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14389/1153294-bishoujo_senshi_sailor_moon_super_s___fuwa_fuwa_panic_0.png", 
+      "name": "Bishoujo Senshi Sailor Moon Super S: Fuwa Fuwa Panic", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Elements Voice Series vol.5 Mariko K\u014dda - Welcome to the Marikotown! for the Playdia", 
+      "developers": [], 
+      "id": 19575, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Elements Voice Series vol.5 Mariko K\u014dda - Welcome to the Marikotown!", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19576, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14097/741667-1.jpg", 
+      "name": "Kero Kero 7", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Newton museum - Ky\u014dry\u016b Nendaiki Zenpen for the Playdia", 
+      "developers": [], 
+      "id": 19577, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Newton museum - Ky\u014dry\u016b Nendaiki Zenpen", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bish\u014djo Senshi Sailor Moon SS - Sailor Moon to Hajimete no Eigo for the Playdia", 
+      "developers": [], 
+      "id": 19578, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bish\u014djo Senshi Sailor Moon SS - Sailor Moon to Hajimete no Eigo", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Norimono Banzai!! - Densha Daish\u016bg\u014d!! for the Playdia", 
+      "developers": [], 
+      "id": 19579, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Norimono Banzai!! - Densha Daish\u016bg\u014d!!", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Elements Voice Series vol.4 Yuri Shiratori - Rainbow Harmony for the Playdia", 
+      "developers": [], 
+      "id": 19580, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Elements Voice Series vol.4 Yuri Shiratori - Rainbow Harmony", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Bish\u014djo Senshi Sailor Moon SS - Sailor Moon to Hiragana Lesson! for the Playdia", 
+      "developers": [], 
+      "id": 19581, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bish\u014djo Senshi Sailor Moon SS - Sailor Moon to Hiragana Lesson!", 
+      "platforms": [
+        {
+          "id": 113, 
+          "name": "Bandai Playdia", 
+          "short": "PDIA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Getter Robo Daikessen is an anime-based strategy game that includes every Getter produced by the time of its release.", 
+      "developers": [], 
+      "id": 19582, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/1769407-getter_robo_daikessen.jpg", 
+      "name": "Getter Robo Daikessen!", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Elite Soccer (also known as \"World Cup Striker\" in Japan and Europe) is a soccer game developed by Rage Software for the SNES. It is an updated version of Denton Designs' Striker, released to coincide with the 1994 World Cup.", 
+      "developers": [], 
+      "id": 19583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2230824-elite_soccer.jpg", 
+      "name": "Elite Soccer", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }, 
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A fast-paced soccer game played on a 3D pitch. The SNES version is known as \"World Soccer\" in Japan, \"Striker\" in Europe, \"World Soccer '94: Road to Glory\" in North America and \"Eric Cantona Football Challenge\" in France.", 
+      "developers": [], 
+      "id": 19584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364798-snes_striker_es.jpg", 
+      "name": "World Soccer '94: Road to Glory", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A comedic horror-themed 2D platformer in which Franky must find all of the body parts of his girlfriend, Bitsy, and then use a machine to bring her back to life. The SNES port is known as The Adventures of Dr. Franken.", 
+      "developers": [], 
+      "id": 19585, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/72557/1342106-game_boy_original_dr_franken_box_front.jpg", 
+      "name": "Dr. Franken", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Scooby-Doo must save Fred, Velma, Shaggy, and Daphne.", 
+      "developers": [], 
+      "id": 19586, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1831748-sdc64euro.jpg", 
+      "name": "Scooby Doo", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 135, 
+          "name": "Commodore 16", 
+          "short": "C16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A top-down racing game featuring the Dunlop-shod Porsche 911. Before heading out, you can modify your vehicle with a selection of upgrades using a limited budget.", 
+      "developers": [], 
+      "id": 19587, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "911 TS", 
+      "platforms": [
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 19588, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Virtual Reality Vol. 2", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 214, 
+          "name": "Elite Systems Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game in the Amazing Adventures series.", 
+      "developers": [], 
+      "id": 19589, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633909-amazing+adventures+riddle+of+the+two+knights.jpg", 
+      "name": "Amazing Adventures: Riddle of the Two Knights", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A hidden object game from SpinTop Games.", 
+      "developers": [], 
+      "id": 19590, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2633917-vacation+quest+australia+cover.jpg", 
+      "name": "Vacation Quest: Australia", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 219, 
+          "name": "PopCap Games, Inc."
+        }
+      ]
+    }
+  ]
+}

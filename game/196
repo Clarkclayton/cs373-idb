@@ -1,0 +1,1684 @@
+{
+  "games": [
+    {
+      "deck": "A side-scrolling platformer featuring Disney mascot Mickey Mouse that is inspired by his long history in animated films.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9735, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2543318-box_mmania.png", 
+      "name": "Mickey Mania", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The only official release of Ultraverse Prime, bundled with the previously released Microcosm", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9736, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/1081291-ultraverse_microcosm_cover.jpg", 
+      "name": "Ultraverse Prime", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1994 action game capitalizing on the recent movie of the same name. The game was initially released for the SNES and Genesis with a Sega CD version releasing later as a bundle with Bram Stoker's Dracula.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9737, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6150/846050-snes_cover.jpg", 
+      "name": "Mary Shelley's Frankenstein", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 430, 
+          "name": "989 Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Investigate the body and defeat a deadly virus in Microcosm. Developed and published by Psygnosis for the PC, Sega/Mega CD, 3DO and Amiga CD 32. It was published in Japan by T&E Soft for the 3DO and Victor Interactive Software for the Mega CD.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9738, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/1409336-microcosm_front.jpg", 
+      "name": "Microcosm", 
+      "platforms": [
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Guide a party of adventurers into the tower of an evil wizard in this 3D real-time RPG. Hexx is a quasi-sequel to Bloodwych.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9739, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/651864-cover.jpg", 
+      "name": "Hexx: Heresy of the Wizard", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9740, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/678159-1148332725_00.png", 
+      "name": "Combat Air Patrol", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "In the future, the world is divided in 5 super power nations that will fight until the conquest of all the world!", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9741, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Global Domination", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A brawler/action game based on the 1993 Arnold Schwarzenegger film of the same name.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9742, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361944-nes_lastactionhero.jpg", 
+      "name": "Last Action Hero", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A horror action platformer game based on the movie of the same name, released on a multitude of platforms from 1993 on, developed by Psygnosis, Traveller's Tales, and Probe Entertainment and published by Sony Imagesoft and Psygnosis.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9743, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361185-nes_dracula_eu.jpg", 
+      "name": "Bram Stoker's Dracula", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Guide hordes of helpless green-haired rodents away from peril in this landmark puzzle game.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9745, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10026/568577-lemmings.jpg", 
+      "name": "Lemmings", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }, 
+        {
+          "id": 127, 
+          "name": "Commodore CDTV", 
+          "short": "CDTV"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9746, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9560/1303173-stryx_front.jpg", 
+      "name": "Stryx", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A classic top down racer that proves challenging to this day.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9747, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2606696-nitro+cover+front+atari+st.jpg", 
+      "name": "Nitro", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Defend the Carthagian Empire from the Romans.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9748, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Carthage", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Lander is a simulation game that has you attemping to land a lunar module on the surface of the moon. The game takes into account your altitude, horizontal and vertical velocity, and how much fuel you have left. ", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9749, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/884/225591-lander.png", 
+      "name": "Lander", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A side-scrolling platform game, famous for being unfairly difficult, originally developed for the Commodore Amiga, and later ported to other systems.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9750, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2373870-genesis_shadowofthebeast.jpg", 
+      "name": "Shadow of the Beast", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take the controls of a STRIX fighter, explore deep space to find fame and fortune.\n\nSteal satellites, clear minefields, dogfight with Kogon Interceptors and negotiating meteor clusters.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9751, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/853403-deep_space___front.jpg", 
+      "name": "Deep Space", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9752, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/788725-brataccas.jpg", 
+      "name": "Brataccas", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 44, 
+          "name": "Mindscape, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9753, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Terrorpods", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9754, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Armour-Geddon 2: Codename Hellfire", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another entry to the Power Soccer series. This time with more  teams and tournaments.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9755, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/329/292566-apsi_97_pal_cover.jpg", 
+      "name": "Adidas Power Soccer International 97", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9756, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1116335-infestation___front.jpg", 
+      "name": "Infestation", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9757, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Bill's Tomato Game", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9758, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1998929-nations.jpg", 
+      "name": "Nations: Fighter Command", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players control Lomax the Lemming as his attempts to rescue his friends and stop Evil Ed.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9759, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179504-box_taol.png", 
+      "name": "The Adventures of Lomax", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9760, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Darker", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "X-mas Lemmings is the name of two separate demo packs, released in 1991 and 1992. They are Christmas-themed expansions to the original Lemmings.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9761, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/837751-lemmam0f.jpg", 
+      "name": "Lemmings X-Mas", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Obliterator is a science fiction side scrolling shooter and adventure game.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9762, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14472/1190034-obliteratortitle.jpg", 
+      "name": "Obliterator", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9763, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/98752/1441911-assault_rigs_pal.jpg", 
+      "name": "Assault Rigs", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9764, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Monster Pack Volume 1", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9765, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/388404-retro_force_front.jpg", 
+      "name": "Retro Force", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9766, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Pyrotechnica", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A power crazed entity is threatening to destroy Earth with a energy beam weapon.  You are in a race against time to stop that happening in this strategy simulation game.", 
+      "developers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ], 
+      "id": 9767, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/686924-agfront.jpg", 
+      "name": "Armour-Geddon", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy game where players fight waves of enemies using upgradeable heroes with unique abilities and unlockable skills.", 
+      "developers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ], 
+      "id": 9768, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/26/260342/2731461-header.jpg", 
+      "name": "Kingdom Elemental", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Independent Games Festival 2005s Grand Prize winner, Gish, is a 2D platformer in which Gish must rescue his lady friend. The gameplay is centred around the physics of a blob.", 
+      "developers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ], 
+      "id": 9769, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/658041-250px_gish_box_art_1_.jpg", 
+      "name": "Gish", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 11, 
+          "name": "Stardock Corporation"
+        }, 
+        {
+          "id": 50, 
+          "name": "Valve Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ], 
+      "id": 9770, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Pontifex 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ], 
+      "id": 9771, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1780474-pontifex.gif", 
+      "name": "Pontifex", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Triptych is a falling block puzzle game by Chronic Logic.", 
+      "developers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ], 
+      "id": 9772, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1780484-tt.jpg", 
+      "name": "Triptych", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bridge Builder is a freeware game in which the player must use a limited number of pieces to build a physically stable bridge for a train to pass over.", 
+      "developers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ], 
+      "id": 9773, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5266/781302-bridge_builder2.jpg", 
+      "name": "Bridge Builder", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 332, 
+          "name": "Chronic Logic LLC"
+        }
+      ]
+    }, 
+    {
+      "deck": "Driveclub is a team-based racing game from Evolution Studios for PlayStation 4.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9774, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2560905-driveclub.jpg", 
+      "name": "Driveclub", 
+      "platforms": [
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth game in the MotorStorm series features RC cars and is a PSN title for both the Vita and the PS3.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9775, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/63119/2337434-msrc.jpg", 
+      "name": "MotorStorm RC", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cars, motorcycles, monster trucks and more all race together through improvised tracks in an abandoned city destroyed by an earthquake, in the fourth instalment in the MotorStorm series.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9776, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1886619-box_msa.png", 
+      "name": "MotorStorm: Apocalypse", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "MotorStorm: Pacific Rift lets players race in vehicles of all shapes and sizes across the harsh, untamed terrain of a tropical island in the Pacific Ocean.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9777, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832927-box_mstormpr.png", 
+      "name": "MotorStorm: Pacific Rift", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "MotorStorm is a high-octane arcade racer that pits multiple vehicle classes against each other on treacherous off-road tracks. Different pathways cater to each vehicle's strengths and weaknesses.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9778, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1832152-box_mstorm.png", 
+      "name": "MotorStorm", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "WRC4 is the fourth installment to the officially licenced FIA World Rally Championship series. It features all the cars, tracks and drivers from the real world 2004 season.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9779, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29656/1214341-wrc4.jpg", 
+      "name": "WRC4", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "WRC3 is the third addition to the officially licenced FIA World Rally Championship series. It features all the cars, tracks and drivers from the real world 2003 season.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9780, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29656/1213312-wrc3.jpg", 
+      "name": "WRC3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The second game in the series developed by Evolution Studios using the official FIA WRC license.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9781, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840199-914505_23272_front.jpg", 
+      "name": "WRC II Extreme", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first official FIA licensed World Rally Chamionship game in the series for the PlayStation 2 using official drivers, cars and tracks from the 2001 season.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9782, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29656/1211101-wrc_world_rally_championship.jpg", 
+      "name": "WRC World Rally Championship", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth game in this PS2 racing series. Released in 2005.", 
+      "developers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ], 
+      "id": 9783, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/923/1026555-wrc5_cover.jpg", 
+      "name": "WRC: Rally Evolved", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 333, 
+          "name": "Evolution Studios Ltd"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9784, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/387/226012-mind_quiz_front.jpg", 
+      "name": "Mind Quiz", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }, 
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "America is on duty in this Pinball road trip from coast to coast  ", 
+      "developers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ], 
+      "id": 9785, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/980/471147-patriotic_pinball.jpg", 
+      "name": "Patriotic Pinball", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }
+  ]
+}

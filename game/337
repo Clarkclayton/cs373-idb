@@ -1,0 +1,1517 @@
+{
+  "games": [
+    {
+      "deck": "This was only released in Japan for the NES, MSX, and FM Towns.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16816, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/541322-gorby_box.jpg", 
+      "name": "Gorby's Pipeline", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "M.U.S.H.A. is a Sega Genesis vertical-scrolling shooter from Compile and Seismic originally released in 1990 and later re-released on the Nintendo Virtual Console in 2009. The game is known for its rarity and its ability to fetch high prices on auction sites.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16786, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/869012-586296_57141_front.jpg", 
+      "name": "M.U.S.H.A.", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 241, 
+          "name": "Toaplan Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Godzilla's son (Minilla) has been captured and taken away by evil monsters and it is up to Godzilla to get him back. Godzilla must work his way through 64 levels while destroying all the rocks in every stage.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16787, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6529/216332-godzilla_game_boy.jpg", 
+      "name": "Godzilla", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A demonic-themed pinball game and the sequel to 1989's Alien Crush for the TurboGrafx-16. It would later be ported to the Sega Genesis as Dragon's Fury. It has recently been added to the Nintendo Wii Virtual Console catalog.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16788, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365523-tg16_devilscrush_2.jpg", 
+      "name": "Devil's Crush", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ghostbusters for Sega Genesis is an action platformer. Guide squat, cartoony versions of the Caucasian Ghostbusters through six haunted levels.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16789, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2370582-genesis_ghostbusters.jpg", 
+      "name": "Ghostbusters", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Madou Monogatari is a trio of dungeon-crawlers from Compile. Players follow heroine Arle Nadja as she scales a dangerous tower, battles Satan, and encounters Satan's would-be lover Rulue.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16790, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2370711-madou123.jpg", 
+      "name": "Madou Monogatari 1-2-3", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "A version of Famista with a Pennant Race mode", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16791, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2412952-msx2.jpg", 
+      "name": "Pro Yakyuu Family Stadium: Pennant Race", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "This MSX2 shooter from Compile is an early part of the Aleste franchise.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16792, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Aleste Gaiden", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Aleste 2 is a vertical scrolling shooter that was only released in Japan.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16793, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Aleste 2", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling game released in 1989 by Toho Co. LTD. It stars the giant lizard Godzilla and the giant butterfly-like moth Mothra of Toho movie fame.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16794, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3413/215679-godzilla_1.jpg", 
+      "name": "Godzilla: Monster of Monsters", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A vertical-scrolling shoot 'em up from Compile, the creators of Aleste, Zanac and Spriggan. It was an early critical success for Hudson/NEC's new console the TurboGrafx-16/PC Engine.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16795, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365511-tg16_blazinglazers.jpg", 
+      "name": "Blazing Lazers", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Guardian Legend is an action-adventure/top down shooter released for the NES in 1989. It has been called a combination of Zelda and 1942.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16796, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361779-nes_theguardianlegend.jpg", 
+      "name": "The Guardian Legend", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }, 
+        {
+          "id": 338, 
+          "name": "Irem Corp."
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A simulation of three games traditionally played in bars or clubs - Billiards, Darts and Bingo - developed by Compile for the Sega Master System.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16797, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1794798-parlour.jpg", 
+      "name": "Parlour Games", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation of gambling mini-games for the Sega Master System and the follow up to Compile's earlier Parlour Games.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16798, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/100063/1426871-obraz.jpg", 
+      "name": "Sega Casino Games", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertically-scrolling shoot 'em up in the Xevious franchise. Adds bosses, power-ups and a story to the Xevious model.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16799, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14206/971585-xjp.jpg", 
+      "name": "Xevious: Fardraut Saga", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A xenomorph-themed pinball game for the TurboGrafx-16 and the first in Compile's highly acclaimed Crush Pinball series.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16800, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365509-tg16_aliencrush_3.jpg", 
+      "name": "Alien Crush", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }, 
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Battle through dungeons, deserts, and graveyards in a game similar to the \"Legend of Zelda\", with top-down adventuring, and \" Zelda II\", with side-scrolling elements.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16801, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45592/1359528-golvellius_sms_eu_r.jpg_medium.jpg", 
+      "name": "Golvellius: Valley of Doom", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A vertically-scrolling shoot-em-up from Compile and the first of their Aleste series. The Sega Master System version was localized as Power Strike for Western territories.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16802, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1794796-power.jpg", 
+      "name": "Power Strike", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16803, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/65153/2331171-image.php.gif", 
+      "name": "Jagur 5", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 314, 
+          "name": "Hudson Entertainment, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical-scrolling shoot-em-up known for its weapon upgrade system. It was released originally on NES and MSX, then decades later on the Wii Shop.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16804, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362639-nes_zanac.jpg", 
+      "name": "Zanac", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Romancia is the third game in Falcom's Dragon Slayer series. Because of its cute graphics and simple gameplay, it is also known as \"Dragon Slayer Jr.\"", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16805, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59247/1173570-romancia_x_1.jpg", 
+      "name": "Romancia: Dragon Slayer Jr.", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Action game released in Japan on March 14th 1987 for the NES, developed by Compile and published by Toho.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16806, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2412813-front.png", 
+      "name": "City Adventure Touch: Mystery of Triangle", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Zanac EX", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16807, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/630092-1129579045_00.png", 
+      "name": "Zanac EX", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This adventure game has the player searching ancient Mayan temples for a lost professor and his team.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16808, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362319-nes_tombsandtreasure.jpg", 
+      "name": "Tombs & Treasure", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16809, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4938/711270-1132775820_00.png", 
+      "name": "Final Justice", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Lunar Pool takes the basic physics of billiards and applies them to crazy table designs.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16810, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362008-nes_lunarpool.jpg", 
+      "name": "Lunar Pool", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16811, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Dragon Quiz", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16812, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Randar no Bouken III: Yami ni Miserareta Majutsushi", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "Waku Waku Puyo Puyo Dungeon is a roguelike dungeon crawler featuring characters from the Madou Monogatari and Puyo Puyo franchises.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16813, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/306762-wakuwakupuyo_f.jpg", 
+      "name": "Waku Waku Puyo Puyo Dungeon", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second Madou Monogatari game story-wise, though it was technically the first to be released. In this dungeon-crawler, 16-year-old Arle Nadja battles Schezo Wegey and Satan.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16814, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/406921-madou2.jpg", 
+      "name": "Madou Monogatari II: Arle 16-sai", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Satan has enlarged the sun in a devious attempt to get a perfect tan. Arle Nadja embarks on a quest to defeat him in this competitive puzzle game.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16815, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2360462-puyosun.jpg", 
+      "name": "Puyo Puyo SUN", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16817, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Randar no Bouken", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16818, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Gulkave", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16819, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2157984-box.jpg", 
+      "name": "Seireisenshi Spriggan", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16820, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "C-So!", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 601, 
+          "name": "Pony Canyon, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Not to be confused with the Master System game of the same name, this shoot-em-up puts players in the role of an unnamed female pilot.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16821, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2389882-powerstrike2gg.jpg", 
+      "name": "Power Strike II", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A strategy RPG very loosely based on Puyo Puyo.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16822, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2406386-puyowars.jpg", 
+      "name": "Puyo Puyo Gaiden: Puyo Wars", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16823, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Randar II: Revenge of Death", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16824, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Hustle! Chumy", 
+      "platforms": [
+        {
+          "id": 126, 
+          "name": "Sega SG-1000", 
+          "short": "SG1K"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16825, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/434162-super_nazo_puyo_boxart.jpg", 
+      "name": "Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjyouki", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "A falling blocks game released only to arcades. Like-colored blocks merge together and more points are awarded for larger masses.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16826, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Pnickies", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16827, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Guardic", 
+      "platforms": [
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ]
+    }, 
+    {
+      "deck": "This scrolling shooter was developed for Sega by Compile.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16828, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2506576-roboaleste.jpg", 
+      "name": "Robo Aleste", 
+      "platforms": [
+        {
+          "id": 27, 
+          "name": "Sega CD", 
+          "short": "SCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third and final game in the Madou Monogatari trilogy of dungeon-crawlers, in which Arle Nadja battles the vengeful Rulue and her servant Minotauros.", 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16829, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5822/406835-madou3.jpg", 
+      "name": "Madou Monogatari III: Kyuukyoku Joou-sama", 
+      "platforms": [
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 596, 
+          "name": "Compile"
+        }
+      ], 
+      "id": 16830, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2157983-box_mk_2.jpg", 
+      "name": "Spriggan Mark 2", 
+      "platforms": [
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Alternate Reality: The Dungeon is a first person dungeon crawler released on early home computer systems.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16831, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4076/329855-alternaterealitythedungeonfront.png", 
+      "name": "Alternate Reality: The Dungeon", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A platformer/puzzle hybrid based on the popular movie, released in 1985 on various US/European home computers. Not to be confused with the Konami game.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16832, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/58746/1702925-656_1.jpg", 
+      "name": "The Goonies", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A swashbuckling adventure with an emphasis on puzzling. Programmed by James Garon and published in 1985 by Datasoft.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16833, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/73970/2412279-zorro_front.jpg", 
+      "name": "Zorro", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An adventure game based on the hit TV show Dallas.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16834, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2597736-the+dallas+quest+cover+c64.jpg", 
+      "name": "The Dallas Quest", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 58, 
+          "name": "TRS-80 CoCo", 
+          "short": "COCO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Collect lanterns and whoop ass as the greatest martial artist in this classic action-platformer.", 
+      "developers": [
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ], 
+      "id": 16835, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5312/295509-bruce_lee__americana_.jpg", 
+      "name": "Bruce Lee", 
+      "platforms": [
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }, 
+        {
+          "id": 597, 
+          "name": "Datasoft, Inc."
+        }
+      ]
+    }
+  ]
+}

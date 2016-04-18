@@ -1,0 +1,1407 @@
+{
+  "games": [
+    {
+      "deck": "The King of Fighters 2002: Challenge to the Ultimate Battle is the ninth installment of the King of Fighters series and the second \"Dream Match\" entry, bringing back the traditional 3-on-3 structure of pre-1999 KOF games.", 
+      "developers": [], 
+      "id": 22092, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/840941-kof02_ng_jp.jpg", 
+      "name": "The King of Fighters 2002: Challenge to Ultimate Battle", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }, 
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "2D fighting game that was a spiritual successor to Double Dragon for the Neo-Geo.", 
+      "developers": [], 
+      "id": 22093, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2593932-untitled.png", 
+      "name": "Rage of the Dragons", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Utilizing similar gameplay mechanics as previous Metal Slug games, Metal Slug 4 stays true to the series, but also manages to keep things fresh with new bosses, weapons, vehicles, and a combo system.", 
+      "developers": [], 
+      "id": 22094, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/29656/1209348-metal_slug_4_neo_geo_box_art.jpg", 
+      "name": "Metal Slug 4", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }, 
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "I don't know what it is about earth, but an evil empire from the spirit world is hell bent on destroying it. This time, however, it's up to a group of ninjas to protect the world from the evil threat.", 
+      "developers": [], 
+      "id": 22095, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/464203-snk___sengoku_3_2001.jpg", 
+      "name": "Sengoku 3", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "An installment in the Super Real Mahjong series for the NGPC.", 
+      "developers": [], 
+      "id": 22096, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1660121-superrealmahjongpocket.jpg", 
+      "name": "Super Real Mahjong Pocket", 
+      "platforms": [
+        {
+          "id": 67, 
+          "name": "Neo Geo Pocket", 
+          "short": "NGP"
+        }, 
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 22097, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/896591-915884_43600_front.jpg", 
+      "name": "Shanghai Mini", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "This is a game in the Cool Boarders franchise for the NeoGeo Pocket Color. It was released in 2000, near the end of the console's life time.", 
+      "developers": [], 
+      "id": 22098, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1633/413448-cbp_cover.jpg", 
+      "name": "Cool Boarders Pocket", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "This sequel to Yumekobo's Puzzle Link introduces a playing card theme. A new mini-game is added that allows players to battle using their collected monster cards.", 
+      "developers": [], 
+      "id": 22099, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2425819-puzzle_link_2.jpg", 
+      "name": "Puzzle Link 2", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metal Slug 2nd Mission is the second Metal Slug game released for the Neo Geo Pocket Color. Take control of new characters Gimlet and Red Eye as they attempt to destroy an evil group intent on world domination.", 
+      "developers": [], 
+      "id": 22100, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11059/305835-ms2ndmjap.jpg", 
+      "name": "Metal Slug: 2nd Mission", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Gals Fighters, the last in the great line of Neo Geo Pocket Color fighters, was released in 2000 as one of the last titles for the portable. It featured a roster of SNK's greatest female combatants, classic SNK fighter gameplay", 
+      "developers": [], 
+      "id": 22101, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/295671-61fsr9hhggl._sl500_aa280_.jpg", 
+      "name": "SNK Gals Fighters", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of many casino games developed by Dyna for the Neo Geo Pocket Color.", 
+      "developers": [], 
+      "id": 22102, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/968661-198121_ngp.jpg", 
+      "name": "Neo 21", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A strategy game, and the sequel to Biomotor Unitron which ended up never released in the USA due to SNK's bankruptcy.", 
+      "developers": [], 
+      "id": 22103, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2332552-box.png", 
+      "name": "Kikou Seiki Unitron", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "SNK and Capcom duke it out in a relatively simple yet absolutely addicting card came.", 
+      "developers": [], 
+      "id": 22104, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/28/554104-163266_front_cover_super.jpg", 
+      "name": "SNK vs. Capcom: Card Fighter's Clash - SNK & Capcom Version", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Magical Drop game for the Neo Geo Pocket. It features characters from Magical Drop 3, but with different patterns and new storylines.", 
+      "developers": [], 
+      "id": 22105, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44493/1660126-magicaldroppocket.jpg", 
+      "name": "Magical Drop Pocket", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Puzzle Link is a puzzle game developed by Yumekobo. The object of the game is to connect two blocks of the same shape using horizontal and vertical lines.", 
+      "developers": [], 
+      "id": 22106, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16207/2425817-puzzle_link.jpg", 
+      "name": "Puzzle Link", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to \"Prehistoric Isle in 1930\", release more that 10 years after the first one.", 
+      "developers": [], 
+      "id": 22107, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2898/390027-prehistoric_isle_2.png", 
+      "name": "Prehistoric Isle 2", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "SNK's answer to Pokemon, Bio Motor Unitron takes place on a futuristic world where robot battles are the main entertainment.  You play as a newcomer to the arena, and fight your way to the top.", 
+      "developers": [], 
+      "id": 22108, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/63/177002-biomotor.jpg", 
+      "name": "Biomotor Unitron", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metal Slug 1st Mission was a handheld game in the Metal Slug franchise, starring franchise regular Marco Rossi.", 
+      "developers": [], 
+      "id": 22109, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11059/305822-metalslug1stmission_front.jpg", 
+      "name": "Metal Slug: 1st Mission", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fatal Fury: First Contact is a Neo Geo Pocket Color game loosely based on Real Bout Fatal Fury 2. The lane system is removed, causing the game to play like a more traditional fighter.", 
+      "developers": [], 
+      "id": 22110, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2458933-ngpc.jpg", 
+      "name": "Fatal Fury: First Contact", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A slots game for the Neo Geo Pocket Color.", 
+      "developers": [], 
+      "id": 22111, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/964657-neocherrymastercolorngpc.jpg", 
+      "name": "Neo Cherry Master Color", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Samurai Shodown! 2 is a NeoGeo Pocket Color title based on the 3D fighter Samurai Shodown 64: Warriors Rage. The game features cards that can be used to modify characters' stats.", 
+      "developers": [], 
+      "id": 22112, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2216499-jp.jpg", 
+      "name": "Samurai Shodown! 2", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Neo Mystery Bonus is a simple slot machine game for the Neo Geo Pocket Color.", 
+      "developers": [], 
+      "id": 22113, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/967573-198125_86771_front.jpg", 
+      "name": "Neo Mystery Bonus", 
+      "platforms": [
+        {
+          "id": 67, 
+          "name": "Neo Geo Pocket", 
+          "short": "NGP"
+        }, 
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A casino game released for the Neo Geo Pocket Color.", 
+      "developers": [], 
+      "id": 22114, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/967572-198123_ngp.jpg", 
+      "name": "Neo Dragon's Wild", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tennis game for Neo Geo pocket Color. This game was a separate release after Pocket Tennis for the monochrome Neo Geo pocket.", 
+      "developers": [], 
+      "id": 22115, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9129/268293-198304_58214_front.jpg", 
+      "name": "Pocket Tennis Color", 
+      "platforms": [
+        {
+          "id": 68, 
+          "name": "Neo Geo Pocket Color", 
+          "short": "NGPC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Free to play online RPG set in a fantasy world ravaged by dragons.", 
+      "developers": [], 
+      "id": 22146, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "The World End Eclipse", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A survival-horror adventure RPG detailing the origins of Athena Asamiya, a character from The King of Fighters. The game is much darker than anything else featuring Athena.", 
+      "developers": [], 
+      "id": 22116, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2333242-untitled.png", 
+      "name": "Athena: Awakening from the Ordinary Life", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Samurai Shodown! Pocket Fighting Series is a portable fighting game with elements of the mainstream releases as well as the \"Samurai Shodown 64\" titles.", 
+      "developers": [], 
+      "id": 22117, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/5/59593/2215395-574735_89373_front.jpg", 
+      "name": "Samurai Shodown!", 
+      "platforms": [
+        {
+          "id": 67, 
+          "name": "Neo Geo Pocket", 
+          "short": "NGP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "This unique entry in the King of Fighters franchise is an RPG game based on the manga storyline which takes place in-between the King of Fighters '96 and King of Fighters '97.", 
+      "developers": [], 
+      "id": 22118, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1614/841011-kof_kyo_ps_jp.jpg", 
+      "name": "The King of Fighters Kyo", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Metal Slug 2 sees Marco Rossi once again do battle to save the world from the evil General Morden and a mysterious foe from above.", 
+      "developers": [], 
+      "id": 22119, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2225431-metal_slug_2_neo_a.jpg", 
+      "name": "Metal Slug 2: Super Vehicle - 001/II", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "SNK's well-loved horizontal shooter Blazing Star is the [unofficial] sequel to the classic horizontal shooter Pulstar, and was released on the Neo-Geo MVS format for use in arcades and, in Japan, it was also released on the Neo-Geo home console (sometimes generically referred to as the AES system.)", 
+      "developers": [], 
+      "id": 22120, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1361468-blazingstar.jpg", 
+      "name": "Blazing Star", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shock Troopers is an eight directional top down shooter for the Neo Geo, starring eight commandos who must rescue a brilliant scientist and his granddaughter from a terrorist group known as the Bloody Scorpions.", 
+      "developers": [], 
+      "id": 22121, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/458082-shock_troopers_flyer.jpg", 
+      "name": "Shock Troopers", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "This Neo Geo game is similar to a Japanese game show in which players must move a metal rod through a maze without touching the walls of the maze. It is one of the few Neo Geo games to use a trackball.", 
+      "developers": [], 
+      "id": 22122, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2285204-irairabou.jpg", 
+      "name": "The Irritating Maze", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Released in Japanese arcades in 1997 under the title \"Money Idol Exchanger\" and later released in various home platforms. It is called Money Puzzle Exchanger in the West.", 
+      "developers": [], 
+      "id": 22123, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1895767-tumblr_lo9tnog0st1qbfiiuo1_500.jpg", 
+      "name": "Money Puzzle Exchanger", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Horizontal shooter released for the Neo Geo CD.", 
+      "developers": [], 
+      "id": 22124, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1317063-bkr_front.jpg", 
+      "name": "Ironclad", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Trivia game for Neo Geo and arcades starring the characters from Chibi Maruko-chan.", 
+      "developers": [], 
+      "id": 22125, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1688222-263000200.jpg", 
+      "name": "Maruko Deluxe Quiz", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "A quiz game for the Neo-Geo", 
+      "developers": [], 
+      "id": 22126, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7135/2648899-quizkof.jpg", 
+      "name": "Quiz King of Fighters", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Wrestling game for the Neo-Geo. The game is a 2D fighter with many concepts from other 2D fighters in it.", 
+      "developers": [], 
+      "id": 22127, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/427842-3count.jpg", 
+      "name": "3 Count Bout", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the beat-em-up hit on the Neo-Geo. Once again an evil empire from the spirit world is trying to conquer the earth. Ordinary men are chosen to fight the empire using warrior spirits as back up.", 
+      "developers": [], 
+      "id": 22128, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/464175-sengoku2.jpg", 
+      "name": "Sengoku 2", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Super Baseball 2020 is a futuristic sports baseball game played by cybernetically enhanced humans and R2D2-like robots.", 
+      "developers": [], 
+      "id": 22129, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13692/1361415-2020superbaseball_us.jpg", 
+      "name": "Super Baseball 2020", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "This 1991 Neo Geo release is based on the anime/manga series Ashita no Joe.", 
+      "developers": [], 
+      "id": 22130, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2285225-legend_of_success_joe.jpg", 
+      "name": "Legend of Success Joe", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quiz Daisousa Sen for the Neo-Geo", 
+      "developers": [], 
+      "id": 22131, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Quiz Daisousa Sen", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pulstar is a horizontal Shooter developed by Aicom and published by SNK for release on the Neo-Geo MVS cart (for use in arcades,) the Neo-Geo home console, and Neo-Geo CD console.", 
+      "developers": [], 
+      "id": 22132, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8153/457863-pulstar.jpg", 
+      "name": "Pulstar", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Is a 2001 release of SNK for MVS. It's pretty much a puzzler / screen-cleaning game with bright and colourful optics and simple gameplay. ", 
+      "developers": [], 
+      "id": 22133, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2429002-zupapa.jpg", 
+      "name": "Zupapa", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ragnagard for the Neo-Geo", 
+      "developers": [], 
+      "id": 22134, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Ragnagard", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Quiz Meitantei Neo & Geo", 
+      "developers": [], 
+      "id": 22135, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Quiz Meitantei Neo & Geo", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": " Stakes Winner 2", 
+      "developers": [], 
+      "id": 22136, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Stakes Winner 2", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pocket Tennis is the monochrome pre-cursor to the colored version for the Neo Geo Pocket Color, Pocket Tennis Color.", 
+      "developers": [], 
+      "id": 22137, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1619550-pockettennis_front.jpg", 
+      "name": "Pocket Tennis", 
+      "platforms": [
+        {
+          "id": 67, 
+          "name": "Neo Geo Pocket", 
+          "short": "NGP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "It's the successor to Power Spikes. Released in 1994, this game features a new league of robotic players.", 
+      "developers": [], 
+      "id": 22138, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/1073728-powerspikes2.jpg", 
+      "name": "Power Spikes 2", 
+      "platforms": [
+        {
+          "id": 49, 
+          "name": "Neo Geo CD", 
+          "short": "NGCD"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Breakers Revenge is an update to the original Breakers, released only as an MVS arcade cart for the Neo Geo hardware. It comes with balance changes and a new character.", 
+      "developers": [], 
+      "id": 22139, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/510/1205144-breakersrevenge.png", 
+      "name": "Breakers Revenge", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }, 
+    {
+      "deck": "Stakes Winner for the Neo Geo", 
+      "developers": [], 
+      "id": 22140, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Stakes Winner", 
+      "platforms": [
+        {
+          "id": 23, 
+          "name": "Neo Geo", 
+          "short": "NEO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 399, 
+          "name": "SNK Playmore"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1378 @@
+{
+  "games": [
+    {
+      "deck": "Test Drive 4 is a multi-platform racing game that was released for the PC and Playstation in 1996 and 1997, respectively. ", 
+      "developers": [], 
+      "id": 20940, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179506-box_td4.png", 
+      "name": "Test Drive 4", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "PO'ed is a first-person shooter originally released on the 3DO in 1995, then ported to the Playstation the following year. The game featured a heavy emphasis on using your jetpack to explore and progress through the game.", 
+      "developers": [], 
+      "id": 20941, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/25613/900772-poedboxf.jpg", 
+      "name": "PO'ed", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20942, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2261096-box_hb5.png", 
+      "name": "Hardball 5", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "HardBall 4 (HardBall '94 on the Genesis) is the fourth entry in the HardBall baseball game series.", 
+      "developers": [], 
+      "id": 20943, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2586633-hardball+4+cover.jpg", 
+      "name": "HardBall 4", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third of four mascot platformers to star Accolade's feisty feline Bubsy. It was a Jaguar exclusive.", 
+      "developers": [], 
+      "id": 20944, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2365339-jag_bubsy_eu.jpg", 
+      "name": "Bubsy In: Fractured Furry Tales", 
+      "platforms": [
+        {
+          "id": 26, 
+          "name": "Jaguar", 
+          "short": "JAG"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Zero Tolerance is the first and only first-person shooter sold worldwide for the Sega Genesis, where players play a five-man attack squad sent to fight extraterrestrial beings on an invaded space station.", 
+      "developers": [], 
+      "id": 20945, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3242/456711-zero1.jpg", 
+      "name": "Zero Tolerance", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Ballz 3D is a three-dimensional fighting game in which all of the characters are comprised entirely of balls and have distinct, exaggerated personalities.", 
+      "developers": [], 
+      "id": 20946, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2369042-genesis_ballz3d.jpg", 
+      "name": "Ballz 3D: Fighting at its Ballziest", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Genesis soccer game starring the super famous Pel\u00e9. A Super NES version was planned but never released.", 
+      "developers": [], 
+      "id": 20947, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2469187-peleexcited.jpg", 
+      "name": "Pel\u00e9!", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A space shmup from Accolade with parallax scrolling. The player controls an upgradable spaceship through five stages.", 
+      "developers": [], 
+      "id": 20948, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8627/1388278-starhawkgb.jpg", 
+      "name": "StarHawk", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Another Tetris-like falling object puzzle game.", 
+      "developers": [], 
+      "id": 20949, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2428981-zyconix_cover.jpg", 
+      "name": "Zyconix", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Continue the adventure of Les Manley in this sequel. Using a new mouse interface, lead Les on an adventure through L.A. to find his missing friend, Helmut.", 
+      "developers": [], 
+      "id": 20950, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/720827-foto_les_manley_in__lost_in_l.a..jpg", 
+      "name": "Les Manley in: Lost in L.A.", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the HardBall series of baseball simulators. HardBall III is the only game in the series to see a SNES version.", 
+      "developers": [], 
+      "id": 20951, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1791369-hardball_3__u_.jpg", 
+      "name": "HardBall III", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror-themed graphic adventure game with RPG elements. Sequel to the first Elvira game.", 
+      "developers": [], 
+      "id": 20952, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1543/524274-635_1.jpg", 
+      "name": "Elvira II: The Jaws of Cerberus", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Games: Summer Challenge lets the player participate in several sports.", 
+      "developers": [], 
+      "id": 20953, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/729311-965208193_00.gif", 
+      "name": "The Games: Summer Challenge", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players are tasked with entering four historical periods with the goal of defeating their evil twin brother.", 
+      "developers": [], 
+      "id": 20954, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/786784-waxworks_box_art.jpg", 
+      "name": "Waxworks", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20955, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Stratego", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Games: Winter Challenge lets the player participate in several winter-related sports.", 
+      "developers": [], 
+      "id": 20956, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/729346-965208928_00.gif", 
+      "name": "The Games: Winter Challenge", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horror themed RPG based upon Elvira.", 
+      "developers": [], 
+      "id": 20957, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/872165-elvira_mistress_of_the_dark___front.jpg", 
+      "name": "Elvira: Mistress of the Dark", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game based on placing stones in a grid so that each stone sits adjacent to other stones with either the same color or symbol. The game borrows its presentation from Chinese mythology and artwork.", 
+      "developers": [], 
+      "id": 20958, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2473045-ishido_way_of_stones_gen.jpg", 
+      "name": "Ishido: The Way of Stones", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Les Manley adventure game which uses text to input commands, similar to the early Sierra adventure games.  This time around, Les searches for the King himself.", 
+      "developers": [], 
+      "id": 20959, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/19/194553/2506479-lesmanley.jpg", 
+      "name": "Les Manley in: Search for the King", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Based on the novel by Tom Clancy.", 
+      "developers": [], 
+      "id": 20960, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2265173-tctcotkboxart.jpg", 
+      "name": "The Cardinal of the Kremlin", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Players can choose four of sixteen available characters to explore a haunted house.", 
+      "developers": [], 
+      "id": 20961, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86736/1336887-dontgo_c.jpg", 
+      "name": "Don't Go Alone", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20962, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/722226-1177364940_00.png", 
+      "name": "Apollo 18: Mission to the Moon", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A flight Simulator set during World War II.", 
+      "developers": [], 
+      "id": 20963, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2059541-ace_of_aces__1988___atari_.jpg", 
+      "name": "Ace of Aces", 
+      "platforms": [
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Early isometric perspective game with polygonal graphics in which you play a transforming robot. The game play consists of avoiding enemies and finding the correct path through the level and transforming into a humanoid form to fight the final boss at the end.", 
+      "developers": [], 
+      "id": 20964, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5150/1438226-tumblr_l5jnfp0xcl1qzurbto1_400.jpg", 
+      "name": "Deceptor", 
+      "platforms": [
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20965, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2059540-mean_18_golf__1988___atari_____.jpg", 
+      "name": "Mean 18", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 35, 
+          "name": "Apple IIgs", 
+          "short": "A2GS"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Explore, trade and fight off pirates to fulfill your uncle's outstanding contract on starting a new colony.", 
+      "developers": [], 
+      "id": 20966, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/21023/709533-sundog_cover.jpg", 
+      "name": "SunDog: Frozen Legacy", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20967, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/179055/2427552-thethirdcourier.png", 
+      "name": "The Third Courier", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20968, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14975/1339708-cyclemaniaboxart.jpg", 
+      "name": "Cyclemania", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20969, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Unnecessary Roughness", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 299, 
+          "name": "Accolade, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An episodic adventure game created by Telltale Gamers that is based on the Law and Order: Los Angeles TV show.", 
+      "developers": [], 
+      "id": 20971, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/115535/1763123-lola2.jpg", 
+      "name": "Law And Order: Los Angeles", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 303, 
+          "name": "Telltale Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "A point-and-click adventure game in which Detective Inspector Hector, a nervy cop and drunkard, must deal with a hostage situation in his scummy hometown.", 
+      "developers": [], 
+      "id": 20972, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2347656-hectorposterlg.jpg", 
+      "name": "Hector: Badge of Carnage", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 303, 
+          "name": "Telltale Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Freekscape: Escape from Hell is a hellish PSP mini game that combines platforming and puzzling.", 
+      "developers": [], 
+      "id": 20973, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1796901-freek.jpg", 
+      "name": "Freekscape: Escape from Hell", 
+      "platforms": [
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Interpol: The Trail of Dr. Chaos is a photo-hunt game which links screens which players must search using a story about Interpol chasing after antagonist Dr. Vladimir Chaosky.", 
+      "developers": [], 
+      "id": 20974, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1860106-box_ipolttodc.png", 
+      "name": "Interpol: The Trail of Dr. Chaos", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 306, 
+          "name": "Creat Studios, Inc"
+        }
+      ]
+    }, 
+    {
+      "deck": "Special version of Mavis' game tailored to Apple users.", 
+      "developers": [], 
+      "id": 20975, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2341206-mavismac.jpg", 
+      "name": "Mavis Beacon Teaches Typing: 2011 Ultimate Mac Edition", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A mahjong game from 2003.", 
+      "developers": [], 
+      "id": 20976, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1847226-emper.jpg", 
+      "name": "The Emperor's Mahjong", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Zoombinis discover that they left the moths to die in their native land of Zoombini Isle. They must complete different puzzles, to restore the entire ecosystem of the island to its original glory.", 
+      "developers": [], 
+      "id": 20977, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28706/1031527-boxshot.jpg", 
+      "name": "Zoombinis: Island Odyssey", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The sequel to 'The Logical Journey of the Zoombinis' where the player must solve puzzles to recruit a total of 400 Boolies to Booliewood to resurrect the Grand Boolie Boolie.", 
+      "developers": [], 
+      "id": 20978, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28706/1031522-boxshot.jpg", 
+      "name": "Zoombinis: Mountain Rescue", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An Edutainment game.", 
+      "developers": [], 
+      "id": 20979, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1721594-asdf.jpg", 
+      "name": "Cluefinders: Math Adventures - Mystery of the Himalayas", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "WarBreeds is a Real Time Strategy game developed by Red Orb. Warbreeds was notable for its customizable units which provided over 35,000 unique combinations.", 
+      "developers": [], 
+      "id": 20980, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/33957/1351414-warbreeds1fpz3.jpg", 
+      "name": "WarBreeds", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20981, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/64093/1476599-koalalumpur.jpg", 
+      "name": "Koala Lumpur: Journey to the Edge", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "An educational game by The Learning Company, in which players solve increasingly challenging logic puzzles to help the Zoombinis escape to a brand new home.", 
+      "developers": [], 
+      "id": 20982, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/495/1133491-zoombinis_cover.jpg", 
+      "name": "Logical Journey of the Zoombinis", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20983, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/25927/856590-itfd_boxart.jpg", 
+      "name": "In the 1st Degree", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Typhoon Thompson in Search for the Sea Child is a Shoot 'Em Up for the Amiga and Atari ST.", 
+      "developers": [], 
+      "id": 20984, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/1870210-ttbox.jpg", 
+      "name": "Typhoon Thompson in Search for the Sea Child", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "This TurboGrafx-16 release of Lode Runner allows users to create and save levels, much like the original computer-based releases.", 
+      "developers": [], 
+      "id": 20985, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2399927-loderunner_pce.jpeg", 
+      "name": "Lode Runner: Lost Labyrinth", 
+      "platforms": [
+        {
+          "id": 46, 
+          "name": "TurboGrafx-16", 
+          "short": "TG16"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20986, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/726495-uukrul.jpg", 
+      "name": "The Dark Heart of Uukrul", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20987, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/1124345-joan_of_arc___front_1.jpg", 
+      "name": "Joan of Arc: Siege and the Sword", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20988, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Essex", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 22, 
+          "name": "Atari 8-bit", 
+          "short": "A800"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 20989, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8273/675904-1160049317_00.gif", 
+      "name": "The Ancient Art of War at Sea", 
+      "platforms": [
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A text adventure from the mid 80's.", 
+      "developers": [], 
+      "id": 20990, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/793386-breakers.jpg", 
+      "name": "Breakers", 
+      "platforms": [
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 307, 
+          "name": "Br\u00f8derbund Software, Inc."
+        }
+      ]
+    }
+  ]
+}

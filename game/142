@@ -1,0 +1,1669 @@
+{
+  "games": [
+    {
+      "deck": "Street Fighter EX3 is the third, and final, installment in the Street Fighter EX series.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7040, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2160119-box_sfex3.png", 
+      "name": "Street Fighter EX3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A standalone add-on for the original Street Fighter EX2 game.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7041, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791307-box_sfex2p.png", 
+      "name": "Street Fighter EX2 Plus", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7042, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/384550-ccsakuracrowec9.jpg", 
+      "name": "Cardcaptor Sakura Clow Card Magic", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7043, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1665999-anime_chick_story_1_card_captor_sakura_box_front.jpg", 
+      "name": "Cardcaptor Sakura", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Arika developed this polygonal fighting game for Namco, which only saw release in Japanese arcades.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7044, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1116287-fightinglayer.jpg", 
+      "name": "Fighting Layer", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game in Arika's ground-breaking series of challenging Tetris games.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7045, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/117218/2476086-5218939409-Arika.jpg", 
+      "name": "Tetris: The Grand Master", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second release in the 3-D Street Fighter EX franchise.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7046, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/852590-gfs_96958_2_1.jpg", 
+      "name": "Street Fighter EX2", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "This first home version of Street Fighter EX is the third version of the original game, adding a couple of new characters.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7047, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1791309-box_sfexpa.png", 
+      "name": "Street Fighter EX Plus Alpha", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "This arcade-only update of Street Fighter EX makes some hidden characters selectable.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7048, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/160705/2265949-sfexpscreen1.jpg", 
+      "name": "Street Fighter EX Plus", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Street Fighter EX is a spin-off of the iconic Street Fighter series by Capcom, keeping the 2D fighting system, but using 3D graphics.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7049, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/713945-street_fighter_ex_flyer.jpg", 
+      "name": "Street Fighter EX", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kirby's sole NES adventure introduces his signature ability to copy the abilities of special enemies (by swallowing them), as he must retrieve the seven broken Star Rod pieces to restore everyones' dreams.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7050, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1865066-box_ka.png", 
+      "name": "Kirby's Adventure", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kid Icarus is a 2D platformer released on the Nintendo Entertainment System, famed for its blending together of elements from The Legend of Zelda, Super Mario Bros. and Metroid.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7051, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361921-nes_kidicarus.jpg", 
+      "name": "Kid Icarus", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A cute-'em-up by Konami featuring color changing bells as power-ups.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7052, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2571270-1.png", 
+      "name": "TwinBee", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Excitebike is a 1985 motocross racing game for the NES. Race around premade tracks and even create custom ones!", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7053, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361695-nes_excitebike.jpg", 
+      "name": "Excitebike", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "An early fighting game for the NES in which the goal is to win as many fights as possible by knocking the opposing fighter into a manhole.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7054, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2362343-nes_urbanchampion_ca.jpg", 
+      "name": "Urban Champion", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Xevious is one of the first vertical scrolling shoot-em-up arcade games.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7055, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1331123-xevious_box.png", 
+      "name": "Xevious", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 10, 
+          "name": "Apple II", 
+          "short": "APL2"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 13, 
+          "name": "MSX", 
+          "short": "MSX"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 59, 
+          "name": "Atari 7800", 
+          "short": "7800"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 78, 
+          "name": "Famicom Disk System", 
+          "short": "FDS"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 95, 
+          "name": "NEC PC-8801", 
+          "short": "PC88"
+        }, 
+        {
+          "id": 98, 
+          "name": "NEC PC-9801", 
+          "short": "PC98"
+        }, 
+        {
+          "id": 99, 
+          "name": "Sharp X1", 
+          "short": "X1"
+        }, 
+        {
+          "id": 100, 
+          "name": "FM-7", 
+          "short": "FM7"
+        }, 
+        {
+          "id": 114, 
+          "name": "Sharp MZ", 
+          "short": "MZ"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 290, 
+          "name": "Bandai Namco Entertainment"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }, 
+        {
+          "id": 465, 
+          "name": "U.S. Gold Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "no information", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7056, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/771146-3835.png", 
+      "name": "Ketsui Death Label", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth game in the Donpachi series and the first to be ported to the PS2, courtesy of Arika.", 
+      "developers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ], 
+      "id": 7057, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291729-box_ddpdoj.png", 
+      "name": "Dodonpachi Dai-Ou-Jou", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 247, 
+          "name": "Arika Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Akai Katana for Xbox 360 contains three different modes, including a port of the original arcade version of Akai Katana.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7058, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2188496-box_akatana.png", 
+      "name": "Akai Katana Shin", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The latest entry in the DoDonPachi bullet hell series by Cave.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7059, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/2183614-saidaioujou_logo_2.jpg", 
+      "name": "DoDonPachi Saidaioujou", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A shoot 'em up from CAVE made exclusively for mobile devices.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7060, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2359164-don.png", 
+      "name": "DoDonPachi Maximum", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "The first visual novel developed by Cave for the Xbox 360. As a bonus the game includes Cave's famed vertical shooter DoDonPachi with Kinect support, and a new version of Nin\u00b2-Jump titled Nin\u00b2-Brain.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7061, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/86881/2076370-622617_199906_front.jpg", 
+      "name": "Instant Brain", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "DoDonPachi Resurrection is a bullet hell shoot 'em up developed by Cave, and the followup to DoDonPachi DaiOuJou.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7062, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291731-box_ddpr.png", 
+      "name": "DoDonPachi Resurrection", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of Deathsmiles II: Makai no Merry Christmas, exclusive to the Xbox 360.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7063, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291732-box_ds2x.png", 
+      "name": "Deathsmiles IIX: Makai no Merry Christmas", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling action game developed by Cave for XBLA.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7064, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1771220-box_nin2jump.png", 
+      "name": "Nin\u00b2 -Jump", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 252, 
+          "name": "Haemimont Games AD"
+        }
+      ], 
+      "id": 7186, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Backstreet Boys: Puzzles In Motion", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A dual-joystick shooter developed by Cave exclusively for the iPhone.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7065, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/1716305-mushihime_sama_bug_panic_title.png", 
+      "name": "Mushihime-sama Bug Panic", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Deathsmiles Mega Black Label is a heavily altered version of Deathsmiles.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7066, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/1852331-deathsmiles_mega_black_label_poster.jpg", 
+      "name": "Deathsmiles Mega Black Label", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 'Bullet Hell' Shoot 'Em Up game.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7067, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2188501-box_dsmiles.png", 
+      "name": "Deathsmiles", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horizontal shoot 'em up developed by Cave.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7068, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/2021146-akai_katana_shin_artwork_1.jpg", 
+      "name": "Akai Katana", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of Ketsui: Kizuna Jugoku Tachi released on April 22, 2010 for Xbox 360. A PS3 version was later released in 2013.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7069, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291759-box_kkjte.png", 
+      "name": "Ketsui: Kizuna Jigoku Tachi Extra", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 444, 
+          "name": "5pb."
+        }
+      ]
+    }, 
+    {
+      "deck": "Espgaluda II (\u30a8\u30b9\u30d7\u30ac\u30eb\u30fc\u30c0II) is a vertical bullet hell shoot 'em up developed by Cave, and the sequel to Espgaluda.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7070, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/1818721-espgaluda_ii_poster.png", 
+      "name": "Espgaluda II", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated Cave shooter released on the Xbox 360 in Japan on February 25th, 2010. This title is the second region-free Cave release on the Xbox 360.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7071, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291735-box_e2bl.png", 
+      "name": "Espgaluda II Black Label", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A horizontal bullet hell shoot 'em up developed by Cave, and the sequel to Deathsmiles.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7072, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/1058465-front.jpg", 
+      "name": "Deathsmiles II: Makai no Merry Christmas", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "An updated version of DoDonPachi Daioujou released in 2009.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7073, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291730-box_ddpdojble.png", 
+      "name": "DoDonPachi Dai Ou Jou Black Label EXTRA", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 444, 
+          "name": "5pb."
+        }
+      ]
+    }, 
+    {
+      "deck": "A free-to-play MMORPG set in the post-apocalyptic world after the events of Shin Megami Tensei.  Originally intended for the Xbox as an exclusive title, development later shifted to the PC.  The game entered open beta on January 5th 2009.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7074, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3776/577517-smto_imagine_cover.jpg", 
+      "name": "Shin Megami Tensei: Imagine", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A rhythm and dating sim adventure game for girls developed by Cave, a company usually known for their bullet hell shooters.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7075, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/578385-950807_20080714_screen022.jpg", 
+      "name": "Princess Debut", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 61, 
+          "name": "Natsume"
+        }, 
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical shmup developed by Cave. Features plump pig-girls riding flying motorbikes.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7076, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/1818723-muchi_muchi_pork_festival_poster_small.png", 
+      "name": "Muchi Muchi Pork!", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical shoot 'em up developed by Cave and released in 2007.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7077, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/1717450-mushihimesama_futari_black_label_poster.jpg", 
+      "name": "Mushihime-sama Futari Black Label", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "This updated Cave shooter was released on the Xbox 360 in Japan on November 26, 2009. The game is region free and can be played by owners of non-Japanese Xbox 360 consoles.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7078, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291764-box_msf.png", 
+      "name": "Mushihime-sama Futari", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Mushihime-sama is a bullet hell shoot 'em up developed by Cave.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7079, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/2062923-mushihime_sama_poster.jpg", 
+      "name": "Mushihime-Sama", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }, 
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A vertical shoot 'em up developed by Cave.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7080, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291751-box_ibara.png", 
+      "name": "Ibara", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 46, 
+          "name": "Taito Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Espgaluda is a vertical bullet hell shoot' em up developed by Cave.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7081, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291738-box_esp.png", 
+      "name": "Espgaluda", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A vertical bullet hell shoot 'em up developed by Cave.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7082, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/11376/2429717-0000.png", 
+      "name": "Ketsui: Kizuna Jigoku Tachi", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Touge 3 (titled Road Rage 3 outside of Japan) moves the touge street racing franchise from CAVE and Atlus to the PS2.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7083, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/1298756-rrr3.jpg", 
+      "name": "Road Rage 3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Cell-shaded action skateboarding game, in which performing tricks kills invasive aliens, called \"Gawoo.\"  Includes a fingerboard-style controller that attaches to analog sticks.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7084, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276113-box_yccs.png", 
+      "name": "Yanya Caballista: City Skater", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Cave's first horizontal shmup and only shooter for the CPS2 hardware.  Progear has a distinct steampunk aesthetic.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7085, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/510/1144559-progear.png", 
+      "name": "Progear", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7086, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/780578-snobo_1.jpg", 
+      "name": "Snowboard Heaven", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "A touge racing game developed by Cave.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7087, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/122378/1716311-touge_max_g_box.jpg", 
+      "name": "Touge Max G", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 329, 
+          "name": "Atlus Co., Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Guwange is a vertical scrolling shooter from Cave based on Japanese folklore.", 
+      "developers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ], 
+      "id": 7088, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1630669-guwange_box.png", 
+      "name": "Guwange", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 248, 
+          "name": "CAVE Co., Ltd."
+        }
+      ]
+    }
+  ]
+}

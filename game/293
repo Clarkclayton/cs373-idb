@@ -1,0 +1,1353 @@
+{
+  "games": [
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14583, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/863702-star_ixiom_cover.jpg", 
+      "name": "Star Ixiom", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Mappy kids is a 1989 NES game from Namco's Mappy franchise.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14584, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2579/1710686-7dca46020ea0b51e29c35110.l.jpg", 
+      "name": "Mappy Kids", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ]
+    }, 
+    {
+      "deck": "Taiko no Tatsujin DS: Dororon! Yokai Daikessen!! is the third game in the Taiko no Tatsujin DS series.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14585, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/42497/1438652-995407_166444_front.jpg", 
+      "name": "Taiko no Tatsujin DS: Dororon! Yokai Daikessen!!", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ridge Racer is an arcade racing game that was considered innovative upon its release.  It has spawned a successful franchise of games focused on over-the-top drift racing. Released for the powerful Namco System 22 arcade system, it was the first mass-market video game to use texture-mapped 3D polygon graphics and Gouraud shading.", 
+      "developers": [
+        {
+          "id": 528, 
+          "name": "Namco"
+        }
+      ], 
+      "id": 14586, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/165930/2763452-ridge+racer+gh+front.jpg", 
+      "name": "Ridge Racer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }, 
+        {
+          "id": 108, 
+          "name": "Zeebo", 
+          "short": "ZBO"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tecmo Super Bowl is back in the form of Tecmo Bowl Throwback, a remake of the game that allows players to switch between both new and classic graphics.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14587, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1357227-tbt_box.png", 
+      "name": "Tecmo Bowl Throwback", 
+      "platforms": [
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first game in the Fatal Frame survival horror franchise released exclusively on a Nintendo platform, and the first to not receive an official localization. It utilizes motion control to move the flashlight. This also marks the series' switch from stationary cameras to a behind-the-back view.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14588, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2582189-zero4.jpg", 
+      "name": "Zero: Tsukihami no Kamen", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The popular online golf game arrives on the Wii in offline form.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14589, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367524-box_ssg.png", 
+      "name": "Super Swing Golf", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tokobot Plus: Mysteries of the Karakuri is an enhanced version of the puzzle-heavy PSP platformer, which stars Bolt, a young boy who dreams of becoming a Treasure Master one day.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14590, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367526-box_tokobotp.png", 
+      "name": "Tokobot Plus: Mysteries of the Karakuri", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2006 iteration of Tecmo's longstanding horse racing simulation. ", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14591, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1804125-gallop_racer_2006.jpg", 
+      "name": "Gallop Racer 2006", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Unlock your disc with the fifth game in the Monster Rancher series, Monster Rancher EVO!", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14592, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367509-box_mrevo.png", 
+      "name": "Monster Rancher EVO", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A unique puzzle based platformer game with robot minions to help you and form objects to aide you through sections.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14593, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1837512-box_tokobot.png", 
+      "name": "Tokobot", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo Classic Arcade is a collection of eleven classic Tecmo games.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14594, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/496474-928595_67968_front.jpg", 
+      "name": "Tecmo Classic Arcade", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A young woman whose fiance recently died finds herself in a ghostly manor when she falls asleep, only to be stalked by a woman's tattoo-covered spirit.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14595, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2660011-ff3.jpg", 
+      "name": "Fatal Frame III: The Tormented", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 2004 entry in Tecmo's longstanding Horse Racing Simulation series. \n", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14596, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1804119-gallopracer2004frontal.jpg", 
+      "name": "Gallop Racer 2004", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Rancher 4 is a monster-breeding simulation game where you generate monsters from the data on other CDs and DVDs and raise them to fight other monsters.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14597, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367502-box_mr4.png", 
+      "name": "Monster Rancher 4", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ], 
+      "id": 15050, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1998925-second.jpg", 
+      "name": "Shanghai: Second Dynasty", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "When they visit a spot where they used to play as children, the twin sisters Mio and Mayu suddenly find themselves in a village where night is eternal. With only a magic camera to defend themselves, they have to solve the village's mystery while defending themselves from evil spirits.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14598, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2660001-ff2.jpg", 
+      "name": "Fatal Frame II: Crimson Butterfly", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 3D character action game for the PS2 that reimagines the 2D sidescroller Rygar.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14599, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367523-box_rygar.png", 
+      "name": "Rygar: The Legendary Adventure", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14600, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367504-box_mra2.png", 
+      "name": "Monster Rancher Advance 2", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game developed and published by Tecmo.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14601, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30196/1862326-soccer.jpg", 
+      "name": "Super Shot Soccer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Although not actually based on a true story, as the misleading packaging claims, Fatal Frame is still a beloved horror game in which a camera is the player's only weapon against malevolent spirits.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14602, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2660007-ff1.jpg", 
+      "name": "Fatal Frame", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }, 
+        {
+          "id": 580, 
+          "name": "MC2-Micro\u00efds"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14603, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367503-box_mra.png", 
+      "name": "Monster Rancher Advance", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Rancher 3 is the 3rd installment in Namco's Monster Ranchers game series where you regenerate monsters from discs and raise them. ", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14604, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367501-box_mr3.png", 
+      "name": "Monster Rancher 3", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2001 iteration of Tecmo's longstanding horse racing simulation. ", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14605, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/1804103-gallopracer2001frontal.jpg", 
+      "name": "Gallop Racer 2001", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14606, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/839990-199161_front.jpg", 
+      "name": "Unison: Rebels of Rhythm & Dance", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo World Cup Millennium brings Tecmo's soccer franchise into the year 2000.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14607, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582973-6454650997-20588A154B13797ACF9E1A", 
+      "name": "Tecmo World Cup Millennium", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The illest jumps in video game come to the Monster Rancher -franchise in this Bounder-inspired platformer", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14608, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367510-box_mrhab.png", 
+      "name": "Monster Rancher Hop-A-Bout", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The follow-up to the original card battling offshoot of the Monster Rancher series.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14609, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367505-box_mrbc2.png", 
+      "name": "Monster Rancher Battle Card Episode II", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second in the series, this game expanded upon the original CD-swapping game. Called \"Monster Rancher\" in PAL territories, and \"Monster Farm 2\" in Japan.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14610, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367500-box_mr2.png", 
+      "name": "Monster Rancher 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The death of the beloved King Arcadia has plunged the land into uncertainty. King Fredric now has control over the island, and is attempting to control the residents as well. ", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14611, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367496-box_decept3.png", 
+      "name": "Deception III: Dark Delusion", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Horse Racing game released for the PlayStation in 1999 by Tecmo.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14612, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9261/384538-gallop_racer_ntsc.jpg", 
+      "name": "Gallop Racer", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo World Cup '98 is another installment in the Tecmo World Cup series.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14613, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582971-1234459973-twcup.jpg", 
+      "name": "Tecmo World Cup '98", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cool Boarders Arcade Jam is an arcade snowboarding game in the Cool Boarders franchise.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14614, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2109073-cbaj.jpg", 
+      "name": "Cool Boarders Arcade Jam", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Kagero: Deception II is a third-person action game with a focus on setting traps for enemies. The player character is Millenia, a young woman brainwashed to serve the blue-skinned race known as Timenoids.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14615, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367495-box_decept2.png", 
+      "name": "Kagero: Deception II", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 111, 
+          "name": "Virgin Interactive Entertainment, Inc."
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Monster Rancher is a monster simulation game where creatures are generated by inserting CDs into the console.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14616, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2367499-box_mr.png", 
+      "name": "Monster Rancher", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game similar to Dr. Mario for the Sony Playstation.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14617, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/98967/1415132-tecmo_10.jpg", 
+      "name": "Tecmo Stackers", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A PS1 installment in the Tecmo Bowl series.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14618, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2783418-8400017188-10904.jpg", 
+      "name": "Tecmo Super Bowl", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The final Tecmo football game to be released on the Super Nintendo Entertainment System.  With the NFL license and updated gameplay, such as create a player and increased playbook options, this last edition of Tecmo football provided the hardest hitting action in the series.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14619, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2783401-3328456209-48241.jpg", 
+      "name": "Tecmo Super Bowl III: Final Edition", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A compilation of the first three Ninja Gaiden titles. This version features updated visuals and music with certain drawbacks and limitations, including non-configurable controls.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14620, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364498-snes_ninjagaidentrilogy.jpg", 
+      "name": "Ninja Gaiden Trilogy", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo World Cup heads back to arcades.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14621, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2582970-6853282273-twc94.png", 
+      "name": "Tecmo World Cup '94", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tecmo's foray into ice hockey. A SNES version was planned, but cancelled.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14622, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/38151/1278438-tecmo.jpg", 
+      "name": "Tecmo Super Hockey", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A football game in Tecmo's Tecmo Bowl series released on both SNES and Genesis in 1994. It has additional features over the original Super Tecmo Bowl as well as updated rosters for the new season.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14623, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/23093/2776800-3123133436-48232.jpg", 
+      "name": "Tecmo Super Bowl II: Special Edition", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fifth and final installment of the Captain Tsubasa \"strategic soccer\" video game series developed and published by Tecmo.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14624, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2102965-ct5_front.jpg", 
+      "name": "Captain Tsubasa V: Hasha no Shougou Campione", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A MLBPA licensed baseball game released in 1994 for the SNES and SEGA Genesis.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14625, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2389506-genesis_tecmosuperbaseball.jpg", 
+      "name": "Tecmo Super Baseball", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 16-bit update of the original 1991 NES game of the same name, released on both the Super Nintendo and Sega Genesis.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14626, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/45447/2200296-tecmo_super_bowl__snes_.jpg", 
+      "name": "Tecmo Super Bowl", 
+      "platforms": [
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Join Ray and his fellow Aqutallion crusaders as they embark on a dangerous journey to defeat the evil entity Homncruse.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14627, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364739-snes_secretofthestars.jpg", 
+      "name": "Secret of the Stars", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth game in the Captain Tsubasa series of soccer RPGs by Tecmo. It's the second game released for the SNES.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14628, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2320593-captain_tsubasa_4.jpg", 
+      "name": "Captain Tsubasa IV: Pro no Rival Tachi", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A puzzle game by Tecmo, in which the player must extinguish fires using blocks of ice to clear stages of increasing difficulty. It is a prequel to Solomon's Key, and was known in most regions as Solomon's Key 2.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14629, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2361734-nes_firenice.jpg", 
+      "name": "Fire 'n Ice", 
+      "platforms": [
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Tsuppari Oozumou: Risshin Shussehen is the sequel to the original Famicom Tsuppari Oozumou game.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14630, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2579981-3193283456-58195.jpg", 
+      "name": "Tsuppari Oozumou: Risshin Shussehen", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A 1992 vertical shoot-em-up from NMK and Tecmo, Gunnail does not actually contain any nails.", 
+      "developers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ], 
+      "id": 14631, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7465/1739928-gfs_31360_1_1.jpg", 
+      "name": "Gunnail", 
+      "platforms": [
+        {
+          "id": 71, 
+          "name": "Arcade", 
+          "short": "ARC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 529, 
+          "name": "Tecmo"
+        }
+      ]
+    }
+  ]
+}

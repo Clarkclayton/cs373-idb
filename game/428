@@ -1,0 +1,1516 @@
+{
+  "games": [
+    {
+      "deck": "Latest installment in the Pok\u00e9mon Mystery Dungeon crossover series of dungeon crawler RPGs.", 
+      "developers": [], 
+      "id": 21341, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2840/2798024-7811857698-672px.png", 
+      "name": "Pok\u00e9mon Super Mystery Dungeon", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pok\u00e9Touch is a Pok\u00e9mon-themed typing tutor for mobile platforms and Windows PCs. It is available only via license to schools and other educational establishments in Japan.", 
+      "developers": [], 
+      "id": 21342, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2611895-2908158990-13308.png", 
+      "name": "Pok\u00e9Touch", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first Pok\u00e9mon games on the 3DS and the first to be released simultaneously worldwide.", 
+      "developers": [], 
+      "id": 21343, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2482818-pokemonxy.jpg", 
+      "name": "Pok\u00e9mon X/Y", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new entry in the Pok\u00e9mon Mystery Dungeon series for 3DS.", 
+      "developers": [], 
+      "id": 21344, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2412938-box_pmdgti.png", 
+      "name": "Pok\u00e9mon Mystery Dungeon: Gates to Infinity", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Nintendo 3DS eShop exclusive, consisting of an AR mini-game which allows players to capture Pok\u00e9mon hiding in the real world, and subsequently transfer them to Pok\u00e9mon White Version 2 or Pok\u00e9mon Black Version 2.", 
+      "developers": [], 
+      "id": 21345, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16324/2456612-0910542434-Pok%25C.png", 
+      "name": "Pok\u00e9mon Dream Radar", 
+      "platforms": [
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The story of Pok\u00e9mon Black/White continues in this direct sequel for the Nintendo DS system.", 
+      "developers": [], 
+      "id": 21346, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2409640-pkmbw2.jpg", 
+      "name": "Pok\u00e9mon Black/White Version 2", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pok\u00e9mon Black and White are the fifth generation of Pok\u00e9mon games for the Nintendo DS. Both introduce several new game play innovations to the series including a more complex battle system, fully-animated 3D models and environments, extensive online integration, and a refresh of the entire selection of Pok\u00e9mon.", 
+      "developers": [], 
+      "id": 21347, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/976/2068104-pokemon_whack.jpg", 
+      "name": "Pok\u00e9mon Black/White", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third game in the 4th generation of Pok\u00e9mon games, Platinum expands on the gameplay of Diamond and Pearl, adding new features, and improving old ones.", 
+      "developers": [], 
+      "id": 21348, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171285-box_pkmnpv.png", 
+      "name": "Pok\u00e9mon Platinum", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Pokemon based top down racer that was released near the start of the DS life cycle.  It featured one new character, Munchlax, from the (then) unreleased Diamond/Pearl.", 
+      "developers": [], 
+      "id": 21349, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2098007-box_pdash.png", 
+      "name": "Pok\u00e9mon Dash", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pokemon Emerald is set in the land of Hoenn and is the remix of Ruby/Sapphire.", 
+      "developers": [], 
+      "id": 21350, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2179495-box_pkmnev.png", 
+      "name": "Pok\u00e9mon Emerald", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pokemon Box  was release in the US North America on July 11, 2004. It was only available through the New York Pok\u00e9mon Center & its online store. Not actually a game, it served as an incredibly massive storage program for players to keep thousands of Ruby and Sapphire Pok\u00e9mon.", 
+      "developers": [], 
+      "id": 21351, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/608/222607-pokemonbox_boxart.jpg", 
+      "name": "Pok\u00e9mon Box", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Watch fake television shows featuring pok\u00e9mon and play mini games with Pikachu.", 
+      "developers": [], 
+      "id": 21352, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171277-box_pkmnch.png", 
+      "name": "Pok\u00e9mon Channel", 
+      "platforms": [
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players explore the regions of Johto and Kanto in their quest to catch all 251 pokemon. ", 
+      "developers": [], 
+      "id": 21353, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17172/1276964-pkmn_goldsilver.png", 
+      "name": "Pok\u00e9mon Gold/Silver", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced version of Pok\u00e9mon Red/Blue, designed to more closely resemble the popular Pokemon anime. Instead of choosing a starter Pok\u00e9mon, players are given a Pikachu that follows them around.", 
+      "developers": [], 
+      "id": 21354, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171295-box_pkmnyv.png", 
+      "name": "Pok\u00e9mon Yellow: Special Pikachu Edition", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The first game to be released under the Bungie Aerospace.", 
+      "developers": [], 
+      "id": 21355, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/135472/1869965-btnipad.jpg", 
+      "name": "Crimson: Steam Pirates", 
+      "platforms": [
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 343, 
+          "name": "Bungie"
+        }
+      ]
+    }, 
+    {
+      "deck": "You're a player in the most action packed and intense game show ever aired: Weekend Warrior. All you can do to defend yourself is slug at your opponents with your handy \"swing thing.\"", 
+      "developers": [], 
+      "id": 21356, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1702/1154824-weekwar.png", 
+      "name": "Weekend Warrior", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 343, 
+          "name": "Bungie"
+        }
+      ]
+    }, 
+    {
+      "deck": "An intense keyboard and mouse side-scrolling shooter developed by Crack Dot Com.", 
+      "developers": [], 
+      "id": 21357, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/721799-7000_boxshot_abuse.jpg", 
+      "name": "Abuse", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 137, 
+          "name": "Linux", 
+          "short": "LIN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 343, 
+          "name": "Bungie"
+        }
+      ]
+    }, 
+    {
+      "deck": "A top down action-RPG from Interceptor Entertainment.", 
+      "developers": [], 
+      "id": 21358, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2818816-untitled.jpg", 
+      "name": "Bombshell", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 344, 
+          "name": "3D Realms Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "This add-on for Shadow Warrior was released for free on September 9, 2005. \nThe add-on continues Lo Wang's story after the end of the original game.", 
+      "developers": [], 
+      "id": 21359, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14912/626684-shadow_warrior_wd_title.png", 
+      "name": "Wanton Destruction", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 344, 
+          "name": "3D Realms Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A post-apocalyptic first-person shooter by Recoil Games. Put on \"indefinite hold\" in 2009, the game reappeared in 2012, with 3D Realms crowd-funding its development.", 
+      "developers": [], 
+      "id": 21360, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/843838-01.jpg", 
+      "name": "Earth No More", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 344, 
+          "name": "3D Realms Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21361, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "International Cricket Captain 2006", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Magic Boy is a platformer in which the cherubic, yet slightly creepy title character travels and captures monsters.", 
+      "developers": [], 
+      "id": 21362, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363940-snes_magicboy.jpg", 
+      "name": "Magic Boy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Iraqi Republican Guard have overrun the oilfields of northern Kuwait and it's you job to teach them a lesson with you M1 tanks.", 
+      "developers": [], 
+      "id": 21363, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/615975-war_in_the_gulf___front.jpg", 
+      "name": "War in the Gulf", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21364, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "International Sports Challenge", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Space Ace II: Borf's Revenge was a re-packaging of the original PC version of Space Ace, with the addition of content that could not fit on the original Space Ace for PC due to memory issues. The end result was a product that better represented the full Space Ace experience.", 
+      "developers": [], 
+      "id": 21365, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/107341/1505085-borfsrvng.png", 
+      "name": "Space Ace II: Borf's Revenge", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A role-playing game set in an alternate history where man achieved space flight during the Victorian era.", 
+      "developers": [], 
+      "id": 21366, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/4/44183/1705158-space1889rpg.jpg", 
+      "name": "Space 1889", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi role playing game featuring planetary exploration and space travel.", 
+      "developers": [], 
+      "id": 21367, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/136461/2429251-megatraveller_1.jpg", 
+      "name": "MegaTraveller 1: The Zhodani Conspiracy", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21368, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/686917-millennium_return_to_earth_eu_box_art.jpg", 
+      "name": "Millennium: Return to Earth", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21369, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2636633-3913238828-27050.jpg", 
+      "name": "The Amazing Spider-Man and Captain America in Doctor Doom's Revenge!", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21370, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Pacific Islands", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [], 
+      "id": 21371, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Space Legends", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "World Cup Year 94 is a compilation of Sensible Soccer-European Champions, Striker, Goal!, and Championship Manager '93.", 
+      "developers": [], 
+      "id": 21372, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "World Cup Year 94", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 345, 
+          "name": "Empire Software"
+        }
+      ]
+    }, 
+    {
+      "deck": "Koei Tecmo's mythical Japan flavored demon hunting game gets its first fully fledged sequel.", 
+      "developers": [], 
+      "id": 21373, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Toukiden 2", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Koei-Tecmo and Omega Force bring an Attack on Titan title exclusively to PlayStation platforms.", 
+      "developers": [], 
+      "id": 21374, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2811356-0897207420-latest", 
+      "name": "Attack on Titan (Working Title)", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Musou/Warriors game based on the novel/manga Arslan Senki", 
+      "developers": [], 
+      "id": 21375, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2815592-0681222504-ARSLA.jpg", 
+      "name": "Arslan: The Warriors of Legend", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A full remake of the 1994 otome dating sim Angelique.", 
+      "developers": [], 
+      "id": 21376, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Angelique Retour", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Samurai Warriors' first expansion pack release uses Samurai Warriors 4-II as a base and adds many more features, including an option for characters to wed.", 
+      "developers": [], 
+      "id": 21377, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2794870-6833827380-71xAy.jpg", 
+      "name": "Sengoku Musou 4 Empires", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Nobunaga no Yabou 2 is an enhanced remake of Nobunaga no Yabou DS, which was an enhanced remake of Nobunaga no Yabou: Reppuuden.", 
+      "developers": [], 
+      "id": 21378, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2761502-7629016426-tumbl.jpg", 
+      "name": "Nobunaga no Yabou 2", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Nintendo 3DS remake of Sangokushi 3. Wait, what?", 
+      "developers": [], 
+      "id": 21379, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2761493-6485466721-tumbl.jpg", 
+      "name": "Sangokushi 2", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An enhanced remake of Bladestorm: The Hundred Years' War, adding fantasy monsters to the menage of enemies.", 
+      "developers": [], 
+      "id": 21380, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2768039-box_bsn.jpg", 
+      "name": "Bladestorm: Nightmare", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expansion for Samurai Warriors 3 on the Wii. It features new characters, stories, and modes to expand upon the content in the original game.", 
+      "developers": [], 
+      "id": 21410, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/22366/1866243-3fbd6a0a31924431642f783d4700eb1c.jpg", 
+      "name": "Sengoku Musou 3: Moushouden", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sengoku Musou 4-II is an alternate take on Sengoku Musou/Samurai Warriors 4. It adds new characters, the Dream Castle mode from Sengoku Musou Chronicle 3, and different storyline events.", 
+      "developers": [], 
+      "id": 21381, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2725188-8440426075-latest", 
+      "name": "Samurai Warriors 4-II", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third in Koei Tecmo's series of handheld spin-offs from the Samurai Warriors franchise.", 
+      "developers": [], 
+      "id": 21382, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2692249-8845311975-B0Cql.jpg", 
+      "name": "Samurai Warriors Chronicles 3", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another entry in the Empires series of spin-offs from the Warriors games, which replace the story mode with an empire building strategy metagame. This one is based on Dynasty Warriors 8.", 
+      "developers": [], 
+      "id": 21383, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2728885-dw8empires.jpg", 
+      "name": "Dynasty Warriors 8: Empires", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An expanded version of the original Toukiden, which continues the story and adds new demons, weapons and other features.", 
+      "developers": [], 
+      "id": 21384, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2682625-3811730944-vljm35113_jacket", 
+      "name": "Toukiden Kiwami", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sangoku Musou Blast is a mobile installment in the Dynasty Warriors series.", 
+      "developers": [], 
+      "id": 21385, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2657352-6029496868-sp-ma.jpg", 
+      "name": "Sangoku Musou Blast", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Koei Tecmo and Japan Racing Association teamed up to produce a horse racing Samurai Warriors spinoff.", 
+      "developers": [], 
+      "id": 21386, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2636694-3200523507-banne.jpg", 
+      "name": "Derby Musou", 
+      "platforms": [
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fling historical Japanese warriors at the enemy in this mobile spin-off of the Samurai Warriors series", 
+      "developers": [], 
+      "id": 21387, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2646001-7828447577-img_m.jpg", 
+      "name": "Sengoku Musou Shoot", 
+      "platforms": [
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The fourth main entry in the Samurai Warriors series. It was released in 2014 to coincide with the tenth anniversary of the franchise.", 
+      "developers": [], 
+      "id": 21388, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/18/187968/2603407-1874085686-wfex3.jpg", 
+      "name": "Samurai Warriors 4", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }, 
+    {
+      "deck": "An entry in the Nobunaga's Ambition franchise for the PS3 and PC, timed to celebrate the thirtieth anniversary of the series.", 
+      "developers": [], 
+      "id": 21389, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6228/2482990-nobunaga%27s+ambition+creation.png", 
+      "name": "Nobunaga's Ambition: Sphere of Influence", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 346, 
+          "name": "Koei Tecmo"
+        }
+      ]
+    }
+  ]
+}

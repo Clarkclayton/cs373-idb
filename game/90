@@ -1,0 +1,1611 @@
+{
+  "games": [
+    {
+      "deck": "Famous for its art design by Aidan Hughes of KMFDM album-cover fame, ZPC is a first person shooter using the Marathon 2 engine.  The plot of the game involves the player, a messiah-like figure, bringing down a totalitarian dictatorship.", 
+      "developers": [
+        {
+          "id": 129, 
+          "name": "Zombie Studios"
+        }
+      ], 
+      "id": 4438, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8582/631434-g08561lik5m.jpg", 
+      "name": "ZPC", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 129, 
+          "name": "Zombie Studios"
+        }
+      ], 
+      "id": 4439, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/12139/2197272-2197271-locus_cover.jpg", 
+      "name": "Locus", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Ice and Fire is a Doom clone with two distinct gameplay modes and a temperature mechanic.", 
+      "developers": [
+        {
+          "id": 129, 
+          "name": "Zombie Studios"
+        }
+      ], 
+      "id": 4440, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2891/936476-cover.jpg", 
+      "name": "Ice & Fire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A sim-RPG from Level-5 and Brownie Brown that concentrates on everyday life in a fantasy world. NOTE: This is not the version released in the West.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4441, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2376859-cc.png", 
+      "name": "Fantasy Life", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Super Mario 3D Land blends elements of 2D and 3D Mario platformers, making it distinct from both parts of the franchise.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4442, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2555962-smd3dl.jpg", 
+      "name": "Super Mario 3D Land", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fourth installment in the Professor Layton franchise and the first part of the second trilogy is a prequel, set before the events of the first three games.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4443, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1967521-box_platls.png", 
+      "name": "Professor Layton and the Last Specter", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Kappa's Trail is a DSi stylus guiding game that has various challenges for players to overcome while guiding Kappa to his goal: the human world.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4444, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3948/1406687-akappastrailmain.jpg", 
+      "name": "A Kappa's Trail", 
+      "platforms": [
+        {
+          "id": 92, 
+          "name": "DSiWare", 
+          "short": "DSI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Blue Dragon Plus is a Strategy-RPG for the Nintendo DS based in the same universe as the Xbox 360 game, Blue Dragon.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4445, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875181-box_bdp.png", 
+      "name": "Blue Dragon Plus", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 272, 
+          "name": "AQ Interactive, Inc."
+        }, 
+        {
+          "id": 537, 
+          "name": "UTV Ignition Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "Heroes of Mana is a real-time strategy role-playing game developed by Square Enix for the Nintendo DS. It was released on March 8, 2007 in Japan and August 14, 2007 in the U.S.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4446, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199348-box_hom.png", 
+      "name": "Heroes of Mana", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A whimsical game about a group of classmates at a magical academy that embark on a planet-hopping quest to find their missing teacher.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4447, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/708404-front.jpg", 
+      "name": "Magical Starsign", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mother 3 is the third game in Shigesato Itoi's critically acclaimed Mother series. In the game, Lucas and various other protagonists fight to defeat a large army known as the Pig Army who are ruining their otherwise peaceful lives.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4448, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2362357-m3.png", 
+      "name": "Mother 3", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Choose a male or female character to experience different versions of the story in this enhanced remake of the first game in the Seiken Densetsu/Mana series.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4449, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2199374-box_som.png", 
+      "name": "Sword of Mana", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "One of the GBA's earliest RPGs. It was also Brownie Brown's very first game after they completed Legend of Mana and left Squaresoft.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4450, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/112/708021-front.jpg", 
+      "name": "Magical Vacation", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A pet simulation based on the browser communication game Livly Island from So-net Entertainment.", 
+      "developers": [
+        {
+          "id": 130, 
+          "name": "Brownie Brown Co. Ltd."
+        }
+      ], 
+      "id": 4451, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2376862-c.png", 
+      "name": "Livly Garden", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 114, 
+          "name": "Marvelous"
+        }
+      ]
+    }, 
+    {
+      "deck": "BigBen and HB Studios adds the official Rugby World Cup license to their 2015 Rugby game.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4452, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2786850-3095301717-heade.jpg", 
+      "name": "Rugby World Cup 2015", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "MLB's very own baseball franchise is returning for a second year with a handful of new features.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4453, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/26/2724635-screen+shot+2015-02-09+at+10.24.15+am.jpg", 
+      "name": "R.B.I. Baseball 15", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A rugby game for the 2015 season, containing officially licensed teams and players from several European leagues.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4454, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19222/2702881-8629818250-91lRW.jpg", 
+      "name": "Rugby 15", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A next generation Golf Simulator developed by HB Studios.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4455, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2701432-box_tgc.jpg", 
+      "name": "The Golf Club", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Use the Kinect to bounce a real basketball around in front of your TV to the beat of the music, presumably while trying not to destroy the floor... or your own furniture.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4456, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2280494-box_nbabb.png", 
+      "name": "NBA Baller Beats", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 280, 
+          "name": "Majesco Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "FIFA 12 is set to be EA Sports' 2011 iteration of the franchise, covering the 2011-2012 season and will introduce tactical defending, precision dribbling and enhanced AI.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4457, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266509-box_fifa12.png", 
+      "name": "FIFA 12", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "An upcoming Rugby game for the 2011 New Zealand Rugby World Cup. It is being developed by HB Studios.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4458, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/6/65194/1818635-51p3ptxhfrl._sl500_.jpg", 
+      "name": "Rugby World Cup 2011", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A family-friendly baseball game in the long-running Backyard Sports franchise.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4459, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/6087/1368737-1333558_bsss.jpg", 
+      "name": "Backyard Sports: Sandlot Sluggers", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "The DS version of music/rhythm game Rock Revolution.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4460, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3715/756161-rrevds0f.jpg", 
+      "name": "Rock Revolution", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 581, 
+          "name": "Konami Corporation"
+        }
+      ]
+    }, 
+    {
+      "deck": "Konami is getting back into the guitar and drums market with an all-new rhythm game called Rock Revolution.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4461, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15405/746995-revolution.png", 
+      "name": "Rock Revolution", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Live 09 is the next installment in the popular basketball franchise from Electronic Arts.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4462, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2243871-box_nbalive09.png", 
+      "name": "NBA Live 09", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NHL 09 adds major improvements to the franchise, such as the defense skill stick and the highly praised Be A Pro Mode, to make this sports game one of the best of 2008.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4463, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276032-box_nhl09.png", 
+      "name": "NHL 09", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Big Beach Sports is a sports-themed mini-game collection for the Wii with Nintendo DS connectivity.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4464, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/84290/2743563-5489361420-94822.jpg", 
+      "name": "Big Beach Sports", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "UEFA Euro 2008 is the official video game of the UEFA Euro 2008 football championships. Developed by EA Canada, the game uses an improved version of the FIFA 08 engine.\n", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4465, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2266558-box_uefaeuro08.png", 
+      "name": "UEFA Euro 2008", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NBA Live 08 is another yearly installment in EA's NBA Live series. The Washington Wizards' Gilbert Arenas is featured on the cover.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4466, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2243870-box_nbalive08.png", 
+      "name": "NBA Live 08", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "NHL 08 takes the simulation of hockey video games to the next level by adding more precise stick handling, and an all new deke button that allows you to separate the puck from your player to skate around defencemen and get scoring chances.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4467, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2276030-box_nhl08.png", 
+      "name": "NHL 08", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The most recent of EA's Rugby games, Rugby 08 features new play modes such as the Rugby World Cup and the World Cup Challenge mode.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4468, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1379/922815-rugby08.jpg", 
+      "name": "Rugby 08", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "UEFA Champions League 2006\u20132007 is the official video game of the UEFA Champions League 2006/2007 season.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4469, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18185/683633-champions_league.jpg", 
+      "name": "UEFA Champions League 2006-2007", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Madden NFL 07 was the first version of Madden to appear on the Wii and the PS3.  It also added lead blocking controls along with numerous other new features.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4470, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2250691-box_madden07.png", 
+      "name": "Madden NFL 07", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rugby 06 continues the EA's rugby franchise by adding updated rosters and graphical upgrades.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4471, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/189/233030-931588_73037_front.jpg", 
+      "name": "Rugby 06", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4472, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19490/680661-rugby_05_pal.jpg", 
+      "name": "Rugby 2005", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4473, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/19490/680565-rugby_04.jpg", 
+      "name": "Rugby 2004", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Cricket 2002 is an EA Sports title featuring commentary by veteran commentators Richie Benaud and Jim Maxwell. ", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4474, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/128518/1769711-cricket_2002_2_.jpg", 
+      "name": "Cricket 2002", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4475, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840314-917717_53572_front.jpg", 
+      "name": "Cricket 2004", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A collection of card games.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4476, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "HB Arcade Cards", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A cricket game by HB studios for Nintendo's Wiiware service.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4477, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Cricket", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The 2005 release of EA Sport's Cricket franchise.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4478, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10831/496480-927521_67644_front.jpg", 
+      "name": "Cricket 2005", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 480, 
+          "name": "EA Bright Light"
+        }
+      ]
+    }, 
+    {
+      "deck": "A disc golf game by HB  Studios for Nintendo's Wiiware.", 
+      "developers": [
+        {
+          "id": 131, 
+          "name": "HB Studios"
+        }
+      ], 
+      "id": 4479, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Disc Golf", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Based on the currently-running CG cartoon series, Transformers: Prime tells another story of the endless war between the noble Autobots and the vile Decepticons, and their powerful leaders, Optimus Prime and Megatron.", 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4480, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2352275-box_tfp.png", 
+      "name": "Transformers Prime: The Game", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "Phineas and Ferb Ride Again for the Nintendo DS was released on September 14, 2010.", 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4481, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2484708-box_pafra.png", 
+      "name": "Phineas and Ferb Ride Again", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A game based on the Disney Channel show.", 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4482, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/17724/1296290-180479b1.jpg", 
+      "name": "Sonny with a Chance", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A platformer based on the animated television show of the same name.", 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4483, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2484706-box_paf.png", 
+      "name": "Phineas and Ferb", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A Drawn to Life game where players control SpongeBob and have to fight of DoodleBob.", 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4484, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2285646-box_dtlsbsped.png", 
+      "name": "Drawn to Life: SpongeBob SquarePants Edition", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play as Giselle or Pip on quest to defeat the evil Queen Narissa.", 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4485, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1114188-__walt_disney_pictures_presents_enchanted.jpg", 
+      "name": "Walt Disney Pictures Presents Enchanted", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Try to save Amity Park from a series of ghosts.", 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4486, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/1103477-dannyphant2.png", 
+      "name": "Danny Phantom: Urban Jungle", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 132, 
+          "name": "Altron Corporation"
+        }
+      ], 
+      "id": 4487, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2284673-box_fnettbb.png", 
+      "name": "Finding Nemo: Escape to the Big Blue", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 70, 
+          "name": "THQ"
+        }
+      ]
+    }
+  ]
+}

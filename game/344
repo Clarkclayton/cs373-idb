@@ -1,0 +1,1628 @@
+{
+  "games": [
+    {
+      "deck": "The second Dragon Age flash game developed by EA2D. Was playable on Facebook and Google+ and was the first multi-player game for the Dragon Age franchise. Exists now as a free single-player download.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17136, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2487/1723064-dragon_age_legends.png", 
+      "name": "Dragon Age Legends", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ]
+    }, 
+    {
+      "deck": "This sequel to Dragon Age: Origins features faster combat, a new art style, and a brand new, fully voiced main character named Hawke.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17137, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2558591-da2clean.jpg", 
+      "name": "Dragon Age II", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Age: Origins - Awakening is a full retail expansion pack for Dragon Age: Origins.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17138, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2167094-box_da1a.png", 
+      "name": "Dragon Age: Origins - Awakening", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "After a violent death by an unknown force and a timely reanimation by the human supremacist organization Cerberus, Commander Shepard must assemble a new squad in the seedier side of the galaxy for a suicide mission in the second installment of the \"Mass Effect\" trilogy.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17139, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2577248-me2.jpg", 
+      "name": "Mass Effect 2", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "Dragon Age: Origins is an epic fantasy role-playing game featuring a rich story, personality-driven characters, and tactical, bloody combat. It is considered a spiritual successor to the Baldur's Gate series.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17140, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2558592-daoclean.jpg", 
+      "name": "Dragon Age: Origins", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "BioWare takes Sonic the Hedgehog in a whole new direction with this DS RPG.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17141, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1803658-box_sonicctdb.png", 
+      "name": "Sonic Chronicles: The Dark Brotherhood", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "When humanity is still a newcomer on the futuristic galactic stage, it's up to the charismatic Commander Shepard to investigate the actions of a rogue agent in the first chapter of the Mass Effect trilogy.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17142, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2577246-me1.jpg", 
+      "name": "Mass Effect", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 403, 
+          "name": "EA Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third expansion for Neverwinter Nights, including new sub-races and three new modules; Kingmaker, Witch's Wake and ShadowGuard.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17143, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/18149/1657411-neverwinter_nights___kingmaker_coverart.png", 
+      "name": "Neverwinter Nights: Kingmaker", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 121, 
+          "name": "Atari"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action adventure RPG by developer BioWare which transports the player into a mystical and oriental setting based on ancient China where they must confront all sorts of dangers and find their destiny within the Jade Empire.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17144, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2129484-box_jempire.png", 
+      "name": "Jade Empire", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 259, 
+          "name": "Microsoft Studios"
+        }, 
+        {
+          "id": 320, 
+          "name": "Mastertronic Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Hordes of the Underdark is the second and final expansion to Neverwinter Nights, which continues the story of Shadows of Undrentide. It was released in 2003 and adds extra content for high level player, such as the ability to reach level 40 (raised from 20).", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17145, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/1106800-nwnmc.jpg", 
+      "name": "Neverwinter Nights: Hordes of the Underdark", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Star Wars: KOTOR is a role-playing game set 4000 years before \"A New Hope,\" featuring a Republic soldier who fights to stop Darth Malak and the Sith fleet from destroying the Republic. The game sports such innovations as turn-based combat that appears to run in real time and light or dark side alignment.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17146, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1831644-kotor_cover.jpg", 
+      "name": "Star Wars: Knights of the Old Republic", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Shadows of Undrentide is the first expansion to Bioware's Neverwinter Nights, and was released in 2003. It added a new 20 hour adventure, five new prestige classes, weapons, feats, skills, spells and monsters.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17147, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/15693/618108-563551_24164_front_1_.jpg", 
+      "name": "Neverwinter Nights: Shadows of Undrentide", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 243, 
+          "name": "1C Company"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bioware's epic RPG lets you play as a noble Paladin, a sly Rogue or a powerful Mage as you battle to erradicate a plague that's afflicting Neverwinter and to save the world from a powerful foe that is once again on the rise.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17148, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/3/30036/1291450-dnd_neverwinter_nights.jpg", 
+      "name": "Neverwinter Nights", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "You must fight the most powerful spawns of Bhaal that have been plaguing the lands and destroy them for the sake of Tethyr or your own personal gains.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17149, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/961234-throne_of_bhaal_front.jpg", 
+      "name": "Baldur's Gate II: Throne of Bhaal", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 615, 
+          "name": "Black Isle Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Take hold of your destiny as you journey across mysterious lands, encounter many magical creatures and meet many memorable characters in a large fantasy world.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17150, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/514/643367-baldur_s_gate_ii___shadow_of_amn_boxart.jpg", 
+      "name": "Baldur's Gate II: Shadows of Amn", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 615, 
+          "name": "Black Isle Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sequel to Shiny's MDK. MDK 2 is developed by Bioware and notably when compared to the first game, you get to play as all three main characters this time. Published by Interplay and released in 2000. An HD remake is currently available on Steam.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17151, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4865/825264-197880_42478_front.jpg", 
+      "name": "MDK 2", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Tales of the Sword Coast is the official expansion pack to Baldur's Gate.  It includes several new quests, enemies, and spells.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17152, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14741/961233-tosc_front.jpg", 
+      "name": "Baldur's Gate: Tales of the Sword Coast", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 615, 
+          "name": "Black Isle Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Bioware's first RPG, you must assemble a party of adventurers and investigate the mystery of the iron crisis and a darker threat that looms in the city of Baldur's Gate.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17153, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2360279-baldur.png", 
+      "name": "Baldur's Gate", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }, 
+        {
+          "id": 615, 
+          "name": "Black Isle Studios"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shattered Steel is an action game released in 1996 by BioWare for MS-DOS, and later ported to Mac OS by now-defunct Logicware. It is notable for being, according to BioWare, the first mech game with deformable terrain effects.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17154, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8403/1356605-ss_splash_logo.jpg", 
+      "name": "Shattered Steel", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 387, 
+          "name": "Interplay Entertainment Corp."
+        }
+      ]
+    }, 
+    {
+      "deck": "Upcoming original supernatural/sci-fi IP from Bioware", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17155, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/7/72053/2661996-nightmare.jpg", 
+      "name": "Nightmare", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "While BioWare Montreal works on the next Mass Effect, BioWare's primary studio is developing a brand new IP.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17156, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2646264-screen+shot+2014-06-15+at+10.06.46+am.jpg", 
+      "name": "Untitled BioWare Edmonton Game", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "A multi-player focused RPG by Bioware, featuring 4v1 mode. As of February 9, 2015 the game is officially cancelled.", 
+      "developers": [
+        {
+          "id": 613, 
+          "name": "BioWare"
+        }
+      ], 
+      "id": 17157, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/81005/2671288-8834221944-gameo.jpg", 
+      "name": "Shadow Realms", 
+      "platforms": [], 
+      "publishers": [
+        {
+          "id": 1, 
+          "name": "Electronic Arts"
+        }
+      ]
+    }, 
+    {
+      "deck": "The Nonary Game continues in this sequel to Nine Hours, Nine Persons, Nine Doors under the localized title of Zero Escape: Virtue's Last Reward.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17158, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2339312-box_zevlr.png", 
+      "name": "Zero Escape: Virtue's Last Reward", 
+      "platforms": [
+        {
+          "id": 103, 
+          "name": "Nintendo 3DS", 
+          "short": "3DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 123, 
+          "name": "Nintendo 3DS eShop", 
+          "short": "3DSE"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Another entry in Chunsoft's murder mystery adventure games, this time for the PlayStation 3 and Vita.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17159, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2122812-cover.jpg", 
+      "name": "Shin Kamaitachi no Yoru: 11 Hitome no Suspect", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "A new Wii Play game featuring 12 mini-games requiring the Wii Motion Plus. Comes Bundled with a Wii Remote Plus.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17160, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/15/151939/2160130-large.jpg", 
+      "name": "Wii Play Motion", 
+      "platforms": [
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The fifth numbered entry in the Shiren the Wanderer series by Chunsoft.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17161, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2823971-504374_front.jpg", 
+      "name": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 115, 
+          "name": "PlayStation Vita", 
+          "short": "VITA"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Sequel to the mystery adventure for the PlayStation Portable.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17162, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2660153-6018710886-8tnu0.jpg", 
+      "name": "Trick x Logic Season 2", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Mystery adventure game for the PlayStation Portable.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17163, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149021/2660151-0244159967-8tnu0.jpg", 
+      "name": "Trick x Logic Season 1", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third game in the Shiren the Wanderer series.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17164, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2472253-box_stw.png", 
+      "name": "Shiren the Wanderer", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "Decide the fate of the 9 kidnapped people who are trapped on a ship and forced to play the Nonary Game, where players put their life on the line.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17165, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2092574-box_999.png", 
+      "name": "999: 9 Hours, 9 Persons, 9 Doors", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A trio of games that is a part of the Mystery Dungeon franchise and was released on the WiiWare shop in 2009 in Japan.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17166, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/164924/2677009-0541934449-pho_m.jpg", 
+      "name": "Pok\u00e9mon Fushigi no Dungeon: Ikuzo! Arashi/Mezase! Hikari/Susume! Honoo no Boukendan", 
+      "platforms": [
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Explorers of the Sky is the third Pokemon Mystery Dungeon game released, continuing and expanding the story of the previous game, Explorers of Time &amp; Darkness.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17167, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2171281-box_pkmnmdeos.png", 
+      "name": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sound novel game developed by Chun Soft originally released for the Wii and then ported to the PSP and PS3", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17168, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1113879-428ps3boxart.jpg", 
+      "name": "428: In the Blocked City, Shibuya", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "You are the Pok\u00e9mon in this dungeon crawling spin-off of the immensely popular RPG franchise.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17169, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2233168-timecover.png", 
+      "name": "Pok\u00e9mon Mystery Dungeon: Explorers of Darkness/Time", 
+      "platforms": [
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "Pok\u00e9mon Mystery Dungeon is a spin-off of the Pok\u00e9mon franchise, this time starring Pok\u00e9mon instead of the trainers.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17170, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/608/277611-pokemystdungeonred.jpg", 
+      "name": "Pok\u00e9mon Mystery Dungeon: Blue/Red Rescue Team", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 341, 
+          "name": "The Pok\u00e9mon Company"
+        }, 
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "The third entry in the Kamaitachi no Yoru series of sound novels by Chunsoft.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17171, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2277991-3.png", 
+      "name": "Kamaitachi no Yoru Triple: Mikazukishima Jiken no Shinsou", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Chunsoft developed RPG based off the Japanese TV drama \"3 Nen B Gumi Kinpachi Sensei\"(Third Year, B Class Teacher Kinpachi).", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17172, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2237717-cover.png", 
+      "name": "3-Nen B-Gumi Kinpachi Sensei: Densetsu no Kyoudan ni Tate!", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17173, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/834397-921017_54988_front.jpg", 
+      "name": "Dragon Quest Characters: Torneko no Daibouken 3 - Fushigi no Dungeon", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 7, 
+          "name": "Square Enix"
+        }
+      ]
+    }, 
+    {
+      "deck": "A soccer game developed by Chunsoft for the GBA.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17174, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2505215-box.png", 
+      "name": "Shiren Monsters: Netsal", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "The second entry in the Kamaitachi no Yoru series of sound novels by Chunsoft.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17175, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/97089/2277989-cover.png", 
+      "name": "Kamaitachi no Yoru 2: Kangokujima no Warabe Uta", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Fushigi no Dungeon: Furai no Shiren GB2: Sabaku no Majou is a Japanese only rougelike dungeon crawler.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17176, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/10/103881/2093630-cover.jpg", 
+      "name": "Fushigi no Dungeon: Furai no Shiren GB2: Sabaku no Majou", 
+      "platforms": [
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Roguelike RPG featuring the merchant Torneko Taloon from Dragon Quest IV, that makes part of the Mystery Dungeon series. The Game Boy Advance version of this game can only be found in Japan, and was released on December 20th 2001.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17177, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875245-box_wodwttlh.png", 
+      "name": "World of Dragon Warrior: Torneko: The Last Hope", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Chocobo's Dungeon 2 is a 1-2 player hack and slash dungeon crawler RPG. The game is aimed at a younger target audience, with it's bright colors and simplistic \"chibi\" like art style.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17178, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2331085-box_cd2.png", 
+      "name": "Chocobo's Dungeon 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "A Japanese adventure game released for the Sega Saturn and Sony Playstation in 1998, then re-released for the PSP in 2006.  In a 2006 Famitsu Readers Poll, Machi was ranked the 5th best game of all time.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17179, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1099/1169623-1094231177_00.jpg", 
+      "name": "Machi", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 38, 
+          "name": "Saturn", 
+          "short": "SAT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Chocobo's Mysterious Dungeon loosely based on final fantasy characters follows around chocobo and friends into dungeon depths", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17180, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1771/354715-chocobo_s_mysterious_dungeon_boxart.jpg", 
+      "name": "Chocobo no Fushigina Dungeon", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 55, 
+          "name": "WonderSwan", 
+          "short": "WSW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 208, 
+          "name": "Bandai Co., Ltd."
+        }, 
+        {
+          "id": 411, 
+          "name": "Squaresoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Shiren and his pet weasel Koppa have set out to find golden city El Dorado and the lair of the legendary Golden Condor. Along the way they'll make new friends, visit caves and dungeons, and kill the heck out of a myriad of monsters in this turn-based roguelike.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17181, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2469695-box_mdstw.png", 
+      "name": "Mystery Dungeon: Shiren the Wanderer", 
+      "platforms": [
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 400, 
+          "name": "Sega"
+        }, 
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "The 2nd installment of the Shiren the Wanderer series, it was released on the Nintendo 64 in Japan only.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17182, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14945/1167240-shiren2boxart.jpg", 
+      "name": "Fushigi no Dungeon: Fuurai no Shiren 2", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "Banshee's Last Cry is a horror-themed sound novel produced by ChunSoft that was originally released for the Super Famicom in 1994. It has been ported to various systems over the years, but wasn't available in English until 2014, twenty years since its initial release.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17183, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/14/149200/2133129-kamaitachi_no_yoru01.jpg", 
+      "name": "Banshee's Last Cry", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }, 
+        {
+          "id": 125, 
+          "name": "Browser", 
+          "short": "BROW"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "The two original Dragon Quest RPGs remade with a graphical upgrade and compiled into a single package for SNES and Game Boy Color.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17184, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/1875227-box_dw1a2.png", 
+      "name": "Dragon Warrior I & II", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The first game in the Mystery Dungeon series starring Torneko Taloon, a character from Dragon Quest IV.", 
+      "developers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ], 
+      "id": 17185, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364676-snes_tornekonodaibouken_jp.jpg", 
+      "name": "Torneko no Daibouken: Fushigi no Dungeon", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 84, 
+          "name": "Satellaview", 
+          "short": "BS-X"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 614, 
+          "name": "Chunsoft"
+        }
+      ]
+    }
+  ]
+}

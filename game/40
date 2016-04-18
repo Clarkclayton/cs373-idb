@@ -1,0 +1,1882 @@
+{
+  "games": [
+    {
+      "deck": "Ultimate Pro Pinball is a pinball game, offering the player a choice of three different tables.  Released on Xbox, PS2 and PC.  The game was never given a US release on any platform.", 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1948, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/13/138790/2529633-5794716224-92920.jpg", 
+      "name": "Ultimate Pro Pinball", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1949, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4647/840285-941696_92108_front.jpg", 
+      "name": "Gametrak : Dark Wind", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Mega Man Anniversary Collection contains the first 8 Mega Man entries in the franchise, along with many extra features and unlockable games.", 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1950, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2525214-box_mmac.png", 
+      "name": "Mega Man Anniversary Collection", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 21, 
+          "name": "GameCube", 
+          "short": "GCN"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Mike Tyson's third official boxing game.", 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1951, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2291767-box_mthb.png", 
+      "name": "Mike Tyson Heavyweight Boxing", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 352, 
+          "name": "Codemasters"
+        }
+      ]
+    }, 
+    {
+      "deck": "Jackie Chan Adventures is an action adventure game based on the television show with the same name.", 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1952, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4888/659190-jackie_chan_adventures.449567.jpg", 
+      "name": "Jackie Chan Adventures", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Superstar dance club for playstation.", 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1953, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/17/174113/2380443-g15857bxpjn.jpg", 
+      "name": "Superstar Dance Club", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Aero the Acro-bat's gameplay consists of simple platforming elements in which Aero, a red bat, that lives in a circus, must defend it from Edgar Ektor.", 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1954, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2363122-snes_aerotheacrobat.jpg", 
+      "name": "Aero the Acro-Bat", 
+      "platforms": [
+        {
+          "id": 3, 
+          "name": "Game Boy Advance", 
+          "short": "GBA"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 74, 
+          "name": "Wii Shop", 
+          "short": "WSHP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }
+      ]
+    }, 
+    {
+      "deck": "This time around Bob is challenged with setting up the stage for the summer festival in Sunflower Valley. He will have to use all of his fixit know how to get the job done on time.", 
+      "developers": [
+        {
+          "id": 53, 
+          "name": "Atomic Planet Entertainment Limited"
+        }
+      ], 
+      "id": 1955, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7981/335992-943913_97551_front.jpg", 
+      "name": "Bob the Builder: Festival of Fun", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Grand Theft Auto V is a modern crime epic featuring a crew of three protagonists rolling through the diverse landscape of the fictional state of San Andreas.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1956, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/2463980-grand+theft+auto+v.jpg", 
+      "name": "Grand Theft Auto V", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "The Lost &amp; Damned and The Ballad of Gay Tony are collected onto this standalone disc of Grand Theft Auto IV's post-release content.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1957, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2737111-episodesfromlibertycity.jpg", 
+      "name": "Grand Theft Auto: Episodes from Liberty City", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take control of Huang Lee, the son of a Triad mob boss, in an destructive romp throughout Liberty City in his quest for revenge, money and honour in Grand Theft Auto: Chinatown Wars.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1958, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/13158/1063286-gb.png", 
+      "name": "Grand Theft Auto: Chinatown Wars", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 128, 
+          "name": "PlayStation Network (Vita)", 
+          "short": "PSNV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Take on the role of Niko Bellic, a Serbian immigrant who comes to the US at his cousin Roman's request, to find a better life, search for \"that special someone\" and participate in lawless activities in an upgraded generation of Liberty City.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1959, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2446670-gta_1446_a023.jpg", 
+      "name": "Grand Theft Auto IV", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rockstar's most recognisable franchise returns to Vice City,  boasting a new plot, a new cast of characters (and some old favourites), more vehicles and a multiplayer mode", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1960, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2243852-box_gtavcs.png", 
+      "name": "Grand Theft Auto: Vice City Stories", 
+      "platforms": [
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The follow-up to Vice City takes the free-roaming violence to the state of San Andreas, an analog to early '90s California, where ruthless gangs battle for control of the streets.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1961, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2737117-sanandreas.jpg", 
+      "name": "Grand Theft Auto: San Andreas", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }, 
+        {
+          "id": 110, 
+          "name": "Windows Phone", 
+          "short": "WP"
+        }, 
+        {
+          "id": 140, 
+          "name": "Amazon Fire TV", 
+          "short": "FIRE"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }
+      ]
+    }, 
+    {
+      "deck": "Busted out of death row, inmate James Earl Cash wakes up to find himself in a snuff film directed by a man who calls himself Starkweather.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1962, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2737127-manhunt.jpg", 
+      "name": "Manhunt", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Grand Theft Auto: Vice City is the second 3D game in the series and sixth original title. It features more of the same sand-box action-adventure gameplay with a new 1980s setting, new characters, new weapons and much more.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1963, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2737121-vicecity.jpg", 
+      "name": "Grand Theft Auto: Vice City", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The third release in the GTA Franchise stars silent criminal protagonist Claude, who after having been betrayed and left for dead is out for revenge.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1964, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2737120-grandtheftauto3.jpg", 
+      "name": "Grand Theft Auto III", 
+      "platforms": [
+        {
+          "id": 17, 
+          "name": "PlayStation 2", 
+          "short": "PS2"
+        }, 
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 83, 
+          "name": "iPhone", 
+          "short": "IPHN"
+        }, 
+        {
+          "id": 107, 
+          "name": "iPad", 
+          "short": "IPAD"
+        }, 
+        {
+          "id": 109, 
+          "name": "Android", 
+          "short": "ANDR"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 279, 
+          "name": "Capcom"
+        }, 
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Wild Metal is a 3D strategic vehicular combat game set in a distant land, in which you command armed roving vehicles to disrupt dangerous automated military units that have overtaken the Tehric planetary system.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1965, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/14761/698963-front_cover.jpg", 
+      "name": "Wild Metal", 
+      "platforms": [
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Take your tank and take back the land from rogue robots as you cross rolling hills and lob shots over various obstacles.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1966, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/16830/929798-wild_metal.jpg", 
+      "name": "Wild Metal Country", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "A direct sequel to the original Grand Theft Auto and also the last 2D Grand Theft Auto game to come out until Grand Theft Auto Advance, five years later.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1967, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1780455-gta2_cover.png", 
+      "name": "Grand Theft Auto 2", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 34, 
+          "name": "Dreamcast", 
+          "short": "DC"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Tanktics is a Military strategy game developed by DMA Studios/Rockstar North featuring tanks from 4 different eras of history.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1968, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/4656/940512-tanktics.jpg", 
+      "name": "Tanktics", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 228, 
+          "name": "Gremlin Interactive Ltd."
+        }
+      ]
+    }, 
+    {
+      "deck": "Grand Theft Auto: London 1961 was the second expansion pack released for the original Grand Theft Auto.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1969, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93538/1504970-grand_theft_auto__london_cover_art.jpg", 
+      "name": "Grand Theft Auto: London 1961", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Rockstar North's cosmic adventure involves playing the role of a number of different cyborg-animals in order to stop a space station from crashing into Earth.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1970, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2313445-siliconbox.jpg", 
+      "name": "Space Station Silicon Valley", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Body Harvest is the precursor to the 3D Grand Theft Auto games, but instead of committing crimes, you're saving the world from giant, time-traveling bugs.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1971, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2593784-box_bharvest.png", 
+      "name": "Body Harvest", 
+      "platforms": [
+        {
+          "id": 39, 
+          "name": "Nintendo 64", 
+          "short": "N64"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 126, 
+          "name": "Midway Games"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grand Theft Auto is a free roaming crime saga with multiple settings and a top-down view.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1972, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/3699/1790087-gta1.jpg", 
+      "name": "Grand Theft Auto", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "A 2D racing game developed by Rockstar North with unicycles which pick up speed by performing stunts and jumps. Some levels require a set amount of points by performing stunts in a limited time.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1973, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2364691-snes_uniracers.jpg", 
+      "name": "Uniracers", 
+      "platforms": [
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }, 
+    {
+      "deck": "A sci-fi RPG for PC and Amiga. During gameplay, the screen is split into four sections; each quadrant displaying the perspective one of the four protagonists.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1974, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/12/129083/1773854-hiredguns_b1.jpg", 
+      "name": "Hired Guns", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Walker was a side scrolling shooter where you controlled a time travelling Mech and killed anything on the screen.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1975, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2628/1140909-walker_01.jpg", 
+      "name": "Walker", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Navigate the fragile little fellas through even trickier levels. The addition of several new lemming \"classes\" is this game's main difference from its predecessor.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1976, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/658729-lemmings_2_the_tribes_uk_box_art.jpg", 
+      "name": "Lemmings 2: The Tribes", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Play over 209 levels with these green-haired creatures.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1977, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/5589/1250666-lemmings_oh_no_more_lemmings_cover.jpg", 
+      "name": "Lemmings & Oh No! More Lemmings", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "A standalone expansion to the original puzzle game \"Lemmings\". It was developed by DMA Design and released by Psygnosis in 1991.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1978, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/7930/659570-oh_no__more_lemmings_eu_box_art.jpg", 
+      "name": "Oh No! More Lemmings", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 146, 
+          "name": "SAM Coup\u00e9", 
+          "short": "COUP"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Guide hordes of helpless green-haired rodents away from peril in this landmark puzzle game.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1979, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/1/10026/568577-lemmings.jpg", 
+      "name": "Lemmings", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 2, 
+          "name": "Game Boy", 
+          "short": "GB"
+        }, 
+        {
+          "id": 4, 
+          "name": "Game Gear", 
+          "short": "GG"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 8, 
+          "name": "Super Nintendo Entertainment System", 
+          "short": "SNES"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 16, 
+          "name": "PlayStation Portable", 
+          "short": "PSP"
+        }, 
+        {
+          "id": 19, 
+          "name": "Nintendo Entertainment System", 
+          "short": "NES"
+        }, 
+        {
+          "id": 24, 
+          "name": "3DO", 
+          "short": "3DO"
+        }, 
+        {
+          "id": 25, 
+          "name": "CD-i", 
+          "short": "CDI"
+        }, 
+        {
+          "id": 36, 
+          "name": "Amiga CD32", 
+          "short": "CD32"
+        }, 
+        {
+          "id": 47, 
+          "name": "Game Boy Color", 
+          "short": "GBC"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 82, 
+          "name": "Sharp X68000", 
+          "short": "X68K"
+        }, 
+        {
+          "id": 102, 
+          "name": "PlayStation Network (PSP)", 
+          "short": "PSPN"
+        }, 
+        {
+          "id": 111, 
+          "name": "Acorn Archimedes", 
+          "short": "ACRN"
+        }, 
+        {
+          "id": 127, 
+          "name": "Commodore CDTV", 
+          "short": "CDTV"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 123, 
+          "name": "Sirius Software, Inc."
+        }, 
+        {
+          "id": 137, 
+          "name": "SunSoft"
+        }, 
+        {
+          "id": 236, 
+          "name": "Sony Computer Entertainment America"
+        }, 
+        {
+          "id": 617, 
+          "name": "Sony Computer Entertainment Incorporated"
+        }
+      ]
+    }, 
+    {
+      "deck": "An action-platformer game with RPG elements that is based around Viking mythology. After a mysterious tornado carries off Brian's entire village, he is encouraged by Odin to chase after it and defeat the source of the problem: Loki.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1980, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/9408/755323-927592_66523_front.jpg", 
+      "name": "Prophecy 1: The Viking Child", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 359, 
+          "name": "GameTek, Inc."
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "A side-scrolling platform game, famous for being unfairly difficult, originally developed for the Commodore Amiga, and later ported to other systems.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1981, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/9/93770/2373870-genesis_shadowofthebeast.jpg", 
+      "name": "Shadow of the Beast", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 5, 
+          "name": "Genesis", 
+          "short": "GEN"
+        }, 
+        {
+          "id": 6, 
+          "name": "Atari Lynx", 
+          "short": "LYNX"
+        }, 
+        {
+          "id": 7, 
+          "name": "Sega Master System", 
+          "short": "SMS"
+        }, 
+        {
+          "id": 9, 
+          "name": "Amstrad CPC", 
+          "short": "CPC"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 14, 
+          "name": "ZX Spectrum", 
+          "short": "SPEC"
+        }, 
+        {
+          "id": 44, 
+          "name": "TurboGrafx-CD", 
+          "short": "TGCD"
+        }, 
+        {
+          "id": 94, 
+          "name": "FM Towns", 
+          "short": "FMT"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }, 
+        {
+          "id": 377, 
+          "name": "Atari SA"
+        }
+      ]
+    }, 
+    {
+      "deck": "Multi-level shoot-em-up pushing the limits of 1989", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1982, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1987/771250-blood_money___front.jpg", 
+      "name": "Blood Money", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Grand Theft Auto: London 1969 was the first mission pack to be released for Grand Theft Auto.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1983, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1927/210721-grand_theft_auto_london_1969_281205.jpg", 
+      "name": "Grand Theft Auto: London 1969", 
+      "platforms": [
+        {
+          "id": 20, 
+          "name": "PlayStation", 
+          "short": "PS1"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "A third-person action game by Rockstar North, focused on the covert war fought by US and Soviet spies during the late '70s. Announced as a PS3 exclusive in 2009, specifics of the game have remained classified.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1984, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/8169/1043283-800px_agent_ps3_logo.jpg", 
+      "name": "Agent", 
+      "platforms": [
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1985, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Holiday Lemmings", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1986, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/16/162810/2297582-lemmings_chronicles.jpg", 
+      "name": "The Lemmings Chronicles", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": null, 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1987, 
+      "image": "https://s3.amazonaws.com/clarityfm-production/attachments/1354/default/Objects-Joystick-icon.png?1401047397", 
+      "name": "Velocity Classics: Volume 1", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Side scrolling shooter developed by DMA Design Ltd.", 
+      "developers": [
+        {
+          "id": 54, 
+          "name": "Rockstar North"
+        }
+      ], 
+      "id": 1988, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/2/28025/1379445-menace_coverart.png", 
+      "name": "Menace", 
+      "platforms": [
+        {
+          "id": 1, 
+          "name": "Amiga", 
+          "short": "AMI"
+        }, 
+        {
+          "id": 11, 
+          "name": "Atari ST", 
+          "short": "AST"
+        }, 
+        {
+          "id": 12, 
+          "name": "Commodore 64", 
+          "short": "C64"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 331, 
+          "name": "Psygnosis Limited"
+        }
+      ]
+    }, 
+    {
+      "deck": "Players continue the story of Corvo Attano or play as Princess Emily.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1989, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/1992/2758498-dis2_logo_render_1434319076.jpg", 
+      "name": "Dishonored 2", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "After the Empress is killed, her most loyal bodyguard, Corvo, becomes the prime suspect, and must track down those who murdered his charge and betrayed him in order to enact his bloody revenge.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1990, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2560870-dishonoredhigh.jpg", 
+      "name": "Dishonored", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 73, 
+          "name": "Xbox 360 Games Store", 
+          "short": "XBGS"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }, 
+        {
+          "id": 130, 
+          "name": "Xbox One", 
+          "short": "XONE"
+        }, 
+        {
+          "id": 131, 
+          "name": "PlayStation 4", 
+          "short": "PS4"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 553, 
+          "name": "Bethesda Softworks"
+        }
+      ]
+    }, 
+    {
+      "deck": "Ten years after the events of the first game, Subject Delta is awoken and must unravel the mystery behind the Big Sisters and his own past in the ruined underwater city of Rapture.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1991, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2584143-bioshock2.jpg", 
+      "name": "BioShock 2", 
+      "platforms": [
+        {
+          "id": 15, 
+          "name": "Mac", 
+          "short": "MAC"
+        }, 
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 75, 
+          "name": "PlayStation Network (PS3)", 
+          "short": "PS3N"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 334, 
+          "name": "Take-Two Interactive Software, Inc."
+        }
+      ]
+    }, 
+    {
+      "deck": "Treyarch takes the famous series back sixty years, with the first Call of Duty game set in the Pacific Theatre, against the Imperial Japanese in World War II.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1992, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2009746-box_codwaw.png", 
+      "name": "Call of Duty: World at War", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }, 
+        {
+          "id": 32, 
+          "name": "PlayStation 3", 
+          "short": "PS3"
+        }, 
+        {
+          "id": 33, 
+          "name": "Wii", 
+          "short": "Wii"
+        }, 
+        {
+          "id": 43, 
+          "name": "Nintendo DS", 
+          "short": "DS"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 549, 
+          "name": "Activision"
+        }
+      ]
+    }, 
+    {
+      "deck": "A re-release of Dark Messiah of Might and Magic for the Xbox 360. Elements differs from the original in both content and gameplay systems, reducing the RPG elements considerably.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1993, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/87790/2409901-box_dmmame.png", 
+      "name": "Dark Messiah of Might and Magic: Elements", 
+      "platforms": [
+        {
+          "id": 18, 
+          "name": "Xbox 360", 
+          "short": "X360"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person action game with RPG elements in which you can brutalize your foes with might, magic, or both.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1994, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/151/846003-dark_messiah_of_might_and_magic_pc.jpg", 
+      "name": "Dark Messiah of Might & Magic", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 564, 
+          "name": "Ubisoft Entertainment"
+        }
+      ]
+    }, 
+    {
+      "deck": "A first-person subterranean RPG in the tradition of Ultima Underworld, Arx Fatalis takes place in a world where the surface is no longer hospitable, and follows the story of a man who awakens there with no memory of his purpose or identity.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1995, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/11/118253/1713096-arxfatalispcboxart.png", 
+      "name": "Arx Fatalis", 
+      "platforms": [
+        {
+          "id": 30, 
+          "name": "Xbox", 
+          "short": "XBOX"
+        }, 
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "The Crossing is an upcoming first person shooter developed by Arkane Studios and powered by the Source engine.", 
+      "developers": [
+        {
+          "id": 55, 
+          "name": "Arkane Studios SA"
+        }
+      ], 
+      "id": 1996, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/0/2682/182466-the_crossing_cvg_logo.jpg", 
+      "name": "The Crossing", 
+      "platforms": [
+        {
+          "id": 81, 
+          "name": "PC", 
+          "short": "PC"
+        }
+      ], 
+      "publishers": []
+    }, 
+    {
+      "deck": "Karaoke software for the Wii U.", 
+      "developers": [
+        {
+          "id": 56, 
+          "name": "TOSE Co., Ltd."
+        }
+      ], 
+      "id": 1997, 
+      "image": "http://static.giantbomb.com/uploads/scale_medium/8/82063/2628221-tm_wiiuds_wiikaraokeubyjoysound.jpg", 
+      "name": "Wii Karaoke U by JOYSOUND", 
+      "platforms": [
+        {
+          "id": 124, 
+          "name": "Wii U", 
+          "short": "WIIU"
+        }
+      ], 
+      "publishers": [
+        {
+          "id": 591, 
+          "name": "Nintendo"
+        }
+      ]
+    }
+  ]
+}
