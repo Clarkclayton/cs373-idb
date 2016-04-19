@@ -3,6 +3,7 @@ import json
 import subprocess
 from functools import wraps
 
+import requests
 from flask import Flask, render_template, request
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -222,6 +223,18 @@ def about():
 def page_not_found(error):
     print(error)
     return render_template('404.html'), 404
+
+
+@app.route('/ggmate')
+def ggmate():
+    poke_game_ids = [8339, 8340, 8341, 8342, 21341, 21343, 21344, 21345, 21346, 21347, 21348, 21349, 21350, 21351,
+                     21352, 21353, 21354, 11081, 14742, 14745, 14747, 14754, 14758, 14759, 14761, 14762, 9191, 9201,
+                     8330, 8334, 7553, 11099, 11102, 11103, 11105, 11106, 11107, 11109, 24364, 24379, 24382, 17166,
+                     17167, 17169, 17170, 10018, 10023, 16532, 16535, 3827, 13137, 13138, 16589, 16597, 24464, 7235,
+                     21339, 21340, 10141, 3318, 3322, 3325, 3326, 3328, 3329, 3332, 11770, 10068, 10069, 10070, 24325,
+                     24328, 24331, 24348, 8328, 24413, 24425, 7709, 7713, 20675]
+    ret = [requests.get('http://ggmate.me/api/game/' + str(id)).json() for id in poke_game_ids]
+    return Response(json.dumps(ret), mimetype='application/json', status=200)
 
 
 if __name__ == '__main__':
