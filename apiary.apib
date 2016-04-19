@@ -5,7 +5,13 @@ HOST: http://swecune.com/api/
 
 SWEcune provides a consumable API to view detailed information about Pokemon and related information such as moves and types.
 
-##Pokemon [/pokemon]
+##Pokemon [/pokemon/{?offset,limit}]
+
++ Parameters
+    + offset (integer, optional) - ID of the first Pokemon to be returned
+        + Default: 1
+    + limit (integer, optional) - Number of Pokemon to return
+        + Default: 10
 
 ## List all Pokemon [GET]
 
@@ -1125,12 +1131,10 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
             }
         ]
 
-## One Pokemon [/pokemon/{pokemon_id}]
+### Information on one Pokemon [GET /pokemon/{pokemon_id}]
 
 + Parameters
     + pokemon_id (number) - ID of the Pokemon in the form of an integer
-
-### Information on one Pokemon [GET]
 
 + Response 200 (application/json)
 
@@ -1247,9 +1251,15 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
             ]
         }
 
-## Move [/move]
+## Move [/move/{?offset,limit}]
 
 ### List all Moves [GET]
+
++ Parameters
+    + offset (integer, optional) - ID of the first Move to be returned
+        + Default: 1
+    + limit (integer, optional) - Number of Move to return
+        + Default: 10
 
 + Response 200 (application/json)
 
@@ -1960,13 +1970,10 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
             }
         ]
 
-
-## One Move [/move/{move_id}]
+### Information on one Move [GET /move/{move_id}]
 
 + Parameters
     + move_id (number) - ID of the move in the form of an integer
-
-### Information on one Move [GET]
 
 + Response 200 (application/json)
 
@@ -2036,9 +2043,15 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
         }
 
 
-## Type [/type]
+## Type [/type/{?offset,limit}]
 
 ### List all types [GET]
+
++ Parameters
+    + offset (integer, optional) - ID of the first Type to be returned
+        + Default: 0
+    + limit (integer, optional) - Number of Type to return
+        + Default: 10
 
 + Response 200(application/json)
 
@@ -3307,13 +3320,10 @@ SWEcune provides a consumable API to view detailed information about Pokemon and
             }
         ]
 
-
-## One type [/type/{type_id}]
+### Information on one type [GET /type/{type_id}]
 
 + Parameters
     + type_id (number) - ID of the type in the form of an integer
-
-### Information on one type [GET]
 
 + Response 200(application/json)
 
