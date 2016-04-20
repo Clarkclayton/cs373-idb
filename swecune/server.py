@@ -167,7 +167,6 @@ def type(session, type_id):
 @app.route('/search')
 @ComplicatedFuckingDecorator(False, 'search_results.html')
 def search(session):
-    # TODO:Multi-word search must show clearly marked and results followed by or results.
     query = str(request.args.get('q', '')).split(' ')
     refined = [x for x in query if x != '']
     single_query = ' '.join(refined)
@@ -211,6 +210,7 @@ def move_all():
 @app.route('/games')
 def games():
     return render_template('games.html')
+
 
 @app.route('/')
 @app.route('/index')
