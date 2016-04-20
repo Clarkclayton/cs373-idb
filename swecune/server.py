@@ -207,6 +207,10 @@ def move_all():
     return render_template('moves_all.html')
 
 
+@app.route('/games')
+def games():
+    return render_template('games.html')
+
 @app.route('/')
 @app.route('/index')
 def index():
