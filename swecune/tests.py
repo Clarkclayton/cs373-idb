@@ -119,7 +119,7 @@ if __name__ == "__main__":
         dialect = 'mysql+pymysql'
         username = 'guestbook-user'
         password = 'guestbook-user-password'
-        host = '172.99.79.105'
+        host = '172.99.73.143'
         port = '3306'
         database = 'guestbook'
 
