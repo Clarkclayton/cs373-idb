@@ -1,0 +1,5 @@
+username = 'swecune_username'
+password = 'swecune_password'
+host = 'swecune.cezpki3mbz9g.us-west-2.rds.amazonaws.com'
+port = '3306'
+database = 'swecune'
