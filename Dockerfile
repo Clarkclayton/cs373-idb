@@ -11,4 +11,4 @@ RUN pip install -r requirements.txt
 CMD ["python", "setup.py"]
 
 EXPOSE 80
-CMD gunicorn test:app -b 0.0.0.0:80
+CMD gunicorn server:app -b 0.0.0.0:80

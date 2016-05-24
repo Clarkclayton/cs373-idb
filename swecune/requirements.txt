@@ -3,3 +3,4 @@ PyMySQL==0.7.2
 gunicorn==19.5.0
 requests==2.10.0
 Flask-SQLAlchemy==2.1
+requests==2.10.0

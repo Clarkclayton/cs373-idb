@@ -1,14 +1,37 @@
 from unittest import main, TestCase
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
+from flask import Flask
+from flask.ext.sqlalchemy import SQLAlchemy
 
-from models import Base, Pokemon, Move, Type
+from config import username, password, host, port, database
+from models import Pokemon, Move, Type
 
 
 class tests(TestCase):
+    def setUp(self):
+        try:
+            SQLALCHEMY_DATABASE_URI_TEMP = '{engine}://{username}:{password}@{hostname}:{port}/{database}'.format(
+                engine='mysql+pymysql',
+                username=username,
+                password=password,
+                hostname=host,
+                port=port,
+                database=database)
+
+            self.app = Flask(__name__)
+            self.app.debug = True
+            self.app.config['SQLALCHEMY_ECHO'] = True
+            self.app.config['SQLALCHEMY_DATABASE_URI'] = SQLALCHEMY_DATABASE_URI_TEMP
+            self.app.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = True
+            self.app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+            self.db = SQLAlchemy(self.app)
+        except:
+            pass
+
     def test_pokemon_1_readable(self):
-        test_pk = session.query(Pokemon).get(1)
+        with self.app.app_context():
+            test_pk = Pokemon.query.get(1)
 
         self.assertEqual(test_pk.id, 1)
         self.assertEqual(test_pk.name, "bulbasaur")
@@ -21,7 +44,8 @@ class tests(TestCase):
         self.assertEqual(test_pk.average_stats, 53)
 
     def test_pokemon_2_readable(self):
-        test_pk = session.query(Pokemon).get(2)
+        with self.app.app_context():
+            test_pk = Pokemon.query.get(2)
 
         self.assertEqual(test_pk.id, 2)
         self.assertEqual(test_pk.name, "ivysaur")
@@ -34,7 +58,8 @@ class tests(TestCase):
         self.assertEqual(test_pk.average_stats, 67)
 
     def test_pokemon_3_readable(self):
-        test_pk = session.query(Pokemon).get(4)
+        with self.app.app_context():
+            test_pk = Pokemon.query.get(4)
 
         self.assertEqual(test_pk.id, 4)
         self.assertEqual(test_pk.name, "charmander")
@@ -47,7 +72,8 @@ class tests(TestCase):
         self.assertEqual(test_pk.average_stats, 51)
 
     def test_pokemon_4_readable(self):
-        test_pk = session.query(Pokemon).get(25)
+        with self.app.app_context():
+            test_pk = Pokemon.query.get(25)
 
         self.assertEqual(test_pk.id, 25)
         self.assertEqual(test_pk.name, "pikachu")
@@ -60,7 +86,8 @@ class tests(TestCase):
         self.assertEqual(test_pk.average_stats, 53)
 
     def test_move_physical_readable(self):
-        test_move = session.query(Move).get(1)
+        with self.app.app_context():
+            test_move = Move.query.get(1)
 
         self.assertEqual(test_move.id, 1)
         self.assertEqual(test_move.name, "pound")
@@ -71,7 +98,8 @@ class tests(TestCase):
         self.assertEqual(test_move.damage_class, "physical")
 
     def test_move_special_readable(self):
-        test_move = session.query(Move).get(59)
+        with self.app.app_context():
+            test_move = Move.query.get(59)
 
         self.assertEqual(test_move.id, 59)
         self.assertEqual(test_move.name, "blizzard")
@@ -82,7 +110,8 @@ class tests(TestCase):
         self.assertEqual(test_move.damage_class, "special")
 
     def test_move_sword_attack_readable(self):
-        test_move = session.query(Move).get(14)
+        with self.app.app_context():
+            test_move = Move.query.get(14)
 
         self.assertEqual(test_move.id, 14)
         self.assertEqual(test_move.name, "swords-dance")
@@ -93,21 +122,24 @@ class tests(TestCase):
         self.assertEqual(test_move.damage_class, "status")
 
     def test_type_first_generation_readable(self):
-        test_type = session.query(Type).get(10)
+        with self.app.app_context():
+            test_type = Type.query.get(10)
 
         self.assertEqual(test_type.id, 10)
         self.assertEqual(test_type.name, "fire")
         self.assertEqual(test_type.generation, 1)
 
     def test_type_second_generation_readable(self):
-        test_type = session.query(Type).get(9)
+        with self.app.app_context():
+            test_type = Type.query.get(9)
 
         self.assertEqual(test_type.id, 9)
         self.assertEqual(test_type.name, "steel")
         self.assertEqual(test_type.generation, 2)
 
     def test_type_sixth_generation_readable(self):
-        test_type = session.query(Type).get(18)
+        with self.app.app_context():
+            test_type = Type.query.get(18)
 
         self.assertEqual(test_type.id, 18)
         self.assertEqual(test_type.name, "fairy")
@@ -115,20 +147,4 @@ class tests(TestCase):
 
 
 if __name__ == "__main__":
-    try:
-        dialect = 'mysql+pymysql'
-        username = 'guestbook-user'
-        password = 'guestbook-user-password'
-        host = '172.99.73.143'
-        port = '3306'
-        database = 'guestbook'
-
-        engine = create_engine('{}://{}:{}@{}:{}/{}'.format(dialect, username, password, host, port, database),
-                               pool_recycle=3600).connect()
-
-        Base.metadata.create_all(engine)
-        Session = sessionmaker(bind=engine, autocommit=True)
-        session = Session()
-        main()
-    except:
-        pass
+    main()
